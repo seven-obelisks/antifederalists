@@ -4,7 +4,7 @@
     border-radius: 25px;
     background-color: #fff;
     margin:50px 0px;
-    filter: drop-shadow(2px 2px 1px #cfbba2);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
 .quote h2{
@@ -31,7 +31,7 @@
     justify-content: flex-end;
     margin-bottom: 0 !important;
     margin-top:50px;
-    filter: drop-shadow(2px 2px 1px #cfbba2); 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
 .homequote {
