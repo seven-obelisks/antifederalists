@@ -1,32 +1,13 @@
-{{- $ctx := . }}
 {{- $main := resources.Get "css/main.css" }}
 {{- $quotes := resources.Get "css/quotes.css" }}
 {{- $mobile := resources.Get "css/mobile.css" }}
 
-{{- if $ctx.Site.IsServer }}
-  {{- if $main }}
-    <link rel="stylesheet" href="{{ $main.RelPermalink }}">
-  {{- end }}
-  {{- if $quotes }}
-    <link rel="stylesheet" href="{{ $quotes.RelPermalink }}">
-  {{- end }}
-  {{- if $mobile }}
-    <link rel="stylesheet" href="{{ $mobile.RelPermalink }}">
-  {{- end }}
-{{- else }}
-  {{- if $main }}
-    {{- with $main | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-    {{- end }}
-  {{- end }}
-  {{- if $quotes }}
-    {{- with $quotes | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-    {{- end }}
-  {{- end }}
-  {{- if $mobile }}
-    {{- with $mobile | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-    {{- end }}
-  {{- end }}
+{{- if $main }}
+  <link rel="stylesheet" href="{{ $main.RelPermalink }}">
+{{- end }}
+{{- if $quotes }}
+  <link rel="stylesheet" href="{{ $quotes.RelPermalink }}">
+{{- end }}
+{{- if $mobile }}
+  <link rel="stylesheet" href="{{ $mobile.RelPermalink }}">
 {{- end }}

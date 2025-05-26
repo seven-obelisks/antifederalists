@@ -1,6 +1,6 @@
 baseURL = 'https://antifederalists.org'
 languageCode = 'en-us'
-title = 'Anti-Federalist Library'
+title = 'The Anti-Federalist Library'
 theme = 'AL'
 summary = 600
 
@@ -70,6 +70,11 @@ weight = 70
 name = 'Bill of Rights'
 pageRef = '/billofrights'
 weight = 30
+
+[[menus.main]]
+name = 'About the Library'
+pageRef = '/about'
+weight = 40
 
 [module]
 [module.hugoVersion]

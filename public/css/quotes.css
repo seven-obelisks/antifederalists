@@ -1,8 +1,8 @@
-.quote{
+.quote, .homequote{
     border:2px solid #fff;
+    padding: .5rem 2rem 1rem 2rem;
+    border-radius: 25px;
     background-color: #fff;
-    padding: .5rem 2rem 2rem 2rem;
-    border-radius: 25px 25px 0px 0px;
     margin:50px 0px;
 }
 
@@ -14,28 +14,26 @@
     font-size: 30px;
 }
 
-.father{
-    display: flex;
-    font-family: "Crimson Text", serif;
-    font-size: 26px;
-    border:2px solid #11133C;
-    background-color: #11133C;
-    padding: 1rem 2rem 1rem 2rem;
-    border-radius: 0px 0px 25px 25px;
-    filter: drop-shadow(2px 2px 1px #cfbba2);
-    margin-top:-75px;
-}
-
 .father p{
     margin:25px;
-    color:#fff;
     font-size:24px;
 }
 
-.father img{
-    border:0px solid #fff;
-    border-radius: 100px;
-    max-width: 75px;
-    max-height: 75px;
-    filter: drop-shadow(1px 1px 1px #000);
+.homeimg {
+    max-width: 900px;
+    border: 0px solid #fff;
+    background-image: url('/images/liberty.jpg');
+    background-size: cover;
+    height: 550px;
+    border-radius: 25px 25px 50px 50px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-end;
+    margin-bottom: 0 !important;
+    margin-top:50px; 
+}
+
+.homequote {
+    border-radius: 0px 0px 25px 25px;
+    margin-bottom: 0 !important;
 }
