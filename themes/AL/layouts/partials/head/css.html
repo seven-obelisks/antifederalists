@@ -1,8 +1,9 @@
+{{- $ctx := . }}
 {{- $main := resources.Get "css/main.css" }}
 {{- $quotes := resources.Get "css/quotes.css" }}
 {{- $mobile := resources.Get "css/mobile.css" }}
 
-{{- if .Site.IsServer }}
+{{- if $ctx.Site.IsServer }}
   {{- if $main }}
     <link rel="stylesheet" href="{{ $main.RelPermalink }}">
   {{- end }}

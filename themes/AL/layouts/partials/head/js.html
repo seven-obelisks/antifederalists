@@ -1,11 +1,13 @@
-{{- with resources.Get "js/main.js" }}
+{{- $ctx := . }}
+{{- $js := resources.Get "js/main.js" }}
+{{- if $js }}
   {{- $opts := dict
-      "minify" (not .Site.IsServer)
-      "sourceMap" (cond .Site.IsServer "external" "")
-      "targetPath" "js/main.js"
+    "minify" (not $ctx.Site.IsServer)
+    "sourceMap" (cond $ctx.Site.IsServer "external" "")
+    "targetPath" "js/main.js"
   }}
-  {{- with . | js.Build $opts }}
-    {{- if .Site.IsServer }}
+  {{- with $js | js.Build $opts }}
+    {{- if $ctx.Site.IsServer }}
       <script src="{{ .RelPermalink }}"></script>
     {{- else }}
       {{- with . | fingerprint }}
