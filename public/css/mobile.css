@@ -134,6 +134,10 @@
     line-height: 1.5rem;
   }
 
+    .signatory ul {
+        column-count: 1; /* Single column on smaller screens */
+    }
+
   /* ========== Navigation Menu ========== */
   .clean-menu {
     font-size: 18px;

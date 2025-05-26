@@ -72,9 +72,14 @@ pageRef = '/billofrights'
 weight = 30
 
 [[menus.main]]
+name = 'Constitution'
+pageRef = '/constitution'
+weight = 40
+
+[[menus.main]]
 name = 'About the Library'
 pageRef = '/about'
-weight = 40
+weight = 50
 
 [module]
 [module.hugoVersion]

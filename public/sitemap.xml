@@ -211,12 +211,28 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/papers/oldwhig/</loc>
+    <loc>http://localhost:1313/constitution/article1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/constitution/article2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/constitution/article3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/constitution/article4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/constitution/article5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/constitution/article6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/constitution/article7/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/constitution/</loc>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

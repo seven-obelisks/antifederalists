@@ -37,3 +37,30 @@
     border-radius: 0px 0px 25px 25px;
     margin-bottom: 0 !important;
 }
+
+.signatory {
+    display: block;
+    font-family: "Crimson Text";
+}
+
+.signatory h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.signatory ul {
+    column-count: 3;
+    column-gap: 10px;
+    padding-left: 0px;
+    list-style-type: none;
+}
+
+.signatory li {
+    margin-bottom: 2px;
+}
+
+.signatory li ul {
+    list-style-type: none;
+    margin: 0px 0px 15px 0px;
+    column-count: 1;    
+}
