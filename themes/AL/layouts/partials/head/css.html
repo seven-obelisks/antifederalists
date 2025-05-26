@@ -2,7 +2,7 @@
 {{- $quotes := resources.Get "css/quotes.css" }}
 {{- $mobile := resources.Get "css/mobile.css" }}
 
-{{- if hugo.IsDevelopment }}
+{{- if hugo.IsServer }}
   {{- if $main }}
     <link rel="stylesheet" href="{{ $main.RelPermalink }}">
   {{- end }}
