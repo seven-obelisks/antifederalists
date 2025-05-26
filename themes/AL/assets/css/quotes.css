@@ -19,6 +19,14 @@
     font-size:24px;
 }
 
+.homebnr{
+    text-align: center;
+}
+
+.homebnr img{
+    max-width: 100px;
+}
+
 .homeimg {
     max-width: 900px;
     border: 0px solid #fff;

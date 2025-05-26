@@ -4,6 +4,11 @@ title = 'The Anti-Federalist Library'
 theme = 'AL'
 summary = 600
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menus]
 [[menus.main]]
 identifier = "home"
