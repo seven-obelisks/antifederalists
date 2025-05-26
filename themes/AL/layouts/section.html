@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{ partial "breadcrumbs.html" . }}
+  {{ .Content }}
+  {{ range .Pages }}
+  <section class="paper-block">
+    <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+    <section class="summaryp">{{ .Summary | truncate 750 }}</section>
+  </section>
+  {{ end }}
+{{ end }}

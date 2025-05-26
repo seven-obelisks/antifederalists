@@ -1,0 +1,6 @@
+---
+title: "Amendment VII"
+date: 2025-01-25
+---
+
+In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.

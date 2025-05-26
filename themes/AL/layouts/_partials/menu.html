@@ -1,0 +1,69 @@
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
+{{- /* Dynamically exclude highlighting for subpages of /papers/, but not /papers/ itself */ -}}
+{{- $isExcludedPage := and (hasPrefix $page.RelPermalink "/papers/") (ne $page.RelPermalink "/papers/") }}
+
+{{- with index site.Menus $menuID }}
+<nav id="main-nav">
+  <ul class="clean-menu">
+    {{- range . }}
+      {{- $skipHighlight := false }}
+
+      {{- if or (eq .Identifier "papers") (eq .Identifier "about-papers") }}
+        {{- if $isExcludedPage }}
+          {{- $skipHighlight = true }}
+        {{- end }}
+      {{- end }}
+
+      {{- $isActive := false }}
+      {{- if not $skipHighlight }}
+        {{- $isActive = or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) (eq .URL $page.RelPermalink) }}
+      {{- end }}
+
+      {{- $hasActiveChild := false }}
+      {{- with .Children }}
+        {{- range . }}
+          {{- $childIsActive := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) (eq .URL $page.RelPermalink) }}
+
+          {{- /* If current page is excluded, avoid highlighting 'about-papers' */}}
+          {{- if and (eq .Identifier "about-papers") $isExcludedPage }}
+            {{- $childIsActive = false }}
+          {{- end }}
+
+          {{- if $childIsActive }}
+            {{- $hasActiveChild = true }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+
+      <li class="{{ if .Children }}has-children{{ end }}">
+        {{- if .Children }}
+          <button class="menu-toggle {{ if or $isActive $hasActiveChild }}open active{{ end }}"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> {{ .Name }}
+          </button>
+        {{- else }}
+          <a href="{{ .URL }}" class="{{ if $isActive }}active{{ end }}">{{ .Name }}</a>
+        {{- end }}
+
+        {{- with .Children }}
+          <ul class="submenu {{ if or $isActive $hasActiveChild }}open{{ end }}">
+            {{- range . }}
+              {{- $childIsActive := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) (eq .URL $page.RelPermalink) }}
+
+              {{- if and (eq .Identifier "about-papers") $isExcludedPage }}
+                {{- $childIsActive = false }}
+              {{- end }}
+
+              <li>
+                <a href="{{ .URL }}" class="{{ if $childIsActive }}active{{ end }}">{{ .Name }}</a>
+              </li>
+            {{- end }}
+          </ul>
+        {{- end }}
+      </li>
+    {{- end }}
+  </ul>
+</nav>
+{{- end }}

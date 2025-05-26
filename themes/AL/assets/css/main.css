@@ -1,0 +1,345 @@
+/* ========== Base Layout & Typography ========== */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: antiquewhite;
+  font-family: 'Open Sans', sans-serif;
+  color: #222;
+}
+
+header {
+  margin-bottom: 1rem;
+}
+
+main {
+  margin: 0 auto;
+  width: 900px;
+}
+
+footer {
+  color: #fff;
+}
+
+/* ========== Logo ========== */
+.logo {
+  max-width: 75px;
+  padding: .5rem .75rem;
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 100px;
+  margin: 25px 0;
+}
+
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+/* ========== Flexbox Layout ========== */
+.home-block{
+  margin-top:4rem;
+}
+
+.flex-box {
+  display: flex;
+  gap: 25px;
+}
+
+.flex1 {
+  background: linear-gradient(180deg, #11133C 0%, #0B0D2B 100%);
+  min-width: 400px;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-size: 20px;
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+  height: 100vh;
+}
+
+.flex1 footer {
+  margin-top: auto;
+  font-size: 16px;
+  line-height: 1.8rem;
+}
+
+.sidebar {
+  padding: 1.5rem;
+  overflow-y: auto;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex2 {
+  padding: .25rem 2rem;
+  margin: 0 auto;
+  line-height: 1.8rem;
+}
+
+/* ========== Navigation Menu ========== */
+nav {
+  margin-top: 3rem;
+}
+
+.clean-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+.clean-menu li {
+  margin: 0.5rem 0;
+}
+
+.clean-menu a,
+.clean-menu button.menu-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 20px;
+  color: #fff;
+  background: none;
+  border: none;
+  border-radius: 6px;
+  padding: 0.2rem 0.75rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+  line-height: 2rem;
+}
+
+.clean-menu a:hover,
+.clean-menu button.menu-toggle:hover {
+  background-color: #ffffff18;
+}
+
+.clean-menu a.active,
+.clean-menu button.menu-toggle.active {
+  background-color: #fff;
+  font-weight: bold;
+  color: #11133C;
+  filter: drop-shadow(3px 3px 3px #000);
+}
+
+.menu-toggle .arrow {
+  transition: transform 0.2s ease;
+}
+
+.menu-toggle.open .arrow {
+  transform: rotate(90deg);
+}
+
+.submenu {
+  display: none;
+  list-style: none;
+  padding-left: 1rem;
+  margin: 0.25rem 0;
+}
+
+.submenu.open {
+  display: block;
+}
+
+/* ========== Papers / Blocks ========== */
+.paper-block {
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.paper-block *:first-child {
+  margin-top: 0;
+}
+
+.paper-block *:last-child {
+  margin-bottom: 0;
+}
+
+.paper-block h3,
+.paper-block h4,
+.paper-block h5,
+.paper-block p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+/* Optional tighter layout for Bill of Rights */
+.paper-block.amendment {
+  padding: 1.25rem 1.5rem;
+}
+
+.paper-block.amendment h4 {
+  margin-bottom: 0.5rem;
+}
+
+.paper-block.amendment p {
+  margin-top: 0;
+}
+
+/* Founder section inside blocks */
+
+.ff {
+  display: block;
+  width: 70%;
+}
+
+.page {
+  font-family: "Crimson Text", serif;
+}
+
+.page-white {
+  background-color: #fff;
+  padding: 2rem 2.5rem;
+  margin-bottom:4rem;
+  border-radius: 25px;
+  filter: drop-shadow(2px 2px 1px #cfbba2);
+}
+
+/* ========== Headings ========== */
+h1 {
+  font-size: 58px;
+  color: #11133C;
+  font-weight: 700;
+  margin: 0;
+}
+
+h2 {
+  font-size: 26px;
+  line-height: 34px;
+}
+
+.flex1 h1,
+.flex1 h1 a {
+  color: #fff;
+  padding: 0;
+  line-height: 32px;
+  font-size: 30px !important;
+  text-decoration: none;
+}
+
+.flex2 h1 {
+  font-family: "Crimson Text";
+  line-height: 60px;
+  margin: 2rem 0;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.page-title h3 {
+  font-family: "Crimson Text";
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 22px;
+  margin: 1rem 0;
+}
+
+h5 {
+  font-family: "Crimson Text";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.8rem;
+}
+
+.page-white h5 {
+  padding: 0;
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.founder h5 {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 24px;
+  margin: 0;
+  padding: 0;
+}
+
+.ff h6 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #11133C;
+  border: 1px solid #11133C;
+  border-radius: 10px;
+  padding: .25rem .75rem;
+  margin: 0;
+  text-align: center;
+  max-width: 150px;
+}
+
+/* ========== Paragraph Styles ========== */
+.flex2 p,
+.paper-block p {
+  line-height: 1.6rem;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 1rem;
+}
+
+.summaryp {
+  line-height: 1.3rem;
+  font-size: 16px;
+}
+
+/* ========== Link Styles ========== */
+a:hover {
+  text-decoration: none !important;
+}
+
+.clean-menu a,
+footer a,
+h4 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+h4 a {
+  color: #11133C;
+}
+
+/* ========== Buttons ========== */
+button {
+  padding: .5rem .5rem .25rem;
+}
+
+#hamburger-button {
+  display: none; /* Hide by default on desktop */
+}
+
+/* ========== Breadcrumbs ========== */
+
+.breadcrumbs {
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  color: #11133C;
+}
+
+.breadcrumbs a {
+  color: #11133C;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs span {
+  color: #999;
+}

@@ -1,0 +1,29 @@
+<nav class="breadcrumbs">
+  <a href="/">Home</a>
+
+  {{- $page := . }}
+  {{- $.Scratch.Set "crumbs" (slice) }}
+
+  {{- with .Parent }}
+    {{- $p := . }}
+    {{- range seq 10 }}
+      {{- if not $p }}
+        {{- break }}
+      {{- end }}
+      {{- if ne $p.Title "Home" }}
+        {{- $.Scratch.Add "crumbs" (slice $p) }}
+      {{- end }}
+      {{- $p = $p.Parent }}
+    {{- end }}
+  {{- end }}
+
+  {{- $crumbs := $.Scratch.Get "crumbs" }}
+  {{- $n := sub (len $crumbs) 1 }}
+  {{- range $i := seq (len $crumbs) }}
+    {{- $j := sub $n (sub $i 1) }}
+    {{- $crumb := index $crumbs $j }}
+    / <a href="{{ $crumb.RelPermalink }}">{{ $crumb.Title }}</a>
+  {{- end }}
+
+  / <span>{{ $page.Title }}</span>
+</nav>
