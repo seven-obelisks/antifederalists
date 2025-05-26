@@ -5,7 +5,7 @@
     "targetPath" "js/main.js"
   }}
   {{- with . | js.Build $opts }}
-    {{- if hugo.IsDevelopment }}
+    {{ if .Site.IsServer }}
       <script src="{{ .RelPermalink }}"></script>
     {{- else }}
       {{- with . | fingerprint }}
