@@ -1,0 +1,41 @@
+.quote{
+    border:2px solid #fff;
+    background-color: #fff;
+    padding: .5rem 2rem 2rem 2rem;
+    border-radius: 25px 25px 0px 0px;
+    margin:50px 0px;
+}
+
+
+.quote h2{
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.father{
+    display: flex;
+    font-family: "Crimson Text", serif;
+    font-size: 26px;
+    border:2px solid #11133C;
+    background-color: #11133C;
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 0px 0px 25px 25px;
+    filter: drop-shadow(2px 2px 1px #cfbba2);
+    margin-top:-75px;
+}
+
+.father p{
+    margin:25px;
+    color:#fff;
+    font-size:24px;
+}
+
+.father img{
+    border:0px solid #fff;
+    border-radius: 100px;
+    max-width: 75px;
+    max-height: 75px;
+    filter: drop-shadow(1px 1px 1px #000);
+}

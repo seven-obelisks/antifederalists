@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cato on Anti-Federalist Library</title>
+    <link>http://localhost:1313/papers/cato/</link>
+    <description>Recent content in Cato on Anti-Federalist Library</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/papers/cato/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cato I</title>
+      <link>http://localhost:1313/papers/cato/cato1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/cato/cato1/</guid>
+      <description>Urges citizens to critically examine the proposed Constitution themselves, emphasizing the importance of informed public judgment.</description>
+    </item>
+    <item>
+      <title>Cato II</title>
+      <link>http://localhost:1313/papers/cato/cato2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/cato/cato2/</guid>
+      <description>Criticizes the tone and approach of Federalist writings, particularly those by &amp;ldquo;Caesar&amp;rdquo; (Alexander Hamilton), for being arrogant and dismissive.</description>
+    </item>
+    <item>
+      <title>Cato III</title>
+      <link>http://localhost:1313/papers/cato/cato3/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/cato/cato3/</guid>
+      <description>Argues that the vast size and diversity of the United States make a consolidated republic impractical and prone to aristocratic dominance.</description>
+    </item>
+    <item>
+      <title>Cato IV</title>
+      <link>http://localhost:1313/papers/cato/cato4/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/cato/cato4/</guid>
+      <description>Warns that the proposed presidency, with its extensive powers and lack of term limits, could evolve into a monarchy-like authority.</description>
+    </item>
+    <item>
+      <title>Cato V</title>
+      <link>http://localhost:1313/papers/cato/cato5/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/cato/cato5/</guid>
+      <description>Expresses concern over the potential for the federal government to become a corrupt aristocracy, undermining republican principles.</description>
+    </item>
+    <item>
+      <title>Cato VI</title>
+      <link>http://localhost:1313/papers/cato/cato6/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/cato/cato6/</guid>
+      <description>Highlights the dangers of centralized power and the potential erosion of state sovereignty under the new Constitution.</description>
+    </item>
+    <item>
+      <title>Cato VII</title>
+      <link>http://localhost:1313/papers/cato/cato7/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/cato/cato7/</guid>
+      <description>Continues the critique of the executive branch, emphasizing the risks of unchecked presidential power and the absence of sufficient checks and balances.</description>
+    </item>
+  </channel>
+</rss>

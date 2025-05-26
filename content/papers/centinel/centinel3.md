@@ -1,0 +1,19 @@
+---
+title: "Centinel III"
+date: 2025-01-29
+summary: Rejects the need for a new constitution, arguing that state governments are capable of maintaining order and governance.
+---
+
+##### November 8, 1787
+
+*To the People of Pennsylvania,*
+
+>John 3d, verse 20th - “For every one that doeth evil, hateth the light, neither cometh to the light,lest his deeds should be reproved.” But “there is nothing covered that shall not be revealed;neither hid that shall not be known. Therefore whatever ye have spoken in darkness, shall beheard in the light: and that which ye have spoken in the ear in closets, shall be proclaimed onthe housetops.” St. Luke, chap, xii, 2d and 3d verses...
+
+What then are we to think of the motives and designs of those men who are urging the implicitand immediate adoption of the proposed government; are they fearful, that if you exerciseyour good sense and discernment, you will discover the masqued aristocracy, that they areattempting to smuggle upon you, under the suspicious garb of republicanism?–When we findthat the principal agents in this business, are the very men who fabricated the form ofgovernment, it certainly ought to be conclusive evidence of their invidious design to deprive usof our liberties–The circumstances attending this matter, are such as should in a peculiarmanner excite your suspicion; it might not be useless to take a review of some of them.
+
+In many of the states, particularly in this and the northern states, there are aristocratic junto’sof the well-­‐born few, who had been zealously endeavouring since the establishment of theirconstitutions, to humble that offensive upstart, equal liberty; but all their efforts wereunavailing, the ill-­‐bred churl obstinately kept his assumed station.
+
+However, that which could not be accomplished in the several states, is now attemptingthrough the medium of the future Congress.–Experience having shewn great defects in thepresent confederation, particularly in the regulation of commerce and marritime affairs; itbecame the universal wish of America to grant further powers, so as to make the federalgovernment adequate to the ends of its institution. The anxiety on this head was greatlyencreased, from the impoverishment and distress occasioned by the excessive importations offoreign merchandise and luxuries and consequent drain of specie, since the peace: thus thepeople were in the disposition of a drowning man, eager to catch at any thing that promisedrelief, however delusory. Such an opportunity for the acquisition of undue power, has neverbeen viewed with indifference by the ambitious and designing in any age or nation, and it hasaccordingly been too successfully improved by such men among us. The deputies from thisstate (with the exception of two) and most of those from the other states in the union, wereunfortunately of this complexion, and many of them of such superior endowments, that in anexparte discussion of the subject by specious glosses, they have gained the concurrence ofsome well-­‐disposed men, in whom their country has great confidence, which has given a greatsanction to their scheme of power.
+
+A comparison of the authority under which the convention acted, and their form of governmentwill shew that they have despised their delegated power, and assumed sovereignty; that theyhave entirely annihilated the old confederation, and the particular governments of the severalstates, and instead thereof have established one general government that is to pervade theunion; constituted on the most unequal principles, destitute of accountability to itsconstituents, and as despotic in its nature, as the Venetian aristocracy; a government that willgive full scope to the magnificent designs of the well-­‐born; a government where tyranny mayglut its vengeance on the low-­‐born, unchecked by an odious bill of rights: as has been fullyillustrated in my two preceding numbers...

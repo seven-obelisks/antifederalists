@@ -60,6 +60,13 @@ parent = 'papers'
 weight = 60
 
 [[menus.main]]
+identifier = "oldwhig"
+name = 'Old Whig'
+pageRef = '/papers/oldwhig'
+parent = 'papers'
+weight = 70
+
+[[menus.main]]
 name = 'Bill of Rights'
 pageRef = '/billofrights'
 weight = 30
