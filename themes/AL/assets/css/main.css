@@ -21,10 +21,6 @@ main {
   width: 90%
 }
 
-footer {
-  color: #fff;
-}
-
 /* ========== Logo ========== */
 .logo {
   max-width: 75px;
@@ -68,16 +64,18 @@ footer {
 
 .flex1 footer {
   margin-top: auto;
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1.8rem;
 }
 
 .sidebar {
-  padding: 1.5rem;
+  padding: 4rem 1.5rem 1.5rem 1.5rem;
   overflow-y: auto;
   height: 100%;
   display: flex;
   flex-direction: column;
+  margin:0 auto;
+  width:90%;
 }
 
 .flex2 {
