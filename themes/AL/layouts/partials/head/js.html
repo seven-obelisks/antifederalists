@@ -1,11 +1,11 @@
 {{- with resources.Get "js/main.js" }}
   {{- $opts := dict
-    "minify" (not hugo.IsDevelopment)
-    "sourceMap" (cond hugo.IsDevelopment "external" "")
-    "targetPath" "js/main.js"
+      "minify" (not .Site.IsServer)
+      "sourceMap" (cond .Site.IsServer "external" "")
+      "targetPath" "js/main.js"
   }}
   {{- with . | js.Build $opts }}
-    {{ if .Site.IsServer }}
+    {{- if .Site.IsServer }}
       <script src="{{ .RelPermalink }}"></script>
     {{- else }}
       {{- with . | fingerprint }}
