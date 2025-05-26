@@ -2,7 +2,7 @@
 {{- $quotes := resources.Get "css/quotes.css" }}
 {{- $mobile := resources.Get "css/mobile.css" }}
 
-{{- if hugo.IsServer }}
+{{- if .Site.IsServer }}
   {{- if $main }}
     <link rel="stylesheet" href="{{ $main.RelPermalink }}">
   {{- end }}
@@ -18,13 +18,11 @@
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
     {{- end }}
   {{- end }}
-
   {{- if $quotes }}
     {{- with $quotes | minify | fingerprint }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
     {{- end }}
   {{- end }}
-
   {{- if $mobile }}
     {{- with $mobile | minify | fingerprint }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
