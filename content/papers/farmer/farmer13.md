@@ -6,7 +6,7 @@ summary: Critiques the potential for the federal government’s centralization o
 
 ##### January 14, 1788
 
-Dear sir,
+*Dear sir,*
 
 In this letter I shall further examine two clauses in the proposed constitution respecting appointments to office. — By art. 2. sect. 2. the president shall nominate, and by and with the advice and consent of the senate, shall appoint ambassadors, other public ministers and consuls, judges of the supreme court, and all other officers of the United States, whose appointments, &c. By art. 1, sect. 6. No senator or representative shall, during the term for which he was elected, be appointed to any civil office under the authority of the United States, which shall have been created, or the emoluments whereof shall have been increased during such time.
 

@@ -1,7 +1,7 @@
 ---
 title: "Brutus XII"
 date: 2025-01-01
-summary: Argues that the federal courts would gradually encroach upon and diminish state judicial authority.
+summary: Warns that the proposed Senate will be an aristocratic body, disconnected from the people, and could lead to the creation of a permanent political elite.
 ---
 
 ##### February 7, 1788

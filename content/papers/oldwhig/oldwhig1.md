@@ -6,7 +6,7 @@ summary: Critiques the Constitution for centralizing too much power in the natio
 
 ##### October 12, 1787
 
-Mr. PRINTER, 
+*Mr. Printer,* 
 
 I am one of those who have long wished for a federal government, which should have power to protect our trade and provide for the general security of the United States. Accordingly, when the constitution proposed by the late convention made its appearance, I was disposed to embrace it almost without examination; I was determined not to be offended with trifles or to scan it too critically. “We want something: let us try this; experience is the best teacher: if it does not answer our purpose we can alter it: at all events it will serve for a beginning.” Such were my reasonings;–but, upon further reflection, I may say that I am shaken with very considerable doubts and scruples, I want a federal constitution; and yet I am afraid to concur in giving my consent to the establishment of that which is proposed. At the same time I really wish to have my doubts removed, if they are not well founded. I shall therefore take the liberty of laying some of them before the public, through the channel of your paper.
 

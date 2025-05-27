@@ -1,7 +1,7 @@
 ---
 title: "Brutus VIII"
 date: 2025-01-01
-summary: Opposes the maintenance of a standing army in peacetime, fearing it could be used to suppress civil liberties.
+summary: Critiques the structure of the executive branch, fearing it will give too much power to a single leader and lead to a de facto monarchy or tyrannical rule.
 ---
 
 ##### January 10, 1788

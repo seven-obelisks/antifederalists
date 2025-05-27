@@ -1,7 +1,7 @@
 ---
 title: "Brutus IX"
 date: 2025-01-01
-summary: Advocates for clear limitations on governmental powers to prevent the erosion of individual rights and freedoms.
+summary: Warns that the Constitution’s centralization of military power will allow the federal government to use force against the states, undermining state sovereignty.
 ---
 
 ##### January 17, 1788

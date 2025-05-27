@@ -1,7 +1,7 @@
 ---
 title: "Brutus XV"
 date: 2025-01-01
-summary: Examines the Senate's structure and powers, expressing concern over its potential to dominate the legislative process.
+summary: Calls for the rejection of the Constitution, arguing that its provisions give too much power to the central government and threaten the liberties of the people and the authority of the states.
 ---
 
 ##### April 10, 1788

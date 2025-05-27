@@ -1,7 +1,7 @@
 ---
 title: "Brutus XIII"
 date: 2025-01-01
-summary: Questions the propriety of allowing individuals to sue states in federal courts, fearing it undermines state sovereignty.
+summary: Critiques the power of the federal government to regulate commerce, fearing it would dominate state economies and crush local industries.
 ---
 
 ##### February 21, 1788

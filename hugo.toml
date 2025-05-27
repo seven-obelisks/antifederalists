@@ -4,6 +4,9 @@ title = 'The Anti-Federalist Library'
 theme = 'AL'
 summary = 600
 
+[params]
+  randomContentFolder = "papers"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

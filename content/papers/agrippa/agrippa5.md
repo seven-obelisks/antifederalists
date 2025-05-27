@@ -1,12 +1,12 @@
 ---
 title: "Agrippa V"
 date: 2025-01-27
-summary: Highlights the absence of a bill of rights as a major flaw, leaving civil liberties unprotected.
+summary: Expresses concern about the concentration of power in the hands of the executive, suggesting that the presidency could become a tool of tyranny under the proposed Constitution.
 ---
 
-##### 11 December 1787
+##### December 11, 1787
 
-To the People.
+*To the People*
 
 In the course of inquiry it has appeared, that for the purposes of internal regulation and domestick tranquillity, our small and separate governments are not only admirably suited in theory, but have been remarkably successful in practice. It is also found, that the direct tendency of the proposed system, is to consolidate the whole empire into one mass, and, like the tyrant's bed, to reduce all to one standard. Though this idea has been stated in different parts of the continent, and is the most important trait of this draft, the reasoning ought to be extensively understood. I therefore hope to be indulged in a particular statement of it.
 

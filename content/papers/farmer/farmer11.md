@@ -6,7 +6,7 @@ summary: Expresses concern that the new Constitution fails to adequately protect
 
 ##### January 10, 1788
 
-Dear sir,
+*Dear sir,*
 
 I shall now add a few observations respecting the organization of the senate, the manner of appointing it, and its powers.
 

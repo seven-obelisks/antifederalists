@@ -1,7 +1,7 @@
 ---
 title: "Brutus VI"
 date: 2025-01-01
-summary: Highlights the dangers of federal taxation powers potentially rendering state governments financially dependent and powerless.
+summary: Warns that the power of the federal judiciary under the Constitution would render state courts irrelevant and give the national government the ability to dominate legal matters.
 ---
 
 ##### December 27, 1787

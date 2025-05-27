@@ -1,7 +1,7 @@
 ---
 title: "Brutus VII"
 date: 2025-01-01
-summary: Continues the discussion on taxation, arguing that concurrent taxation powers would lead to conflicts detrimental to state functions.
+summary: Argues the proposed system of representation will be ineffective, as the people’s voices will be drowned out by distant legislators, leading to a loss of accountability.
 ---
 
 ##### January 3, 1788

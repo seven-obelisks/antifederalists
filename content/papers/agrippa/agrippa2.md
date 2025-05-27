@@ -1,7 +1,7 @@
 ---
 title: "Agrippa II"
 date: 2025-01-30
-summary: Argues that a large republic cannot effectively represent diverse communities or protect individual interests.
+summary: Warns that the size and scope of the new republic will prevent effective representation of the diverse interests of its citizens, weakening the ability to safeguard individual rights.
 ---
 
 ##### November 27, 1787

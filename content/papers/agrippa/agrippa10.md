@@ -1,12 +1,12 @@
 ---
 title: "Agrippa X"
 date: 2025-01-22
-summary: Calls for reforming the Articles of Confederation rather than adopting an untested central framework.
+summary: Warns that the powers granted to the executive and federal judiciary could lead to a permanent ruling class that is unaccountable to the people, eroding republican values.
 ---
 
-##### 1 January 1788
+##### January 1, 1788
 
-To the People.
+*To the People,*
 
 Friends and Brethren,
 

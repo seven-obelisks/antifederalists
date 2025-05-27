@@ -1,7 +1,7 @@
 ---
 title: "Brutus XIV"
 date: 2025-01-01
-summary: Critiques the appellate jurisdiction of the Supreme Court, suggesting it could overwhelm state courts and laws.
+summary: Argues that the Constitution gives too much power to the executive, especially with regard to military command, leading to the risk of a military dictatorship.
 ---
 
 ##### February 28, 1788

@@ -1,7 +1,7 @@
 ---
 title: "Brutus IV"
 date: 2025-01-01
-summary: Expresses concern that the small size of the House of Representatives would lead to an elite ruling class detached from the populace. 
+summary: Critiques the proposed Senate for being too distant and undemocratic, arguing it would lead to a government controlled by elites, disconnected from the people’s needs.
 ---
 
 ##### November 29, 1787

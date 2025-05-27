@@ -1,11 +1,12 @@
 ---
 title: "Agrippa IX"
 date: 2025-01-23
-summary: Flags vague constitutional language as a gateway for federal overreach and abuse of power.
+summary: Fears that the Constitution’s provisions for a standing army and the president's control over it will allow the national government to use military force to suppress dissent and assert unchecked power.
 ---
 
-##### 28 December 1787
-To the People.
+##### December 28, 1787
+
+*To the People,*
 
 We come now to the second and last article of complaint against the present confederation, which is, that Congress has not the sole power to regulate the intercourse between us and foreigners. Such a power extends not only to war and peace, but to trade and naturalization. This last article ought never to be given them; for though most of the states may be willing for certain reasons to receive foreigners as citizens, yet reasons of equal weight may induce other states, differently circumstanced, to keep their blood pure. Pennsylvania has chosen to receive all that would come there. Let any indifferent person judge whether that state in point of morals, education, energy is equal to any of the eastern states; the small state of Rhode-Island only excepted. Pennsylvania in the course of a century has acquired her present extent and population at the expense of religion and good morals. The eastern states have, by keeping separate from the foreign mixtures, acquired, their present greatness in the course of a century and an half, and have preserved their religion and morals. They have also preserved that manly virtue which is equally fitted for rendering them respectable in war, and industrious in peace.
 

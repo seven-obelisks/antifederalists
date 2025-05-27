@@ -6,7 +6,7 @@ summary: Suggests the new system would concentrate too much power in the Senate 
 
 ##### January 18, 1788
 
-Dear sir,
+*Dear sir,*
 
 Before I proceed to examine particularly the powers vested, or which ought to be, vested in each branch of the proposed government, I shall briefly examine the organization of the remaining branch, the judicial, referring the particular examining of its powers to some future letters.
 

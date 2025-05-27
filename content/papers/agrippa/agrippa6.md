@@ -1,12 +1,12 @@
 ---
 title: "Agrippa VI"
 date: 2025-01-26
-summary: Describes how centralizing power weakens the independence and practical function of state governments.
+summary: Warns that the lack of a Bill of Rights in the proposed Constitution leaves citizens vulnerable to government abuse and suggests that explicit protections for individual freedoms are essential.
 ---
 
-##### 14 December 1787
+##### December 14, 1787
 
-To the People.
+*To the People*
 
 To prevent any mistakes, or misapprehensions of the argument, stated in my last paper, to prove that the proposed constitution is an actual consolidation of the separate states into one extensive commonwealth, the reader is desired to observe, that in the course of the argument, the new plan is considered as an intire system. It is not dependent on any other book for an explanation, and contains no references to any other book. All the defences of it, therefore, so far as they are drawn from the state constitutions, or from maxims of the common law, are foreign to the purpose. It is only by comparing the different parts of it together, that the meaning of the whole is to be understood. For instance —
 

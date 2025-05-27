@@ -1,7 +1,7 @@
 ---
 title: "Brutus II"
 date: 2025-01-01
-summary: Emphasizes the necessity of a Bill of Rights to safeguard individual freedoms against potential federal overreach.
+summary: Expresses concern that the Constitution’s provisions for a strong central government will erode state governments and centralize power, leading to potential tyranny.
 ---
 
 ##### November 1, 1787

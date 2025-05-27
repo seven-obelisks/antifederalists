@@ -1,7 +1,7 @@
 ---
 title: "Agrippa I"
 date: 2025-01-31
-summary: Warns that concentrating federal authority will erode local representation and threaten liberty.
+summary: Argues that the proposed Constitution will centralize too much power in the national government, undermining the authority of states and threatening the protection of individual liberties.
 ---
 
 ##### November 23, 1787

@@ -1,7 +1,7 @@
 ---
 title: "Brutus XI"
 date: 2025-01-01
-summary: Raises concerns about the federal judiciary's potential to expand its power beyond constitutional limits.
+summary: Expresses skepticism about the success of the proposed system of checks and balances, arguing that they will be insufficient to limit the growing power of the federal government.
 ---
 
 ##### January 31, 1788

@@ -1,12 +1,12 @@
 ---
 title: "Agrippa VII"
 date: 2025-01-25
-summary: Predicts unequal economic burdens under federal tax policies, especially in commercial states like Massachusetts.
+summary: Argues that the federal government’s powers over taxation, commerce, and the military are too expansive and could lead to oppressive control over the states and individuals.
 ---
 
-##### 18 December 1787
+##### December 18, 1787
 
-To the People.
+*To the People,*
 
 There cannot be a doubt, that, while the trade of this continent remains free, the activity of our countrymen will secure their full share. All the estimates for the present year, let them be made by what party they may, suppose the balance of trade to be largely in our favour. The credit of our merchants is, therefore, fully established in foreign countries. This is a sufficient proof, that when business is unshackled, it will find out that channel which is most friendly to its course. We ought, therefore, to be exceedingly cautious about diverting or restraining it. Every day produces fresh proofs, that people, under the immediate pressure of difficulties, do not, at first glance, discover the proper relief. The last year, a desire to get rid of embarrassments induced many honest people to agree to a tender-act, and many others, of a different description, to obstruct the courts of justice. Both these methods only increased the evil they were intended to cure. Experience has since shewn, that, instead of trying to lessen an evil by altering the present course of things, every endeavour should have been applied to facilitate the course of law, and thus to encourage a mutual confidence among the citizens, which increases the resources of them all, and renders easy the payment of debts. By this means one does not grow rich at the expense of another, but all are benefited. The case is the same with the states. Pennsylvania, with one port and a large territory, is less favourably situated for trade than the Massachusetts, which has an extensive coast in proportion to its limits of jurisdiction. Accordingly a much larger proportion of our people are engaged in maritime affairs. We ought therefore to be particularly attentive to securing so great an interest. It is vain to tell us that we ought to overlook local interests. It is only by protecting local concerns, that the interest of the whole is preserved. No man when he enters into society, does it from a view to promote the good of others, but he does it for his own good. All men having the same view are bound equally to promote the welfare of the whole. To recur then to such a principle as that local interests must be disregarded, is requiring of one man to do more than another, and is subverting the foundation of a free government. The Philadelphians would be shocked with a proposition to place the seat of general government and the unlimited right to regulate trade in the Massachusetts. There can be no greater reason for our surrendering the preference to them. Such sacrifices, however we may delude ourselves with the form of words, always originate in folly, and not in generosity.
 

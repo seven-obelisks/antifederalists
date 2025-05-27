@@ -1,7 +1,7 @@
 ---
 title: "Brutus III"
 date: 2025-01-01
-summary: Criticizes the apportionment of representation in Congress, asserting it disadvantages smaller states and lacks true proportionality.
+summary: Warns the Constitution’s necessary and proper clause gives the federal government too much flexibility, potentially allowing for overreach and the weakening of state authority.
 ---
 
 ##### November 15, 1787

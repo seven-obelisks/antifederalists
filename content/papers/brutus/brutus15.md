@@ -1,7 +1,7 @@
 ---
 title: "Brutus XV"
 date: 2025-01-01
-summary: Warns that the Supreme Court's interpretative powers could effectively allow it to shape the Constitution to its will.
+summary: Expresses concern that the Constitution would lead to the dissolution of state governments and the creation of a centralized bureaucracy that would strip citizens of local representation.
 ---
 
 ##### March 20, 1788

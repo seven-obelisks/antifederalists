@@ -1,5 +1,25 @@
 {{ define "main" }}
   <section class="home-block">
     {{ .Content }}
+    
+    <div class="featured"><h2>Featured Paper</h2></div>
+
+    {{ $folder := .Site.GetPage "section" .Site.Params.randomContentFolder }} 
+    {{ $pages := .Site.Pages }}
+
+    {{ $papers := where $pages "Section" .Site.Params.randomContentFolder }}
+    {{ $papers := where $papers "File.BaseFileName" "!=" "_index" }} 
+
+    {{ $shuffledPapers := shuffle $papers }}
+    {{ $randomPaper := index $shuffledPapers 0 }}
+
+    {{ if $randomPaper }}
+      <div class="highlighted-paper">
+        <h3><a href="{{ $randomPaper.Permalink }}">{{ $randomPaper.Title }}</a></h3>
+        <p>{{ $randomPaper.Summary }}</p>
+      </div>
+    {{ else }}
+      <p>No papers found to feature.</p>
+    {{ end }}
   </section>
 {{ end }}

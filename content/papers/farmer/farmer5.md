@@ -6,7 +6,7 @@ summary: Opposes the lack of a Bill of Rights, stressing that explicit protectio
 
 ##### October 13th, 1787
 
-Dear Sir,
+*Dear Sir,*
 
 Thus I have examined the federal constitution as far as a few days leisure would permit. It opens to my mind a new scene; instead of seeing powers cautiously lodged in the hands of numerous legislators, and many magistrates, we see all important powers collecting in one centre, where a few men will possess them almost at discretion. And instead of checks in the formation of the government, to secure the rights of the people against the usurpations of those they appoint to govern, we are to understand the equal division of lands among our people, and the strong arm furnished them by nature and situation, are to secure them against those usurpations. If there are advantages in the equal division of our lands, and the strong and manly habits of our people, we ought to establish governments calculated to give duration to them, and not governments which never can work naturally, till that equality of property, and those free and manly habits shall be destroyed; these evidently are not the natural basis of the proposed constitution. No man of reflection, and skilled in the science of government, can suppose these will move on harmoniously together for ages, or even for fifty years. As to the little circumstances commented upon, by some writers, with applause — as the age of a representative, of the president, etc. — they have, in my mind, no weight in the general tendency of the system.
 

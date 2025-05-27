@@ -308,6 +308,7 @@ h5 {
 }
 
 /* ========== Link Styles ========== */
+
 a:hover {
   text-decoration: none !important;
 }
@@ -324,12 +325,13 @@ h4 a {
 }
 
 /* ========== Buttons ========== */
+
 button {
   padding: .5rem .5rem .25rem;
 }
 
 #hamburger-button {
-  display: none; /* Hide by default on desktop */
+  display: none;
 }
 
 /* ========== Breadcrumbs ========== */

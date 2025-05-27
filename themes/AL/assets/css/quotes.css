@@ -47,6 +47,8 @@
     margin-bottom: 0 !important;
 }
 
+/* ========== Signature Block ========== */
+
 .signatory {
     display: block;
     font-family: "Crimson Text";
@@ -72,4 +74,47 @@
     list-style-type: none;
     margin: 0px 0px 15px 0px;
     column-count: 1;    
+}
+
+/* ========== Featured ========== */
+
+.featured{
+    text-align: center;
+    margin-top:50px;
+    color: #11133C;
+}
+.featured h2{
+    font-weight: 600;
+}
+
+.highlighted-paper {
+  background-color: #f9f9f9;
+  border: 0px solid #ddd;
+  padding: 25px;
+  margin-top: 25px;
+  border-radius: 25px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.highlighted-paper h3 {
+  font-size: 26px;
+  font-weight: normal;
+}
+
+.highlighted-paper h3 a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.highlighted-paper h3 a:hover {
+}
+
+.highlighted-paper p {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+.home-block {
+  margin: 20px 0;
 }

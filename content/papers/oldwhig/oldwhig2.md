@@ -6,7 +6,7 @@ summary: Warns that the new government, being distant and removed from the peopl
 
 ##### October 17, 1787
 
-Mr. PRINTER, 
+*Mr. Printer,* 
 
 Since writing my last, in which I stated some doubts respecting the new federal constitution and expressed a wish that those doubts might be removed, I have met with the printed speech of James Wilson, Esquire.—This speech I find was made for the express purpose of removing objections from the minds of those who doubted, like myself, and wished to be satisfied; and except one or two hard names that have escaped the speaker, it bears the marks of more candor than is to be found in most of the production[s], which have been ushered into the world in support of the same measure. This speech also deserves the more attention as coming from a man of abilities fresh from “the impressions of four months constant attention to the subject.” The subject however is one of those which it imports us all very carefully to examine. I have therefore paid very considerable attention to his arguments, at the same time that I have examined with some care the foundation upon which they are built. Still I remain unsatisfied; and the more unsatisfied, as I have been disappointed in my hope of conviction, from a quarter, from which so much was to be expected—You will give me leave therefore to state shortly in your paper, some of those difficulties which still remain with me.
 

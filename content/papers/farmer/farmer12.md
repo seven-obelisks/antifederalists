@@ -6,7 +6,7 @@ summary: Warns that the centralization of military and civil power will allow th
 
 ##### January 12, 1788
 
-Dear sir,
+*Dear sir,*
 
 On carefully examining the parts of the proposed system, respecting the elections of senators, and especially of the representatives, they appear to me to be both ambiguous and very defective. I shall endeavour to pursue a course of reasoning, which shall fairly lead to establishing the impartiality and security of elections, and then to point out an amendment in this respect.
 

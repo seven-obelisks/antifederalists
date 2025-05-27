@@ -1,7 +1,7 @@
 ---
 title: "Brutus I"
 date: 2025-01-01
-summary: Argues that the proposed Constitution would create a consolidated national government, threatening individual liberties and state sovereignty.
+summary: Argues the proposed Constitution grants excessive power to the national government, particularly the legislature, and threatens the sovereignty of states and individual liberties.
 ---
 
 ##### October 18, 1787

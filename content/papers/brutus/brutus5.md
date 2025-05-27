@@ -1,7 +1,7 @@
 ---
 title: "Brutus V"
 date: 2025-01-01
-summary: Warns that the Necessary and Proper Clause grants Congress expansive powers that could undermine state authority.
+summary: Expresses concern about the lack of a Bill of Rights in the Constitution, arguing that it leaves individuals vulnerable to government overreach and does not safeguard fundamental freedoms.
 ---
 
 ##### December 13, 1787

@@ -1,7 +1,7 @@
 ---
 title: "Brutus X"
 date: 2025-01-01
-summary: Draws from historical examples to illustrate how standing armies have historically led to the downfall of free governments.
+summary: Argues that the size of the proposed republic under the Constitution will make effective representation impossible, leading to an oligarchical government controlled by a few elites.
 ---
 
 ##### January 24, 1788

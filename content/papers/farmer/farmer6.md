@@ -6,7 +6,7 @@ summary: Questions the effectiveness of the Constitution’s checks and balances
 
 ##### December 25, 1787
 
-Dear sir,
+*Dear sir,*
 
 My former letters to you, respecting the constitution proposed, were calculated merely to lead to a fuller investigation of the subject; having more extensively considered it, and the opinions of others relative to it, I shall, in a few letters, more particularly endeavour to point out the defects, and propose amendments. I shall in this make only a few general and introductory observations, which, in the present state of the momentous question, may not be improper; and I leave you, in all cases, to decide by a careful examination of my works, upon the weight of my arguments, the propriety of my remarks, the uprightness of my intentions, and the extent of my candor — I presume I am writing to a man of candor and reflection, and not to an ardent, peevish, or impatient man.
 

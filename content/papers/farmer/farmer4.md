@@ -6,7 +6,7 @@ summary: Critiques the proposed Senate, suggesting it will be an undemocratic bo
 
 ##### October 12th, 1787
 
-Dear Sir,
+*Dear Sir,*
 
 It will not be possible to establish in the federal courts the jury trial of the vicinage so well as in the state courts.
 
