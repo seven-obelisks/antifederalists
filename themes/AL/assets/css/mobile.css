@@ -133,9 +133,16 @@
     line-height: 1.5rem;
   }
 
-    .signatory ul {
-        column-count: 1; /* Single column on smaller screens */
-    }
+  .signatory ul {
+    column-count: 1; /* Single column on smaller screens */
+  }
+
+  .page-white{
+    background-color: antiquewhite;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.0);
+    padding:0 !important;
+    margin:0;
+  }
 
   /* ========== Navigation Menu ========== */
   .clean-menu {
@@ -160,6 +167,14 @@
 
   .page-white {
     padding: 1.5rem;
+  }
+
+  .homebnr img{
+    margin-top:0px;
+  }
+
+  .homequote{
+    border-radius:25px;
   }
 
 }
