@@ -1,5 +1,5 @@
 ---
-title: "Farmer XIV"
+title: "The Federal Farmer XIV"
 date: 2025-01-18
 summary: Argues that the lack of clear provisions for regular elections and term limits in the proposed system will lead to an entrenched political class and foster corruption.
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Farmer VIII"
+title: "The Federal Farmer VIII"
 date: 2025-01-24
 summary: Raises alarm over the creation of a standing federal army, fearing it could be used to suppress state governments and the will of the people.
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Farmer XII"
+title: "The Federal Farmer XII"
 date: 2025-01-20
 summary: Warns that the centralization of military and civil power will allow the federal government to override state authority, threatening local autonomy and governance.
 ---

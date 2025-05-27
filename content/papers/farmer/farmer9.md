@@ -1,5 +1,5 @@
 ---
-title: "Farmer IX"
+title: "The Federal Farmer IX"
 date: 2025-01-23
 summary: Criticizes the proposed executive branch for its potential to become overly powerful, undermining the balance of power and threatening republican principles.
 ---

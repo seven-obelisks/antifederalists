@@ -1,5 +1,5 @@
 ---
-title: "Farmer XVI"
+title: "The Federal Farmer XVI"
 date: 2025-01-16
 summary: Warns that the broad powers granted to the federal government in the Constitution would lead to a dangerous concentration of power, diminishing state authority and individual freedoms.
 ---

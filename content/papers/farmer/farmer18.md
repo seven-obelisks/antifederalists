@@ -1,5 +1,5 @@
 ---
-title: "Farmer XVIII"
+title: "The Federal Farmer XVIII"
 date: 2025-01-14
 summary: Calls for the rejection of the Constitution, arguing it grants too much centralized power, lacks sufficient protections for individual rights, and could lead to governmental tyranny.
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Farmer X"
+title: "The Federal Farmer X"
 date: 2025-01-22
 summary: Argues that the centralization of power in the federal government would weaken the authority of state governments and harm the rights and interests of local communities.
 ---

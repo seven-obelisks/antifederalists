@@ -1,5 +1,5 @@
 ---
-title: "Farmer XVII"
+title: "The Federal Farmer XVII"
 date: 2025-01-15
 summary: Expresses concern that the federal government’s growing powers would undermine state governments, rendering them irrelevant and stripping citizens of local representation.
 ---

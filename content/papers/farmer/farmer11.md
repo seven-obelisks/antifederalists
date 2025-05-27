@@ -1,5 +1,5 @@
 ---
-title: "Farmer XI"
+title: "The Federal Farmer XI"
 date: 2025-01-21
 summary: Expresses concern that the new Constitution fails to adequately protect individual rights by not including a Bill of Rights, which could leave citizens vulnerable to abuse of power.
 ---

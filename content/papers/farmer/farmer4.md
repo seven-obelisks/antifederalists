@@ -1,5 +1,5 @@
 ---
-title: "Farmer IV"
+title: "The Federal Farmer IV"
 date: 2025-01-28
 summary: Critiques the proposed Senate, suggesting it will be an undemocratic body disconnected from the people, which could lead to a permanent, powerful elite.
 ---

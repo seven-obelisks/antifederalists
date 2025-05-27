@@ -1,5 +1,5 @@
 ---
-title: "Farmer II"
+title: "The Federal Farmer II"
 date: 2025-01-30
 summary: Argues that the proposed government will be too distant from the people, leading to poor representation and weakening accountability.
 ---

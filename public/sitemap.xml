@@ -32,10 +32,10 @@
     <loc>http://localhost:1313/billofrights/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/farmer/farmer1/</loc>
+    <loc>http://localhost:1313/papers/farmer/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/farmer/</loc>
+    <loc>http://localhost:1313/papers/farmer/farmer1/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa2/</loc>

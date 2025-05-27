@@ -1,5 +1,5 @@
 ---
-title: "Farmer V"
+title: "The Federal Farmer V"
 date: 2025-01-27
 summary: Opposes the lack of a Bill of Rights, stressing that explicit protections for individual freedoms are necessary to prevent government abuse and ensure liberties.
 ---

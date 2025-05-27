@@ -1,5 +1,5 @@
 ---
-title: "Farmer III"
+title: "The Federal Farmer III"
 date: 2025-01-29
 summary: Expresses concern that the Constitution’s expansive powers over taxation, military control, and the potential for a standing army will lead to federal overreach.
 ---

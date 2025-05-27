@@ -1,5 +1,5 @@
 ---
-title: "Farmer XV"
+title: "The Federal Farmer XV"
 date: 2025-01-17
 summary: Suggests the new system would concentrate too much power in the Senate and executive, weakening the House of Representatives and creating an imbalance in government.
 ---

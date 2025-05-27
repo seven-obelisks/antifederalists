@@ -1,5 +1,5 @@
 ---
-title: "Farmer VII"
+title: "The Federal Farmer VII"
 date: 2025-01-25
 summary: Concerns about the centralization of power in the federal government and the lack of sufficient limits on federal authority, particularly regarding state rights and sovereignty.
 ---

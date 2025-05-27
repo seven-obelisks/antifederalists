@@ -1,5 +1,5 @@
 ---
-title: "Farmer I"
+title: "The Federal Farmer I"
 date: 2025-01-31
 summary: Warns that the new Constitution grants excessive power to the national government, threatening state sovereignty, individual liberties, and creating the potential for tyranny.
 ---
