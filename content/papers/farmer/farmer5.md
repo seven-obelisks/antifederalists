@@ -1,7 +1,7 @@
 ---
 title: "Farmer V"
 date: 2025-01-27
-summary: Opposes the lack of a Bill of Rights, stressing that explicit protections are necessary to safeguard individual liberties.
+summary: Opposes the lack of a Bill of Rights, stressing that explicit protections for individual freedoms are necessary to prevent government abuse and ensure liberties.
 ---
 
 ##### October 13th, 1787

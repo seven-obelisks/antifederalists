@@ -1,7 +1,7 @@
 ---
 title: "Farmer XIV"
 date: 2025-01-18
-summary: Warns that the Senate will become too powerful and disconnected from the people, effectively creating an aristocracy.
+summary: Argues that the lack of clear provisions for regular elections and term limits in the proposed system will lead to an entrenched political class and foster corruption.
 ---
 
 ##### January 17, 1788

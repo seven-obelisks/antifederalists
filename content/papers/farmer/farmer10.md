@@ -1,7 +1,7 @@
 ---
 title: "Farmer X"
 date: 2025-01-22
-summary: Argues the system proposed by the Constitution will lead to a national government that undermines the rights and powers of the states.
+summary: Argues that the centralization of power in the federal government would weaken the authority of state governments and harm the rights and interests of local communities.
 ---
 
 ##### January 7, 1788

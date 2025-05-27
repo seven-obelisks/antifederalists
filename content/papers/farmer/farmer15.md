@@ -1,7 +1,7 @@
 ---
 title: "Farmer XV"
 date: 2025-01-17
-summary: Criticizes the proposed method for electing senators, arguing it concentrates power in the hands of a few, sidelining the people’s influence.
+summary: Suggests the new system would concentrate too much power in the Senate and executive, weakening the House of Representatives and creating an imbalance in government.
 ---
 
 ##### January 18, 1788

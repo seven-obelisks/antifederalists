@@ -1,7 +1,7 @@
 ---
 title: "Farmer VII"
 date: 2025-01-25
-summary: Concerns about the potential for a strong national government to override state governments and harm local interests.
+summary: Concerns about the centralization of power in the federal government and the lack of sufficient limits on federal authority, particularly regarding state rights and sovereignty.
 ---
 
 ##### December 31, 1787

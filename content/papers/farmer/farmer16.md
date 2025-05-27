@@ -1,7 +1,7 @@
 ---
 title: "Farmer XVI"
 date: 2025-01-16
-summary: Argues that the powers given to the federal government are too broad, threatening the liberties of the states and individuals.
+summary: Warns that the broad powers granted to the federal government in the Constitution would lead to a dangerous concentration of power, diminishing state authority and individual freedoms.
 ---
 
 ##### January 20, 1788

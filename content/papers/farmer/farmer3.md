@@ -1,7 +1,7 @@
 ---
 title: "Farmer III"
 date: 2025-01-29
-summary: Claims that the Constitution’s powers over taxation and the military are too expansive, leading to potential tyranny.
+summary: Expresses concern that the Constitution’s expansive powers over taxation, military control, and the potential for a standing army will lead to federal overreach.
 ---
 
 ##### October 10th, 1787

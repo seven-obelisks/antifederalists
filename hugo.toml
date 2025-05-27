@@ -37,37 +37,37 @@ parent = 'papers'
 weight = 20
 
 [[menus.main]]
+identifier = "oldwhig"
+name = 'An Old Whig'
+pageRef = '/papers/oldwhig'
+parent = 'papers'
+weight = 30
+
+[[menus.main]]
 identifier = "brutus"
 name = 'Brutus'
 pageRef = '/papers/brutus'
 parent = 'papers'
-weight = 30
+weight = 40
 
 [[menus.main]]
 identifier = "cato"
 name = 'Cato'
 pageRef = '/papers/cato'
 parent = 'papers'
-weight = 40
+weight = 50
 
 [[menus.main]]
 identifier = "centinel"
 name = 'Centinel'
 pageRef = '/papers/centinel'
 parent = 'papers'
-weight = 50
-
-[[menus.main]]
-identifier = "farmer"
-name = 'Federal Farmer'
-pageRef = '/papers/farmer'
-parent = 'papers'
 weight = 60
 
 [[menus.main]]
-identifier = "oldwhig"
-name = 'Old Whig'
-pageRef = '/papers/oldwhig'
+identifier = "farmer"
+name = 'The Federal Farmer'
+pageRef = '/papers/farmer'
 parent = 'papers'
 weight = 70
 

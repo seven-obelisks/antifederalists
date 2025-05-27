@@ -23,7 +23,19 @@
     <loc>http://localhost:1313/billofrights/amendment1/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/oldwhig1/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/billofrights/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer1/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa2/</loc>
@@ -32,7 +44,13 @@
     <loc>http://localhost:1313/billofrights/amendment2/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/oldwhig2/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel2/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer2/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa3/</loc>
@@ -41,7 +59,13 @@
     <loc>http://localhost:1313/billofrights/amendment3/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/oldwhig3/</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel3/</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer3/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa4/</loc>
@@ -50,7 +74,13 @@
     <loc>http://localhost:1313/billofrights/amendment4/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/oldwhig4/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel4/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer4/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa5/</loc>
@@ -59,7 +89,13 @@
     <loc>http://localhost:1313/billofrights/amendment5/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/oldwhig5/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel5/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer5/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa6/</loc>
@@ -68,7 +104,13 @@
     <loc>http://localhost:1313/billofrights/amendment6/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/oldwhig6/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel6/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer6/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa7/</loc>
@@ -77,7 +119,13 @@
     <loc>http://localhost:1313/billofrights/amendment7/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/oldwhig7/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel7/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer7/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa8/</loc>
@@ -86,7 +134,13 @@
     <loc>http://localhost:1313/billofrights/amendment8/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/oldwhig/oldwhig8/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel8/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer8/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa9/</loc>
@@ -98,6 +152,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel9/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer9/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa10/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -105,6 +162,9 @@
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel10/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer10/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa11/</loc>
@@ -133,6 +193,30 @@
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel18/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer11/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer12/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer13/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer14/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer15/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer16/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer17/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/farmer/farmer18/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/brutus/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
@@ -228,10 +312,6 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/constitution/</loc>
-  </url><url>
-    <loc>http://localhost:1313/papers/farmer/</loc>
-  </url><url>
-    <loc>http://localhost:1313/papers/oldwhig/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

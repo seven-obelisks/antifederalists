@@ -1,7 +1,7 @@
 ---
 title: "Farmer VIII"
 date: 2025-01-24
-summary: Warns against the creation of a standing army under federal control, fearing it could be used to subjugate the states and people.
+summary: Raises alarm over the creation of a standing federal army, fearing it could be used to suppress state governments and the will of the people.
 ---
 
 ##### January 3, 1788

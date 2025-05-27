@@ -1,7 +1,7 @@
 ---
 title: "Farmer VI"
 date: 2025-01-26
-summary: Questions the effectiveness of the Constitution’s checks and balances, arguing they are insufficient to prevent abuses of power.
+summary: Questions the effectiveness of the Constitution’s checks and balances, arguing they will be inadequate in preventing abuses of power and protecting individual rights.
 ---
 
 ##### December 25, 1787

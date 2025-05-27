@@ -1,7 +1,7 @@
 ---
 title: "Farmer XVII"
 date: 2025-01-15
-summary: Warns that the lack of term limits and the extensive powers of the federal government will lead to corruption and a permanent political elite.
+summary: Expresses concern that the federal government’s growing powers would undermine state governments, rendering them irrelevant and stripping citizens of local representation.
 ---
 
 ##### January 23, 1788

@@ -1,7 +1,7 @@
 ---
 title: "Farmer IV"
 date: 2025-01-28
-summary: Critiques the proposed Senate, arguing that its members will be detached from the people and will become a permanent, elite ruling class.
+summary: Critiques the proposed Senate, suggesting it will be an undemocratic body disconnected from the people, which could lead to a permanent, powerful elite.
 ---
 
 ##### October 12th, 1787

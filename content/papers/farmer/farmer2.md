@@ -1,7 +1,7 @@
 ---
 title: "Farmer II"
 date: 2025-01-30
-summary: Argues the proposed government would be too distant and removed from the people, weakening representation and accountability.
+summary: Argues that the proposed government will be too distant from the people, leading to poor representation and weakening accountability.
 ---
 
 ##### October 9, 1787

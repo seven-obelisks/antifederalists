@@ -1,7 +1,7 @@
 ---
 title: "Farmer XVIII"
 date: 2025-01-14
-summary: Calls for a more balanced system that preserves state sovereignty and limits federal overreach, stressing the need for a Bill of Rights.
+summary: Calls for the rejection of the Constitution, arguing it grants too much centralized power, lacks sufficient protections for individual rights, and could lead to governmental tyranny.
 ---
 
 ##### January 25, 1788

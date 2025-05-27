@@ -1,7 +1,7 @@
 ---
 title: "Farmer IX"
 date: 2025-01-23
-summary: Believes that the new Constitution will lead to a powerful executive branch that could threaten republican values and liberty.
+summary: Criticizes the proposed executive branch for its potential to become overly powerful, undermining the balance of power and threatening republican principles.
 ---
 
 ##### January 4, 1788

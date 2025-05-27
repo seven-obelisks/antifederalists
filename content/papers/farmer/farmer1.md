@@ -1,7 +1,7 @@
 ---
 title: "Farmer I"
 date: 2025-01-31
-summary: Warns that the new Constitution consolidates too much power at the national level, threatening state sovereignty and individual freedoms.
+summary: Warns that the new Constitution grants excessive power to the national government, threatening state sovereignty, individual liberties, and creating the potential for tyranny.
 ---
 
 ##### October 8th, 1787

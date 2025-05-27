@@ -1,7 +1,7 @@
 ---
 title: "Farmer XII"
 date: 2025-01-20
-summary: Critiques the centralization of power in the federal government, claiming it will diminish the importance of local governments and lead to corruption.
+summary: Warns that the centralization of military and civil power will allow the federal government to override state authority, threatening local autonomy and governance.
 ---
 
 ##### January 12, 1788

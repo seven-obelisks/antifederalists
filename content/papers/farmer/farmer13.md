@@ -1,7 +1,7 @@
 ---
 title: "Farmer XIII"
 date: 2025-01-19
-summary: Fears that the federal judiciary will undermine the authority of state courts, leading to an imbalance of power and loss of rights for citizens.
+summary: Critiques the potential for the federal government’s centralization of authority to lead to a tyrannical system with unchecked power, eroding state governments and individual freedoms.
 ---
 
 ##### January 14, 1788
