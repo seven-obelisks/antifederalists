@@ -121,3 +121,9 @@
 .home-block {
     margin: 20px 0;
 }
+
+/* ========== Flags ========== */
+
+.libertyflag img{
+    max-width:175px;
+}
