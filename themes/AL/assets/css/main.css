@@ -361,12 +361,21 @@ button {
 
 .dark-toggle {
   background: none;
-  border: 1px solid #fff;
   font-size: 14px;
   padding:10px;
   cursor: pointer;
   color:#fff;
   border-radius:10px;
+  border:2px solid #000;
+background: #1a1a1a;
+background: linear-gradient(180deg, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 1) 100%);
+}
+
+body.dark .dark-toggle {
+  background: #fff;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(250, 235, 215, 1) 100%);
+  border:2px solid #fff;
+  color:#11133C
 }
 
 /* Light mode */
