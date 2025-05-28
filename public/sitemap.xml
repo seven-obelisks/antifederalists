@@ -14,6 +14,18 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/dewitt/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/dewitt/dewitt1/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/dewitt/dewitt2/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/dewitt/dewitt3/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/agrippa/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,7 +41,16 @@
     <loc>http://localhost:1313/papers/oldwhig/oldwhig1/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/billofrights/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry1/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/</loc>
@@ -50,6 +71,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel2/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry2/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer2/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -63,6 +87,9 @@
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel3/</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry3/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer3/</loc>
@@ -80,6 +107,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel4/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry4/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer4/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -93,6 +123,24 @@
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel5/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry10/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry5/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry8/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry9/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry6/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry7/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer5/</loc>
@@ -293,6 +341,10 @@
     <loc>http://localhost:1313/papers/cato/cato7/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry12/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/constitution/article1/</loc>
@@ -312,8 +364,6 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/constitution/</loc>
-  </url><url>
-    <loc>http://localhost:1313/papers/dewitt/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

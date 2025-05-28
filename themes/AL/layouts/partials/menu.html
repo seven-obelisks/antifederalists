@@ -1,8 +1,9 @@
 {{- $page := .page }}
 {{- $menuID := .menuID }}
 
-{{- /* Dynamically exclude highlighting for subpages of /papers/, but not /papers/ itself */ -}}
-{{- $isExcludedPage := and (hasPrefix $page.RelPermalink "/papers/") (ne $page.RelPermalink "/papers/") }}
+{{- /* Dynamically exclude highlighting for subpages */ -}}
+{{- $isExcludedPapers := and (hasPrefix $page.RelPermalink "/papers/") (ne $page.RelPermalink "/papers/") }}
+{{- $isExcludedSpeeches := and (hasPrefix $page.RelPermalink "/speeches/") (ne $page.RelPermalink "/speeches/") }}
 
 {{- with index site.Menus $menuID }}
 <nav id="main-nav">
@@ -11,7 +12,13 @@
       {{- $skipHighlight := false }}
 
       {{- if or (eq .Identifier "papers") (eq .Identifier "about-papers") }}
-        {{- if $isExcludedPage }}
+        {{- if $isExcludedPapers }}
+          {{- $skipHighlight = true }}
+        {{- end }}
+      {{- end }}
+
+      {{- if or (eq .Identifier "speeches") (eq .Identifier "about-speeches") }}
+        {{- if $isExcludedSpeeches }}
           {{- $skipHighlight = true }}
         {{- end }}
       {{- end }}
@@ -26,8 +33,11 @@
         {{- range . }}
           {{- $childIsActive := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) (eq .URL $page.RelPermalink) }}
 
-          {{- /* If current page is excluded, avoid highlighting 'about-papers' */}}
-          {{- if and (eq .Identifier "about-papers") $isExcludedPage }}
+          {{- if and (eq .Identifier "about-papers") $isExcludedPapers }}
+            {{- $childIsActive = false }}
+          {{- end }}
+
+          {{- if and (eq .Identifier "about-speeches") $isExcludedSpeeches }}
             {{- $childIsActive = false }}
           {{- end }}
 
@@ -52,7 +62,11 @@
             {{- range . }}
               {{- $childIsActive := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) (eq .URL $page.RelPermalink) }}
 
-              {{- if and (eq .Identifier "about-papers") $isExcludedPage }}
+              {{- if and (eq .Identifier "about-papers") $isExcludedPapers }}
+                {{- $childIsActive = false }}
+              {{- end }}
+
+              {{- if and (eq .Identifier "about-speeches") $isExcludedSpeeches }}
                 {{- $childIsActive = false }}
               {{- end }}
 

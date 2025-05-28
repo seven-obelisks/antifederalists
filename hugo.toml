@@ -92,9 +92,29 @@ pageRef = '/constitution'
 weight = 40
 
 [[menus.main]]
+identifier = "speeches"
+name = "Speeches"
+pageRef = "/speeches"
+weight = 50
+
+[[menus.main]]
+identifier = "about-speeches"
+name = 'About the Speeches'
+pageRef = '/speeches'
+parent = 'speeches'
+weight = 10
+
+[[menus.main]]
+identifier = "henry"
+name = 'Patrick Henry'
+pageRef = '/speeches/henry'
+parent = 'speeches'
+weight = 20
+
+[[menus.main]]
 name = 'About the Library'
 pageRef = '/about'
-weight = 50
+weight = 60
 
 [module]
 [module.hugoVersion]
