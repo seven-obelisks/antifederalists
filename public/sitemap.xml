@@ -125,22 +125,7 @@
     <loc>http://localhost:1313/papers/centinel/centinel5/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/speeches/henry/henry10/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry5/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/speeches/henry/henry8/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/speeches/henry/henry9/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/speeches/henry/henry6/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/speeches/henry/henry7/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer5/</loc>
@@ -158,6 +143,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel6/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry6/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer6/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -171,6 +159,9 @@
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel7/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry7/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer7/</loc>
@@ -188,6 +179,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel8/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry8/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer8/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -200,6 +194,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel9/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry9/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer9/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -210,6 +207,9 @@
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel10/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry10/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer10/</loc>
@@ -242,29 +242,71 @@
     <loc>http://localhost:1313/papers/centinel/centinel18/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry11/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer11/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry12/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer12/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry13/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer13/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry14/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer14/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry15/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer15/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry16/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer16/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry17/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer17/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry18/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/farmer/farmer18/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry19/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry20/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry21/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry22/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry23/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeches/henry/henry24/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/brutus/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
@@ -340,10 +382,6 @@
   </url><url>
     <loc>http://localhost:1313/papers/cato/cato7/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/speeches/henry/henry11/</loc>
-  </url><url>
-    <loc>http://localhost:1313/speeches/henry/henry12/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>

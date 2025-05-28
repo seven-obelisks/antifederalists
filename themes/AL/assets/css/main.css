@@ -6,7 +6,6 @@
 html, body {
   height: 100%;
   margin: 0;
-  background-color: antiquewhite;
   font-family: 'Open Sans', sans-serif;
   color: #222;
 }
@@ -338,8 +337,6 @@ button {
   display: none;
 }
 
-/* ========== Breadcrumbs ========== */
-
 .breadcrumbs {
   font-size: 0.9rem;
   margin-bottom: 1rem;
@@ -357,4 +354,91 @@ button {
 
 .breadcrumbs span {
   color: #999;
+}
+
+
+/* ========== Dark Mode Toggle ========== */
+
+.dark-toggle {
+  background: none;
+  border: 1px solid #fff;
+  font-size: 14px;
+  padding:10px;
+  cursor: pointer;
+  color:#fff;
+  border-radius:10px;
+}
+
+/* Light mode */
+body{
+  background-color: antiquewhite;
+}
+
+/* Dark mode */
+
+body,
+.flex2 p,
+.flex2 .page-white,
+.flex2 .paper-block,
+.flex2 .homebnr,
+.flex2 .homequote,
+.flex2 .highlighted-paper,
+h1, h2,
+.flex2 a,
+nav.breadcrumbs {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+body.dark {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+body.dark .flex2 p{
+  color:#fff;
+}
+
+body.dark .flex2 .homebnr img{
+  background-color: #fff;
+  border-radius: 100px;
+  padding:5px;
+  min-width:85px;
+  margin-top:20px;
+  margin-bottom:-5px;
+}
+
+body.dark .flex2 .page-white{
+  background-color: #121212;
+  border:1px solid #fff;
+}
+
+body.dark .flex2 .paper-block{
+  background-color: #121212;
+  border:1px solid #fff;
+}
+
+body.dark .flex2 .homequote{
+  background-color: #121212;
+  border:1px solid #fff;
+}
+
+body.dark .flex2 .homeimg{
+  border:0;
+}
+
+body.dark .flex2 .highlighted-paper{
+  background-color: #121212;
+  border:1px solid #fff;
+}
+
+body.dark h1, body.dark h2 {
+  color:#fff;
+}
+
+body.dark .flex2 a{
+  color:#fff;
+}
+
+body.dark nav.breadcrumbs{
+  color:#fff;
 }
