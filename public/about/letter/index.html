@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Letter from the Editor | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.textContent = isDark ? "☀︎ Light Mode" : "☽ Dark Mode";
+  };
+
+  
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    icon.textContent = isDark ? "☀︎ Light Mode" : "☽ Dark Mode";
+  });
+});
+</script>
+
+</head>
+<body>
+<div class="flex-box">
+  <div class="flex1">
+    <div class="sidebar">
+  <header>
+    <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Antifederalist Papers
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">The Federal Farmer</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="active">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+  </header>
+  <footer>
+    <button id="dark-toggle" aria-label="Toggle dark mode" class="dark-toggle">
+      <span id="dark-toggle-icon">Toggle</span>
+    </button>
+    <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.11</em></p>
+
+  </footer>
+  </div>
+  </div>
+  <div class="flex2">
+  <main>
+    
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/about/">About</a>
+
+  / <span>Letter from the Editor</span>
+</nav>
+
+  <h3 class="page-h3">Letter from the Editor</h3>
+</div>
+<div class="page-white">
+  <p>Fellow Citizen,</p>
+<p>Our founding fathers were complicated men, a truth evident from any reading of the United States Constitution.</p>
+<p>Their vociferous belief in liberty and independence is easily drowned out by the inherent hypocrisy of their positions. Those vocally opposed to slavery were often slaveholders themselves, even if only &ldquo;begrudingly.&rdquo; Their original rendition of the Constitution relegates our fellow man as merely 3/5ths of a person for the sake of representation; one of many grave injustices only partially corrected by future amendments and laws.</p>
+<p>Despite these contradictions, it&rsquo;s equally obvious that many of our founders appreciated the tyranny a government could impose upon its citizenry. This was especially the case for the Anti-Federalists, the derisive name given to those who opposed the creation of a strong central government as envisioned by the Constitution. Thanks to their persistent efforts during its drafting, the Bill of Rights was included to enshrine our individual rights.</p>
+<p>Today, nearly 250 years since the founding of our republic, their words are more important than ever. At times, their words can be eerily prescient:</p>
+<blockquote>
+<p>This, sir, is my great objection to the Constitution, that there is no true responsibility — and that the preservation of our liberty depends on the single chance of men being virtuous enough to make laws to punish themselves. <br>
+<a href="https://antifederalism.org/speeches/henry/henry1/">Patrick Henry</a></p></blockquote>
+<p>This library is an effort to preserve the Anti-Federalist perspectives that shaped our constitution and our nation&rsquo;s unique conception of individual liberties.</p>
+<p>I invite you to join me in critically examining the intentions and perspectives of these founding fathers who were instrumental in protecting future citizens against tyranny.</p>
+<p>Yours Truly,<br>
+<em>The Editor</em></p>
+
+  
+
+  </div>
+
+  </main>
+  </div>
+</div>
+
+</body>
+</html>

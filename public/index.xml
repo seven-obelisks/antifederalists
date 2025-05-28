@@ -862,5 +862,12 @@
       <guid>http://localhost:1313/constitution/article7/</guid>
       <description>The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.  The Word, &amp;ldquo;the,&amp;rdquo; being interlined between the seventh and eighth Lines of the first Page, The Word &amp;ldquo;Thirty&amp;rdquo; being partly written&amp;hellip;</description>
     </item>
+    <item>
+      <title>Letter from the Editor</title>
+      <link>http://localhost:1313/about/letter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/letter/</guid>
+      <description>A message from the site&amp;rsquo;s editor and custodian.</description>
+    </item>
   </channel>
 </rss>
