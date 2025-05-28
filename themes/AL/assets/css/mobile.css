@@ -144,6 +144,9 @@
     margin:0;
   }
 
+  body.dark .flex2 .page-white{
+  border:0px !important;
+
   /* ========== Navigation Menu ========== */
   .clean-menu {
     font-size: 18px;
