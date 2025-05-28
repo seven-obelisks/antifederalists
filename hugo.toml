@@ -68,11 +68,18 @@ parent = 'papers'
 weight = 60
 
 [[menus.main]]
+identifier = "dewitt"
+name = 'DeWitt'
+pageRef = '/papers/dewitt'
+parent = 'papers'
+weight = 70
+
+[[menus.main]]
 identifier = "farmer"
 name = 'The Federal Farmer'
 pageRef = '/papers/farmer'
 parent = 'papers'
-weight = 70
+weight = 80
 
 [[menus.main]]
 name = 'Bill of Rights'

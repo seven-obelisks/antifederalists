@@ -313,6 +313,8 @@
   </url><url>
     <loc>http://localhost:1313/constitution/</loc>
   </url><url>
+    <loc>http://localhost:1313/papers/dewitt/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
