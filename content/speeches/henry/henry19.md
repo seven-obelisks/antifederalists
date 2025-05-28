@@ -28,7 +28,7 @@ As to controversies between a state and the citizens of another state, his const
 
 To hear gentlemen of such penetration make use of such arguments, to persuade us to part with that trial by jury, is very astonishing. We are told that we are to part with that triad by jury which our ancestors secured their lives and property with, and we are to build castles in the air, and substitute visionary modes of decision for that noble palladium. I hope we shall never he induced, by such arguments, to part with that excellent mode of trial. No appeal can now be made as to fact in common-law suits. The unanimous verdict of twelve impartial men cannot be reversed. I shall take the liberty of reading to the committee the sentiments of the learned Judge Blackstone, so often quoted, on the subject.
 
-[Here Mr. Henry read the eulogium of that writer on this trial. Blackstone's Commentaries, iii. 319.]
+*Here Mr. Henry read the eulogium of that writer on this trial.*
 
 The opinion of this learned writer is more forcible and cogent than any thing I could say. Notwithstanding the transcendent excellency of this trial, its essentiality to the preservation of liberty, and the extreme danger of substituting any other mode, yet we are now about to alienate it.
 

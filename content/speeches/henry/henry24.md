@@ -6,7 +6,7 @@ summary: Points out that many important rights were omitted from the Constitutio
 
 ##### June 25, 1788
 
-Mr. Chairman, 
+*Mr. Chairman,*
 
 When we were told of the difficulty of obtaining previous amendments, I contended that they might be as easily obtained as subsequent amendments. We are told that nine states have adopted it. If so, when the government gets in motion, have they not a right to consider our amendments as well as if we adopted first? If we remonstrate, may they not consider and admit our amendments? But now, sir, when we have been favored with a view of their subsequent amendments, I am confirmed in what I apprehended; and that is, subsequent amendments will make our condition worse; for they are placed in such a point of view as will make this Convention ridiculous. I speak in plain, direct language. It is extorted from me. If this Convention will say, that the very right by which amendments are desired is not secured, then I say our rights are not secured. As we have the right of desiring amendments, why not exercise it? But gentlemen deny this right, It follows, of course, that, if this right be not secured, our other fights are not. The proposition of subsequent amendments is only to lull our apprehensions. We speak the language of contradiction and inconsistency, to say that rights are secured, and then say that they are not. Is not this placing this Convention in a contemptible light? Will not this produce contempt of us in Congress, and every other part of the world? Will gentlemen tell me that they are in earnest about these amendments?
 

@@ -7,8 +7,8 @@ summary: Stresses the importance of preserving trial by jury, fearing the Consti
 ##### June 23, 1788
 
 >Mr. Marshall rose to explain what he had before said on this subject: he informed the committee that the honorable gentleman (Mr. Henry) must have misunderstood him. He said that he conceived the trial by jury was as well secured, and not better secured, in the proposed new Constitution as in our bill of rights. 
->
->[The clerk then read the 11th article of the bill of rights.]
+
+*The clerk then read the 11th article of the bill of rights.*
 
 *Mr. Chairman,*
 
