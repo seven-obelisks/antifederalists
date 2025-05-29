@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Genuine Information IV | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+</head>
+<body>
+<div class="flex-box">
+  <div class="flex1">
+    <div class="sidebar">
+  <header>
+    <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Antifederalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">The Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="active">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+  </header>
+  <footer>
+<button id="dark-toggle" 
+  data-light="/images/lantern-light.png"
+  data-dark="/images/lantern-dark.png">
+  <span id="dark-toggle-icon"></span>
+</button>
+
+
+    <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.12</em></p>
+
+  </footer>
+  </div>
+  </div>
+  <div class="flex2">
+  <main>
+    
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Antifederalist Papers</a>
+    / <a href="/papers/luther/">Luther Martin</a>
+
+  / <span>Genuine Information IV</span>
+</nav>
+
+  <h3 class="page-h3">Genuine Information IV</h3>
+</div>
+<div class="page-white">
+  <h5 id="january-08-1788">January 08, 1788</h5>
+<p><em>Mr. Martin’s Information to the House of Assembly, continued.</em></p>
+<p>It has been observed, Mr. Speaker, by my honorable colleagues, that the debate respecting the mode of representation, was productive of considerable warmth; this observation is true; but, Sir, it is equally true, that if we could have tamely and servilely consented to be bound in chains, and meanly condescended to assist in riveting them fast, we might have avoided all that warmth, and have proceeded with as much calmness and coolness as any stoick could have wished.—Having thus, Sir, given the honorable members of this house, a short history of some interesting parts of our proceedings, I shall beg leave to take up the system published by the convention, and shall request your indulgence, while I make some observations on different parts of it, and give you such further information as may be in my power. (Here Mr. Martin read the first section of the first article, and then proceeded.) With respect to this part of the system, Mr. Speaker, there was a diversity of sentiment; those who were for two branches in the legislature, a house of representatives and a senate, urged the necessity of a second branch to serve as a check upon the first, and used all those trite and common place arguments which are proper and just, when applied to the formation of a State government over individuals variously distinguished in their habits and manners, fortune and rank; where a body chosen in a select manner, respectable for their wealth and dignity, may be necessary, frequently to prevent the hasty and rash measures of a representation more popular; but on the other side it was urged, that none of these arguments could with propriety be applied to the formation of a federal government over a number of independent States—That it is the State governments which are to watch over and protect the rights of the individual, whether rich or poor, or of moderate circumstances, and in which the democratic and aristocratic influence or principles are to be so blended, modified, and checked as to prevent oppression and injury—That the federal government is to guard and protect the States and their rights, and to regulate their common concerns—That a federal government is formed by the States, as States that is in their sovereign capacities, in the same manner as treaties and alliances are formed—That sovereignties considered as such, cannot be said to have jarring interests or principles, the one aristocratic, and the other democratic; but that the principles of a sovereignty considered as a sovereignty, are the same, whether that sovereignty is monarchical, aristocratical, democratical, or mixed—That the history of mankind doth not furnish an instance from its earliest period to the present time, of a federal government constituted of two distinct branches—That the members of the federal government, if appointed by the States in their State capacities, that is by their legislatures, as they ought, would be select in their choice, and coming from different States, having different interests and views; this difference of interests and views, would always be a sufficient check over the whole; and it was shewn, that even Adams, who, the reviewers have justly observed, appears to be as fond of checks and balances as Lord Chesterfield of the graces, even he declares that a council consisting of one branch has always been found sufficient in a federal government.2</p>
+<p>It was urged, that the government we were forming was not in reality a federal but a national government, not founded on the principles of the preservation, but the abolition or consolidation of all State governments—That we appeared totally to have forgot the business for which we were sent, and the situation of the country for which we were preparing our system—That we had not been sent to form a government over the inhabitants of America, considered as individuals, that as individuals they were all subject to their respective State governments, which governments would still remain, though the federal government was dissolved—That the system of government we were entrusted to prepare, was a government over these thirteen States; but that in our proceedings, we adopted principles which would be right and proper, only on the supposition that there were no State governments at all, but that all the inhabitants of this extensive continent were in their individual capacity, without government and in a state of nature—That accordingly the system proposes the legislature to consist of two branches, the one to be drawn from the people at large, immediately in their individual capacity—the other to be chose in a more select manner, as a check upon the first—It is in its very introduction declared to be a compact between the people of the United States as individuals—and it is to be ratified by the people at large in their capacity as individuals; all which it was said, would be quite right and proper, if there were no State governments, if all the people of this continent were in a state of nature, and we were forming one national government for them as individuals, and is nearly the same as was done in most of the States, when they formed their governments over the people who compose them.</p>
+<p>Whereas it was urged, that the principles on which a federal government over States ought to be constructed and ratified are the reverse—that instead of the legislature consisting of two branches, one branch was sufficient, whether examined by the dictates of reason or the experience of ages—That the representation instead of being drawn from the people at large, as individuals, ought to be drawn from the States as States in their sovereign capacity—That in a federal government, the parties to the compact are not the people as individuals, but the States as States, and that it is by the States as States in their sovereign capacity, that the system of government ought to be ratified, and not by the people as individuals.</p>
+<p>It was further said, that in a federal government over States equally free, sovereign and independent, every State ought to have an equal share in making the federal laws or regulations—in deciding upon them, and in carrying them into execution, neither of which was the case in this system, but the reverse, the States not having an equal voice in the legislature, nor in the appointment of the executive, the judges, and the other officers of government—It was insisted, that in the whole system there was but one federal feature—the appointment of the senators by the States in their sovereign capacity, that is by their legislatures, and the equality of suffrage in that branch; but it was said that this feature was only federal in appearance.</p>
+<p>To prove this, and that the Senate as constituted could not be a security for the protection and preservation of the State governments, and that the senators could not be justly considered the representatives of the States as States, it was observed, that upon just principles of representation, the representative ought to speak the sentiments of his constituents, and ought to vote in the same manner that his constituents would do (as far as he can judge) provided his constituents were acting in person, and had the same knowledge and information with himself; and therefore that the representative ought to be dependant on his constituents, and answerable to them—that the connection between the representative and the represented, ought to be as near and as close as possible; according to these principles, Mr. Speaker, in this State it is provided by its constitution, that the representatives in Congress, shall be chosen annually, shall be paid by the State, and shall be subject to recall even within the year; &gt; so cautiously has our constitution guarded against an abuse of the trust reposed in our representatives in the federal government; whereas by the third and sixth sections of the first article of this new system, the senators are to be chosen for six years instead of being chosen annually; instead of being paid by their States who send them, they in conjunction with the other branch, are to pay themselves out of the treasury of the United States; and are not liable to be recalled during the period for which they are chosen—Thus, Sir, for six years the senators are rendered totally and absolutely independent of their States, of whom they ought to be the representatives, without any bond or tie between them—During that time they may join in measures ruinous and destructive to their States, even such as should totally annihilate their State governments, and their States cannot recall them, nor exercise any controul over them. Another consideration, Mr. Speaker, it was thought ought to have great weight to prove that the smaller States cannot depend on the senate for the preservation of their rights, either against large and ambitious States, or against an ambitious, aspiring President.—The senate, Sir, is so constituted, that they are not only to compose one branch of the legislature, but by the second section of the second article, they are to compose a privy council for the President; hence it will be necessary, that they should be, in a great measure, a permanent body, constantly residing at the seat of government. Seventy years is estimated for the life of a man; it can hardly be supposed, that a senator, especially from the States remote from the seat of empire, will accept of an appointment which must estrange him for six years from his State, without giving up to a great degree his prospects in his own State. If he has a family, he will take his family with him to the place where the government shall be fixed, that will become his home, and there is every reason to expect that his future views and prospects will centre in the favours and emoluments either of the general government, or of the government of that State where the seat of empire is established:—In either case, he is lost to his own State. If he places his future prospects in the favours and emoluments of the general government, he will become the dependant and creature of the President, as the system enables a senator to be appointed to offices, and without the nomination of the President, no appointment can take place; as such, he will favour the wishes of the President, and concur in his measures, who, if he has no ambitious views of his own to gratify, may be too favourable to the ambitious views of the large States, who will have an undue share in his original appointment, and on whom he will be more dependant afterwards than on the States which are smaller. If the senator places his future prospects in that State where the seat of empire is fixed; from that time he will be in every question wherein its particular interest may be concerned the representative of that State, not of his own.</p>
+<p>But even this provision apparently for the security of the State governments, inadequate as it is, is entirely left at the mercy of the general government, for by the fourth section of the first article, it is expressly provided, that the Congress shall have a power to make and alter all regulations concerning the time and manner of holding elections for senators; a provision, expressly looking forward to, and I have no doubt designed for the utter extinction and abolition of all State governments; nor will this, I believe, be doubted by any person, when I inform you that some of the warm advocates and patrons of the system in convention, strenuously opposed the choice of the senators by the State legislatures, insisting that the State governments ought not to be introduced in any manner so as to be component parts of, or instruments for carrying into execution, the general government—Nay, so far were the friends of the system from pretending that they meant it or considered it as a federal system, that on the question being proposed, “that a union of the States, merely federal, out to be the sole object of the exercise of the powers vested in the convention;” it was negatived by a majority of the members, and it was resolved, “that a national government ought to be formed”4—afterwards the word “national” was struck out by them, because they thought the word might tend to alarm5—and although now, they who advocate the system, pretend to call themselves federalists, in convention the distinction was just the reverse; those who opposed the system, were there considered and stiled the federal party, those who advocated it, the antifederal.</p>
+<p>Viewing it as a national, not a federal government, as calculated and designed not to protect and preserve, but to abolish and annihilate the State governments, it was opposed for the following reasons—It was said that this continent was much too extensive for one national government, which should have sufficient power and energy to pervade and hold in obedience and subjection all its parts, consistent with the enjoyment and preservation of liberty—That the genius and habits of the people of America, were opposed to such a government—That during their connection with Great—Britain, they had been accustomed to have all their concerns transacted within a narrow circle, their colonial districts—they had been accustomed to have their seats of government near them, to which they might have access, without much inconvenience when their business should require it—That at this time we find if a county is rather large, the people complain of the inconvenience, and clamour for a division of their county, or for a removal of the place where their courts are held, so as to render it more central and convenient—That in those States, the territory of which is extensive, as soon as the population encreases remote from the seat of government, the inhabitants are urgent for a removal of the seat of their government, or to be erected into a new State—As a proof of this, the inhabitants of the western parts of Virginia and North—Carolina, of Vermont and the province of Main, were instances, even the inhabitants of the western parts of Pennsylvania, who it was said already seriously look forward to the time when they shall either be erected into a new State, or have their seat of government removed to the Susquehannah.—If the inhabitants of the different States consider it as a grievance to attend a county—court or the seat of their own government, when a little inconvenient, can it be supposed they would ever submit to have a national government established, the seat of which would be more than a thousand miles removed from some of them? —It was insisted that governments of a republican nature, are those best calculated to preserve the freedom and happiness of the citizen—That governments of this kind, are only calculated for a territory but small in its extent—That the only method by which an extensive continent like America could be connected and united together consistent with the principles of freedom, must be by having a number of strong and energetic State governments for securing and protecting the rights of the individuals forming those governments, and for regulating all their concerns; and a strong energetic federal government over those States for the protection and preservation, and for regulating the common concerns of the States.—It was further insisted, that even if it was possible to effect a total abolition of the State governments at this time, and to establish one general government over the people of America, it could not long subsist, but in a little time would again be broken into a variety of governments of a smaller extent, similar in some manner to the present situation of this continent; the principal difference in all probability would be that the governments, so established, being effected by some violent convulsion, might not be formed on principles so favourable to liberty as those of our present State governments—That this ought to be an important consideration to such of the States who had excellent governments, which was the case with Maryland and most others, whatever it might be to persons who disapproving of their particular State government would be willing to hazard every thing to overturn and destroy it.—These reasons, Sir, influenced me to vote against two branches in the legislature, and against every part of the system which was repugnant to the principles of a federal government—Nor was there a single argument urged, or reason assigned, which to my mind was satisfactory, to prove that a good government on federal principles was unattainable, the whole of their arguments only proving, what none of us controverted, that our federal government as originally formed was defective and wanted amendment—However, a majority of the convention hastily and inconsiderately, without condescending to make a fair trial, in their great wisdom, decided that a kind of government which a Montesquieu and a Price have declared the best calculated of any to preserve internal liberty, and to enjoy external strength and security, and the only one by which a large continent can be connected and united consistent with the principles of liberty was totally impracticable, and they acted accordingly.</p>
+<p>(To be continued.)</p>
+
+  
+
+  </div>
+
+  </main>
+  </div>
+</div>
+
+</body>
+</html>

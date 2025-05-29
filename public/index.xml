@@ -58,6 +58,13 @@
       <description>Critiques the Constitution for centralizing too much power in the national government, which would undermine state sovereignty and jeopardize individual liberties.</description>
     </item>
     <item>
+      <title>Genuine Information I</title>
+      <link>http://localhost:1313/papers/luther/genuine1/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine1/</guid>
+      <description>Warns that the proposed Constitution concentrates power in the hands of a few large states, reducing the others to political subjugation.</description>
+    </item>
+    <item>
       <title>Patrick Henry I</title>
       <link>http://localhost:1313/speeches/henry/henry1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
@@ -107,6 +114,13 @@
       <description>Argues that a large republic cannot effectively protect the rights and interests of its citizens.</description>
     </item>
     <item>
+      <title>Genuine Information II</title>
+      <link>http://localhost:1313/papers/luther/genuine2/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine2/</guid>
+      <description>Argues that inequality of representation favors powerful states, undermines federal equality, and threatens liberty by reducing smaller states to political dependence.</description>
+    </item>
+    <item>
       <title>One of the People</title>
       <link>http://localhost:1313/papers/others/oneofthepeople/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
@@ -154,6 +168,13 @@
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/centinel/centinel3/</guid>
       <description>Rejects the need for a new constitution, arguing that state governments are capable of maintaining order and governance.</description>
+    </item>
+    <item>
+      <title>Genuine Information III</title>
+      <link>http://localhost:1313/papers/luther/genuine3/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine3/</guid>
+      <description>Details the bitter debate over state representation, exposing how small states resisted unequal suffrage, rejected coercive compromises, and warned that the proposed system would erode federal equality and empower large states at the expense of liberty.</description>
     </item>
     <item>
       <title>Patrick Henry III</title>
@@ -240,6 +261,13 @@
       <description>Highlights the lack of a Bill of Rights as a major oversight, leaving citizens vulnerable to government abuse.</description>
     </item>
     <item>
+      <title>Genuine Information IV</title>
+      <link>http://localhost:1313/papers/luther/genuine4/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine4/</guid>
+      <description>Criticizes the proposed Constitution as a covert move toward national consolidation, arguing that it subverts true federalism, endangers state sovereignty, and imposes a centralized system too vast to preserve liberty.</description>
+    </item>
+    <item>
       <title>Patrick Henry V</title>
       <link>http://localhost:1313/speeches/henry/henry5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
@@ -280,6 +308,13 @@
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/centinel/centinel6/</guid>
       <description>Explores how centralizing power erodes state autonomy and weakens local self-governance.</description>
+    </item>
+    <item>
+      <title>Genuine Information V</title>
+      <link>http://localhost:1313/papers/luther/genuine5/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine5/</guid>
+      <description>Condemns slave-based representation and unequal apportionment favoring large states, warns of disproportionate power and influence, and criticizes provisions that expose Congress to executive bribery and corruption.</description>
     </item>
     <item>
       <title>Patrick Henry VI</title>
@@ -324,6 +359,13 @@
       <description>Warns that federal taxation policies will unfairly burden the states, particularly those with agricultural economies.</description>
     </item>
     <item>
+      <title>Genuine Information VI</title>
+      <link>http://localhost:1313/papers/luther/genuine6/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine6/</guid>
+      <description>Warns that unchecked federal taxation, judicial overreach, and revenue powers—including stamp duties and excises—threaten state sovereignty, enable corruption, and concentrate dangerous authority in a distant national government.</description>
+    </item>
+    <item>
       <title>Patrick Henry VII</title>
       <link>http://localhost:1313/speeches/henry/henry7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
@@ -366,6 +408,13 @@
       <description>Raises concerns about federal control of commerce, potentially disadvantaging local industries and empowering monopolies.</description>
     </item>
     <item>
+      <title>Genuine Information VII</title>
+      <link>http://localhost:1313/papers/luther/genuine7/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine7/</guid>
+      <description>Condemns unlimited federal military power, centralized control of the militia, and the temporary protection of the slave trade, warning these measures endanger liberty, undermine state sovereignty, and mock the founding principles of justice and freedom.</description>
+    </item>
+    <item>
       <title>Patrick Henry VIII</title>
       <link>http://localhost:1313/speeches/henry/henry8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
@@ -401,6 +450,13 @@
       <description>Criticizes vague constitutional language, fearing it will allow the federal government to expand its power unchecked.</description>
     </item>
     <item>
+      <title>Genuine Information VIII</title>
+      <link>http://localhost:1313/papers/luther/genuine8/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine8/</guid>
+      <description>Condemns federal protection of the slave trade, habeas corpus suspension, and loss of state control over commerce and currency—warning these powers will oppress debtors, undermine liberty, and centralize economic authority.</description>
+    </item>
+    <item>
       <title>Patrick Henry IX</title>
       <link>http://localhost:1313/speeches/henry/henry9/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
@@ -434,6 +490,13 @@
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/centinel/centinel10/</guid>
       <description>Calls for amending the Articles of Confederation rather than adopting a new, untested system.</description>
+    </item>
+    <item>
+      <title>Genuine Information IX</title>
+      <link>http://localhost:1313/papers/luther/genuine9/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine9/</guid>
+      <description>Warns that the presidency, as structured, concentrates excessive power—military, electoral, and appointive—enabling lifelong rule, fostering corruption, and rendering impeachment ineffective as a check.</description>
     </item>
     <item>
       <title>Patrick Henry X</title>
@@ -511,6 +574,13 @@
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/centinel/centinel18/</guid>
       <description>Calls for the rejection of the Constitution, arguing it is fundamentally flawed and will lead to dangerous centralization.</description>
+    </item>
+    <item>
+      <title>Genuine Information X</title>
+      <link>http://localhost:1313/papers/luther/genuine10/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/luther/genuine10/</guid>
+      <description>Warns that the proposed judiciary strips states and citizens of trial by jury, centralizes nearly all legal authority in distant federal courts, and brands any state resistance to federal overreach as treason—leaving the people powerless against national despotism.</description>
     </item>
     <item>
       <title>Patrick Henry XI</title>

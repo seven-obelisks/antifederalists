@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Genuine Information I | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+</head>
+<body>
+<div class="flex-box">
+  <div class="flex1">
+    <div class="sidebar">
+  <header>
+    <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Antifederalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">The Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="active">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+  </header>
+  <footer>
+<button id="dark-toggle" 
+  data-light="/images/lantern-light.png"
+  data-dark="/images/lantern-dark.png">
+  <span id="dark-toggle-icon"></span>
+</button>
+
+
+    <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.12</em></p>
+
+  </footer>
+  </div>
+  </div>
+  <div class="flex2">
+  <main>
+    
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Antifederalist Papers</a>
+    / <a href="/papers/luther/">Luther Martin</a>
+
+  / <span>Genuine Information I</span>
+</nav>
+
+  <h3 class="page-h3">Genuine Information I</h3>
+</div>
+<div class="page-white">
+  <h5 id="december-28-1787">December 28, 1787</h5>
+<p>Mr. Hayes, It was the wish of many respectable characters both in the House of Assembly, and others, that the information received from the Delegates to the late Convention, should be made public.—I have taken some pains, to collect together, the substance of the information, which was given on that occasion to the House of Delegates by Mr. Martin; by your inserting it in your paper, you will oblige a customer.</p>
+<p>Mr. Martin, when called upon, addressed the House nearly as follows:</p>
+<p><em>Mr. Speaker,</em></p>
+<p>Since I was notified of the resolve of this Honourable House, that we should attend this day, to give information with regard to the proceedings of the late convention, my time has necessarily been taken up with business, and I have also been obliged to make a journey to the Eastern—Shore: These circumstances have prevented me from being as well prepared as I could wish, to give the information required—However, the few leisure moments I could spare, I have devoted to re—freshing my memory, by looking over the papers and notes in my pos—session; and shall with pleasure, to the best of my abilities, render an account of my conduct.</p>
+<p>It was not in my power to attend the convention immediately on my appointment—I took my seat, I believe, about the eighth or ninth of June. I found that Governor Randolph, of Virginia, had laid before the convention certain propositions for their consideration, which have been read to this House by my Honourable colleague, and I believe, he has very faithfully detailed the substance of the speech with which the business of the convention was opened, for though I was not there at the time, I saw notes which had been taken of it. —The members of the convention from the States, came there under different powers.</p>
+<p>The greatest number, I believe under powers, nearly the same as those of the delegates of this State &gt; —Some came to the convention under the former appointment, authorising the meeting of delegates merely to regulate trade.—Those of Delaware were expressly instructed to agree to no system which should take away from the States, that equality of suffrage secured by the original articles of confederation. Before I arrived, a number of rules had been adopted to regulate the proceedings of the convention, by one of which, seven States might proceed to business, and consequently four States, the majority of that number, might eventually have agreed upon a system which was to effect the whole Union. By another, the doors were to be shut, and the whole proceedings were to be kept secret; and so far did this rule extend, that we were thereby prevented from corresponding with gentlemen in the different States upon the subjects under our discussion—a circumstance, Sir, which I confess, I greatly regretted—I had no idea that all the wisdom, integrity, and virtue of this State, or of the others, were centered in the convention—I wished to have corresponded freely, and confidentially, with eminent political characters in my own, and other States, not implicitly to be dictated to by them, but to give their sentiments due weight and consideration. So extremely solicitous were they, that their proceedings should not transpire, that the members were prohibited even from taking copies of resolutions, on which the convention were deliberating, or extracts of any kind from the journals without formally moving for, and obtaining permission, by a vote of the convention for that purpose.</p>
+<p>You have heard, Sir, the resolutions which were brought forward by the honourable member from Virginia—let me call the attention of this House, to the conduct of Virginia, when our confederation was entered into—That State then proposed, and obstinately contended, contrary to the sense of, and unsupported by the other States, for an inequality of suffrage founded on numbers, or some such scale, which should give her, and certain other States, influence in the Union over the rest—pursuant to that spirit which then characterized her, and uniform in her conduct, the very second resolve, is calculated expressly for that purpose to give her a representation proportioned to her numbers, as if the want of that was the principle defect in our original system, and this alteration the great means of remedying the evils we had experienced under our present government.</p>
+<p>The object of Virginia and other large States, to increase their power and influence over the others, did not escape observation—The subject, however, was discussed with great coolness in the committee of the whole House (for the convention had resolved itself into a committee of the whole to deliberate upon the propositions delivered in by the honourable member from Virginia). Hopes were formed, that the farther we proceeded in the examination of the resolutions, the better the House might be satisfied of the impropriety of adopting them, and that they would finally be rejected by a majority of the committee—If on the contrary, a majority should report in their favour, it was considered that it would not preclude the members from bringing forward and submitting any other system to the consideration of the convention; and accordingly, while those resolves were the subject of discussion in the committee of the whole House, a number of the members who disapproved them, were preparing another system, such as they thought more conducive to the happiness and welfare of the States—The propositions originally submitted to the convention having been debated, and undergone a variety of alterations in the course of our proceedings, the committee of the whole House by a small majority agreed to a report, which I am happy, Sir, to have in my power to lay before you —It was as follow:</p>
+<blockquote>
+<p>Resolved, That it is the opinion of this committee, that a national government ought to be established, consisting of a supreme, legislative, judiciary and executive.
+That the legislative ought to consist of two branches.
+That the members of the first branch of the national legislature ought to be elected by the people of the several States, for the term of three years, to receive fixed stipends, by which they may be compensated for the devotion of their time to public service, to be paid out of the national treasury, to be ineligible to any office established by a particular State, or under the authority of the United States, except those particularly belonging to the functions of the first branch, during the term of service, and under the national government, for the space of one year after its expiration.
+That the members of the second branch of the legislature ought to be chosen by the individual legislatures, to be of the age of thirty years at least, to hold their offices for a term sufficient to ensure their independency, namely, seven years, one third to go out biennially, to receive fixed stipends, by which they may be compensated for the devotion of their time to public service, to be paid out of the national treasury, to be ineligible to any office by a particular State, or under the authority of the United States, except those peculiarly belonging to the functions of the second branch, during the term of service, and under the national government, for the space of one year after its expiration.
+That each branch ought to possess the right of originating acts.
+That the national legislature ought to be empowered to enjoy the legislative rights vested in Congress by the confederation, and moreover, to legislate in all cases to which the separate States are incompetent, or in which the harmony of the United States may be interrupted, by the exercise of individual legislation; to negative all laws passed by the several States, contravening, in the opinion of the legislature of the United States, the articles of union, or any treaties subsisting under the authority of the Union.
+That the right of suffrage in the first branch of the national legislature, ought not to be according to the rule established in the articles of confederation, but according to some equitable rate of representation, namely, in proportion to the whole number of white, and other free citizens and inhabitants of every age, sex and condition, including those bound to servitude for a term of years, and three fifths of all other persons, not comprehended in the foregoing description, except Indians not paying taxes in each State.
+That the right of suffrage in the second branch of the national legislature, ought to be according to the rule established in the first.
+That a national executive be instituted to consist of a single person, to be chosen by the national legislature for the term of seven years, with power to carry into execution the national laws, to appoint to officesin cases not otherwise provided for, to be ineligible a second time, and to be removable on impeachment and conviction of malpractice or neglect of duty, to receive a fixed stipend, by which he may be compensated for the devotion of his time to public service—to be paid out of the national treasury.
+That the national executive shall have a right to negative any legislative act which shall not afterwards be passed, unless by two third parts of each branch of the national legislature.
+That a national judiciary be established, to consist of one supreme tribunal, the judges of which, to be appointed by the second branchof the national legislature, to hold their offices during good behaviour, and to receive punctually, at stated times, a fixed compensation for their services, in which no increase or diminution shall be made, so as to affect the persons actually in office at the time of such increase or diminution.
+That the national legislature be empowered to appoint inferior tribunals.
+That the jurisdiction of the national judiciary shall extend to cases which respect the collection of the national revenue; cases arising under the laws of the United States—impeachments of any national officer, and questions which involve the national peace and harmony.
+Resolved, That provision ought to be made for the admission of States lawfully arising within the limits of the United States whether from a voluntary junction of government, territory, or otherwise, with the consent of a number of voices in the national legislature less than the whole.
+Resolved, That provision ought to be made for the continuance of Congress, and their authority and privileges, until a given day after the reform of the articles of union shall be adopted, and for the completion of all their engagements.
+That a republican constitution and its existing laws ought to be guarranteed to each State by the United States.
+That provision ought to be made for the amendment of the articles of union, whensoever it shall seem necessary.
+That the legislative, executive and judiciary powers, within the several States, ought to be bound by oath to support the articles of the union.
+That the amendments which shall be offered to the con—federation by this convention, ought, at a proper time or times, after the approbation of Congress, to be submitted to an assembly or assemblies, recommended by the legislatures, to be expressly chosen by the people to consider and decide thereon.</p></blockquote>
+<p>These propositions, Sir, were acceeded to by a majority of the members of the committee—a system by which the large States were to have not only an inequality of suffrage in the first branch, but also the same inequality in the second branch, or senate; however, it was not designed the second branch should consist of the same number as the first. It was proposed that the senate should consist of twenty—eight members, formed on the following scale—Virginia to send five, Pennsylvania and Massaschusetts each four, South—Carolina, North—Carolina, Maryland, New—York, and Con—necticut two each, and the States of New—Hampshire, Rhode—Island, Jersey, Delaware, and Georgia each of them one; upon this plan, the three large States, Virginia, Pennsylvania, and Massachusetts, would have thirteen senators out of twenty—eight, almost one half of the whole number—Fifteen senators were to be a quorum to proceed to business; those three States would, therefore, have thirteen out of that quorum. Having this inequality in each branch of the legislature, it must be evident, Sir, that they would make what laws they pleased, however disagreeable or injurious to the other States, and that they would always prevent the other States from making any laws, however necessary and proper, if not agreeable to the views of those three States—They were not only, Sir, by this system, to have such an undue superiority in making laws and regulations for the Union, but to have the same superiority in the appointment of the president, the judges, and all other officers of government. Hence, those three States would in reality have the appointment of the president, judges, and all the other officers. This president, and these judges, so appointed, we may be morally certain would be citizens of one of those three States; and the president, as appointed by them, and a citizen of one of them, would espouse their interests and their views, when they came in competition with the views and interests of the other States. This president, so appointed by the three large States, and so unduly under their influence, was to have a negative upon every law that should be passed, which, if negatived by him, was not to take effect, unless assented to by two thirds of each branch of the legislatures, a provision which deprived ten States of even the faintest shadow of liberty; for if they, by a miraculous unanimity, having all their members present, should outvote the other three, and pass a law contrary to their wishes, those three large States need only procure the president to negative it, and thereby prevent a possibility of its ever taking effect, because the representatives of those three States would amount to much more than one third (almost one half) of the representatives in each branch. And, Sir, this government, so organized with all this undue superiority in those three large States, was as you see to have a power of negativing the laws passed by every State legislature in the Union. Whether, therefore, laws passed by the legislature of Maryland, New—York, Connecticut, Georgia, or of any other of the ten States, for the regulation of their internal police, should take effect, and be carried into execution, was to depend on the good pleasure of the representatives of Virginia, Pennsylvania and Massachusetts.</p>
+<p>This system of slavery, which bound hand and foot ten States in the Union, and placed them at the mercy of the other three, and under the most abject and servile subjection to them, was approved by a majority of the members of the convention, and reported by the committee.</p>
+<p>On this occasion, the House will recollect, that the convention was resolved into a committee of the whole—of this committee Mr. Gorham was chairman—The honorable Mr. Washington was then on the floor, in the same situation with any other member of the convention at large, to oppose any system he thought injurious, or to propose any alterations or amendments he thought beneficial, to these propositions so reported by the committee, no opposition was given by that illustrious personage, or by the president of the State of Pennsylvania. They both appeared cordially to approve them, and to give them their hearty concurrence; yet this system, I am confident, Mr. Speaker, there is not a member in this house would advocate, or who would hesitate one moment in saying it ought to be rejected. I mention this circumstance in compliance with the duty I owe this honorable body, not with a view to lessen those exalted characters, but to shew how far the greatest and best of men may be led to adopt very improper measures, through error in judgment, State influence, or by other causes, and to shew that it is our duty not to suffer our eyes to be so far dazzled by the splendor of names, as to run blindfolded into what may be our destruction.</p>
+<p>Mr. Speaker, I revere those illustrious personages as much as any man here. No man has a higher sense of the important services they have rendered this country. No member of the convention went there more disposed to pay a deference to their opinions; but I should little have deserved the trust this State reposed in me, if I could have sacrificed its dearest interests to my complaisance for their sentiments.</p>
+<p>(To be continued.)</p>
+
+  
+
+  </div>
+
+  </main>
+  </div>
+</div>
+
+</body>
+</html>

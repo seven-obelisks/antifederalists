@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Genuine Information VI | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+</head>
+<body>
+<div class="flex-box">
+  <div class="flex1">
+    <div class="sidebar">
+  <header>
+    <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Antifederalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">The Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="active">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+  </header>
+  <footer>
+<button id="dark-toggle" 
+  data-light="/images/lantern-light.png"
+  data-dark="/images/lantern-dark.png">
+  <span id="dark-toggle-icon"></span>
+</button>
+
+
+    <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.12</em></p>
+
+  </footer>
+  </div>
+  </div>
+  <div class="flex2">
+  <main>
+    
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Antifederalist Papers</a>
+    / <a href="/papers/luther/">Luther Martin</a>
+
+  / <span>Genuine Information VI</span>
+</nav>
+
+  <h3 class="page-h3">Genuine Information VI</h3>
+</div>
+<div class="page-white">
+  <h5 id="january-15-1788">January 15, 1788</h5>
+<p><em>Mr. Martin’s Information to the House of Assembly, continued.</em></p>
+<p>The seventh section of this article was also the subject of contest. It was thought by many members of the convention, that it was very wrong to confine the origination of all revenue bills to the house of representatives, since the members of the senate will be chosen by the people as well as the members of the house of delegates, if not immediately, yet mediately, being chosen by the members of the State legislature, which members are elected by the people, and that it makes no real difference whether a person doth a thing in person, or by a deputy, or agent, appointed by him for that purpose.</p>
+<p>That no argument can be drawn from the house of Lords in the British constitution, since they are neither mediately or immediately the representatives of the people, but are one of the three estates, composing that kingdom, having hereditary rights and privileges distinct from, and independent of, the people.</p>
+<p>That it may, and probably will be a fruitful source of dispute and controversy between the two branches, what are, or are not, revenue bills, and the more so, as they are not defined in the constitution; which controversies may be difficult to settle, and may become serious in their consequences, there being no power in the constitution to decide upon, or authorised in cases of absolute necessity to terminate them by a prorogation or dissolution of either of the branches; a remedy provided in the British constitution, where the King has that power, which has been found necessary at times to be exercised in case of violent dissentious between the Lords and Commons on the subject of money bills.</p>
+<p>That every regulation of commerce every law relative to excises stamps the post office the imposition of taxes, and their collection the creation of courts and offices; in fine, every law for the union, if enforced by any pecuniary sanctions, as they would tend to bring money into the continental treasury, might and probably would be considered a revenue act. That consequently the senate, the members of whom will probably be the most select in their choice, and consist of men the most enlightened and of the greatest abilities, who from the duration of their appointment, and the permanency of their body, will probably be best acquainted with the common concerns of the States, and with the means of providing for them, will be rendered almost useless as a part of the legislature; and that they will have but little to do in that capacity, except patiently to wait the proceedings of the house of representatives, and afterwards examine and approve, or propose amendments.</p>
+<p>There were also objections to that part of this section which relates to the negative of the president. There were some who thought no good reason could be assigned for giving the president a negative of any kind. Upon the principle of a check to the proceedings of the legislature, it was said to be unnecessary. That the two branches having a controul over each others proceedings and the senate being chosen by the State legislatures, and being composed of members from the different States, there would always be a sufficient guard against measures being hastily or rashly adopted.</p>
+<p>That the president was not likely to have more wisdom or integrity than the senators, or any of them, or to better know or consult the interest of the States, than any member of the senate, so as to be entitled to a negative on that principle. And as to the precedent from the British constitution (for we were eternally troubled with arguments and precedents from the British government) it was said it would not apply. The King of Great Britain there composed one of the three estates of the kingdom he was possessed of rights and privileges, as such, distinct from the Lords and Commons; rights and privileges which descended to his heirs, and were inheritable by them; that for the preservation of these it was necessary he should have a negative, but that this was not the case with the president of the United States, who was no more than an officer of government, the sovereignty of which was not in him, but in the legislature. And it was further urged, even if he was allowed a negative, it ought not to be of so great extent as that given by the system, since his single voice is to countervail the whole of either branch, and any number less than two thirds of the other; however, a majority of the convention was of a different opinion, and adopted as it now makes a part of the system.</p>
+<p>(By the eighth section of this article, Congress is to have power to lay and collect taxes, duties, imposts, and excises. . When we met in convention after our adjournment, to receive the report of the committee of detail, the members of that committee were requested to inform us what powers were meant to be vested in Congress by the word duties in this section, since the word imposts extended to duties on goods imported, and by another part of the system no duties on exports were to be laid. In answer to this inquiry we were informed, that it was meant to give the general government the power of laying stamp duties on paper, parchment and vellum. We then proposed to have the power inserted in express words, least disputes hereafter might arise on the subject, and that the meaning might be understood by all who were to be affected by it; but to this it was objected, because it was said that the word stamp would probably sound odiously in the ears of many of the inhabitants, and be a cause of objection. By the power of imposing stamp duties the Congress will have a right to declare that no wills, deeds, or other instruments of writing shall be good and valid, without being stamped that without being reduced to writing and being stamped, no bargain, sale, transfer of property, or contract of any kind or nature whatsoever shall be binding; and also that no exemplifications of records, depositions, or probates of any kind shall be received in evidence, unless they have the same solemnity. They may likewise oblige all proceedings of a judicial nature to be stamped to give them effect those stamp duties may be imposed to any amount they please, and under the pretence of securing the collection of these duties, and to prevent the laws which imposed them from being evaded, Congress may bring the decision of all questions relating to the conveyance, disposition and rights of property and every question relating to contracts between man and man into the courts of the general government. Their inferior courts in the first instance and the superior court by appeal. By the power to lay and collect imposts, they may impose duties on any or every article of commerce imported into these States to what amount they please. By the power to lay excises, a power very odious in its nature, since it authorises officers to go into your houses, your kitchens, your cellars, and to examine into your private concerns, the Congress may impose duties on every article of use or consumption, on the food that we eat on the liquors we drink on the cloathes that we wear the glass which enlighten our houses or the hearths necessary for our warmth and comfort. By the power to lay and collect taxes, they may proceed to direct taxation on every individual either by a capitation tax on their heads, or an assessment on their property. By this part of the section therefore, the government has a power to lay what duties they please on goods imported to lay what duties they please afterwards on whatever we use or consume to impose stamp duties to what amount they please, and in whatever cases they please afterwards to impose on the people direct taxes, by capitation tax, or by assessment, to what amount they choose, and thus to sluice them at every vein as long as they have a drop of blood, without any controul, limitation or restraint while all the officers for collecting these taxes, stamp duties, imposts and excises, are to be appointed by the general government, under its direction, not accountable to the States; nor is there even a security that they shall be citizens of the respective States, in which they are to exercise their offices; at the same time the construction of every law imposing any and all these taxes and duties, and directing the collection of them, and every question arising thereon, and on the conduct of the officers appointed to execute these laws, and to collect these taxes and duties so various in their kinds, are taken away from the courts of justice of the different States, and confined to the courts of the general government, there to be heard and determined by judges holding their offices under the appointment not of the States, but of the general government.)2</p>
+<p>Many of the members, and myself in the number, thought that the States were much better judges of the circumstances of their citizens, and what sum of money could be collected from them by direct taxation, and of the manner in which it could be raised, with the greatest ease and convenience to their citizens, than the general government could be; and that the general government ought not in any case to have the power of laying direct taxes, but in that of the delinquency of a State. Agreeable to this sentiment, I brought in a proposition on which a vote of the convention was taken. The proposition was as follows: “And wherever the legislature of the United States shall find it necessary that revenue should be raised by direct taxation, having apportioned the same by the above rule, requisitions shall be made of the respective States to pay into the continental treasury their respective quotas within a time in the said requisition to be specified, and in case of any of the States failing to comply with such requisition, then and then only, to have power to devise and pass acts directing the mode and authorising the collection of the same.”3 Had this proposition been acceded to, the dangerous and oppressive power in the general government of imposing direct taxes on the inhabitants, which it now enjoys in all cases, would have been only vested in it in case of the non compliance of a State, as a punishment for its delinquency, and would have ceased that moment that the State complied with the requisition. But the proposition was rejected by a majority, consistent with their aim and desire of encreasing the power of the general government as far as possible, and destroying the powers and influence of the States. And though there is a provision that all duties, imposts and excises shall be uniform, that is, to be laid to the same amount on the same articles in each State, yet this will not prevent Congress from having it in their power to cause them to fall very unequal and much heavier on some States than on others, because these duties may be laid on articles but little or not at all used in some States, and of absolute necessity for the use and consumption of others, in which case the first would pay little or no part of the revenue arising therefrom, while the whole or nearly the whole of it would be paid by the last, to wit, the States which use and consume the articles on which the imposts and excises are laid.</p>
+<p>By our original articles of confederation, the Congress have a power to borrow money and emit bills of credit on the credit of the United States. Agreeable to which was the report on this system as made by the committee of detail. When we came to this part of the report a motion was made to strike out the words “to emit bills of credit;” against the motion we urged, that it would be improper to deprive the Congress of that power that it would be a novelty unprecedented to establish a government which should not have such authority. That it was impossible to look forward into futurity so far as to decide that events might not happen that should render the exercise of such a power absolutely necessary. And that we doubted whether if a war should take place it would be possible for this country to defend itself without having recourse to paper credit, in which case there would be a necessity of becoming a prey to our enemies, or violating the constitution of our government; and that considering the administration of the government would be principally in the hands of the wealthy there could be little reason to fear an abuse of the power by an unnecessary or injurious exercise of it. But, Sir, a majority of the convention, being wise beyond every possible event, and being willing to risque any political evil rather than admit the idea of a paper emission, in any possible event, refused to trust this authority to a government, to which they were lavishing the most unlimited powers of taxation, and to the mercy of which they were willing blindly to trust the liberty and property of the citizens of every State in the union; and they erased that clause from the system. (Among other powers given to this government in the eighth section it has that of appointing tribunals inferior to the supreme court; to this power there was an opposition. It was urged that there was no occasion for inferior courts of the general government to be appointed in the different States, and that such ought not to be admitted. That the different State judiciaries in the respective States would be competent to, and sufficient for, the cognizance in the first instance of all cases that should arise under the laws of the general government, which being by this system made the supreme law of the States, would be binding on the different State judiciaries. That by giving an appeal to the supreme court of the United States, the general government would have a sufficient check over their decisions, and security for the enforcing of their laws. That to have inferior courts appointed under the authority of Congress in the different States, would eventually absorb and swallow up the State judiciaries, by drawing all business from them to the courts of the general government, which the extensive and undefined powers, legislative and judicial, of which it is possessed, would easily enable it to do. That it would unduly and dangerously encrease the weight and influence of Congress in the several States, be productive of a prodigious number of officers, and be attended with an enormous additional and unnecessary expence. That the judiciaries of the respective States not having power to decide upon the laws of the general government, but the determination on those laws being confined to the judiciaries appointed under the authority of Congress in the first instance, as well as on appeal, there would be a necessity for judges or magistrates of the general government, and those to a considerable number, in each county of every State. That there would be a necessity for courts to be holden by them in each county and that these courts would stand in need of all their proper officers such as sheriffs, clerks and others commissioned, under the authority of the general government. In fine, that the administration of justice, as it will relate to the laws of the general government would require in each State all the magistrates, courts, officers and expence, which is now found necessary in the respective States for the administration of justice as it relates to the laws of the State governments. But here again we were overruled by a majority, who assuming it as a principle that the general government and the State governments (as long as they should exist) would be at perpetual variance and enmity, and that their interests would constantly be opposed to each other, insisted for that reason that the State judges being citizens of their respective States, and holding their commission under them, ought not though acting on oath, to be entrusted in the administration of the laws of the general government.)</p>
+<p>(To be continued. )</p>
+
+  
+
+  </div>
+
+  </main>
+  </div>
+</div>
+
+</body>
+</html>

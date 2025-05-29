@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Genuine Information X | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+</head>
+<body>
+<div class="flex-box">
+  <div class="flex1">
+    <div class="sidebar">
+  <header>
+    <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Antifederalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">The Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="active">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+  </header>
+  <footer>
+<button id="dark-toggle" 
+  data-light="/images/lantern-light.png"
+  data-dark="/images/lantern-dark.png">
+  <span id="dark-toggle-icon"></span>
+</button>
+
+
+    <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.12</em></p>
+
+  </footer>
+  </div>
+  </div>
+  <div class="flex2">
+  <main>
+    
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Antifederalist Papers</a>
+    / <a href="/papers/luther/">Luther Martin</a>
+
+  / <span>Genuine Information X</span>
+</nav>
+
+  <h3 class="page-h3">Genuine Information X</h3>
+</div>
+<div class="page-white">
+  <h5 id="march-01-1788">March 01, 1788</h5>
+<p><em>Mr. Martin’s Information to the House of Assembly, continued.</em></p>
+<p>By the third article, the judicial power of the United States is vested in one supreme court, and in such inferior courts, as the Congress may from time to time ordain and establish.-These courts, and these only, will have a right to decide upon the laws of the United States, and all questions arising upon their construction, and in a judicial manner to carry those laws into execution; to which the courts both superior and inferior of the respective States and their judges and other magistrates are rendered incompetent.-To the courts of the general government are also confined all cases in law or equity, arising under the proposed constitution, and treaties made under the authority of the United States-all cases affecting ambassadors, other public ministers and consuls-all cases of admiralty and maritime jurisdiction-all controversies to which the United States are a party-all controversies between two or more States-between a State and citizens of another State-between citizens of the same State claiming lands under grants of different States, and between a State or the citizens thereof, and foreign States, citizens, or subjects.-Whether therefore, any laws or regulations of the Congress, or any acts of its president or other officers are contrary to, or not warranted by the constitution, rests only with the judges, who are appointed by Congress to determine; by whose determinations every State must be bound.-Should any question arise between a foreign consul and any of the citizens of the United States, however remote from the seat of empire, it is to be heard before the judiciary of the general government, and in the first instance to be heard in the supreme court, however inconvenient to the parties, and however trifling the subject of dispute.</p>
+<p>Should the mariners of an American or foreign vessel, while in any American port, have occasion to sue for their wages, or in any other in-stance a controversy belonging to the admiralty jurisdiction should take place between them and their masters or owners, it is in the courts of the general government the suit must be instituted-and either party may carry it by appeal to its supreme court-the injury to commerce and the oppression to individuals which may thence arise need not be enlarged upon.-Should a citizen of Virginia, Pennsylvania, or any other of the United States be indebted to, or have debts due from, a citizen of this State, or any other claim be subsisting on one side or the other, in consequence of commercial or other transactions, it is only in the courts of Congress that either can apply for redress. The case is the same should any claims subsist between citizens of this State and foreigners, merchants, mariners and others, whether of a commercial or of any other nature, they must be prosecuted in the same courts; and though in the first instance they may be brought in the inferior, yet an appeal may be made to the supreme judiciary, even from the remotest State in the union.</p>
+<p>The inquiry concerning, and trial of every offence against, and breach of the laws of Congress are also confined to its courts-the same courts also have the sole right to inquire concerning and try every offence, from the lowest to the highest, committed by the citizens of any other State, or of a foreign nation, against the laws of this State within its territory-and in all these cases the decision may be ultimately brought before the supreme tribunal, since the appellate jurisdiction extends to criminal as well as to civil cases.</p>
+<p>And in all those cases where the general government has jurisdiction in civil questions, the proposed constitution not only makes no provision for the trial by jury in the first instance, but by its appellate jurisdiction absolutely takes away that inestimable priviledge, since it expressly declares the supreme court shall have appellate jurisdiction both as to law and fact.-Should, therefore, a jury be adopted in the inferior court, it would only be a needless expence, since on an appeal the determination of that jury even on questions of fact, however honest and upright, is to be of no possible effect-the supreme court is to take up all questions of fact-to examine the evidence relative thereto-to decide upon them in the same manner as if they had never been tried by a jury-Nor is trial by jury secured in criminal cases; it is true, that in the first instance, in the inferior court the trial is to be by jury, in this and in this only, is the difference between criminal and civil cases; but, Sir, the appellate jurisdiction extends, as I have observed, to cases criminal as well as to civil, and on the appeal the court is to decide not only on the law but on the fact, if, therefore, even in criminal cases the general government is not satisfied with the verdict of the jury, its officer may remove the prosecution to the supreme court, and there the verdict of the jury is to be of no effect, but the judges of this court are to decide upon the fact as well as the law, the same as in civil cases.</p>
+<p>Thus, Sir, jury trials, which have ever been the boast of the English constitution, which have been by our several State constitutions so cautiously se-cured to us, jury trials which have so long been considered the surest barrier against arbitrary power, and the palladium of liberty,-with the loss of which the loss of our freedom may be dated, are taken away by the proposed form of government, not only in a great variety of questions between individual and individual, but in every case whether civil or criminal arising under the laws of the United States or the execution of those laws.-It is taken away in those very cases where of all others it is most essential for our liberty, to have it sacredly guarded and preserved-in every case whether civil or criminal, between governmentand its officers on the one part and the subject or citizen on the other.-Nor was this the effect of inattention, nor did it arise from any real difficulty in establishing and securing jury trials by the proposed constitution, if the convention had wished so to do-But the same reason influenced here as in the case of the establishment of inferior courts;-as they could not trust State judges, so would they not confide in State juries.–They alledged that the general government and the State governments would always be at variance-that the citizens of the different States would enter into the views and interests of their respective States, and therefore ought not to be trusted in determining causes in which the general government was any way interested, without giving the general government an opportunity, if it disapproved the verdict of the jury, to appeal, and to have the facts examined into again and decided upon by its own judges, on whom it was thought a reliance might be had by the general government, they being appointed under its authority.</p>
+<p>Thus, Sir, in consequence of this appellate jurisdiction and its extension to facts as well as to law, every arbitrary act of the general government, and every oppression of all those variety of officers appointed under its authority for the collection of taxes, duties, impost, excise, and other purposes, must be submitted to by the individual, or must be opposed with little prospect of success and almost a certain prospect of ruin, at least in those cases where the middle and common class of citizens are interested-Since to avoid that oppression, or to obtain redress, the application must be made to one of the courts of the United States-by good fortune should this application be in the first in-stance attended with success, and should damages be recovered equivalent to the injury sustained, an appeal lies to the supreme court, in which case the citizen must at once give up his cause, or he must attend to it at the distance of perhaps more than a thousand miles from the place of his residence, and must take measures to procure before that court on the appeal all the evidence necessary to support his action, which even if ultimately prosperous must be attended with a loss of time, a neglect of business, and an expence which will be greater than the original grievance, and to which men in moderate circumstances would be utterly unequal.</p>
+<p>By the third section of this article it is declared that treason against the United States, shall consist in levying war against them, or in adhering to their enemies giving them aid or comfort.</p>
+<p>By the principles of the American revolution, arbitrary power may and ought to be resisted even by arms if necessary-The time may come when it shall be the duty of a State, in order to preserve itself from the oppression of the general government, to have recourse to the sword-In which case the pro-posed form of government declares that the State and every of its citizens who act under its authority are guilty of a direct act of treason-reducing by this provision the different States to this alternative that they must tamely and passively yield to despotism or their citizens must oppose it at the hazard of the halter if unsuccessful-and reducing the citizens of the State which shall take arms to a situation in which they must be exposed to punishment, let them act as they will, since if they obey the authority of their State government, they will be guilty of treason against the United States-if they join the general government they will be guilty of treason against their own State.</p>
+<p>To save the citizens of the respective States from this disagreeable di-lemma, and to secure them from being punishable as traitors to the United States when acting expressly in obedience to the authority of their own State, I wished to have obtained as an amendment to the third section of this article the following clause: “Provided that no act or acts done by one or more of the States against the United States, or by any citizen of any one of the United States under the authority of one or more of the said States, shall be deemed treason or punished as such; but in case of war being levied by one or more of the States against the United States the conduct of each party towards the other, and their adherents respectively, shall be regulated by the laws of war and of nations.</p>
+<p>But this provision was not adopted, being too much opposed to the great object of many of the leading members of the convention, which was by all means to leave the States at the mercy of the general government, since they could not succeed in their immediate and entire abolition.</p>
+<p>(To be continued.)</p>
+
+  
+
+  </div>
+
+  </main>
+  </div>
+</div>
+
+</body>
+</html>

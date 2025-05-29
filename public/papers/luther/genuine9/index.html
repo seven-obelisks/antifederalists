@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Genuine Information IX | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+</head>
+<body>
+<div class="flex-box">
+  <div class="flex1">
+    <div class="sidebar">
+  <header>
+    <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Antifederalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">The Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="active">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+  </header>
+  <footer>
+<button id="dark-toggle" 
+  data-light="/images/lantern-light.png"
+  data-dark="/images/lantern-dark.png">
+  <span id="dark-toggle-icon"></span>
+</button>
+
+
+    <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.12</em></p>
+
+  </footer>
+  </div>
+  </div>
+  <div class="flex2">
+  <main>
+    
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Antifederalist Papers</a>
+    / <a href="/papers/luther/">Luther Martin</a>
+
+  / <span>Genuine Information IX</span>
+</nav>
+
+  <h3 class="page-h3">Genuine Information IX</h3>
+</div>
+<div class="page-white">
+  <h5 id="january-29-1788">January 29, 1788</h5>
+<p><em>Mr. Martin’s Information to the House of Assembly, continued.</em></p>
+<p>The second article, relates to the executive—his mode of election—his powers—and the length of time he should continue in office.</p>
+<p>On these subjects, there was a great diversity of sentiment—Many of the members were desirous that the president should be elected for seven years, and not to be eligible a second time—others proposed that he should not be absolutely ineligible, but that he should not be capable of being chosen a second time, until the expiration of a certain number of years—The supporter of the above propositions, went upon the idea that the best security for liberty was a limited duration and a rotation of office in the chief executive department.</p>
+<p>’There was a party who attempted to have the president appointed during good behaviour, without any limitation as to time, and not being able to succeed in that attempt, they then endeavoured to have him re—eligible without any restraint.—It was objected that the choice of a president to continue in office during good behaviour, would be at once rendering our system an elective monarchy—and, that if the president was to be re—eligible without any interval of disqualification, it would amount nearly to the same thing, since with the powers that the president is to enjoy, and the interest and influence with which they will be attended, he will be almost absolutely certain of being re—elected from time to time, as long as he lives—As the propositions were reported by the committee of the whole house, the president was to he chosen for seven years, and not to be eligible at any time after—In the same manner the proposition was agreed to in convention, and so was it reported by the committee of detail, although a variety of attempts were made to alter that part of the system by those who were of a contrary opinion, in which they repeatedly failed; but, Sir, by never losing sight of their object, and choosing a proper time for their purpose, they succeeded at length in obtaining the alteration, which was not made until within the last twelve days before the convention adjourned.’</p>
+<p>As the propositions were agreed to by the committee of the whole house, the president was to be appointed by the national legislature, and as it was reported by the committee of detail, the choice was to be made by ballot in such a manner, that the States should have an equal voice in the appointment of this officer, as they, of right, ought to have; but those who wished as far as possible to establish a national instead of a federal government, made repeated attempts to have the president chosen by the people at large; on this the sense of the convention was taken, I think not less than three times while I was there, and as often rejected;’ but within the last fortnight of their session, they obtained the alteration in the manner it now stands, by which the large States have a very undue influence in the appointment of the pres—ident.—There is no case where the States will have an equal voice in the appointment of the president, except where two persons shall have each an equal number of votes, and those a majority of the whole number of electors, a case very unlikely to happen, or where no person has a majority of the votes; in these instances the house of representatives are to choose by ballot, each State having an equal voice, but they are confined in the last instance to the five who have the greatest number of votes, which gives the largest States a very unequal chance of having the president chose under their nomination.</p>
+<p>As to the vice—president, that great officer of government, who is in case of death, resignation, removal or inability of the president, to supply his place, and be vested with his powers, and who is officially to be the president of the senate, there is no provision by which a majority of the voices of the electors are necessary for his appointment, but after it is decided who is chosen president, that person who has the next greatest number of votes of the electors, is declared to be legally elected to the vice—presidency, so that by this system it is very possible, and not improbable, that he may be appointed by the electors of a single large State; and a very undue influence in the senate is given to that State of which the vice—president is a citizen, since in every question where the senate is divided that State will have two votes, the president having on those occasions a casting voice.—Every part of the system which relates to the vice—president, as well as the present mode of electing the president, was introduced and agreed upon after I left Philadelphia.</p>
+<p>Objections were made to that part of this article, by which the president is appointed commander in chief of the army and navy of the United States, and of the militia of the several States, and it was wished to be so far restrained, that he should not command in person; but this could not be obtained.4—The power given to the president of granting reprieves and pardons, was also thought extremely dangerous, and as such opposed—The president thereby has the power of pardoning those who are guilty of treason, as well as of other offences; it was said that no treason was so likely to take place as that in which the president himself might be engaged—the attempt to assume to himself powers not given by the constitution, and establish himself in regal authority—in which attempt a provision is made for him to secure from punishment the creatures of his ambition, the associates and abettors of his treasonable practices, by granting them pardons should they be defeated in their attempts to subvert the constitution.</p>
+<p>To that part of this article also, which gives the president a right to nominate, and with the consent of the senate to appoint all the officers, civil and military, of the United States, there were considerable opposition—it was said that the person who nominates, will always in reality appoint, and that this was giving the president a power and influence which together with the other powers, bestowed upon him, would place him above all restraint and controul. In fine, it was urged, that the president as here constituted, was a king in every thing but the name—that though he was to be chosen but for a limited time, yet at the expiration of that time if he is not re—elected, it will depend entirely upon his own moderation whether he will resign that authority with which he has once been invested—that from his having the appointment of all the variety of officers in every part of the civil department for the union, who will be very numerous—in them and their connexions, relations, friends and dependants, he will have a formidable host devoted to his interest, and ready to support his ambitious views.—That the army and navy, which may be encreased without restraint as to numbers, the officers of which from the highest to the lowest, are all to be appointed by him and dependant on his will and pleasure, and commanded by him in person, will, of course, be subservient to his wishes, and ready to execute his commands; in addition to which, the militia also are entirely subjected to his orders—That these cir—cumstances, combined together, will enable him, when he pleases, to become a king in name, as well as in substance, and establish himself in office not only for his own life, but even if he chooses, to have that authority perpetuated to his family.</p>
+<p>It was further observed, that the only appearance of responsibility in the president, which the system holds up to oxir view, is the provision for impeachment; but that when we reflect that he cannot be impeached but by the house of delegates, and that the members of this house are rendered dependant upon, and unduly under the influence of the president, by being appointable to offices of which he has the sole nomination, so that without his favour and approbation, they cannot obtain them, there is little reason to believe that a majority will ever concur in impeaching the president, let his conduct be ever so reprehensible, especially too, as the final event of that impeachment will depend upon a different body, and the members of the house of delegates will be certain, should the decision be ultimately in favour of the president, to become thereby the objects of his displeasure, and to bar to themselves every avenue to the emoluments of government.</p>
+<p>Should he, contrary to probability, be impeached, he is afterwards to be tried and adjudged by the senate, and without the concurrence of two—thirds of the members who shall be present, he cannot be convicted—This senate being constituted a privy council to the president, it is probable many of its leading and influential members may have advised or concurred in the very measures for which he may be impeached; the members of the senate also are by the system, placed as unduly under the influence of, and dependent upon the president, as the members of the other branch, since they also are appointable to offices, and cannot obtain them but through the favour of the president—There will be great, important and valuable offices under this government, should it take place, more than sufficient to enable him to hold out the expectation of one of them to each of the senators—Under these circumstances, will any person conceive it to be difficult for the president always to secure to himself more than one—third of that body? Or, can it reasonably be believed, that a criminal will be convicted who is constitutionally empowered to bribe his judges, at the head of whom is to preside on those occasions the chief justice, which officer in his original appointment, must be nominated by the president, and will therefore, probably, be appointed not so much for his eminence in legal knowledge and for his integrity, as from favouritism and influence, since the president knowing that in case of impeachment the chief justice is to preside at his trial, will naturally wish to fill that office with a person of whose voice and influence he shall consider himself secure.—These are reasons to induce a belief that there will be but little probability of the president ever being either impeached or convicted; but it was also urged, that vested with the powers which the system gives him and with the influence attendant upon those powers, to him it would be but of little consequence whether he was impeached or convicted, since he will be able to set both at defiance.—These considerations occasioned a part of the convention to give a negative to this part of the system establishing the executive as it is now offered for our acceptance.</p>
+<p>(To be continued).</p>
+
+  
+
+  </div>
+
+  </main>
+  </div>
+</div>
+
+</body>
+</html>
