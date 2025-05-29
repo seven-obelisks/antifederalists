@@ -359,7 +359,7 @@ button {
 
 /* ========== Dark Mode Toggle ========== */
 
-.dark-toggle {
+#dark-toggle {
   background: none;
   font-size: 18px;
   padding:10px 25px;
@@ -369,11 +369,11 @@ button {
   border:2px solid #fff;
 }
 
-.dark-toggle span{
+#dark-toggle span{
   padding-top:20px;
 }
 
-body.dark .dark-toggle {
+body.dark #dark-toggle {
   background: #fff;
   background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(250, 235, 215, 1) 100%);
   border:2px solid #fff;

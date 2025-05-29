@@ -21,11 +21,14 @@ document.addEventListener("DOMContentLoaded", function () {
   const icon = document.getElementById("dark-toggle-icon");
   const savedMode = localStorage.getItem("theme");
 
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
   const applyTheme = (isDark) => {
     document.body.classList.toggle("dark", isDark);
     icon.innerHTML = isDark
-      ? '<img src="/images/lantern-light.png" alt="Light Mode" width="25" style="vertical-align:middle; "><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>'
-      : '<img src="/images/lantern-dark.png" alt="Dark Mode" width="25" style="vertical-align:middle; "><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>';
+      ? `<img src="${lightIcon}" alt="Light Mode" width="25" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="25" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
   };
 
   const initialDark = savedMode === "dark";
@@ -34,9 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
   toggle.addEventListener("click", () => {
     const isDark = document.body.classList.toggle("dark");
     localStorage.setItem("theme", isDark ? "dark" : "light");
-    icon.innerHTML = isDark
-      ? '<img src="/images/lantern-light.png" alt="Light Mode" width="25" style="vertical-align:middle; "><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>'
-      : '<img src="/images/lantern-dark.png" alt="Dark Mode" width="25" style="vertical-align:middle; "><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>';
+    applyTheme(isDark);
   });
 });
 </script>

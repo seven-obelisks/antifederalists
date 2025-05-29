@@ -11,9 +11,13 @@
     {{ partial "header.html" . }}
   </header>
   <footer>
-    <button id="dark-toggle" aria-label="Toggle dark mode" class="dark-toggle">
-      <span id="dark-toggle-icon">Toggle</span>
-    </button>
+<button id="dark-toggle" 
+  data-light="{{ "images/lantern-light.png" | relURL }}"
+  data-dark="{{ "images/lantern-dark.png" | relURL }}">
+  <span id="dark-toggle-icon"></span>
+</button>
+
+
     {{ partial "footer.html" . }}
   </footer>
   </div>
