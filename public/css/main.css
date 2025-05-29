@@ -361,8 +361,8 @@ button {
 
 #dark-toggle {
   background: none;
-  font-size: 18px;
-  padding:10px 25px;
+  font-size: 16px;
+  padding:5px 15px 5px 10px;
   cursor: pointer;
   color:#fff;
   border-radius:10px;
