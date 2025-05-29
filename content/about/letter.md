@@ -4,7 +4,7 @@ draft: false
 summary: A message from the site's editor and custodian.
 ---
 
-Fellow Citizen,
+*Fellow Citizen,*
 
 Our founding fathers were complicated men, a truth evident from any reading of the United States Constitution.
 
@@ -12,7 +12,7 @@ Their vociferous belief in liberty and independence is easily drowned out by the
 
 Despite these contradictions, it's equally obvious that many of our founders appreciated the tyranny a government could impose upon its citizenry. This was especially the case for the Anti-Federalists, the derisive name given to those who opposed the creation of a strong central government as envisioned by the Constitution. Thanks to their persistent efforts during its drafting, the Bill of Rights was included to enshrine our individual rights.
 
-Today, nearly 250 years since the founding of our republic, their words are more important than ever. At times, their words can be eerily prescient:
+Today, nearly 250 years since the founding of our republic, their words are more important than ever. At times, they can be eerily prescient:
 
 >This, sir, is my great objection to the Constitution, that there is no true responsibility — and that the preservation of our liberty depends on the single chance of men being virtuous enough to make laws to punish themselves. <br>
 >[Patrick Henry](https://antifederalism.org/speeches/henry/henry1/)

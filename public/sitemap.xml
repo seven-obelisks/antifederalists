@@ -47,6 +47,9 @@
     <loc>http://localhost:1313/billofrights/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/others/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/speeches/henry/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,6 +62,9 @@
     <loc>http://localhost:1313/papers/farmer/farmer1/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/others/scourge1/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/agrippa/agrippa2/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,6 +75,9 @@
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel2/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/others/oneofthepeople/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry2/</loc>

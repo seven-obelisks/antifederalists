@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>The Scourge | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+</head>
+<body>
+<div class="flex-box">
+  <div class="flex1">
+    <div class="sidebar">
+  <header>
+    <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Antifederalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">The Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="active">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+  </header>
+  <footer>
+<button id="dark-toggle" 
+  data-light="/images/lantern-light.png"
+  data-dark="/images/lantern-dark.png">
+  <span id="dark-toggle-icon"></span>
+</button>
+
+
+    <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.12</em></p>
+
+  </footer>
+  </div>
+  </div>
+  <div class="flex2">
+  <main>
+    
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Antifederalist Papers</a>
+    / <a href="/papers/others/">Other Papers</a>
+
+  / <span>The Scourge</span>
+</nav>
+
+  <h3 class="page-h3">The Scourge</h3>
+</div>
+<div class="page-white">
+  <h5 id="23-january-1788">23 January 1788</h5>
+<blockquote>
+<p>JUDGES.–3, Chap.–21, v.–And Ehud put forth his left hand and took the dagger from his right thigh and thrust it into his belly, verse 22, and the dirt came out—My father chastised you with whips but I will chastise you with scorpions. First Kings. 19th Chap. 11th V.</p></blockquote>
+<p>The various and repeated defeats which that party who arrogates to themselves the appellation of federalists has received from the friends of liberty in Carlisle has almost tortured their souls to distraction; many schemes of revenge have been devised which have proved unsuccessful—Immediately after their last attempt to rejoice was baffled, they betook themselves to law for revenge; as this was their native region (some of the principal partisans being attorneys) they assured themselves of an easy victory, and solaced their ravenous souls with an ample and speedy glut of revenge; threats, menaces and awful denunciations were now issued out; nothing less than gaols, dungeons, chains and fetters, were to be the portion of their adversaries, but their bravadoes were all visionary, their dastardly souls shrunk back into their own native cowardice, and their sanguinary hopes of vengeance were again disappointed. They then betook themselves to scribbling; here again they promised themselves the advantage, having the learned professions on their side, and by the help of their invention they fabricated a system of falsehood and misrepresentations, and procured an old man whom they before employed as a spy to father them, which they published in the Carlisle Gazette; this provoked one of the people to draw forth the dagger of truth and thrust it into their bellies, which had the very effect he expected, and which naturally results from such causes, viz. the dirt came out. I don’t undertake the disagreeable task of wading through such heaps of putrid matter from any design to point forth their nauseous qualities to the public; to suppose they needed this, would be an insult upon their understanding, but I am a passionate friend to liberty which makes me delight in tormenting tyrants; I must therefore give the dagger another thrust, for there is more dirt yet. The authors of the piece signed, another of the people, conscious that reason and truth detested their cause like the rest of their new federal brethren, betake themselves to personal slander, defamation and detraction, in order to vent their spleen and emit their disappointed malice: after a most virulent declamation by way of introduction they exclaim that “their piece is not the work of an attorney,” in this I grant they have justly corrected one of the people, perhaps it is not the work of one attorney, I will believe it employed the heads of all the attorneys then in town, and all the auxiliaries they could procure to compose it; and it certainly does honor to their literary acquisitions. They may without presumption vie with a Solon, a Lycurgus, a Montesquieu or an Adams; they add “nor of needy obscure and starving adventurers whose precarious freedom depends on the nod of their numerous creditors;” it is evident this alludes to the new-comers; large quantities of dirt of the same kind are disgorged in other places—they say, that “they are men equally void of credit, character or understanding;” and again, that “the old man would scarcely wish to barter an unembarrassed situation for poverty.” By all these dirty and malicious hints, it is evident that the old man and his party, envies the rising consequence of the new-comers, notwithstanding they affect to deny it; for it is manifest that such of the new-comers as is here pointed at, is in much better credit than many of their malicious adversaries, whose credit would not permit them to appear in Philadelphia this fall (Some of them has not gone down these nine, twelve and eighteen months, and some of their greatest nabobs these two years; we would despise mentioning such circumstances, were it not to contrast these unembarrassed characters with those whom they are pleased to represent as needy, starving adventurers, &amp;c.) least they should have a disagreeable interview with some of their “numerous creditors.” Who rose from a state of insignificance and contempt to an appearance of affluence, at the expense of the public, and retains that appearance at the nod of “their numerous creditors.” I wish the public to examine into the truth of these facts, and then say who has reason to boast of an unembarrassed situation. They further add, “nor of a man who lives in violation of every divine precept and moral duty;” perhaps the authors of the old man’s adopted brat may be very pious men for aught I know, but if they are, they have certainly sworn to conceal it from the rest of mankind, but men differ in opinion about religious as well as civil matters, perhaps they account it divine precepts and moral duties, to print falsehoods, threaten the lives of their neighbors, go to church once or twice of a Sunday to hear a solemn lecture on politics, blended with geography and astronomy, and interspersed with a few religious hints, and spend the remainder of the day in sacrificing to Bacchus; but it is evident this pious parade is not so much intended to embellish their own character as it is to defame that of another man’s, but as his character is established in Pennsylvania infinitely above the reach of their malicious insinuations, and as Cumberland county hath already given demonstration to the world that they esteem him a better man than any of their fraternity; I shall therefore leave the public indignation to be their scourge; and only observe, that it is evident the dagger has made a large orifice when such large quantities of dirt come out. Yet notwithstanding this great fluxion there is more dirt yet. The next passage that represents itself is of the same diabolical nature, they say, “nor of one who basely deserted a constitution which he approved by an uplifted hand in a town meeting, and who under the smile of complacency and benevolence conceals a black and most treacherous heart, and under the specious mantle of religion covers a most depraved mind, &amp;c.” It is really astonishing the distracted frenzy that disappointed rage will drive men to. One man they stigmatize as a violator of every divine precept, &amp;c. because he does not make a specious profession of religion—another they brand with detestable hypocrisy because he makes a profession of religion, and practices the duties thereof too, with much more uprightness, at least to human appearance (and we can judge no further) than any of his calumniators can pretend to; but the more good qualities he possesses the more obnoxious he is to their envenomed malevolence; they hate him because he is a man of honesty and integrity, and dare think for himself, and avow his principles; would he prostitute his understanding to act the deceitful parasite; the cringing tool, or fawning minion to our pretended quality. He would with the greatest alacrity be admitted “into the councils of the great,” but his magnanimous soul disdains such servile dissimulation. They talk of a well-dressed man wrestling with a chimney sweep; this is the comparison they draw between themselves and the people. Candid public: these are the men who endeavor by fraud and force, to cram down your throats a constitution which would immediately create them your rulers; they here present you with a small specimen of what treatment you may expect when their favorite constitution becomes “the supreme law of the land.” The most contemptuous and degrading epithets, is given to all such as are not of their faction; no better names than “rabble, mob, chimney sweeps, ragamuffins, vile, contemptible, senseless, ignorant, suited only by nature to a state of insignificance and contempt, is conferred on such citizens as oppose the ambitious views of this imperious junto—Rouse then my fellow citizens before it be too late; act with a spirit becoming freemen; convince the world and your adversaries too, who wish to become your tyrants—That you are not insensible of the invaluable blessings of liberty—That you esteem life and property, but secondary objects; when your liberty comes to be attacked.</p>
+<p>Teach these domineering despots who wish to rejoice, because they have a prospect of rioting on your spoils; that you perceive their designs, that you can both read and understand their constitution, &amp; spurn it with contempt. They make a flourish about deserting Rinn, and pray who deserted him. It is a certain fact that he was released from his chains at the request and intercession of our new federalists; that one of their champions brought his pardon from Philadelphia,—That they hired him for five shillings to assist them, his good friends and benefactors, in carrying on their rejoicing; that they deserted him without paying him his wages, and that he, unmindful of recent favours, gratified his revenge by burning their hackney sled, and the cannon carriage. May it not then be retorted on them with the strictest propriety, “for shame! for shame! Do not act so ungratefully by your worthy friend, for whom you had so lately discovered such a kindness by procuring for him his dear-bought liberty, his valiant and faithful services in your cause, (for which you never paid him), deserve a better return; pray then do not disown your guide and Captain of Artillery. [I understand the passage in their first piece “that some who opposed the rejoicing, had but lately stripped of the garb of British soldiers,” is pointed to a certain gentleman who belonged to a Volunteer Company in Ireland. (Men who bravely espoused the cause of liberty in their own country; nor will they desert it here). The gentleman alluded to, challenges the Poother Anatomy who circulated the insidious falsehood of a British soldier, to step forth and prove the assertion, otherwise he will be looked on with contempt, and treated accordingly. If his Pootership declines this reasonable demand, he may expect the public will consider him what he really is, a blazing meteor, or mere sky-rocket; but as the public are already in full possession of his faculty, and as he has formerly given a specimen of his vindictive, slanderous disposition, I shall dismiss him at present with wishing nothing worse to befall him, than he procured lately to a man of principles much superior to himself]; this would be adding the crime of ingratitude to that of lying, defaming and cheating the hireling of his wages.</p>
+<p>It is denied by them that the rejoicers had muskets, bayonets and bludgeons at the time of their rout, I know not what they had at the time of their rout, perhaps they threw them away that they might not encumber them in their flight; but that they had them immediately before their rout is a fact given in testimony, where no party-ridden lawyers were admitted as inquisitors, nor was the truth partly heard, and partly stifled, but the truth, the whole truth, and nothing but the truth was required and stated with the utmost precision; neither was self-accusation extorted from the simple and ignorant, by terror and menace, so that any person who may be solicitous to ascertain a true state of facts, may have information from other depositions besides those in the “upright magistrates” inquisition; upright indeed! rather the dupe and creature of a domineering faction. They affirm “the drum of the mob had not beat until the federalists left the ground,” the drum of the mob was their own drum, but if they mean the people’s drum it is a palpable falsehood; it can be proven by more than fifty witnesses, that the people’s drum beat around two squares before they (the federalists) left the ground.—They seem to be mightily chagrined at calling the intended rejoicers a mob, but why so much offended, they were only acting in unison with their new federal brethren in the city, whose conduct they cordially approved cheerfully recognized the authority of the mob in Philadelphia, who broke open private houses, and dragged two of the members through the streets to the State-House, and then guarded the Assembly while they were passing the resolutions for calling the state convention. The midnight mob headed by Jemey the Caledonian [James Wilson], who attacked the lodgings of the western members of Assembly and Council, on the night of the elections for convention men, was an upright, orderly association, and highly serviceable to the federal junto. The mob who insulted the western members, when advocating the rights of the people in convention, was of great utility, as they served to keep the members who were advocates for the proposed constitution, &amp;c. in countenance when reason and argument had deserted them—In a word were it not for the mob the new constitution would not yet have been adopted in Pennsylvania; and our Carlisle rejoicers would have wanted this cause “to be pleased,” and to assemble in a mobocratical manner, to express that pleasure. They further say “one of the captains had not slept off his night’s drunkenness;” what more dirt yet, will the fluxion never cease. It is notoriously known that the person here alluded to, maintains a character the very reverse of what they represent; and that his opposition to the rejoicing, proceeded from that love of freedom which stimulated him, to expose himself to perils and dangers, during the late struggle for American independence; when their old man, and other ringleaders of these pretended federalists, basely sculked behind the curtain. They say, “the other was unfit to appear as he had provoked a federalist, to bung his eyes on Wednesday evening;” I expected shame would have deterred them from mentioning falsehood, as the federalist carried the bung one of his eyes to the sham rejoicing day; and although the order appeared publicly, no such thing was to be but everything combines to prove “the dirt came out.”</p>
+<p>The passage in one of the people, which says, “that the rejoicers had weapons and numbers more than sufficient,” seems to give the dagger a violent thrust, and consequently draws forth a great eruption of dirt; they endeavor to represent it as an inconsistency with the passage, which says, “the rejoicing was contrary to the minds of three-fourths of the inhabitants;” but I would wish to know where the inconsistency lies; might not three-fourths of the inhabitants be against the rejoicing, and yet not one-eighth of them be on the spot to oppose it; very few of the inhabitants knew anything of the rejoicing, (the spunging club at the glimmering attorney’s excepted), until it was ripe for execution; so that only a few who caught the report by chance, were on the ground to oppose it. They say, “that some of the new-comers are respectable characters, and reprobate the conduct of their apostate countrymen.” Yes! such of them as are under petticoat government which is certainly a very respectable situation; I think those who submit to it, may be pretty easy what constitution is the “supreme law of the land.” They say “the threat in the concluding paragraph is the most despicable; they knew or might have known the authors by applying to the printers.” What! is it granted that the old man was not the author, then it seems, one of the people was right in his conjecture, that the piece was a bastard, and the old man only the adopting father, or rather grandfather.—Gentlemen, apply your own proverb, “liars should have good memories,” applying to the printers for the authors names we detest. We know it is the practice of our despotic opponents; but we contend for a free press, and abhor everything that has the least tendency to shackle it. Neither do we employ pimps and spies to catch what intelligence they can, by obtruding themselves upon companies, where their presence is as disagreeable and surfeiting as the fluxion of dirt which is emitted by the authors of another of the people.</p>
+<p>Thus I have so far dissected this putrid carcass, were I to take notice of all the dirt which it contains, I must transcribe the whole; but this is a task by far too laborious, disagreeable and nauseous.—Other persons pointed at will therefore excuse me, if I omit saying anything in their behalf; it greatly accelerates our business in this affair, that we have the goodwill, faith, and credit of the country on our side. We are struggling for their rights and liberties, as well as our own; which entitles us at least to their approbation, and (to the mortification of our adversaries), we have it in the most course with the following new song, entitled&hellip; The FEDERAL JOY, to the tune of Alexander, hated thinking.</p>
+<blockquote>
+<p>I. AWAKE my muse in copious numbers,</p>
+<p>Sing the federal joy compleat,</p>
+<p>The loud huzzas the cannon thunders</p>
+<p>Announce their triumphs to be great.</p>
+<p>II. Behold they march with curls flying,</p>
+<p>Weary steps, and powdered heads,</p>
+<p>Soften’d hands, with eyes espying</p>
+<p>Crowds of whigs assembled.</p>
+<p>III. But see they halt, &amp; now are forming</p>
+<p>Regular as veteran bands,</p>
+<p>Breathing defiance, scoffing, scorning,</p>
+<p>The low opposers of their plans.</p>
+<p>IV. But now a crew for constitution,</p>
+<p>Harshly then began to treat them,</p>
+<p>Despising federal institution,</p>
+<p>Nor aw’d by powder or pomatum.</p>
+<p>V. From words to blows, those vile aggressors,</p>
+<p>Rudely drove our harmless band,</p>
+<p>Despoil’d the work of their hair-­‐dressers,</p>
+<p>Daring assumed the chief command.</p>
+<p>VI. Now helter skelter in disorder,</p>
+<p>Flew our heroes to their homes,</p>
+<p>Happy their legs were in good order,</p>
+<p>To save from geting broken bones.</p>
+<p>VII. Lawyers, doctors and store-­‐keepers,</p>
+<p>Forsook their general in his need.</p>
+<p>And from their windows began peeping</p>
+<p>Viewing their valliant hero bleed.</p>
+<p>VIII. But like veterans in the morning,</p>
+<p>Appear’d in arms bright array,</p>
+<p>Revenge, Revenge, they cry’d when forming</p>
+<p>We ne’er again will run away.</p>
+<p>IX. Full thirteen rounds for federal honor</p>
+<p>Shall thunder loud, tho’ hell oppose;</p>
+<p>Display our new terrific banner,</p>
+<p>To intimidate our scurvy foes.</p>
+<p>X. Undauntedly three rounds they fir’d,</p>
+<p>When lo a drum, most dreadful sound</p>
+<p>Awak’d new fears, courage retir’d,</p>
+<p>Paleness in every face was found.</p>
+<p>XI. Again their shanks were put in motion,</p>
+<p>With rapid strides they homewards stretches,</p>
+<p>Or to avoid another portion,</p>
+<p>Or s -­‐ -­‐ t a second pair of breeches.</p>
+<p>XII. And now the pannic being over,</p>
+<p>When not afraid of club or rope,</p>
+<p>Descends to law for to recover</p>
+<p>Money for to purchase soap.</p>
+<p>XIII. But not a souse for all their swearing,</p>
+<p>Tho’ shirt and breeches both were foul’d;</p>
+<p>Liberties sons are presevering,</p>
+<p>Nor will by fed’rals be controul’d.</p>
+<p>XIV. And if those harpies seek preferment</p>
+<p>Thro’ their countries streaming blood,</p>
+<p>They’ll dig graves for their interment,</p>
+<p>Or smother in the purple flood.</p></blockquote>
+
+  
+
+  </div>
+
+  </main>
+  </div>
+</div>
+
+</body>
+</html>

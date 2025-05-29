@@ -52,8 +52,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const applyTheme = (isDark) => {
     document.body.classList.toggle("dark", isDark);
     icon.innerHTML = isDark
-      ? `<img src="${lightIcon}" alt="Light Mode" width="25" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
-      : `<img src="${darkIcon}" alt="Dark Mode" width="25" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
   };
 
   const initialDark = savedMode === "dark";
@@ -126,6 +126,10 @@ document.addEventListener("DOMContentLoaded", function () {
               <li>
                 <a href="/papers/farmer/" class="">The Federal Farmer</a>
               </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
           </ul>
       </li>
 
@@ -172,7 +176,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
 <br>    
-<em>Version 0.11</em></p>
+<em>Version 0.12</em></p>
 
   </footer>
   </div>
@@ -206,6 +210,11 @@ document.addEventListener("DOMContentLoaded", function () {
   <section class="paper-block">
     <h4><a href="/papers/oldwhig/">An Old Whig</a></h4>
     <section class="summaryp">An Old Whig was the pseudonym of an Anti-Federalist writer, often attributed to John Dickinson of Pennsylvania. He opposed the Constitution, arguing it would centralize power and diminish state authority. An Old Whig called for stronger protections of individual rights and a more balanced distribution of power.</section>
+  </section>
+  
+  <section class="paper-block">
+    <h4><a href="/papers/others/">Other Papers</a></h4>
+    <section class="summaryp">Additional Anti-Federalist papers of note and importance.</section>
   </section>
   
   <section class="paper-block">

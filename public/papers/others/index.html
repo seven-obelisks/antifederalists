@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Other Papers | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+</head>
+<body>
+<div class="flex-box">
+  <div class="flex1">
+    <div class="sidebar">
+  <header>
+    <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Antifederalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">The Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="active">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+  </header>
+  <footer>
+<button id="dark-toggle" 
+  data-light="/images/lantern-light.png"
+  data-dark="/images/lantern-dark.png">
+  <span id="dark-toggle-icon"></span>
+</button>
+
+
+    <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.12</em></p>
+
+  </footer>
+  </div>
+  </div>
+  <div class="flex2">
+  <main>
+    
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Antifederalist Papers</a>
+
+  / <span>Other Papers</span>
+</nav>
+
+  
+  
+  <section class="paper-block">
+    <h4><a href="/papers/others/scourge1/">The Scourge</a></h4>
+    <section class="summaryp">The Scourge is a satirical Anti-Federalist essay published in the Carlisle Gazette condemning Federalist celebrations following Pennsylvania’s ratification of the Constitution. The author warns that unchecked national power will suppress liberty and mocks Federalist elites for abandoning republican principles.</section>
+  </section>
+  
+  <section class="paper-block">
+    <h4><a href="/papers/others/oneofthepeople/">One of the People</a></h4>
+    <section class="summaryp">One of the People is a scathing Anti-Federalist essay published in the Carlisle Gazette attacking Federalist manipulation of public events to advance their agenda. The author exposes their hypocrisy, warns of their authoritarian ambitions, and mocks their deceitful tactics in undermining republican values.</section>
+  </section>
+  
+
+  </main>
+  </div>
+</div>
+
+</body>
+</html>
