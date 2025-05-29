@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer X"
 date: 2025-01-22
-summary: Argues that the centralization of power in the federal government would weaken the authority of state governments and harm the rights and interests of local communities.
+summary: Warns that the proposed Constitution strips the people and states of meaningful checks on federal power, enabling gradual elite consolidation through underrepresentation, unchecked taxation, military control, and systemic exclusion of democratic safeguards.
 ---
 
 ##### January 7, 1788

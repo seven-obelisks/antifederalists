@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer I"
 date: 2025-01-31
-summary: Warns that the new Constitution grants excessive power to the national government, threatening state sovereignty, individual liberties, and creating the potential for tyranny.
+summary: Raises concern that the proposed Constitution seeks to centralize authority under a consolidated national government, warns against hasty ratification, and argues that only a limited federal system—preserving state autonomy—can protect liberty and secure lasting stability.
 ---
 
 ##### October 8th, 1787

@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer XI"
 date: 2025-01-21
-summary: Expresses concern that the new Constitution fails to adequately protect individual rights by not including a Bill of Rights, which could leave citizens vulnerable to abuse of power.
+summary: Critiques the Senate’s structure and powers, warning that long terms, lack of recall, absence of rotation, and control over appointments and treaties could consolidate influence among disconnected elites and erode public accountability.
 ---
 
 ##### January 10, 1788

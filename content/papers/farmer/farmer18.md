@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer XVIII"
 date: 2025-01-14
-summary: Calls for the rejection of the Constitution, arguing it grants too much centralized power, lacks sufficient protections for individual rights, and could lead to governmental tyranny.
+summary: Warns that expansive federal powers, especially over the military, judiciary, and federal districts, threaten to erode state authority and concentrate influence in an elite, unaccountable capital.
 ---
 
 ##### January 25, 1788

@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer II"
 date: 2025-01-30
-summary: Argues that the proposed government will be too distant from the people, leading to poor representation and weakening accountability.
+summary: Criticizes the Constitution for centralizing power without proper representation or local justice, warning it will lead to neglect, military enforcement, and the erosion of state authority and liberty.
 ---
 
 ##### October 9, 1787

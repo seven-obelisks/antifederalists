@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer VIII"
 date: 2025-01-24
-summary: Raises alarm over the creation of a standing federal army, fearing it could be used to suppress state governments and the will of the people.
+summary: Asserts that liberty in England arose from balanced, class-based representation, warns that the Constitution’s small, elite legislature mirrors Rome’s failed tribunes, and urges distributed state power to protect against creeping aristocracy and centralized abuse.
 ---
 
 ##### January 3, 1788
@@ -22,6 +22,6 @@ We may amuse ourselves with names; but the fact is, men will be governed by the 
 
 The body of the people must have this true representative security placed some where in the nation; and in the United States, or in any extended empire, I am fully persuaded can be placed no where, but in the forms of a federal republic, where we can divide and place it in several state or district legislatures, giving the people in these the means of opposing heavy internal taxes and oppressive measures in the proper stages. A great empire contains the amities and animosities of a world within itself. We are not like the people of England, one people compactly settled on a small island, with a great city filled with frugal merchants, serving as a common centre of liberty and union: we are dispersed, and it is impracticable for any but the few to assemble in one place: the few must be watched, checked, and often resisted — tyranny has ever shewn a prediliction to be in close amity with them, or the one man. Drive it from kings and it flies to senators, to dicemvirs, to dictators, to tribunes, to popular leaders, to military chiefs, &c.
 
-De Lo[l]me well observes, that in societies, laws which were to be equal to all are soon warped to the private interests of the administrators, and made to defend the usurpations of a few. The English, who had tasted the sweets of equal laws, were aware of this, and though they restored their king, they carefully delegated to parliament the advocates of freedom.
+De Lolme well observes, that in societies, laws which were to be equal to all are soon warped to the private interests of the administrators, and made to defend the usurpations of a few. The English, who had tasted the sweets of equal laws, were aware of this, and though they restored their king, they carefully delegated to parliament the advocates of freedom.
 
 I have often lately heard it observed, that it will do very well for a people to make a constitution, and ordain, that at stated periods they will chuse, in a certain manner, a first magistrate, a given number of senators and representatives, and let them have all power to do as they please. This doctrine, however it may do for a small republic, as Connecticut, for instance, where the people may chuse so many senators and representatives to assemble in the legislature, in an eminent degree, the interests, the views, feelings, and genuine sentiments of the people themselves, can never be admitted in an extensive country; and when this power is lodged in the hands of a few, not to limit the few, is but one step short of giving absolute power to one man — in a numerous representation the abuse of power is a common injury, and has no temptation — among the few, the abuse of power may often operate to the private emolument of those who abuse it.

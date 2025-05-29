@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer VII"
 date: 2025-01-25
-summary: Concerns about the centralization of power in the federal government and the lack of sufficient limits on federal authority, particularly regarding state rights and sovereignty.
+summary: Contends that true liberty relies on broad, balanced representation among all social classes, critiques the proposed House for being too small and elite-driven, and warns that such narrow design risks corruption, imbalance, and the erosion of public trust.
 ---
 
 ##### December 31, 1787

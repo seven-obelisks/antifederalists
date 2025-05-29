@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer XVII"
 date: 2025-01-15
-summary: Expresses concern that the federal government’s growing powers would undermine state governments, rendering them irrelevant and stripping citizens of local representation.
+summary: Questions the necessity of granting sweeping federal taxation powers, warning that bypassing state governments threatens the balance of a true federal republic and risks consolidating authority in ways historically proven to erode liberty.
 ---
 
 ##### January 23, 1788

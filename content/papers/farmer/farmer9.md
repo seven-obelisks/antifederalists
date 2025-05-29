@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer IX"
 date: 2025-01-23
-summary: Criticizes the proposed executive branch for its potential to become overly powerful, undermining the balance of power and threatening republican principles.
+summary: Warns that a small, elite Congress invites corruption, fails to represent the broader populace, and risks shifting power from the many to the few through patronage, taxation abuse, and lack of meaningful constitutional safeguards.
 ---
 
 ##### January 4, 1788

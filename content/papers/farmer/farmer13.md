@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer XIII"
 date: 2025-01-19
-summary: Critiques the potential for the federal government’s centralization of authority to lead to a tyrannical system with unchecked power, eroding state governments and individual freedoms.
+summary: Critiques the Constitution’s appointment structure as a dangerous consolidation of power, calling for restrictions on legislators’ eligibility for office and proposing an independent executive council to ensure integrity and accountability in federal appointments.
 ---
 
 ##### January 14, 1788

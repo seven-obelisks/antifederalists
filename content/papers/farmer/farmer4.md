@@ -1,7 +1,7 @@
 ---
 title: "The Federal Farmer IV"
 date: 2025-01-28
-summary: Critiques the proposed Senate, suggesting it will be an undemocratic body disconnected from the people, which could lead to a permanent, powerful elite.
+summary: Warns that the Constitution grants vague and unchecked powers to the federal government, lacks essential rights protections, undermines jury trials, and enables a ruling elite to suppress liberty under the guise of law and treaty.
 ---
 
 ##### October 12th, 1787
