@@ -4,6 +4,17 @@
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
@@ -31,26 +42,31 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const toggle = document.getElementById("dark-toggle");
-  const icon = document.getElementById("dark-toggle-icon");
-  const savedMode = localStorage.getItem("theme");
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
 
-  const applyTheme = (isDark) => {
-    document.body.classList.toggle("dark", isDark);
-    icon.textContent = isDark ? "☀︎ Light Mode" : "☽ Dark Mode";
-  };
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? '<img src="lantern-light.png" alt="Light Mode" width="20" style="vertical-align:middle; margin-right:6px;"> Light Mode'
+      : '<img src="lantern-dark.png" alt="Dark Mode" width="20" style="vertical-align:middle; margin-right:6px;"> Dark Mode';
+  };
 
-  
-  const initialDark = savedMode === "dark";
-  applyTheme(initialDark);
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
 
-  toggle.addEventListener("click", () => {
-    const isDark = document.body.classList.toggle("dark");
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-    icon.textContent = isDark ? "☀︎ Light Mode" : "☽ Dark Mode";
-  });
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    icon.innerHTML = isDark
+      ? '<img src="lantern-light.png" alt="Light Mode" width="20" style="vertical-align:middle; margin-right:6px;"> Light Mode'
+      : '<img src="lantern-dark.png" alt="Dark Mode" width="20" style="vertical-align:middle; margin-right:6px;"> Dark Mode';
+  });
 });
 </script>
+
+
 
 </head>
 <body>

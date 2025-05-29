@@ -361,14 +361,16 @@ button {
 
 .dark-toggle {
   background: none;
-  font-size: 14px;
-  padding:10px;
+  font-size: 18px;
+  padding:10px 25px;
   cursor: pointer;
   color:#fff;
   border-radius:10px;
-  border:2px solid #000;
-background: #1a1a1a;
-background: linear-gradient(180deg, rgba(26, 26, 26, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  border:2px solid #fff;
+}
+
+.dark-toggle span{
+  padding-top:20px;
 }
 
 body.dark .dark-toggle {

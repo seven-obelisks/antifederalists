@@ -42,26 +42,31 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const toggle = document.getElementById("dark-toggle");
-  const icon = document.getElementById("dark-toggle-icon");
-  const savedMode = localStorage.getItem("theme");
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
 
-  const applyTheme = (isDark) => {
-    document.body.classList.toggle("dark", isDark);
-    icon.textContent = isDark ? "☀︎ Light Mode" : "☽ Dark Mode";
-  };
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? '<img src="lantern-light.png" alt="Light Mode" width="20" style="vertical-align:middle; margin-right:6px;"> Light Mode'
+      : '<img src="lantern-dark.png" alt="Dark Mode" width="20" style="vertical-align:middle; margin-right:6px;"> Dark Mode';
+  };
 
-  
-  const initialDark = savedMode === "dark";
-  applyTheme(initialDark);
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
 
-  toggle.addEventListener("click", () => {
-    const isDark = document.body.classList.toggle("dark");
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-    icon.textContent = isDark ? "☀︎ Light Mode" : "☽ Dark Mode";
-  });
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    icon.innerHTML = isDark
+      ? '<img src="lantern-light.png" alt="Light Mode" width="20" style="vertical-align:middle; margin-right:6px;"> Light Mode'
+      : '<img src="lantern-dark.png" alt="Dark Mode" width="20" style="vertical-align:middle; margin-right:6px;"> Dark Mode';
+  });
 });
 </script>
+
+
 
 </head>
 <body>
