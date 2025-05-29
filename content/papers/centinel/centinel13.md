@@ -1,7 +1,7 @@
 ---
 title: "Centinel XII"
 date: 2025-01-21
-summary: Critiques the Senate’s structure as aristocratic, with unequal representation and concentrated power.
+summary: Portrays the Constitution’s backers as a cunning, well-funded minority using press manipulation, deception, and patronage to mask despotism in patriotic language, urging citizens to organize, resist, and defend true republican liberty.
 ---
 
 ##### January 30, 1788

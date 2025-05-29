@@ -1,7 +1,7 @@
 ---
 title: "Centinel IV"
 date: 2025-01-28
-summary: Criticizes the proposed judiciary for granting the federal government excessive control over legal matters.
+summary: Criticizes the Constitution for exploiting economic fears to establish an unchecked, centralized government that sacrifices liberty under the guise of reform.
 ---
 
 ##### November 30, 1787

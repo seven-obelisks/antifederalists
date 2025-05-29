@@ -1,7 +1,7 @@
 ---
 title: "John DeWitt III"
 date: 2025-02-25
-summary: Rejects the need for a new Constitution, asserting that state governments are fully capable of preserving order and governance without the need for a centralized national system.
+summary: Criticizes the proposed Constitution as a deceptive structure designed to empower an aristocratic elite, stripping true representation from the people and placing unchecked authority in the hands of distant, unaccountable officials.
 ---
 
 ##### November 5, 1787

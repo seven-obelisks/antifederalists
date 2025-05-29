@@ -1,7 +1,8 @@
 ---
 title: "Centinel XVII"
 date: 2025-01-21
-summary: Claims the Constitution would erode state legislatures’ powers, subordinating them to the federal government.
+summary: Accuses key Constitution framers of concealing public fraud and enriching themselves through unaccounted wartime funds, while using propaganda and postal suppression to silence critics and manipulate public opinion.
+
 ---
 
 ##### March 24, 1788

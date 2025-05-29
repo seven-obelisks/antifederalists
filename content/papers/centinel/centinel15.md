@@ -1,7 +1,7 @@
 ---
 title: "Centinel XV"
 date: 2025-01-21
-summary: Criticizes the lack of a Bill of Rights, claiming it invites government overreach and threatens individual freedoms.
+summary: Laments the loss of public skepticism toward government change and claims Massachusetts’ narrow ratification was driven by fear, misinformation, and elite pressure rather than genuine support for the Constitution.
 ---
 
 ##### February 22, 1788

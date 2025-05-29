@@ -1,7 +1,7 @@
 ---
 title: "Centinel X"
 date: 2025-01-22
-summary: Calls for amending the Articles of Confederation rather than adopting a new, untested system.
+summary: Celebrates the revival of free press as the decisive force exposing elite deception and halting a silent coup, while mocking the conspirators’ desperate schemes and warning of their last resort—force.
 ---
 
 ##### January 12, 1788

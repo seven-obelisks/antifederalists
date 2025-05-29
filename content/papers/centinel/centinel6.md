@@ -1,7 +1,7 @@
 ---
 title: "Centinel VI"
 date: 2025-01-26
-summary: Explores how centralizing power erodes state autonomy and weakens local self-governance.
+summary: Warns that Americans, once defenders of liberty, are now surrendering it to a central power that exploits their hopes for prosperity and trust in rulers, ignoring history’s lesson that unchecked authority breeds tyranny.
 ---
 
 ##### December 25, 1787

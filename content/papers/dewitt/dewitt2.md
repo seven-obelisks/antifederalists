@@ -1,7 +1,7 @@
 ---
 title: "John DeWitt II"
 date: 2025-02-26
-summary: Warns that the size and complexity of a large republic under the proposed Constitution would make it difficult to protect the rights and interests of its citizens effectively.
+summary: Advises citizens to reject the Constitution's permanence and centralization unless they fully accept its vast powers, warning that true amendments will be nearly impossible and rights remain unprotected without a Bill of Rights.
 ---
 
 ##### Massachusetts, October 27, 1787

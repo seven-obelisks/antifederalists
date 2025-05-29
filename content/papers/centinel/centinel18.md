@@ -1,7 +1,7 @@
 ---
 title: "Centinel XVIII"
 date: 2025-01-21
-summary: Calls for the rejection of the Constitution, arguing it is fundamentally flawed and will lead to dangerous centralization.
+summary: Condemns the suppression of dissent, manipulation of postal communications, and spread of false unanimity to force constitutional ratification, asserting that true public sentiment in Pennsylvania—and likely elsewhere—is overwhelmingly opposed to the new system.
 ---
 
 ##### April 9, 1788

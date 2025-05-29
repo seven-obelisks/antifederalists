@@ -1,7 +1,7 @@
 ---
 title: "Centinel V"
 date: 2025-01-27
-summary: Highlights the lack of a Bill of Rights as a major oversight, leaving citizens vulnerable to government abuse.
+summary: Condemns the Constitution as a blueprint for a consolidated empire that would annihilate state sovereignty and usher in unchecked federal despotism through expansive taxation and legislative supremacy.
 ---
 
 ##### December 4, 1787

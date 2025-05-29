@@ -1,7 +1,7 @@
 ---
 title: "Centinel IX"
 date: 2025-01-23
-summary: Criticizes vague constitutional language, fearing it will allow the federal government to expand its power unchecked.
+summary: Presents the Constitution as a calculated effort by entrenched elites to dismantle local freedoms through deception, manipulation, and a coordinated push for unchecked national power.
 ---
 
 ##### January 8, 1788

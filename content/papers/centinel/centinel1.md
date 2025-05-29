@@ -1,7 +1,7 @@
 ---
 title: "Centinel I"
 date: 2025-02-27
-summary: Warns that centralizing power in the federal government undermines state authority and individual freedoms.
+summary: Warns that the Constitution threatens liberty by concentrating power, undermining state authority, enabling aristocratic rule, and lacking protections like a bill of rights and trial by jury in civil cases.
 ---
 
 ##### October 5, 1787

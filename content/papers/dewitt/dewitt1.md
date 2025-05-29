@@ -1,7 +1,7 @@
 ---
 title: "John DeWitt I"
 date: 2025-02-27
-summary: Argues that the centralization of power in the federal government would diminish state authority and individual liberties.
+summary: Urges citizens to cautiously and rationally examine the proposed Constitution before ratification, warning that its sweeping powers demand scrutiny, not blind acceptance based on reputation or promises of prosperity.
 ---
 
 ##### October 22, 1787

@@ -1,7 +1,7 @@
 ---
 title: "Centinel XII"
 date: 2025-01-21
-summary: Argues that the new Constitution grants excessive power to the national government, threatening state sovereignty and individual liberties.
+summary: Condemns the Constitution’s promoters as a deceptive faction silencing dissent and rushing ratification, branding them conspirators against liberty whose suppression of press and debate exposes their tyrannical intent.
 ---
 
 ##### January 23, 1788

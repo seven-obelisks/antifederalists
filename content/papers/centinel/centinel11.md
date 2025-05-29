@@ -1,7 +1,7 @@
 ---
 title: "Centinel XI"
 date: 2025-01-21
-summary: Urges rejection of the Constitution, arguing that its adoption would undermine liberty and state sovereignty.
+summary: Refutes panic-driven arguments for the Constitution—anarchy and disunion—as elite fabrications, insisting that even temporary chaos is preferable to permanent despotism, and accuses postal officials of suppressing dissent to blind the public.
 ---
 
 ##### January 16, 1788

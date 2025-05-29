@@ -1,7 +1,7 @@
 ---
 title: "Centinel VIII"
 date: 2025-01-24
-summary: Raises concerns about federal control of commerce, potentially disadvantaging local industries and empowering monopolies.
+summary: Portrays the Constitution as a gilded trap crafted by self-interested elites, designed to strip the people of liberty and secure unchecked control over property, commerce, and governance.
 ---
 
 ##### December 29, 1787

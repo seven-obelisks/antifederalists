@@ -1,7 +1,7 @@
 ---
 title: "Centinel VII"
 date: 2025-01-25
-summary: Warns that federal taxation policies will unfairly burden the states, particularly those with agricultural economies.
+summary: Denounces the Constitution as a power grab by domestic elites exploiting public distress, urging citizens to reject the scheme and defend their liberty through renewed convention and resistance if necessary.
 ---
 
 ##### December 27, 1787

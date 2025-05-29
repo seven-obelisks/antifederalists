@@ -1,7 +1,7 @@
 ---
 title: "Centinel II"
 date: 2025-01-30
-summary: Argues that a large republic cannot effectively protect the rights and interests of its citizens.
+summary: Argues that the federal Senate's long terms, lack of rotation, and shared executive power make it ripe for aristocratic control. Highlights that even Montesquieu warned such consolidation would extinguish freedom.
 ---
 
 ##### October 24, 1787
