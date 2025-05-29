@@ -1,7 +1,7 @@
 ---
 title: "Brutus II"
 date: 2025-01-01
-summary: Expresses concern that the Constitution’s provisions for a strong central government will erode state governments and centralize power, leading to potential tyranny.
+summary: Argues that the Constitution dangerously omits a bill of rights, enabling federal overreach into life, liberty, and property without adequate protections.
 ---
 
 ##### November 1, 1787

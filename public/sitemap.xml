@@ -47,6 +47,12 @@
     <loc>http://localhost:1313/billofrights/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine1/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/luther/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/others/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,6 +83,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel2/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine2/</loc>
+    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/others/oneofthepeople/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -96,6 +105,9 @@
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel3/</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine3/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry3/</loc>
@@ -134,6 +146,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel5/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine4/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry5/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -150,6 +165,9 @@
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel6/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine5/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry6/</loc>
@@ -170,6 +188,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel7/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine6/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry7/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -188,6 +209,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel8/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine7/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry8/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -203,6 +227,9 @@
     <loc>http://localhost:1313/papers/centinel/centinel9/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine8/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry9/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -216,6 +243,9 @@
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel10/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine9/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry10/</loc>
@@ -249,6 +279,9 @@
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel18/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/luther/genuine10/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry11/</loc>
@@ -413,8 +446,6 @@
     <loc>http://localhost:1313/constitution/</loc>
   </url><url>
     <loc>http://localhost:1313/about/letter/</loc>
-  </url><url>
-    <loc>http://localhost:1313/papers/luther/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

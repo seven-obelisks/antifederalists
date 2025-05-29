@@ -1,7 +1,7 @@
 ---
 title: "Cato IV"
 date: 2025-01-01
-summary: Warns that the proposed presidency, with its extensive powers and lack of term limits, could evolve into a monarchy-like authority.
+summary: Argues that the presidency holds dangerously monarchic powers—commanding the military, influencing legislation, and surrounded by courtiers—making it a threat to liberty and unlike any true republican office.
 ---
 
 ##### October 11, 1787

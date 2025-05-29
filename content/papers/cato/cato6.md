@@ -1,7 +1,7 @@
 ---
 title: "Cato VI"
 date: 2025-01-01
-summary: Highlights the dangers of centralized power and the potential erosion of state sovereignty under the new Constitution.
+summary: Condemns the unequal apportionment of representation and taxation, warns that unchecked federal taxation and aristocratic influence will crush the poor, and argues that secretive treaty powers endanger liberty and lack accountability.
 ---
 
 ##### December 13, 1787

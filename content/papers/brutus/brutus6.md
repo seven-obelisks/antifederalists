@@ -1,7 +1,7 @@
 ---
 title: "Brutus VI"
 date: 2025-01-01
-summary: Warns that the power of the federal judiciary under the Constitution would render state courts irrelevant and give the national government the ability to dominate legal matters.
+summary: Warns that Congress’s unchecked power to tax and legislate will gradually dissolve state governments, overwhelm private life with intrusive revenue systems, and destroy the balance needed for a federal union.
 ---
 
 ##### December 27, 1787

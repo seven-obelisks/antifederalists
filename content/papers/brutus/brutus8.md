@@ -1,7 +1,7 @@
 ---
 title: "Brutus VIII"
 date: 2025-01-01
-summary: Critiques the structure of the executive branch, fearing it will give too much power to a single leader and lead to a de facto monarchy or tyrannical rule.
+summary: Warns that unlimited federal powers to tax, borrow, and raise armies—especially in peacetime—invite crushing debt, standing militarism, and the destruction of liberty through centralized coercion.
 ---
 
 ##### January 10, 1788

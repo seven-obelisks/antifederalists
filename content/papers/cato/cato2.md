@@ -1,7 +1,7 @@
 ---
 title: "Cato II"
 date: 2025-01-01
-summary: Criticizes the tone and approach of Federalist writings, particularly those by "Caesar" (Alexander Hamilton), for being arrogant and dismissive.
+summary: Condemns the Convention’s overreach and warns that the Constitution imposes centralized power without consent, threatening liberty and silencing public deliberation.
 ---
 
 ##### October 11, 1787

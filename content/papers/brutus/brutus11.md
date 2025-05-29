@@ -1,7 +1,7 @@
 ---
 title: "Brutus XI"
 date: 2025-01-01
-summary: Expresses skepticism about the success of the proposed system of checks and balances, arguing that they will be insufficient to limit the growing power of the federal government.
+summary: Warns that the federal judiciary, empowered to interpret the Constitution broadly and insulated from checks, will steadily expand its authority and erode state sovereignty through precedent and self-interest.
 ---
 
 ##### January 31, 1788

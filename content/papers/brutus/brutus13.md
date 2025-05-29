@@ -1,7 +1,7 @@
 ---
 title: "Brutus XIII"
 date: 2025-01-01
-summary: Critiques the power of the federal government to regulate commerce, fearing it would dominate state economies and crush local industries.
+summary: Warns that allowing individuals to sue states under the federal judiciary violates state sovereignty, invites financial ruin through enforced debt judgments, and grants Congress unchecked power to execute rulings that could cripple state governments.
 ---
 
 ##### February 21, 1788

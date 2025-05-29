@@ -1,7 +1,7 @@
 ---
 title: "Brutus XIV"
 date: 2025-01-01
-summary: Argues that the Constitution gives too much power to the executive, especially with regard to military command, leading to the risk of a military dictatorship.
+summary: Warns that the Supreme Court’s appellate power endangers jury trials, imposes excessive costs on average citizens, and grants judges unchecked authority over both law and fact.
 ---
 
 ##### February 28, 1788
@@ -31,10 +31,8 @@ If the appellate jurisdiction of the supreme court, be understood in the above s
 If we understand the appellate jurisdiction in any other way, we shall be left utterly at a loss to give it a meaning; the common law is a stranger to any such jurisdiction: no appeals can lie from any of our common law courts, upon the merits of the case; the only way in which they can go up from an inferior to a superior tribunal is by habeas corpus before a hearing, or by certiorari, or writ of error, after they are determined in the subordinate courts; but in no case, when they are carried up, are the facts re-examined, but they are always taken as established in the inferior courts.
 
 (To be continued.)
-XIV
-6 March 1788
 
-(Continued.)
+##### 6 March 1788
 
 It may still be insisted that this clause does not take away the trial by jury on appeals, but that this may be provided for by the legislature, under that paragraph which authorises them to form regulations and restrictions for the court in the exercise of this power.
 

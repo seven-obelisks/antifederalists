@@ -1,7 +1,7 @@
 ---
 title: "Brutus XV"
 date: 2025-01-01
-summary: Expresses concern that the Constitution would lead to the dissolution of state governments and the creation of a centralized bureaucracy that would strip citizens of local representation.
+summary: Warns that the Supreme Court, independent and unchecked, will interpret the Constitution beyond the reach of the people or legislature, gradually expanding federal power and eroding state authority without accountability.
 ---
 
 ##### March 20, 1788

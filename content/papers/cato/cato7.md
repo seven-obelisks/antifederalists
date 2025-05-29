@@ -1,7 +1,7 @@
 ---
 title: "Cato VII"
 date: 2025-01-01
-summary: Continues the critique of the executive branch, emphasizing the risks of unchecked presidential power and the absence of sufficient checks and balances.
+summary: Rejects the apportionment clause for counting slaves and non-voters, argues federal taxes will ruin farmers and laborers, warns of aristocratic control in the Senate, and condemns treaty powers exercised without the House as threats to liberty.
 ---
 
 ##### January 3, 1788

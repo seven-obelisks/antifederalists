@@ -1,7 +1,7 @@
 ---
 title: "Cato V"
 date: 2025-01-01
-summary: Expresses concern over the potential for the federal government to become a corrupt aristocracy, undermining republican principles.
+summary: Criticizes the Constitution for enabling Congress to manipulate elections and the Senate to evade accountability, arguing that such unchecked powers invite abuse, erode representation, and threaten civil liberty.
 ---
 
 ##### October 11, 1787

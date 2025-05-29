@@ -1,7 +1,7 @@
 ---
 title: "Brutus XII"
 date: 2025-01-01
-summary: Warns that the proposed Senate will be an aristocratic body, disconnected from the people, and could lead to the creation of a permanent political elite.
+summary: Warns that the federal judiciary will expand legislative and judicial power through broad interpretations of the Constitution, reducing state authority to insignificance by aligning national objectives with judicial precedent and fictional jurisdiction.
 ---
 
 ##### February 7, 1788
@@ -41,10 +41,8 @@ As it sets out in the preamble with this declared intention, so it proceeds in t
 This will certainly give the first clause in that article a construction which I confess I think the most natural and grammatical one, to authorise the Congress to do any thing which in their judgment will tend to provide for the general welfare, and this amounts to the same thing as general and unlimited powers of legislation in all cases.
 
 (To be continued.)
-XII
-14 February 1788
 
-(Continued from last Thursday's paper.)
+##### 14 February 1788
 
 This same manner of explaining the constitution, will fix a meaning, and a very important one too, to the 12th [18th?] clause of the same section, which authorises the Congress to make all laws which shall be proper and necessary for carrying into effect the foregoing powers, &c. A voluminous writer in favor of this system, has taken great pains to convince the public, that this clause means nothing: for that the same powers expressed in this, are implied in other parts of the constitution. Perhaps it is so, but still this will undoubtedly be an excellent auxilliary to assist the courts to discover the spirit and reason of the constitution, and when applied to any and every of the other clauses granting power, will operate powerfully in extracting the spirit from them.
 

@@ -1,7 +1,7 @@
 ---
 title: "Brutus VII"
 date: 2025-01-01
-summary: Argues the proposed system of representation will be ineffective, as the people’s voices will be drowned out by distant legislators, leading to a loss of accountability.
+summary: Argues that without limiting Congress’s taxing power, the federal government will overshadow the states, strip them of necessary revenue, and destroy the balance essential to a functional confederacy.
 ---
 
 ##### January 3, 1788

@@ -1,7 +1,7 @@
 ---
 title: "Brutus III"
 date: 2025-01-01
-summary: Warns the Constitution’s necessary and proper clause gives the federal government too much flexibility, potentially allowing for overreach and the weakening of state authority.
+summary: Criticizes the proposed House and Senate for lacking fair representation, disproportionately empowering elites and slaveholding states while excluding common citizens from meaningful influence.
 ---
 
 ##### November 15, 1787

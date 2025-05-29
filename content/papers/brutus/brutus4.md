@@ -1,7 +1,7 @@
 ---
 title: "Brutus IV"
 date: 2025-01-01
-summary: Critiques the proposed Senate for being too distant and undemocratic, arguing it would lead to a government controlled by elites, disconnected from the people’s needs.
+summary: Warns that the proposed government’s small and elite legislature cannot fairly represent the people, and that Congress’s control over elections endangers voting rights and enables gradual consolidation of power.
 ---
 
 ##### November 29, 1787

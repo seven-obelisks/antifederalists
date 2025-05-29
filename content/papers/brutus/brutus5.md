@@ -1,7 +1,7 @@
 ---
 title: "Brutus V"
 date: 2025-01-01
-summary: Expresses concern about the lack of a Bill of Rights in the Constitution, arguing that it leaves individuals vulnerable to government overreach and does not safeguard fundamental freedoms.
+summary: Argues that Congress’s vast power to tax and pass all necessary laws will lead to total consolidation, destroy state governments, and subject the people to unchecked federal control and endless revenue extraction.
 ---
 
 ##### December 13, 1787

@@ -1,7 +1,7 @@
 ---
 title: "Brutus IX"
 date: 2025-01-01
-summary: Warns that the Constitution’s centralization of military power will allow the federal government to use force against the states, undermining state sovereignty.
+summary: Argues that the Constitution must explicitly restrict the government’s power to maintain standing armies in peacetime, as historical precedent shows such forces are tools of oppression, not security.
 ---
 
 ##### January 17, 1788

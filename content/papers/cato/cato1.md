@@ -1,7 +1,7 @@
 ---
 title: "Cato I"
 date: 2025-01-01
-summary: Urges citizens to critically examine the proposed Constitution themselves, emphasizing the importance of informed public judgment. 
+summary: Argues that the Constitution centralizes power by entangling the Senate and executive, enabling collusion, weakening accountability, and granting Congress broad authority over elections that could suppress voter access and representation.
 ---
 
 ##### September 27, 1787
