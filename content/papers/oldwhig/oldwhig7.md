@@ -1,7 +1,7 @@
 ---
 title: "An Old Whig VII"
 date: 2025-01-25
-summary: Warns that the Senate would become an aristocratic body, disconnected from the people and concentrated with too much power, undermining democratic principles.
+summary: Rejects the claim that amendments are impossible, proposing that state conventions should suggest changes, call for a second Continental Convention, and only then decide on ratification—ensuring unity without surrendering public judgment.
 ---
 
 ##### November 28, 1787

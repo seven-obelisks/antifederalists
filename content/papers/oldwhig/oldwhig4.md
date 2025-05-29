@@ -1,7 +1,7 @@
 ---
 title: "An Old Whig IV"
 date: 2025-01-28
-summary: Argues that the executive branch under the proposed Constitution will become far too powerful, overshadowing the legislative branch and disrupting the intended balance of power.
+summary: Argues that a single vast republic is unsustainable and warns that without a confederation model and a firm bill of rights, the proposed Constitution will dissolve state authority, endanger liberty, and drift toward monarchy and despotism.
 ---
 
 ##### October 27, 1787

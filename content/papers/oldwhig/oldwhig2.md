@@ -1,7 +1,7 @@
 ---
 title: "An Old Whig II"
 date: 2025-01-30
-summary: Warns that the new government, being distant and removed from the people, would weaken representation and diminish individual influence in the political process.
+summary: Examines James Wilson’s defense of the Constitution and rejects his claim that federal power is limited, arguing instead that the "necessary and proper" clause and supremacy clause grant Congress virtually unlimited authority without a bill of rights to restrain it.
 ---
 
 ##### October 17, 1787

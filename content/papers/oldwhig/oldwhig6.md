@@ -1,7 +1,7 @@
 ---
 title: "An Old Whig VI"
 date: 2025-01-26
-summary: Warns that the broad powers granted to the federal government, particularly in taxation and military control, could lead to unchecked federal power and undermine state authority.
+summary: Argues that granting Congress unlimited taxation power will strip states of revenue, reduce them to shadows, and risks the collapse of republican government into centralized despotism.
 ---
 
 ##### November 2, 1787

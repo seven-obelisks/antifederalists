@@ -1,7 +1,7 @@
 ---
 title: "An Old Whig III"
 date: 2025-01-29
-summary: Expresses concern that the creation of a standing army under federal control could be used to oppress states and the people, threatening the foundation of republican government.
+summary: Condemns the treaty and supremacy clauses for enabling the president and Senate to override state laws, warns of unchecked federal power without a bill of rights, and defends trial by jury as essential to preserving liberty from civil abuse and creeping despotism.
 ---
 
 ##### October 20, 1787

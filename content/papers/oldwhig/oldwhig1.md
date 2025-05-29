@@ -1,7 +1,7 @@
 ---
 title: "An Old Whig I"
 date: 2025-01-31
-summary: Critiques the Constitution for centralizing too much power in the national government, which would undermine state sovereignty and jeopardize individual liberties.
+summary: Expresses early support for a federal constitution but warns that the proposed system is effectively irreversible, risks silencing public dissent, and may entrench unaccountable power indefinitely.
 ---
 
 ##### October 12, 1787
