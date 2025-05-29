@@ -1,7 +1,7 @@
 ---
 title: "Agrippa VII"
 date: 2025-01-25
-summary: Argues that the federal government’s powers over taxation, commerce, and the military are too expansive and could lead to oppressive control over the states and individuals.
+summary: Argues that the Constitution promotes unfair economic burdens, undermines local authority, and benefits some states over others, particularly through uneven trade regulation and taxation.
 ---
 
 ##### December 18, 1787

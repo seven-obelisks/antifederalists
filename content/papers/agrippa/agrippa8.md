@@ -1,7 +1,7 @@
 ---
 title: "Agrippa VIII"
 date: 2025-01-24
-summary: Concerns that the Senate, with its long terms and lack of rotation, will become disconnected from the people and form an aristocratic elite that will undermine democratic principles.
+summary: Claims that the Constitution threatens both civil liberty and state solvency by centralizing taxation and debt while ignoring natural bonds of union like commerce and mutual interest.
 ---
 
 ##### December 25, 1787

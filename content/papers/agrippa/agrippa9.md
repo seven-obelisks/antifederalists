@@ -1,7 +1,7 @@
 ---
 title: "Agrippa IX"
 date: 2025-01-23
-summary: Fears that the Constitution’s provisions for a standing army and the president's control over it will allow the national government to use military force to suppress dissent and assert unchecked power.
+summary: Warns that granting Congress unchecked control over trade, naturalization, and taxation risks moral decline, state inequality, and the loss of hard-won liberties.
 ---
 
 ##### December 28, 1787

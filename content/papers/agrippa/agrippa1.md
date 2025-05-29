@@ -1,7 +1,7 @@
 ---
 title: "Agrippa I"
 date: 2025-01-31
-summary: Argues that the proposed Constitution will centralize too much power in the national government, undermining the authority of states and threatening the protection of individual liberties.
+summary: Argues the Constitution endangers liberty through inadequate representation, unchecked taxation, standing armies, and costly, remote government that undermines free industry and established local justice.
 ---
 
 ##### November 23, 1787

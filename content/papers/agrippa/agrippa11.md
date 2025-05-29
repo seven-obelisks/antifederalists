@@ -1,7 +1,7 @@
 ---
 title: "Agrippa XI"
 date: 2025-01-21
-summary: Reiterates concerns about the overreach of the federal government, warning that the new system could concentrate too much power at the national level and create a government that is too distant from the people to be effective.
+summary: Defends his limited federal plan against critics, warning that the proposed Constitution invites foreign influence, multiplies offices, favors elites, and undermines both domestic liberty and national respect.
 ---
 
 ##### January 08, 1788

@@ -1,7 +1,7 @@
 ---
 title: "Agrippa III"
 date: 2025-01-29
-summary: Rejects the need for a new Constitution, asserting that the existing state structures are sufficient for governance and the proposed Constitution will create unnecessary and dangerous centralization.
+summary: Defends the current state governments as prosperous and just, warns that the proposed Constitution will crush public credit and local trade, and urges amendments before risking national division.
 ---
 
 ##### November 30, 1787

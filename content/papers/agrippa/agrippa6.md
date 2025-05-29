@@ -1,7 +1,7 @@
 ---
 title: "Agrippa VI"
 date: 2025-01-26
-summary: Warns that the lack of a Bill of Rights in the proposed Constitution leaves citizens vulnerable to government abuse and suggests that explicit protections for individual freedoms are essential.
+summary: Argues that the Constitution consolidates state powers under federal control, enabling unchecked regulation of trade and courts without a bill of rights, threatening local sovereignty and economic fairness.
 ---
 
 ##### December 14, 1787

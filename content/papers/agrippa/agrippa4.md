@@ -1,7 +1,7 @@
 ---
 title: "Agrippa IV"
 date: 2025-01-28
-summary: Criticizes the proposed federal judiciary, which he believes will have too much power and diminish the role of state courts, leading to the erosion of state authority and the overreach of federal law.
+summary: Argues that large consolidated republics collapse into despotism, and warns that the proposed Constitution would erase local autonomy and impose one-size-fits-all laws on diverse states.
 ---
 
 ##### December 3, 1787

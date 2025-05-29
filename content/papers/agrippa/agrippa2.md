@@ -1,7 +1,7 @@
 ---
 title: "Agrippa II"
 date: 2025-01-30
-summary: Warns that the size and scope of the new republic will prevent effective representation of the diverse interests of its citizens, weakening the ability to safeguard individual rights.
+summary: Defends Massachusetts’ stable self-government and civil order as proof that liberty fosters prosperity, warning against surrendering this successful system for a distant, rigid federal authority.
 ---
 
 ##### November 27, 1787

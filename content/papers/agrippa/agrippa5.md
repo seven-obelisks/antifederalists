@@ -1,7 +1,7 @@
 ---
 title: "Agrippa V"
 date: 2025-01-27
-summary: Expresses concern about the concentration of power in the hands of the executive, suggesting that the presidency could become a tool of tyranny under the proposed Constitution.
+summary: Warns that the Constitution erases state sovereignty by empowering federal courts and laws to override local authority, risking tyranny, confusion, and the rise of a permanent standing army.
 ---
 
 ##### December 11, 1787
