@@ -3,14 +3,12 @@
 <html lang="en-us" dir="ltr">
 <head>
 	<meta name="generator" content="Hugo 0.147.5"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  
-<meta charset="utf-8">
+  <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 
 <script>
   (function(){
-    var theme = localStorage.getItem('theme');
-    if (theme === 'dark') {
+    if (localStorage.getItem('theme') === 'dark') {
       document.documentElement.classList.add('dark');
     }
   })();
@@ -44,47 +42,40 @@
   <link rel="stylesheet" href="/css/mobile.css">
 
 
+
+
   <script src="/js/main.js"></script>
 
+
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const button = document.getElementById("hamburger-button");
-    const nav = document.getElementById("main-nav");
-    if (button && nav) {
-      button.addEventListener("click", function () {
-        nav.classList.toggle("open");
-      });
+  document.addEventListener('DOMContentLoaded', function(){
+    
+    const btn = document.getElementById('hamburger-button');
+    const nav = document.getElementById('main-nav');
+    if (btn && nav) btn.addEventListener('click', ()=> nav.classList.toggle('open'));
+
+    
+    const toggle = document.getElementById('dark-toggle');
+    const icon   = document.getElementById('dark-toggle-icon');
+    const lightI = toggle.dataset.light;
+    const darkI  = toggle.dataset.dark;
+
+    function updateIcon(isDark){
+      icon.innerHTML = isDark
+        ? `<img src="${lightI}"  alt="Light Mode" width="20"><span>Light Mode</span>`
+        : `<img src="${darkI}"   alt="Dark Mode"  width="20"><span>Dark Mode</span>`;
     }
+
+    const isDark = document.documentElement.classList.contains('dark');
+    updateIcon(isDark);
+
+    toggle.addEventListener('click', function(){
+      const nowDark = document.documentElement.classList.toggle('dark');
+      localStorage.setItem('theme', nowDark ? 'dark' : 'light');
+      updateIcon(nowDark);
+    });
   });
 </script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const toggle = document.getElementById("dark-toggle");
-  const icon = document.getElementById("dark-toggle-icon");
-  const savedMode = localStorage.getItem("theme");
-
-  const lightIcon = toggle.dataset.light;
-  const darkIcon = toggle.dataset.dark;
-
-  const applyTheme = (isDark) => {
-    document.body.classList.toggle("dark", isDark);
-    icon.innerHTML = isDark
-      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
-      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
-  };
-
-  const initialDark = savedMode === "dark";
-  applyTheme(initialDark);
-
-  toggle.addEventListener("click", () => {
-    const isDark = document.body.classList.toggle("dark");
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-    applyTheme(isDark);
-  });
-});
-</script>
-
 
 
 </head>
@@ -236,8 +227,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
       <div class="highlighted-paper">
-        <h3><a href="http://localhost:1313/papers/cato/cato4/">Cato IV</a></h3>
-        <p>Argues that the presidency holds dangerously monarchic powers—commanding the military, influencing legislation, and surrounded by courtiers—making it a threat to liberty and unlike any true republican office.</p>
+        <h3><a href="http://localhost:1313/papers/luther/genuine6/">Genuine Information VI</a></h3>
+        <p>Warns that unchecked federal taxation, judicial overreach, and revenue powers—including stamp duties and excises—threaten state sovereignty, enable corruption, and concentrate dangerous authority in a distant national government.</p>
       </div>
     
   </section>
