@@ -21,7 +21,7 @@ weight = 10
 
 [[menus.main]]
 identifier = "papers"
-name = 'Antifederalist Papers'
+name = 'Anti-Federalist Papers'
 pageRef = '/papers'
 weight = 20
 
@@ -126,9 +126,14 @@ parent = 'speeches'
 weight = 20
 
 [[menus.main]]
+name = 'Contemporary Research'
+pageRef = '/contemporary'
+weight = 60
+
+[[menus.main]]
 name = 'About the Library'
 pageRef = '/about'
-weight = 60
+weight = 70
 
 [module]
 [module.hugoVersion]
