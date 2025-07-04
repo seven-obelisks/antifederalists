@@ -2,9 +2,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 
-{{ if hugo.IsServer }}
+{{- /* only inject LiveReload when running `hugo server` (development mode) */ -}}
+{{- if eq hugo.Environment "development" -}}
   <script src="http://localhost:1313/livereload.js?mindelay=10&v=2&port=1313&path=livereload"></script>
-{{ end }}
+{{- end -}}
 
 <script>
   (function(){
