@@ -1,37 +1,44 @@
-<!-- layouts/partials/head/js.html -->
-{{ $js := resources.Get "js/main.js" }}
-{{ if $js }}
+{{- $js := resources.Get "js/main.js" }}
+{{- if $js }}
   <script src="{{ $js.RelPermalink }}"></script>
-{{ end }}
+{{- end }}
 
 <script>
-  document.addEventListener('DOMContentLoaded', function(){
-    // Hamburger menu
-    const btn = document.getElementById('hamburger-button');
-    const nav = document.getElementById('main-nav');
-    if (btn && nav) btn.addEventListener('click', () => nav.classList.toggle('open'));
-
-    // Dark/light toggle
-    const toggle = document.getElementById('dark-toggle');
-    const icon   = document.getElementById('dark-toggle-icon');
-    const lightI = toggle.dataset.light;
-    const darkI  = toggle.dataset.dark;
-
-    function updateIcon(isDark) {
-      icon.innerHTML = isDark
-        ? `<img src="${lightI}"  alt="Light Mode"  width="20"><span>Light Mode</span>`
-        : `<img src="${darkI}"   alt="Dark Mode"   width="20"><span>Dark Mode</span>`;
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
     }
-
-    // Initialize icon
-    const isDark = document.documentElement.classList.contains('dark');
-    updateIcon(isDark);
-
-    // Toggle handler
-    toggle.addEventListener('click', function(){
-      const nowDark = document.documentElement.classList.toggle('dark');
-      localStorage.setItem('theme', nowDark ? 'dark' : 'light');
-      updateIcon(nowDark);
-    });
   });
 </script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
