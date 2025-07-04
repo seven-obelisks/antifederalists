@@ -1,8 +1,22 @@
+
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
+  
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
+
+
+  <script src="http://localhost:1313/livereload.js?mindelay=10&v=2&port=1313&path=livereload"></script>
+
+
+<script>
+  (function(){
+    if (localStorage.getItem('theme') === 'dark') {
+      document.documentElement.classList.add('dark');
+    }
+  })();
+</script>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
@@ -10,16 +24,15 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-B6534G8TWP');
 </script>
-
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 
 <title>The Federal Farmer XVIII | The Anti-Federalist Library</title>
+
 
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="/css/quotes.css">
@@ -71,11 +84,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 </head>
 <body>
-<div class="flex-box">
-  <div class="flex1">
-    <div class="sidebar">
-  <header>
-    <div class="header-top">
+  <div class="flex-box">
+    <div class="flex1">
+      <div class="sidebar">
+        <header><div class="header-top">
 <a href="/"><img class="logo" src="/images/alogo.png"></a>
 <h1><a href="/">The Anti-Federalist Library</a></h1>
 <button id="hamburger-button" aria-label="Toggle Menu">☰</button>
@@ -172,26 +184,23 @@ document.addEventListener("DOMContentLoaded", function () {
   </ul>
 </nav>
 
-
-  </header>
-  <footer>
-<button id="dark-toggle" 
-  data-light="/images/lantern-light.png"
-  data-dark="/images/lantern-dark.png">
-  <span id="dark-toggle-icon"></span>
-</button>
-
-
-    <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+</header>
+        <footer>
+          <button
+            id="dark-toggle"
+            data-light="/images/lantern-light.png"
+            data-dark="/images/lantern-dark.png">
+            <span id="dark-toggle-icon"></span>
+          </button>
+          <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
 <br>    
 <em>Version 0.13</em></p>
 
-  </footer>
-  </div>
-  </div>
-  <div class="flex2">
-  <main>
-    
+        </footer>
+      </div>
+    </div>
+    <div class="flex2">
+      <main>
 <div class="page-title">
   <nav class="breadcrumbs">
   <a href="/">Home</a>
@@ -227,10 +236,40 @@ document.addEventListener("DOMContentLoaded", function () {
   
 
   </div>
-
-  </main>
+</main>
+    </div>
   </div>
-</div>
+    <script src="/js/main.js"></script>
 
+  <script>
+    document.addEventListener('DOMContentLoaded', function(){
+      
+      const btn = document.getElementById('hamburger-button');
+      const nav = document.getElementById('main-nav');
+      if (btn && nav) btn.addEventListener('click', ()=> nav.classList.toggle('open'));
+
+      
+      const toggle = document.getElementById('dark-toggle');
+      const icon   = document.getElementById('dark-toggle-icon');
+      const lightI = toggle.dataset.light;
+      const darkI  = toggle.dataset.dark;
+
+      function updateIcon(isDark){
+        icon.innerHTML = isDark
+          ? `<img src="${lightI}"  alt="Light Mode" width="20" style="vertical-align:middle;"><span style="margin-left:8px; position:relative; top:2px;">Light Mode</span>`
+          : `<img src="${darkI}"   alt="Dark Mode"  width="20" style="vertical-align:middle;"><span style="margin-left:8px; position:relative; top:2px;">Dark Mode</span>`;
+      }
+
+      
+      const isDark = document.documentElement.classList.contains('dark');
+      updateIcon(isDark);
+
+      toggle.addEventListener('click', function(){
+        const nowDark = document.documentElement.classList.toggle('dark');
+        localStorage.setItem('theme', nowDark ? 'dark' : 'light');
+        updateIcon(nowDark);
+      });
+    });
+  </script>
 </body>
 </html>
