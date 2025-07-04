@@ -1,33 +1,64 @@
+<!-- layouts/_default/baseof.html -->
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<html lang="{{ .Site.Language.LanguageCode }}" dir="{{ or .Site.Language.LanguageDirection "ltr" }}">
 <head>
   {{ partial "head.html" . }}
 </head>
 <body>
-<div class="flex-box">
-  <div class="flex1">
-    <div class="sidebar">
-  <header>
-    {{ partial "header.html" . }}
-  </header>
-  <footer>
-<button id="dark-toggle" 
-  data-light="{{ "images/lantern-light.png" | relURL }}"
-  data-dark="{{ "images/lantern-dark.png" | relURL }}">
-  <span id="dark-toggle-icon"></span>
-</button>
-
-
-    {{ partial "footer.html" . }}
-  </footer>
+  <div class="flex-box">
+    <div class="flex1">
+      <div class="sidebar">
+        <header>{{ partial "header.html" . }}</header>
+        <footer>
+          <button
+            id="dark-toggle"
+            data-light="{{ "images/lantern-light.png" | relURL }}"
+            data-dark="{{ "images/lantern-dark.png"  | relURL }}">
+            <span id="dark-toggle-icon"></span>
+          </button>
+          {{ partial "footer.html" . }}
+        </footer>
+      </div>
+    </div>
+    <div class="flex2">
+      <main>{{ block "main" . }}{{ end }}</main>
+    </div>
   </div>
-  </div>
-  <div class="flex2">
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  </div>
-</div>
 
+  {{- $js := resources.Get "js/main.js" }}
+  {{- if $js }}
+    <script src="{{ $js.RelPermalink }}"></script>
+  {{- end }}
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function(){
+      // hamburger
+      const btn = document.getElementById('hamburger-button');
+      const nav = document.getElementById('main-nav');
+      if (btn && nav) btn.addEventListener('click', ()=> nav.classList.toggle('open'));
+
+      // dark/light toggle
+      const toggle = document.getElementById('dark-toggle');
+      const icon   = document.getElementById('dark-toggle-icon');
+      const lightI = toggle.dataset.light;
+      const darkI  = toggle.dataset.dark;
+
+      function updateIcon(isDark){
+        icon.innerHTML = isDark
+          ? `<img src="${lightI}"  alt="Light Mode" width="20" style="vertical-align:middle;"><span style="margin-left:8px; position:relative; top:2px;">Light Mode</span>`
+          : `<img src="${darkI}"   alt="Dark Mode"  width="20" style="vertical-align:middle;"><span style="margin-left:8px; position:relative; top:2px;">Dark Mode</span>`;
+      }
+
+      // initial state
+      const isDark = document.documentElement.classList.contains('dark');
+      updateIcon(isDark);
+
+      toggle.addEventListener('click', function(){
+        const nowDark = document.documentElement.classList.toggle('dark');
+        localStorage.setItem('theme', nowDark ? 'dark' : 'light');
+        updateIcon(nowDark);
+      });
+    });
+  </script>
 </body>
 </html>

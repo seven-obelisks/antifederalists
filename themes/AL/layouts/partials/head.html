@@ -1,5 +1,14 @@
+<!-- layouts/partials/head.html -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
+
+<script>
+  (function(){
+    if (localStorage.getItem('theme') === 'dark') {
+      document.documentElement.classList.add('dark');
+    }
+  })();
+</script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
@@ -7,15 +16,14 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-B6534G8TWP');
 </script>
-
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ printf "%s | %s" .Title .Site.Title }}{{ end }}</title>
+
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
