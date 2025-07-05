@@ -1,33 +1,35 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<html lang="{{ .Site.Language.LanguageCode }}" dir="{{ or .Site.Language.LanguageDirection `ltr` }}">
 <head>
   {{ partial "head.html" . }}
+
+  {{- $js := resources.Get "js/main.js" }}
+  {{- if $js }}
+    <script src="{{ $js.RelPermalink }}"></script>
+  {{- end }}
 </head>
 <body>
-<div class="flex-box">
-  <div class="flex1">
-    <div class="sidebar">
-  <header>
-    {{ partial "header.html" . }}
-  </header>
-  <footer>
-<button id="dark-toggle" 
-  data-light="{{ "images/lantern-light.png" | relURL }}"
-  data-dark="{{ "images/lantern-dark.png" | relURL }}">
-  <span id="dark-toggle-icon"></span>
-</button>
-
-
-    {{ partial "footer.html" . }}
-  </footer>
+  <div class="flex-box">
+    <div class="flex1">
+      <div class="sidebar">
+        <header>
+          {{ partial "header.html" . }}
+        </header>
+        <footer>
+          <button id="dark-toggle"
+                  data-light="{{ "images/lantern-light.png" | relURL }}"
+                  data-dark="{{ "images/lantern-dark.png"  | relURL }}">
+            <span id="dark-toggle-icon"></span>
+          </button>
+          {{ partial "footer.html" . }}
+        </footer>
+      </div>
+    </div>
+    <div class="flex2">
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+    </div>
   </div>
-  </div>
-  <div class="flex2">
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  </div>
-</div>
-
 </body>
 </html>
