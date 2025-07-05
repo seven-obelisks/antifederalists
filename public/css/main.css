@@ -150,7 +150,7 @@ nav {
 }
 
 /* ========== Papers / Blocks ========== */
-.paper-block {
+.paper-block, .research {
   padding: 2rem;
   margin: 2rem 0;
   border-radius: 20px;
@@ -325,6 +325,31 @@ h4 a {
 
 h4 a:hover{
   text-decoration: underline !important;
+}
+
+.research a{
+  color:#11133C;
+  font-weight: bold;
+}
+
+/* ========== Lists ========== */
+
+.research ul{
+  list-style-type: none;
+  padding:0px 10px;
+}
+
+.research li{
+  padding:0px;
+  margin-bottom:20px;
+  padding-bottom:20px;
+  border-bottom: 1px solid antiquewhite;
+}
+
+.research li:last-child{
+  margin-bottom:0px !important;
+  padding-bottom:0px !important ;
+  border-bottom:0px !important;
 }
 
 /* ========== Buttons ========== */
