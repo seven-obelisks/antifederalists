@@ -1,5 +1,5 @@
 ---
-title: "The Federal Farmer XII"
+title: "Federal Farmer XII"
 date: 2025-01-20
 summary: Criticizes the Constitution’s vague election provisions, warning they permit manipulation through plurality voting, non-local candidates, and congressional control, and calls for fixed district elections with majority rule to preserve democratic representation.
 ---

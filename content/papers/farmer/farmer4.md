@@ -1,5 +1,5 @@
 ---
-title: "The Federal Farmer IV"
+title: "Federal Farmer IV"
 date: 2025-01-28
 summary: Warns that the Constitution grants vague and unchecked powers to the federal government, lacks essential rights protections, undermines jury trials, and enables a ruling elite to suppress liberty under the guise of law and treaty.
 ---

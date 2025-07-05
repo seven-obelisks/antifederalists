@@ -1,5 +1,5 @@
 ---
-title: "The Federal Farmer XI"
+title: "Federal Farmer XI"
 date: 2025-01-21
 summary: Critiques the Senate’s structure and powers, warning that long terms, lack of recall, absence of rotation, and control over appointments and treaties could consolidate influence among disconnected elites and erode public accountability.
 ---

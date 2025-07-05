@@ -1,5 +1,5 @@
 ---
-title: "The Federal Farmer I"
+title: "Federal Farmer I"
 date: 2025-01-31
 summary: Raises concern that the proposed Constitution seeks to centralize authority under a consolidated national government, warns against hasty ratification, and argues that only a limited federal system—preserving state autonomy—can protect liberty and secure lasting stability.
 ---

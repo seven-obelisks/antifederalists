@@ -1,5 +1,5 @@
 ---
-title: "The Federal Farmer X"
+title: "Federal Farmer X"
 date: 2025-01-22
 summary: Warns that the proposed Constitution strips the people and states of meaningful checks on federal power, enabling gradual elite consolidation through underrepresentation, unchecked taxation, military control, and systemic exclusion of democratic safeguards.
 ---

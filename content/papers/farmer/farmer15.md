@@ -1,5 +1,5 @@
 ---
-title: "The Federal Farmer XV"
+title: "Federal Farmer XV"
 date: 2025-01-17
 summary: Examines the proposed judiciary’s expansive powers, cautioning that it diminishes jury authority, permits judicial discretion over both law and fact, and risks entrenching arbitrary rule through loosely defined equity jurisdiction.
 ---

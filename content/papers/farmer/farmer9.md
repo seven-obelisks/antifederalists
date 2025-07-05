@@ -1,5 +1,5 @@
 ---
-title: "The Federal Farmer IX"
+title: "Federal Farmer IX"
 date: 2025-01-23
 summary: Warns that a small, elite Congress invites corruption, fails to represent the broader populace, and risks shifting power from the many to the few through patronage, taxation abuse, and lack of meaningful constitutional safeguards.
 ---
