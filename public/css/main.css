@@ -416,6 +416,7 @@ body,
 .flex2 p,
 .flex2 .page-white,
 .flex2 .paper-block,
+.flex2 .research,
 .flex2 .homebnr,
 .flex2 .homequote,
 .flex2 .highlighted-paper,
@@ -454,6 +455,11 @@ body.dark .flex2 .paper-block{
 }
 
 body.dark .flex2 .homequote{
+  background-color: #121212;
+  border:1px solid #fff;
+}
+
+body.dark .flex2 .research{
   background-color: #121212;
   border:1px solid #fff;
 }
