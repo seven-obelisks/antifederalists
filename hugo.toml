@@ -69,7 +69,7 @@ weight = 60
 
 [[menus.main]]
 identifier = "dewitt"
-name = 'DeWitt'
+name = 'John DeWitt'
 pageRef = '/papers/dewitt'
 parent = 'papers'
 weight = 70
