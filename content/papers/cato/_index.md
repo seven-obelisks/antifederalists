@@ -1,6 +1,6 @@
 ---
 title: 'Cato'
-summary: 'Cato was the pseudonym of an Anti-Federalist writer, often attributed to George Clinton, used in a series of essays criticizing the U.S. Constitution. His writings argued that centralized power threatened republican principles and called for a bill of rights to protect civil freedoms.'
+summary: 'Cato criticized the Senate’s sweeping authorities—altering money bills, originating appropriations, appointing ambassadors and judges, making treaties, and trying impeachments—combined with lifelong tenure and constant session, as destroying any balance of power and enabling systematic usurpation of both state rights and individual freedoms.'
 draft: false
 ---
 

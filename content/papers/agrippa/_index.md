@@ -1,6 +1,6 @@
 ---
 title: 'Agrippa'
-summary: 'Agrippa was the pseudonym of an Anti-Federalist writer, widely believed to be James Winthrop of Massachusetts. He argued that the proposed government threatened the independence of the states and lacked sufficient protections for individual rights and local self-governance.'
+summary: 'Agrippa warned that making federal laws paramount over state constitutions would render state declarations of rights meaningless, strip citizens of common‐law protections, and concentrate authority so heavily at the center that local self-government and individual liberties would vanish without an explicit bill of rights.'
 draft: false
 ---
 

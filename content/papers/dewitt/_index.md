@@ -1,7 +1,7 @@
 ---
 title: 'John DeWitt'
 draft: false
-summary: John DeWitt was the pseudonym of an Anti-Federalist writer, often attributed to John Dickinson of Pennsylvania. He argued that the proposed Constitution would concentrate too much power in the federal government, diminishing state authority and failing to adequately protect individual rights and liberties.
+summary: 'John DeWitt protested that, under the “general welfare” clause, Congress could grant trade monopolies, create new crimes, impose severe punishments, and extend its reach at will—leaving state legislatures powerless to protect their reserved powers and citizens vulnerable to arbitrary federal legislation.'
 ---
 
 # John DeWitt

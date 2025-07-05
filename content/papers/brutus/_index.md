@@ -1,6 +1,6 @@
 ---
 title: 'Brutus'
-summary: 'Brutus was the pseudonym of a prominent Anti-Federalist writer, likely Robert Yates, who published essays opposing the U.S. Constitution. He warned that the proposed federal government would overpower the states and lacked sufficient safeguards for individual liberties.'
+summary: 'Brutus cautioned that vesting broad judicial power in distant federal courts would absorb state judiciaries, eliminate jury trials, and brand any state challenge to overreach as treason—effectively muzzling resistance and paving the way for unchecked national despotism.'
 draft: false
 ---
 

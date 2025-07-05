@@ -1,7 +1,7 @@
 ---
 title: 'Luther Martin'
 draft: false
-summary: Luther Martin was a prominent Anti-Federalist from Maryland who vocally opposed the U.S. Constitution. He argued that it concentrated too much power in the federal government, undermined state sovereignty, and lacked protections for individual rights, particularly through the absence of a Bill of Rights.
+summary: Luther Martin decried the Constitution’s silence on press liberty, civil jury trials, and standing-army limits; objected to barring ex post facto relief only for those laws; and warned that postponing any ban on the slave trade for twenty-five years would weaken national defense and perpetuate moral and political peril.
 ---
 
 # Luther Martin

@@ -1,7 +1,7 @@
 ---
 title: 'An Old Whig'
 draft: false
-summary: An Old Whig was the pseudonym of an Anti-Federalist writer, often attributed to John Dickinson of Pennsylvania. He opposed the Constitution, arguing it would centralize power and diminish state authority. An Old Whig called for stronger protections of individual rights and a more balanced distribution of power.
+summary: 'An Old Whig argued that the proposed “House of Representatives” offered only the shadow of true representation—legislators unfamiliar with local needs would craft laws without proper information or accountability, eroding public confidence and allowing distant power to override the people’s will.'
 ---
 
 # An Old Whig

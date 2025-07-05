@@ -1,7 +1,7 @@
 ---
 title: 'Centinel'
 draft: false
-summary: Centinel was the pseudonym of an Anti-Federalist writer, commonly attributed to Samuel Bryan of Pennsylvania. He argued that the proposed Constitution would concentrate too much power in the federal government, weakening state authority and threatening individual rights.
+summary: 'Centinel argued that the new federal judiciary was designed to dwarf state courts, making justice as costly, intricate, and unattainable for ordinary citizens as it was in England, thereby empowering the wealthy to oppress—and ultimately ruin—the poor.'
 ---
 
 # Centinel

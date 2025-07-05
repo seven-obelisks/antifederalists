@@ -1,7 +1,7 @@
 ---
 title: 'Federal Farmer'
 draft: false
-summary: Federal Farmer was the pseudonym of an Anti-Federalist writer, often attributed to Richard Henry Lee of Virginia. He opposed the Constitution, criticizing its centralization of power and the absence of a Bill of Rights, which he believed would lead to tyranny and undermine individual freedoms.
+summary: 'Federal Farmer condemned the lack of a constitutional council for the President and the creation of a Vice-President solely to preside over the Senate, warning these defects would blur the lines between executive and legislative branches and concentrate appointment powers in an unaccountable few.'
 ---
 
 # Federal Farmer
