@@ -6,7 +6,7 @@ summary: Stresses the importance of a well-regulated militia, fearing that the p
 
 ##### June 14, 1788
 
-*Mr. Chairman,*
+###### Mr. Chairman,
 
 In my judgment the friends of the opposition have to act cautiously. We must make a firm stand before we decide. I was heard to say, a few days ago, that the sword and purse were the two great instruments of government; and I professed great repugnance at parting with the purse, without any control, to the proposed system of government. And now, when we proceed in this formidable compact, and come to the national defence, the sword, I am persuaded we ought to be still more cautious and circumspect; for I feel still more reluctance to surrender this most valuable of rights.
 

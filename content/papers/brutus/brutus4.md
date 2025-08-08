@@ -6,7 +6,7 @@ summary: Warns that the proposed government’s small and elite legislature cann
 
 ##### November 29, 1787
 
-*To the People of the State of New-York,*
+###### To the People of the State of New-York,
 
 There can be no free government where the people are not possessed of the power of making the laws by which they are governed, either in their own persons, or by others substituted in their stead.
 

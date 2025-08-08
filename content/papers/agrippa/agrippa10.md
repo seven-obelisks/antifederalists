@@ -6,7 +6,7 @@ summary: Summarizes prior arguments to show that the proposed Constitution conso
 
 ##### January 1, 1788
 
-*To the People,*
+###### To the People,
 
 Friends and Brethren,
 

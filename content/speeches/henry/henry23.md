@@ -6,7 +6,7 @@ summary: Emphasizes the need for clear reserved powers for states to ensure a ba
 
 ##### June 24, 1788
 
-*Mr. Chairman,*
+###### Mr. Chairman,
 
 The honorable gentleman who was up some time ago exhorts us not to fall into a repetition of the defects of the Confederation. He said we ought not to declare that each state retains every power, jurisdiction, and right, which is not expressly delegated, because experience has proved the insertion of such a restriction to be destructive, and mentioned an instance to prove it. That case, Mr. Chairman, appears tome to militate against himself. Passports would not be given by Congress — and why? Because there was a clause in the Confederation which denied them implied powers. And says he, Shall we repeat the error? He asked me where was the power of emancipating slaves. I say it will be implied, unless implication be prohibited. He admits that the power of granting passports will be in the new Congress without the insertion of this restriction; yet he can show me nothing like such a power granted in that Constitution. Notwithstanding he admits their right to this power by implication, he says that I am unfair and uncandid in my deduction that they can emancipate our slaves, though the word emancipation is not mentioned in it. They can exercise power by implication in one instance, as well as in another. Thus, by the gentleman's own argument, they can exercise the power, though it be not delegated.
 

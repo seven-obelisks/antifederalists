@@ -6,7 +6,7 @@ summary: Portrays the Constitution’s backers as a cunning, well-funded minorit
 
 ##### January 30, 1788
 
-*Fellow–Citizens,* 
+###### Fellow–Citizens,
 
 The conspirators are putting your good sense, patriotism and spirit to the severest test. So bold a game of deception, so decisive a stroke for despotic power, was never before attempted among enlightened freemen. Can there be apathy so indifferent as not to be rouzed into indignation, or prejudice so blind, as not to yield to the glaring evidence of a flagitious conspiracy against the public liberties! The audacious and high-handed measures practised to suppress information, and intimidate discussion, would in any other circumstances than the present, have kindled a flame fatal to such daring invaders of our dearest privileges.
 

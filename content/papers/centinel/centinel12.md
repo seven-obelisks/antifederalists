@@ -6,7 +6,7 @@ summary: Condemns the Constitution’s promoters as a deceptive faction silencin
 
 ##### January 23, 1788
 
-*Fellow–Citizens,*
+###### Fellow–Citizens,
 
 Conscious guilt has taken the alarm, thrown out the signal of distress, and even appealed to the generosity of patriotism. The authors and abettors of the new constitution shudder at the term conspirators being applied to them, as it designates their true character, and seems prophetic of the catastrophe: they read their fate in the epithet.
 

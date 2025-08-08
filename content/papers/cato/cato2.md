@@ -6,7 +6,7 @@ summary: Condemns the Convention’s overreach and warns that the Constitution i
 
 ##### October 11, 1787
 
-*To the Citizens of the State of New York,*
+###### To the Citizens of the State of New York,
 
 >“Remember, O my friends! the lows, the rights.
 >

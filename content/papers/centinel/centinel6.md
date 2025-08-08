@@ -6,7 +6,7 @@ summary: Warns that Americans, once defenders of liberty, are now surrendering i
 
 ##### December 25, 1787
 
-*To the People of Pennsylvania,*
+###### To the People of Pennsylvania,
 
 >“Man is the glory, jest, and riddle of the world.”
 >POPE.

@@ -6,7 +6,7 @@ summary: Criticizes the Constitution for exploiting economic fears to establish 
 
 ##### November 30, 1787
 
-*Friends, Countrymen and Fellow Citizens,*
+###### Friends, Countrymen and Fellow Citizens,
 
 That the present Confederation is inadequate to the objects of the Union seems to be universally allowed. The only question is—What additional powers are wanting to give due energy to the federal government? We should, however, be careful, in forming our opinion on this subject, not to impute the temporary and extraordinary difficulties that have hitherto impeded the execution of the Confederation to defects in the system itself.
 

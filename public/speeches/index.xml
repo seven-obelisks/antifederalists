@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antifederalist Speeches on The Anti-Federalist Library</title>
-    <link>http://localhost:1313/speeches/</link>
+    <link>http://localhost:55351/speeches/</link>
     <description>Recent content in Antifederalist Speeches on The Anti-Federalist Library</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/speeches/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55351/speeches/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

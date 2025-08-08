@@ -6,7 +6,7 @@ summary: Argues that inequality of representation favors powerful states, underm
 
 ##### January 01, 1788
 
-*Mr. Martin’s Information to the House of Assembly, continued.*
+###### Mr. Martin’s Information to the House of Assembly, continued.
 
 When contrary to our hopes it was found, that a majority of the members of the convention had in the committee agreed to the system, I have laid before you, we then thought it necessary to bring forward the propositions, which such of us who disapproved the plan before had prepared—The members who had prepared these resolutions were principally of the Connecticut, New—York, Jersey, Delaware and Maryland delegations.—The honorable Mr. Patterson, of the Jerseys, laid them before the convention—of these propositions(a)I am in possession of a copy, which I shall beg leave to read to you.
 

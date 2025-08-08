@@ -6,7 +6,7 @@ summary: Warns that unchecked federal taxation, judicial overreach, and revenue 
 
 ##### January 15, 1788
 
-*Mr. Martin’s Information to the House of Assembly, continued.*
+###### Mr. Martin’s Information to the House of Assembly, continued.
 
 The seventh section of this article was also the subject of contest. It was thought by many members of the convention, that it was very wrong to confine the origination of all revenue bills to the house of representatives, since the members of the senate will be chosen by the people as well as the members of the house of delegates, if not immediately, yet mediately, being chosen by the members of the State legislature, which members are elected by the people, and that it makes no real difference whether a person doth a thing in person, or by a deputy, or agent, appointed by him for that purpose.
 

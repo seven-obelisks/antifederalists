@@ -6,7 +6,7 @@ summary: Argues that the presidency holds dangerously monarchic powers—command
 
 ##### October 11, 1787
 
-*To the Citizens of the State of New York,*
+###### To the Citizens of the State of New York,
 
 Admitting, however, that the vast extent of America, together with the variousother reasons which I offered you in my last number, against the practicability of the just exercise of the new government are insufficient to convince you; still it is anundeniable truth, that its several parts are either possessed of principles, which you have heretofore considered as ruinous, and that others are omitted which you have established as fundamental to your political security, and must in their operation. I will venture to assert—fetter your tongues and minds, enchain your bodies, and ultimately extinguish all that is great and noble in man.
 

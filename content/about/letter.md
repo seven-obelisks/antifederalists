@@ -4,7 +4,7 @@ draft: false
 summary: A message from the site's editor and custodian.
 ---
 
-*Fellow Citizen,*
+###### Fellow Citizen,
 
 Our founding fathers were complicated men, a truth evident from any reading of the United States Constitution.
 

@@ -6,7 +6,7 @@ summary: Warns that the Constitution grants vague and unchecked powers to the fe
 
 ##### October 12th, 1787
 
-*Dear Sir,*
+###### Dear Sir,
 
 It will not be possible to establish in the federal courts the jury trial of the vicinage so well as in the state courts.
 

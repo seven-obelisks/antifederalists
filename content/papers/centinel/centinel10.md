@@ -6,7 +6,7 @@ summary: Celebrates the revival of free press as the decisive force exposing eli
 
 ##### January 12, 1788
 
-*Fellow Citizens,*
+###### Fellow Citizens,
 
 What illustrious evidence and striking demonstration does the present momentous discussion afford of the inestimable value of the liberty of the press? No doubt now remains, but that it will prove the rock of our political salvation. Despotism, with its innumerable host of evils, by gliding through the mist of deception, had gained some of the principal works, had made a lodgement in the very citadel of liberty before it was discovered, and was near carrying the fortress by surprise: at this imminent alarming crisis the centries from the watch-towers sounded the alarm, and aroused the dormant votaries of liberty to a due sense of their danger; who, with an alacrity and spirit suited to the exigence, answered to the call, repulsed the enemy, dislodged it from most of its acquisitions, and nothing is now wanting to a total rout and compleat defeat, but a general discharge from the artillery of freedom. As the shades of night fly the approach of the radiant sun, so does despotism before the majesty of enlightened truth; wherever free discussion is allowed, this is invariably the consequence. Since the press has been unshackled in Pennsylvania; what an astonishing transition appears in the sentiments of the people! Infatuation is at an end, execration and indignation have succeeded to blind admiration and mistaken enthusiasm. The rampant insolence of the conspirators is prostrated, black dispair has taken possession of many of them, their countenances proclaim their defeat, and express serious apprehension for their personal safety from the rising resentment of injured freemen.
 

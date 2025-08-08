@@ -6,7 +6,7 @@ summary: Warns that history proves standing armies often destroy republics from 
 
 ##### January 24, 1788
 
-*To the People of the State of New-York,*
+###### To the People of the State of New-York,
 
 The liberties of a people are in danger from a large standing army, not only because the rulers may employ them for the purposes of supporting themselves in any usurpations of power, which they may see proper to exercise, but there is great hazard, that an army will subvert the forms of the government, under whose authority, they are raised, and establish one, according to the pleasure of their leader.
 

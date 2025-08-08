@@ -6,7 +6,7 @@ summary: Claims that the Constitution threatens both civil liberty and state sol
 
 ##### December 25, 1787
 
-*To the People,*
+###### To the People,
 
 It has been proved, by indisputable evidence, that power is not the grand principle of union among the parts of a very extensive empire; and that when this principle is pushed beyond the degree necessary for rendering justice between man and man, it debases the character of individuals, and renders them less secure in their persons and property. Civil liberty consists in the consciousness of that security, and is best guarded by political liberty, which is the share that every citizen has in the government. Accordingly all our accounts agree, that in those empires which are commonly called despotick, and which comprehend by far the greatest part of the world, the government is most fluctuating, and property least secure. In those countries insults are borne by the sovereign, which, if offered to one of our governours, would fill us with horrour, and we should think the government dissolving.
 

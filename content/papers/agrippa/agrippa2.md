@@ -6,7 +6,7 @@ summary: Defends Massachusetts’ stable self-government and civil order as proo
 
 ##### November 27, 1787
 
-*To the People of Massachusetts.*
+###### To the People of Massachusetts,
 
 In the Gazette of the 23d instant, I ascertained from the state of other countries and the experience of mankind, that free countries are most friendly to commerce and to the rights of property. This produces greater internal tranquillity. For every man, finding sufficient employment for his active powers in the way of trade, agriculture and manufactures, feels no disposition to quarrel with his neighbour, nor with the government which protects him, and of which he is a constituent part. Of the truth of these positions we have abundant evidence in the history of our own country. Soon after the settlement of Massachusetts, and its formation into a commonwealth, in the earlier part of the last century, there was a sedition at Hingham and Weymouth. The governour passing by at that time with his guard, seized some of the mutineers and imprisoned them. This was complained of as a violation of their rights, and the govemour lost his election the next year; but the year afterwards was restored and continued to be re-elected for several years. The government does not appear to have been disturbed again till the revocation of the charter in 1686, being a period of about half a century.
 

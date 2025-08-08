@@ -6,7 +6,7 @@ summary: Warns that a small, elite Congress invites corruption, fails to represe
 
 ##### January 4, 1788
 
-*Dear sir,*
+###### Dear sir,
 
 The advocates of the constitution say we must trust to the administration, and elect good men for representatives. I admit, that in forming the social compact, we can fix only general principles, and, of necessity, must trust something to the wisdom and integrity of the administration. But the question is, do we not trust too much, and to men also placed in the vortex of temptation, to lay hold of proffered advantages for themselves and their connections, and to oppress the body of the people.
 

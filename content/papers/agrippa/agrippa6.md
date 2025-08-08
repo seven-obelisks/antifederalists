@@ -6,7 +6,7 @@ summary: Argues that the Constitution consolidates state powers under federal co
 
 ##### December 14, 1787
 
-*To the People*
+###### To the People,
 
 To prevent any mistakes, or misapprehensions of the argument, stated in my last paper, to prove that the proposed constitution is an actual consolidation of the separate states into one extensive commonwealth, the reader is desired to observe, that in the course of the argument, the new plan is considered as an intire system. It is not dependent on any other book for an explanation, and contains no references to any other book. All the defences of it, therefore, so far as they are drawn from the state constitutions, or from maxims of the common law, are foreign to the purpose. It is only by comparing the different parts of it together, that the meaning of the whole is to be understood. For instance —
 

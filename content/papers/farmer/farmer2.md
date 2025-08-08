@@ -6,7 +6,7 @@ summary: Criticizes the Constitution for centralizing power without proper repre
 
 ##### October 9, 1787
 
-*Dear Sir,*
+###### Dear Sir,
 
 The essential parts of a free and good government are a full and equal representation of the people in the legislature, and the jury trial of the vicinage in the administration of justice — a full and equal representation, is that which possesses the same interests, feelings, opinions, and views the people themselves would were they all assembled — a fair representation, therefore, should be so regulated, that every order of men in the community, according to the common course of elections, can have a share in it — in order to allow professional men, merchants, traders, farmers, mechanics, etc. to bring a just proportion of their best informed men respectively into the legislature, the representation must be considerably numerous — We have about 200 state senators in the United States, and a less number than that of federal representatives cannot, clearly, be a full representation of this people, in the affairs of internal taxation and police, were there but one legislature for the whole union. The representation cannot be equal, or the situation of the people proper for one government only — if the extreme parts of the society cannot be represented as fully as the central — It is apparently impracticable that this should be the case in this extensive country — it would be impossible to collect a representation of the parts of the country five, six, and seven hundred miles from the seat of government.
 

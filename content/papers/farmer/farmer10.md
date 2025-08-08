@@ -6,7 +6,7 @@ summary: Warns that the proposed Constitution strips the people and states of me
 
 ##### January 7, 1788
 
-*Dear sir,*
+###### Dear sir,
 
 It is said that our people have a high sense of freedom, possess power, property, and the strong arm; meaning, I presume, that the body of the people can take care of themselves, and awe their rulers; and, therefore, particular provision in the constitution for their security may not be essential. When I come to examine these observations, they appear to me too triffling and loose to deserve a serious answer.
 

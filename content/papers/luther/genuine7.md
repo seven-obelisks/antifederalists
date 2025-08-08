@@ -6,7 +6,7 @@ summary: Condemns unlimited federal military power, centralized control of the m
 
 ##### January 18, 1788
 
-*Mr. Martin’s Information to the House of Assembly, continued.*
+###### Mr. Martin’s Information to the House of Assembly, continued.
 
 By the eighth section, of the first article, the Congress have also a power given them to raise and support armies without any limitation as to numbers, and without any restriction in time of peace. Thus, Sir, this plan of government, instead of guarding against a standing army, that engine of arbitrary power, which has so often and so successfully been used for the subversion of freedom, has, in its formation, given it an express and constitutional sanction, and hath provided for its introduction; nor could this be prevented: I took the sense of the convention on a proposition, by which the Congress should not have power, in time of peace, to keep embodied more than a certain number of regular troops—that number to be ascertained by what should be considered a respectable peace establishment. —This proposition was rejected by a majority,it being their determination, that the power of Congress to keep up a standing army, even in peace should only be restrained by their will and pleasure.
 

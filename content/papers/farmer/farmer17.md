@@ -6,7 +6,7 @@ summary: Questions the necessity of granting sweeping federal taxation powers, w
 
 ##### January 23, 1788
 
-*Dear sir,*
+###### Dear sir,
 
 I believe the people of the United States are full in the opinion, that a free and mild government can be preserved in their extensive territories, only under the substantial forms of a federal republic. As several of the ablest advocates for the system proposed, have acknowledged this (and I hope the confessions they have published will be preserved and remembered) I shall not take up time to establish this point. A question then arises, how far that system partakes of a federal republic. — I observed in a former letter, that it appears to be the first important step to a consolidation of the states; that its strong tendency is to that point.
 

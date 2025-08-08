@@ -6,7 +6,7 @@ summary: Highlights the lack of protections for citizens against a potentially o
 
 ##### June 20, 1788
 
-*Mr. Chairman,*
+###### Mr. Chairman,
 
 I have already expressed painful sensations at the surrender of our great rights, and I am again driven to the mournful recollection. The purse is gone; the sword is gone; and here is the only thing of any importance that is to remain with us. As I think this is a more fatal defect than any we have yet considered, forgive me if I attempt to refute the observations made by the honorable member in the chair, and last up. It appears to me that the powers in the section before you are either impracticable, or, if reducible to practice, dangerous in the extreme.
 

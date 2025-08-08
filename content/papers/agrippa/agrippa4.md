@@ -6,7 +6,7 @@ summary: Argues that large consolidated republics collapse into despotism, and w
 
 ##### December 3, 1787
 
-*To the People,*
+###### To the People,
 
 Having considered some of the principal advantages of the happy form of government under which it is our peculiar good fortune to live, we find by experience, that it is the best calculated of any form hitherto invented, to secure to us the rights of our persons and of our property, and that the general circumstances of the people shew an advanced state of improvement never before known. We have found the shock given by the war in a great measure obliterated, and the publick debt contracted at that time to be considerably reduced in the nominal sum. The Congress lands are fully adequate to the redemption of the principal of their debt, and are selling and populating very fast. The lands of this state, at the west, are, at the moderate price of eighteen pence an acre, worth near half a million pounds in our money. They ought, therefore, to be sold as quick as possible. An application was made lately for a large tract at that price, and continual applications are made for other lands in the eastern part of the state. Our resources are daily augmenting.
 

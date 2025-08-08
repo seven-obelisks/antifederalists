@@ -6,7 +6,7 @@ summary: Emphasizes the need for officials to be held accountable to the people 
 
 ##### June 14, 1788
 
-*Mr. Chairman,*
+###### Mr. Chairman,
 
 It is now confessed that this is a national government. There is not a single federal feature in it. It has been alleged, within these walls, during the debates, to be national and federal, as it suited the arguments of gentlemen.
 

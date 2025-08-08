@@ -6,7 +6,7 @@ summary: Argues the Constitution endangers liberty through inadequate representa
 
 ##### November 23, 1787
 
-*To the People.*
+###### To the People,
 
 Many inconveniencies and difficulties in the new plan of government have been mentioned by different writers on that subject. Mr Gerry has given the publick his objections against it, with a manly freedom. The seceding members from the Pennsylvania Assembly also published theirs. Various anonymous writers have mentioned reasons of great weight. Among the many objections have been stated the unlimited right of taxation — a standing army — an inadequate representation of the people — a right to destroy the constitution of the separate states, and all the barriers that have been set up in defence of liberty — the right to try causes between private persons in many cases without a jury; without trying in the vicinity of either party; and without any limitation of the value which is to be tried. To none of these or any other objections has any answer been given, but such as have acknowledged the truth of the objection while they insulted the objector. This conduct has much the appearance of trying to force a general sentiment upon the people.
 

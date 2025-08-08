@@ -6,7 +6,7 @@ summary: Warns that the Constitution will create a consolidated national governm
 
 ##### October 18, 1787
 
-*To the Citizens of the State of New-York,*
+###### To the Citizens of the State of New-York,
 
 When the public is called to investigate and decide upon a question in which not only the present members of the community are deeply interested, but upon which the happiness and misery of generations yet unborn is in great measure suspended, the benevolent mind cannot help feeling itself peculiarly interested in the result.
 

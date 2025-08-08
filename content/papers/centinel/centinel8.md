@@ -6,7 +6,7 @@ summary: Portrays the Constitution as a gilded trap crafted by self-interested e
 
 ##### December 29, 1787
 
-*Fellow Citizens,* 
+###### Fellow Citizens,
 
 Under the benign influence of liberty, this country, so recently a rugged wilderness and the abode of savages and wild beasts, has attained to a degree of improvement and greatness, in less than two ages, of which history furnishes no parallel: It is here that human nature may be viewed in all its glory; man assumes the station designed him by the creation; a happy equality and independency pervades the community; it is here the human mind, untrammeled by the restraints of arbitrary power, expands every faculty: as the field to fame and riches is open to all, it stimulates universal exertion, and exhibits a lively picture of emulation, industry and happiness. The unfortunate and oppressed of all nations, fly to this grand asylum, where liberty is ever protected, and industry crowned with success.
 

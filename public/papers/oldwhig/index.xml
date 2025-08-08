@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>An Old Whig on The Anti-Federalist Library</title>
-    <link>http://localhost:1313/papers/oldwhig/</link>
+    <link>http://localhost:55351/papers/oldwhig/</link>
     <description>Recent content in An Old Whig on The Anti-Federalist Library</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/papers/oldwhig/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55351/papers/oldwhig/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Old Whig I</title>
-      <link>http://localhost:1313/papers/oldwhig/oldwhig1/</link>
+      <link>http://localhost:55351/papers/oldwhig/oldwhig1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/oldwhig/oldwhig1/</guid>
+      <guid>http://localhost:55351/papers/oldwhig/oldwhig1/</guid>
       <description>Expresses early support for a federal constitution but warns that the proposed system is effectively irreversible, risks silencing public dissent, and may entrench unaccountable power indefinitely.</description>
     </item>
     <item>
       <title>An Old Whig II</title>
-      <link>http://localhost:1313/papers/oldwhig/oldwhig2/</link>
+      <link>http://localhost:55351/papers/oldwhig/oldwhig2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/oldwhig/oldwhig2/</guid>
+      <guid>http://localhost:55351/papers/oldwhig/oldwhig2/</guid>
       <description>Examines James Wilson’s defense of the Constitution and rejects his claim that federal power is limited, arguing instead that the &amp;ldquo;necessary and proper&amp;rdquo; clause and supremacy clause grant Congress virtually unlimited authority without a bill of rights to restrain it.</description>
     </item>
     <item>
       <title>An Old Whig III</title>
-      <link>http://localhost:1313/papers/oldwhig/oldwhig3/</link>
+      <link>http://localhost:55351/papers/oldwhig/oldwhig3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/oldwhig/oldwhig3/</guid>
+      <guid>http://localhost:55351/papers/oldwhig/oldwhig3/</guid>
       <description>Condemns the treaty and supremacy clauses for enabling the president and Senate to override state laws, warns of unchecked federal power without a bill of rights, and defends trial by jury as essential to preserving liberty from civil abuse and creeping despotism.</description>
     </item>
     <item>
       <title>An Old Whig IV</title>
-      <link>http://localhost:1313/papers/oldwhig/oldwhig4/</link>
+      <link>http://localhost:55351/papers/oldwhig/oldwhig4/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/oldwhig/oldwhig4/</guid>
+      <guid>http://localhost:55351/papers/oldwhig/oldwhig4/</guid>
       <description>Argues that a single vast republic is unsustainable and warns that without a confederation model and a firm bill of rights, the proposed Constitution will dissolve state authority, endanger liberty, and drift toward monarchy and despotism.</description>
     </item>
     <item>
       <title>An Old Whig V</title>
-      <link>http://localhost:1313/papers/oldwhig/oldwhig5/</link>
+      <link>http://localhost:55351/papers/oldwhig/oldwhig5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/oldwhig/oldwhig5/</guid>
+      <guid>http://localhost:55351/papers/oldwhig/oldwhig5/</guid>
       <description>Warns that without a bill of rights, liberties like conscience, speech, and due process are left unprotected, and argues that the president’s vast powers verge on monarchy, risking a future descent into military tyranny.</description>
     </item>
     <item>
       <title>An Old Whig VI</title>
-      <link>http://localhost:1313/papers/oldwhig/oldwhig6/</link>
+      <link>http://localhost:55351/papers/oldwhig/oldwhig6/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/oldwhig/oldwhig6/</guid>
+      <guid>http://localhost:55351/papers/oldwhig/oldwhig6/</guid>
       <description>Argues that granting Congress unlimited taxation power will strip states of revenue, reduce them to shadows, and risks the collapse of republican government into centralized despotism.</description>
     </item>
     <item>
       <title>An Old Whig VII</title>
-      <link>http://localhost:1313/papers/oldwhig/oldwhig7/</link>
+      <link>http://localhost:55351/papers/oldwhig/oldwhig7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/oldwhig/oldwhig7/</guid>
+      <guid>http://localhost:55351/papers/oldwhig/oldwhig7/</guid>
       <description>Rejects the claim that amendments are impossible, proposing that state conventions should suggest changes, call for a second Continental Convention, and only then decide on ratification—ensuring unity without surrendering public judgment.</description>
     </item>
     <item>
       <title>An Old Whig VIII</title>
-      <link>http://localhost:1313/papers/oldwhig/oldwhig8/</link>
+      <link>http://localhost:55351/papers/oldwhig/oldwhig8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/oldwhig/oldwhig8/</guid>
+      <guid>http://localhost:55351/papers/oldwhig/oldwhig8/</guid>
       <description>Urges that amendments be made before adopting the Constitution, warning that reliance on future rulers or the complex Article V process is naïve, and that once power is granted, it is nearly impossible to reclaim.</description>
     </item>
   </channel>

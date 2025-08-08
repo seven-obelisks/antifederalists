@@ -6,7 +6,7 @@ summary: Argues that the Constitution centralizes power by entangling the Senate
 
 ##### September 27, 1787
 
-*To the Citizens of the State of New York,*
+###### To the Citizens of the State of New York,
 
 That the senate and president are further improperly connected, will appear, if it is considered, that their dependence on each other will prevent either from being a check upon the other; they must act in concert, and whether the power and influence of the one or the other is to prevail, will depend on the character and abilities of the men who hold those offices at the time. The senate is vested with such a proportion of the executive, that it would be found necessary that they should be constantly sitting. This circumstance did not escape the convention, and they have provided for the event, in the 2d article, which declares, that the executive may, on extraordinary occasions, convene both houses or either of them. No occasion can exist for calling the assembly without the senate; the words or either of them, must have been intended to apply only to the senate. Their wages are already provided for; and it will be therefore readily observed, that the partition between a perpetuation of their sessions and a perpetuation of their offices, in the progress of the government, will be found to be but thin and feeble. Besides, the senate, who have the sole power to try all impeachments, in case of the impeachment of the president, are to determine, as judges, the propriety of the advice they gave him, as senators. Can the senate in this, therefore, be an impartial judicature? And will they not rather serve as a screen to great public defaulters?
 

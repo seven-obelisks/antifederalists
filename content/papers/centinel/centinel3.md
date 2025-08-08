@@ -6,7 +6,7 @@ summary: Argues that the Constitution was crafted by elites to establish a centr
 
 ##### November 8, 1787
 
-*To the People of Pennsylvania,*
+###### To the People of Pennsylvania,
 
 >John 3d, verse 20th - “For every one that doeth evil, hateth the light, neither cometh to the light,lest his deeds should be reproved.” But “there is nothing covered that shall not be revealed; neither hid that shall not be known. Therefore whatever ye have spoken in darkness, shall beheard in the light: and that which ye have spoken in the ear in closets, shall be proclaimed onthe housetops.” St. Luke, chap, xii, 2d and 3d verses...
 

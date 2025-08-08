@@ -6,7 +6,7 @@ summary: Criticizes the proposed House and Senate for lacking fair representatio
 
 ##### November 15, 1787
 
-*To the Citizens of the State of New-York,*
+###### To the Citizens of the State of New-York,
 
 In the investigation of the constitution, under your consideration, great care should be taken, that you do not form your opinions respecting it, from unimportant provisions, or fallacious appearances.
 

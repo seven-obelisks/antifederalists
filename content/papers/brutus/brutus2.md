@@ -6,7 +6,7 @@ summary: Argues that the Constitution dangerously omits a bill of rights, enabli
 
 ##### November 1, 1787
 
-*To the Citizens of the State of New-York,*
+###### To the Citizens of the State of New-York,
 
 I flatter myself that my last address established this position, that to reduce the Thirteen States into one government, would prove the destruction of your liberties.
 

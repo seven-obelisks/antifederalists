@@ -6,7 +6,7 @@ summary: Argues that Congress’s vast power to tax and pass all necessary laws 
 
 ##### December 13, 1787
 
-*To the People of the State of New-York,*
+###### To the People of the State of New-York,
 
 It was intended in this Number to have prosecuted the enquiry into the organization of this new system; particularly to have considered the dangerous and premature union of the President and Senate, and the mixture of legislative, executive, and judicial powers in the Senate.
 

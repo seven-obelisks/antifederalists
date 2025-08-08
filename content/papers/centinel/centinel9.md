@@ -6,7 +6,7 @@ summary: Presents the Constitution as a calculated effort by entrenched elites t
 
 ##### January 8, 1788
 
-*Fellow Citizens,*
+###### Fellow Citizens,
 
 You have the peculiar felicity of living under the most perfect system of local government in the world; prize then this invaluable blessing as it deserves: Suffer it not to be wrested from you, and the scourge of despotic power substituted in its place, under the specious pretence of vesting the general government of the United States with necessary power; that this would be the inevitable con—sequence of the establishment of the new constitution, the least consideration of its nature and tendency is sufficient to convince every unprejudiced mind. If you were sufficiently impressed with your present favored situation, I should have no doubt of a proper dicision of the question in discussion.
 

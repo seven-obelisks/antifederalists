@@ -6,7 +6,7 @@ summary: Asserts that liberty in England arose from balanced, class-based repres
 
 ##### January 3, 1788
 
-*Dear sir,*
+###### Dear sir,
 
 Before I proceed to examine the objections, I beg leave to add a valuable idea respecting representation, to be collected from De Lolme, and other able writers, which essentially tends to confirm my positions: They very justly impute the establishment of general and equal liberty in England to a balance of interests and powers among the different orders of men; aided by a series of fortunate events, that never before, and possibly never again will happen.
 

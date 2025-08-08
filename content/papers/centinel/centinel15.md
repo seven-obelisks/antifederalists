@@ -6,7 +6,7 @@ summary: Laments the loss of public skepticism toward government change and clai
 
 ##### February 22, 1788
 
-*Fellow-Citizens,*
+###### Fellow-Citizens,
 
 There are few of the maxims or opinions we hold, that are the result of our own investigation or observation, and even those we adopt from others are seldom on a conviction of their truth or propriety, but from the facination of example and the influence of what is or appears to be the general sentiment. The science of government being the most abstruse and unobvious of all others, mankind are more liable to be imposed upon by the artful and designing in systems and regulations of government, than on any other subject: hence a jealousy of innovation confirmed by uniform experience prevails in most communities; this reluctance to change, has been found to be the greatest security of free governments, and the principal bulwark of liberty; for the aspiring and ever-restless spirit of ambition would otherwise, by her deceptive wiles and ensnaring glosses, triumph over the freest and most enlightened people. It is the peculiar misfortune of the people of these United States, at this awful crisis of public affairs, to have lost this useful, this absolutely necessary jealousy of innovation in government, and thereby to lie at the mercy and be exposed to all the artifices of ambition, without this usual shield to protect them from imposition. The conspirators, well aware of their advantage, have seized the favorable moment, and by the most unparalleled arts of deception, have obtained the sanction of the conventions of several states to the most tyrannic system of government ever projected.
 

@@ -6,7 +6,7 @@ summary: Calls for stricter accountability of government officials to prevent th
 
 ##### June 19, 1788
 
-*Mr. Chairman,* 
+###### Mr. Chairman,
 
 This great national concern is handled in a manner quite new to me. When arguments are used which are calculated in their nature to mislead men, — when I reflect on the subject, I dread that our rights are about to be given away, though I may possibly be mistaken. I said yesterday, and not without thinking much on the subject, that my mind would be at ease were we on the same grounds, in this respect, as the English are. Gentlemen think that Great Britain was adduced by me, in this instance, unfortunately for myself, because the learned Judge Blackstone says that treaties are binding on the nation, and the king can make treaties. That learned judge says there is one thing which operates as a guard. That thing we have not in this paper — it is responsibility. He tells you that the minister who will sacrifice the interest of the nation is subject to parliamentary impeachment. This has been ever found to be effectual. But I beg gentlemen to consider the American impeachment. What is it? It is a mere sham — a mere farce. When they do any thing derogatory to the honor or interest of their country, they are to try themselves. Is it so in England? The history of that country shows that they have blocks and gibbets. The violators of the public interest have been tried justly and impartially, and perished by those necessary instruments of justice. Can there be any security where offenders mutually try one another? I hope gentlemen will consider the necessity of amendment in this clause.
 

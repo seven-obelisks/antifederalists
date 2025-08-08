@@ -6,7 +6,7 @@ summary: Condemns federal protection of the slave trade, habeas corpus suspensio
 
 ##### January 22, 1788
 
-*Mr. Martin’s Information to the House of Assembly, continued.*
+###### Mr. Martin’s Information to the House of Assembly, continued.
 
 It was urged that by this system, we were giving the general government full and absolute power to regulate commerce, under which general power it would have a right to restrain, or totally prohibit the slave trade it must appear to the world absurd and disgraceful to the last degree, that we should except from the exercise of that power, the only branch of commerce, which is unjustifiable in its nature, and contrary to the rights of mankind That on the contrary, we ought rather to prohibit expressly in our constitution, the further importation of slaves; and to authorize the general government from time to time, to make such regulations as should be thought most advantageous for the gradual abolition of slavery, and the emancipation of the slaves which are already in the States.
 

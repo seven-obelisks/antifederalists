@@ -6,7 +6,7 @@ summary: Denounces the Constitution as a power grab by domestic elites exploitin
 
 ##### December 27, 1787
 
-*Friends and Fellow-Citizens!*
+###### Friends and Fellow-Citizens!
 
 The admiring world lately beheld the sun of liberty risen to meridian splendour in this western hemisphere, whose chearing rays began to dispel the glooms of even trans-atlantic despotism: the patriotic mind, enraptured with the flowing scene, fondly anticipated an universal and eternal day to the orb of freedom; but the horison is already darkened and the glooms of slavery threaten to fix their empire. How transitory are the blessings of this life! Scarcely have four years elapsed since these United States, rescued from the domination of foreign despots by the unexampled heroism and perseverance of its citizens, at such great expence of blood and treasure, when they are about to fall a prey to the machinations of a profligate junto at home, who seizing the favorable moment, when the temporary and extraordinary difficulties of the people have thrown them off their guard, and lulled that jealousy of power so essential to the preservation of freedom, have been too successful in the sacrilegious attempt; however I am confident that this formidable conspiracy will end in the confusion and infamy of its authors; that if necessary, the avenging sword of an abused people will humble these aspiring despots to the dust, and that their fate, like that of Charles the First of England, will deter such attempts in future, and prove the confirmation of the liberties of America until time shall be no more.
 

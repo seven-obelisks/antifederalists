@@ -6,7 +6,7 @@ summary: Urges citizens to cautiously and rationally examine the proposed Consti
 
 ##### October 22, 1787
 
-*To the Free Citizens of the Commonwealth of Massachusetts,*
+###### To the Free Citizens of the Commonwealth of Massachusetts,
 
 Whoever attentively examines the history of America, and compares it with that of other will find its commencement, its growth, and its present situation, without a precedent.
 

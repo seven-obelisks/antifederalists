@@ -6,7 +6,7 @@ summary: Warns that the presidency, as structured, concentrates excessive power�
 
 ##### January 29, 1788
 
-*Mr. Martin’s Information to the House of Assembly, continued.*
+###### Mr. Martin’s Information to the House of Assembly, continued.
 
 The second article, relates to the executive—his mode of election—his powers—and the length of time he should continue in office.
 

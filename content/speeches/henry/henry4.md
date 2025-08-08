@@ -6,7 +6,7 @@ summary: Stresses the need for amendments to the Constitution, particularly a Bi
 
 ##### June 12, 1788
 
-*Mr. Chairman,* 
+###### Mr. Chairman,* 
 
 Once more I find it necessary to trespass on your patience. An honorable gentleman, several days ago, observed, that the great object of this government was justice. We were told before, that the greater consideration was union. However, the consideration of justice seems to have been what influenced his mind when he made strictures on the proceedings of the Virginia Assembly. I thought the reasons of that transaction had been sufficiently explained.
 

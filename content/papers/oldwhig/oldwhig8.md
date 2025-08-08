@@ -6,7 +6,7 @@ summary: Urges that amendments be made before adopting the Constitution, warning
 
 ##### February 6, 1788
 
-*Mr. Printer,* 
+###### Mr. Printer,
 
 It is the fate of political controversies to begin with argument and end with abuse: And hence we find, in many instances, that a subject which for a time, has engaged the most earnest attention of the people, is at length quitted with horror and disgust. The question, however, concerning the total adoption of the plan of government, proposed by the late federal convention, is too important for good men to suffer themselves to be diverted from giving it a full consideration by the bouncing of squibs or the whizzing of political firebrands. I therefore persuade myself that a few candid observations on this subject will yet be heard with attention.
 
