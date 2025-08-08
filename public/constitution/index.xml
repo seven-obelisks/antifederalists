@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Constitution on The Anti-Federalist Library</title>
-    <link>http://localhost:54810/constitution/</link>
+    <link>http://localhost:58850/constitution/</link>
     <description>Recent content in Constitution on The Anti-Federalist Library</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:54810/constitution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58850/constitution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Article I</title>
-      <link>http://localhost:54810/constitution/article1/</link>
+      <link>http://localhost:58850/constitution/article1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/constitution/article1/</guid>
+      <guid>http://localhost:58850/constitution/article1/</guid>
       <description>All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives&amp;hellip;</description>
     </item>
     <item>
       <title>Article II</title>
-      <link>http://localhost:54810/constitution/article2/</link>
+      <link>http://localhost:58850/constitution/article2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/constitution/article2/</guid>
+      <guid>http://localhost:58850/constitution/article2/</guid>
       <description>The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows. Each State shall appoint&amp;hellip;</description>
     </item>
     <item>
       <title>Article III</title>
-      <link>http://localhost:54810/constitution/article3/</link>
+      <link>http://localhost:58850/constitution/article3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/constitution/article3/</guid>
+      <guid>http://localhost:58850/constitution/article3/</guid>
       <description>The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall&amp;hellip;</description>
     </item>
     <item>
       <title>Article IV</title>
-      <link>http://localhost:54810/constitution/article4/</link>
+      <link>http://localhost:58850/constitution/article4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/constitution/article4/</guid>
+      <guid>http://localhost:58850/constitution/article4/</guid>
       <description>Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof&amp;hellip;</description>
     </item>
     <item>
       <title>Article V</title>
-      <link>http://localhost:54810/constitution/article5/</link>
+      <link>http://localhost:58850/constitution/article5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/constitution/article5/</guid>
+      <guid>http://localhost:58850/constitution/article5/</guid>
       <description>The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments&amp;hellip;</description>
     </item>
     <item>
       <title>Article VI</title>
-      <link>http://localhost:54810/constitution/article6/</link>
+      <link>http://localhost:58850/constitution/article6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/constitution/article6/</guid>
+      <guid>http://localhost:58850/constitution/article6/</guid>
       <description>All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.  This Constitution, and the Laws of the United States which shall&amp;hellip;</description>
     </item>
     <item>
       <title>Article VII</title>
-      <link>http://localhost:54810/constitution/article7/</link>
+      <link>http://localhost:58850/constitution/article7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/constitution/article7/</guid>
+      <guid>http://localhost:58850/constitution/article7/</guid>
       <description>The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.  The Word, &amp;ldquo;the,&amp;rdquo; being interlined between the seventh and eighth Lines of the first Page, The Word &amp;ldquo;Thirty&amp;rdquo; being partly written&amp;hellip;</description>
     </item>
   </channel>

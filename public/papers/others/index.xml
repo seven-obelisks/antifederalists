@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other Papers on The Anti-Federalist Library</title>
-    <link>http://localhost:54810/papers/others/</link>
+    <link>http://localhost:58850/papers/others/</link>
     <description>Recent content in Other Papers on The Anti-Federalist Library</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:54810/papers/others/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58850/papers/others/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Scourge</title>
-      <link>http://localhost:54810/papers/others/scourge1/</link>
+      <link>http://localhost:58850/papers/others/scourge1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/others/scourge1/</guid>
+      <guid>http://localhost:58850/papers/others/scourge1/</guid>
       <description>The Scourge is a satirical Anti-Federalist essay published in the Carlisle Gazette condemning Federalist celebrations following Pennsylvania’s ratification of the Constitution. The author warns that unchecked national power will suppress liberty and mocks Federalist elites for abandoning republican principles.</description>
     </item>
     <item>
       <title>One of the People</title>
-      <link>http://localhost:54810/papers/others/oneofthepeople/</link>
+      <link>http://localhost:58850/papers/others/oneofthepeople/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/others/oneofthepeople/</guid>
+      <guid>http://localhost:58850/papers/others/oneofthepeople/</guid>
       <description>One of the People is a scathing Anti-Federalist essay published in the Carlisle Gazette attacking Federalist manipulation of public events to advance their agenda. The author exposes their hypocrisy, warns of their authoritarian ambitions, and mocks their deceitful tactics in undermining republican values.</description>
     </item>
   </channel>

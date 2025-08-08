@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Centinel on The Anti-Federalist Library</title>
-    <link>http://localhost:54810/papers/centinel/</link>
+    <link>http://localhost:58850/papers/centinel/</link>
     <description>Recent content in Centinel on The Anti-Federalist Library</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:54810/papers/centinel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58850/papers/centinel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Centinel I</title>
-      <link>http://localhost:54810/papers/centinel/centinel1/</link>
+      <link>http://localhost:58850/papers/centinel/centinel1/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel1/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel1/</guid>
       <description>Warns that the Constitution threatens liberty by concentrating power, undermining state authority, enabling aristocratic rule, and lacking protections like a bill of rights and trial by jury in civil cases.</description>
     </item>
     <item>
       <title>Centinel II</title>
-      <link>http://localhost:54810/papers/centinel/centinel2/</link>
+      <link>http://localhost:58850/papers/centinel/centinel2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel2/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel2/</guid>
       <description>Argues that the federal Senate&amp;rsquo;s long terms, lack of rotation, and shared executive power make it ripe for aristocratic control. Highlights that even Montesquieu warned such consolidation would extinguish freedom.</description>
     </item>
     <item>
       <title>Centinel III</title>
-      <link>http://localhost:54810/papers/centinel/centinel3/</link>
+      <link>http://localhost:58850/papers/centinel/centinel3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel3/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel3/</guid>
       <description>Argues that the Constitution was crafted by elites to establish a centralized, aristocratic government that overrides state authority and lacks accountability to the people.</description>
     </item>
     <item>
       <title>Centinel IV</title>
-      <link>http://localhost:54810/papers/centinel/centinel4/</link>
+      <link>http://localhost:58850/papers/centinel/centinel4/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel4/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel4/</guid>
       <description>Criticizes the Constitution for exploiting economic fears to establish an unchecked, centralized government that sacrifices liberty under the guise of reform.</description>
     </item>
     <item>
       <title>Centinel V</title>
-      <link>http://localhost:54810/papers/centinel/centinel5/</link>
+      <link>http://localhost:58850/papers/centinel/centinel5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel5/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel5/</guid>
       <description>Condemns the Constitution as a blueprint for a consolidated empire that would annihilate state sovereignty and usher in unchecked federal despotism through expansive taxation and legislative supremacy.</description>
     </item>
     <item>
       <title>Centinel VI</title>
-      <link>http://localhost:54810/papers/centinel/centinel6/</link>
+      <link>http://localhost:58850/papers/centinel/centinel6/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel6/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel6/</guid>
       <description>Warns that Americans, once defenders of liberty, are now surrendering it to a central power that exploits their hopes for prosperity and trust in rulers, ignoring history’s lesson that unchecked authority breeds tyranny.</description>
     </item>
     <item>
       <title>Centinel VII</title>
-      <link>http://localhost:54810/papers/centinel/centinel7/</link>
+      <link>http://localhost:58850/papers/centinel/centinel7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel7/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel7/</guid>
       <description>Denounces the Constitution as a power grab by domestic elites exploiting public distress, urging citizens to reject the scheme and defend their liberty through renewed convention and resistance if necessary.</description>
     </item>
     <item>
       <title>Centinel VIII</title>
-      <link>http://localhost:54810/papers/centinel/centinel8/</link>
+      <link>http://localhost:58850/papers/centinel/centinel8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel8/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel8/</guid>
       <description>Portrays the Constitution as a gilded trap crafted by self-interested elites, designed to strip the people of liberty and secure unchecked control over property, commerce, and governance.</description>
     </item>
     <item>
       <title>Centinel IX</title>
-      <link>http://localhost:54810/papers/centinel/centinel9/</link>
+      <link>http://localhost:58850/papers/centinel/centinel9/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel9/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel9/</guid>
       <description>Presents the Constitution as a calculated effort by entrenched elites to dismantle local freedoms through deception, manipulation, and a coordinated push for unchecked national power.</description>
     </item>
     <item>
       <title>Centinel X</title>
-      <link>http://localhost:54810/papers/centinel/centinel10/</link>
+      <link>http://localhost:58850/papers/centinel/centinel10/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel10/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel10/</guid>
       <description>Celebrates the revival of free press as the decisive force exposing elite deception and halting a silent coup, while mocking the conspirators’ desperate schemes and warning of their last resort—force.</description>
     </item>
     <item>
       <title>Centinel XI</title>
-      <link>http://localhost:54810/papers/centinel/centinel11/</link>
+      <link>http://localhost:58850/papers/centinel/centinel11/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel11/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel11/</guid>
       <description>Refutes panic-driven arguments for the Constitution—anarchy and disunion—as elite fabrications, insisting that even temporary chaos is preferable to permanent despotism, and accuses postal officials of suppressing dissent to blind the public.</description>
     </item>
     <item>
       <title>Centinel XII</title>
-      <link>http://localhost:54810/papers/centinel/centinel12/</link>
+      <link>http://localhost:58850/papers/centinel/centinel12/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel12/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel12/</guid>
       <description>Condemns the Constitution’s promoters as a deceptive faction silencing dissent and rushing ratification, branding them conspirators against liberty whose suppression of press and debate exposes their tyrannical intent.</description>
     </item>
     <item>
       <title>Centinel XII</title>
-      <link>http://localhost:54810/papers/centinel/centinel13/</link>
+      <link>http://localhost:58850/papers/centinel/centinel13/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel13/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel13/</guid>
       <description>Portrays the Constitution’s backers as a cunning, well-funded minority using press manipulation, deception, and patronage to mask despotism in patriotic language, urging citizens to organize, resist, and defend true republican liberty.</description>
     </item>
     <item>
       <title>Centinel XIV</title>
-      <link>http://localhost:54810/papers/centinel/centinel14/</link>
+      <link>http://localhost:58850/papers/centinel/centinel14/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel14/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel14/</guid>
       <description>Cites Luther Martin’s testimony to expose the Constitution as a deliberate plan to destroy state authority, centralize unchecked taxation and judicial power, and suppress dissent through postal censorship and coordinated propaganda.</description>
     </item>
     <item>
       <title>Centinel XV</title>
-      <link>http://localhost:54810/papers/centinel/centinel15/</link>
+      <link>http://localhost:58850/papers/centinel/centinel15/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel15/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel15/</guid>
       <description>Laments the loss of public skepticism toward government change and claims Massachusetts’ narrow ratification was driven by fear, misinformation, and elite pressure rather than genuine support for the Constitution.</description>
     </item>
     <item>
       <title>Centinel XVI</title>
-      <link>http://localhost:54810/papers/centinel/centinel16/</link>
+      <link>http://localhost:58850/papers/centinel/centinel16/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel16/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel16/</guid>
       <description>Claims the Constitution deliberately shields public defaulters from accountability by barring retroactive laws and omitting provisions to recover debts owed to the United States, enabling corruption and injustice between states.</description>
     </item>
     <item>
       <title>Centinel XVII</title>
-      <link>http://localhost:54810/papers/centinel/centinel17/</link>
+      <link>http://localhost:58850/papers/centinel/centinel17/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel17/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel17/</guid>
       <description>Accuses key Constitution framers of concealing public fraud and enriching themselves through unaccounted wartime funds, while using propaganda and postal suppression to silence critics and manipulate public opinion.</description>
     </item>
     <item>
       <title>Centinel XVIII</title>
-      <link>http://localhost:54810/papers/centinel/centinel18/</link>
+      <link>http://localhost:58850/papers/centinel/centinel18/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54810/papers/centinel/centinel18/</guid>
+      <guid>http://localhost:58850/papers/centinel/centinel18/</guid>
       <description>Condemns the suppression of dissent, manipulation of postal communications, and spread of false unanimity to force constitutional ratification, asserting that true public sentiment in Pennsylvania—and likely elsewhere—is overwhelmingly opposed to the new system.</description>
     </item>
   </channel>

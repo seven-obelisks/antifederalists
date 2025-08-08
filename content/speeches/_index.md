@@ -1,5 +1,5 @@
 ---
-title: 'Antifederalist Speeches'
+title: 'Anti-Federalist Speeches'
 draft: false
 ---
 
