@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agrippa on The Anti-Federalist Library</title>
-    <link>http://localhost:58850/papers/agrippa/</link>
+    <link>http://localhost:64515/papers/agrippa/</link>
     <description>Recent content in Agrippa on The Anti-Federalist Library</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:58850/papers/agrippa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:64515/papers/agrippa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agrippa I</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa1/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa1/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa1/</guid>
       <description>Argues the Constitution endangers liberty through inadequate representation, unchecked taxation, standing armies, and costly, remote government that undermines free industry and established local justice.</description>
     </item>
     <item>
       <title>Agrippa II</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa2/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa2/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa2/</guid>
       <description>Defends Massachusetts’ stable self-government and civil order as proof that liberty fosters prosperity, warning against surrendering this successful system for a distant, rigid federal authority.</description>
     </item>
     <item>
       <title>Agrippa III</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa3/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa3/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa3/</guid>
       <description>Defends the current state governments as prosperous and just, warns that the proposed Constitution will crush public credit and local trade, and urges amendments before risking national division.</description>
     </item>
     <item>
       <title>Agrippa IV</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa4/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa4/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa4/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa4/</guid>
       <description>Argues that large consolidated republics collapse into despotism, and warns that the proposed Constitution would erase local autonomy and impose one-size-fits-all laws on diverse states.</description>
     </item>
     <item>
       <title>Agrippa V</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa5/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa5/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa5/</guid>
       <description>Warns that the Constitution erases state sovereignty by empowering federal courts and laws to override local authority, risking tyranny, confusion, and the rise of a permanent standing army.</description>
     </item>
     <item>
       <title>Agrippa VI</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa6/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa6/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa6/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa6/</guid>
       <description>Argues that the Constitution consolidates state powers under federal control, enabling unchecked regulation of trade and courts without a bill of rights, threatening local sovereignty and economic fairness.</description>
     </item>
     <item>
       <title>Agrippa VII</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa7/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa7/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa7/</guid>
       <description>Argues that the Constitution promotes unfair economic burdens, undermines local authority, and benefits some states over others, particularly through uneven trade regulation and taxation.</description>
     </item>
     <item>
       <title>Agrippa VIII</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa8/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa8/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa8/</guid>
       <description>Claims that the Constitution threatens both civil liberty and state solvency by centralizing taxation and debt while ignoring natural bonds of union like commerce and mutual interest.</description>
     </item>
     <item>
       <title>Agrippa IX</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa9/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa9/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa9/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa9/</guid>
       <description>Warns that granting Congress unchecked control over trade, naturalization, and taxation risks moral decline, state inequality, and the loss of hard-won liberties.</description>
     </item>
     <item>
       <title>Agrippa X</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa10/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa10/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa10/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa10/</guid>
       <description>Summarizes prior arguments to show that the proposed Constitution consolidates power, threatens liberty, burdens Massachusetts disproportionately, and should be replaced with limited amendments granting Congress narrowly defined trade and revenue powers.</description>
     </item>
     <item>
       <title>Agrippa XI</title>
-      <link>http://localhost:58850/papers/agrippa/agrippa11/</link>
+      <link>http://localhost:64515/papers/agrippa/agrippa11/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58850/papers/agrippa/agrippa11/</guid>
+      <guid>http://localhost:64515/papers/agrippa/agrippa11/</guid>
       <description>Defends his limited federal plan against critics, warning that the proposed Constitution invites foreign influence, multiplies offices, favors elites, and undermines both domestic liberty and national respect.</description>
     </item>
   </channel>

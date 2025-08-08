@@ -1,5 +1,5 @@
 ---
-title: "Brutus XV"
+title: "Brutus XVI"
 date: 2025-01-01
 summary: Warns that the Senate’s six-year terms, lack of rotation, and blend of legislative, executive, and judicial powers undermine accountability and republican principles, risking consolidation of elite authority beyond public control.
 ---
