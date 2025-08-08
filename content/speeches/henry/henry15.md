@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XV"
+title: "Virginia Ratifying Convention XV"
 date: 2025-01-17
 summary: Raises concerns about the burdens of both national and state debt under the new Constitution, warning of potential financial crises.
 ---

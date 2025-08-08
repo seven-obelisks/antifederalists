@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry VI"
+title: "Virginia Ratifying Convention VI"
 date: 2025-01-26
 summary: Calls for stronger restraints on government to prevent corruption and protect individual freedoms.
 ---

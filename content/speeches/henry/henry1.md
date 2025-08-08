@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry I"
+title: "Virginia Ratifying Convention I"
 date: 2025-01-31
 summary: Warns that the Constitution contains ambiguous language that could lead to dangerous interpretations and abuses of power.
 ---

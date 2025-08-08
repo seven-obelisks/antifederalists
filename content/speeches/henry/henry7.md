@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry VII"
+title: "Virginia Ratifying Convention VII"
 date: 2025-01-25
 summary: Stresses the importance of a well-regulated militia, fearing that the proposed government would weaken state militias and empower a federal army.
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry III"
+title: "Virginia Ratifying Convention III"
 date: 2025-01-29
 summary: Outlines the potential dangers of the proposed government, focusing on its ability to overpower states and infringe on individual rights.
 ---

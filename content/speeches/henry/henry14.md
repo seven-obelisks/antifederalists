@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XIV"
+title: "Virginia Ratifying Convention XIV"
 date: 2025-01-18
 summary: Emphasizes the risks posed by the Constitution’s lack of explicit protections for habeas corpus and against ex post facto laws.
 ---

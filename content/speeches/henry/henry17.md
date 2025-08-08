@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XVII"
+title: "Virginia Ratifying Convention XVII"
 date: 2025-01-15
 summary: Argues that the ability to make treaties without adequate checks could undermine the sovereignty of the states.
 ---

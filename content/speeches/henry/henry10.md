@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry X"
+title: "Virginia Ratifying Convention X"
 date: 2025-01-22
 summary: Reaffirms the necessity of state militias for defense and questions the Constitution’s allowance for a federal military monopoly.
 ---

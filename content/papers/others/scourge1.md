@@ -4,7 +4,7 @@ date: 2025-01-31
 summary: The Scourge is a satirical Anti-Federalist essay published in the Carlisle Gazette condemning Federalist celebrations following Pennsylvania’s ratification of the Constitution. The author warns that unchecked national power will suppress liberty and mocks Federalist elites for abandoning republican principles.
 ---
 
-##### 23 January 1788
+##### January 23, 1788
 
 >JUDGES.–3, Chap.–21, v.–And Ehud put forth his left hand and took the dagger from his right thigh and thrust it into his belly, verse 22, and the dirt came out—My father chastised you with whips but I will chastise you with scorpions. First Kings. 19th Chap. 11th V.
 

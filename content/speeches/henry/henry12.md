@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XII"
+title: "Virginia Ratifying Convention XII"
 date: 2025-01-20
 summary: Argues strongly for the inclusion of a Bill of Rights to safeguard individual liberties and limit government power.
 ---

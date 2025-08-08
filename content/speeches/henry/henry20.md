@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XX"
+title: "Virginia Ratifying Convention XX"
 date: 2025-01-12
 summary: Expresses concern that federal courts would become supreme over state courts, eroding state authority and individual rights.
 ---

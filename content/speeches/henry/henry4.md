@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry IV"
+title: "Virginia Ratifying Convention IV"
 date: 2025-01-28
 summary: Stresses the need for amendments to the Constitution, particularly a Bill of Rights, to protect citizens from government overreach.
 ---

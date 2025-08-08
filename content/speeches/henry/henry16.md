@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XVI"
+title: "Virginia Ratifying Convention XVI"
 date: 2025-01-16
 summary: Warns that the Constitution’s grant of treaty power to the federal government could lead to the subjugation of state interests.
 ---

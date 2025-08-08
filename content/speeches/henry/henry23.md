@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XXIII"
+title: "Virginia Ratifying Convention XXIII"
 date: 2025-01-09
 summary: Emphasizes the need for clear reserved powers for states to ensure a balance of authority and prevent federal overreach.
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry V"
+title: "Virginia Ratifying Convention V"
 date: 2025-01-27
 summary: Argues that the process for creating new states from territories could lead to centralized federal control over more land and people.
 ---

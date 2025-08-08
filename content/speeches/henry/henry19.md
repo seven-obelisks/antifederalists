@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XIX"
+title: "Virginia Ratifying Convention XIX"
 date: 2025-01-13
 summary: Highlights the lack of protections for citizens against a potentially oppressive judiciary under the new Constitution.
 ---

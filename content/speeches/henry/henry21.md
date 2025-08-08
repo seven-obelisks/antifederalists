@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XXI"
+title: "Virginia Ratifying Convention XXI"
 date: 2025-01-11
 summary: Stresses the importance of preserving trial by jury, fearing the Constitution's provisions would undermine this right.
 ---

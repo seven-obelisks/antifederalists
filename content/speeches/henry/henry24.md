@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XIIV"
+title: "Virginia Ratifying Convention XIIV"
 date: 2025-01-08
 summary: Points out that many important rights were omitted from the Constitution's enumeration and must be safeguarded through amendments.
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry VIII"
+title: "Virginia Ratifying Convention VIII"
 date: 2025-01-24
 summary: Emphasizes the need for officials to be held accountable to the people to prevent the abuse of power.
 ---

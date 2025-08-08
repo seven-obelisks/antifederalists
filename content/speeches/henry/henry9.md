@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry IX"
+title: "Virginia Ratifying Convention IX"
 date: 2025-01-23
 summary: Warns that the Constitution’s provisions could lead to a large standing army, posing a threat to liberty.
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XIII"
+title: "Virginia Ratifying Convention XIII"
 date: 2025-01-19
 summary: Warns that the Constitution’s implied powers could lead to the expansion of federal authority, including issues like slavery.
 ---

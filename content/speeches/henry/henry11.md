@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XI"
+title: "Virginia Ratifying Convention XI"
 date: 2025-01-21
 summary: Expresses concern over the federal control of the District of Columbia and its potential to lead to unchecked power.
 ---

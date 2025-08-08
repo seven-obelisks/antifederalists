@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XVIII"
+title: "Virginia Ratifying Convention XVIII"
 date: 2025-01-14
 summary: Calls for stricter accountability of government officials to prevent the centralization of power and abuse of office.
 ---

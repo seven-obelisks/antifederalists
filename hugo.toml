@@ -133,6 +133,13 @@ parent = 'speeches'
 weight = 20
 
 [[menus.main]]
+identifier = "melancton"
+name = 'Melancton Smith'
+pageRef = '/speeches/melancton'
+parent = 'speeches'
+weight = 30
+
+[[menus.main]]
 name = 'Contemporary Research'
 pageRef = '/contemporary'
 weight = 60

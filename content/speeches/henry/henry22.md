@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry XXII"
+title: "Virginia Ratifying Convention XXII"
 date: 2025-01-10
 summary: Argues that the enumeration of rights in the Constitution could be misinterpreted or insufficient to fully protect individual liberties.
 ---

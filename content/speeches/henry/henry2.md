@@ -1,5 +1,5 @@
 ---
-title: "Patrick Henry II"
+title: "Virginia Ratifying Convention II"
 date: 2025-01-30
 summary: Argues that legitimate government must be founded on the consent of the governed and not on the centralization of power.
 ---
