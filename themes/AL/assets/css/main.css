@@ -444,7 +444,7 @@ nav.breadcrumbs {
 }
 
 body.dark .page-white h5{
-  background-color: #121212;
+  background: #121212;
   color:#fff;
   border-color: white;
 }

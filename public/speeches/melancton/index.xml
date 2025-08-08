@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melancton Smith on The Anti-Federalist Library</title>
-    <link>http://localhost:51939/speeches/melancton/</link>
+    <link>http://localhost:54810/speeches/melancton/</link>
     <description>Recent content in Melancton Smith on The Anti-Federalist Library</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:51939/speeches/melancton/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54810/speeches/melancton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New York Ratifying Convention I</title>
-      <link>http://localhost:51939/speeches/melancton/melancton1/</link>
+      <link>http://localhost:54810/speeches/melancton/melancton1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51939/speeches/melancton/melancton1/</guid>
+      <guid>http://localhost:54810/speeches/melancton/melancton1/</guid>
       <description>Argues that true representation requires representatives chosen from small districts by local majorities, making the proposed 65 representatives for 3 million people inadequate and vulnerable to corruption.</description>
     </item>
     <item>
       <title>New York Ratifying Convention II</title>
-      <link>http://localhost:51939/speeches/melancton/melancton2/</link>
+      <link>http://localhost:54810/speeches/melancton/melancton2/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51939/speeches/melancton/melancton2/</guid>
+      <guid>http://localhost:54810/speeches/melancton/melancton2/</guid>
       <description>Fears that the Constitution&amp;rsquo;s small House would be dominated by wealthy elites who lack sympathy for common people, requiring more representatives from the middling class to secure liberty.</description>
     </item>
   </channel>
