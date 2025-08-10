@@ -260,6 +260,24 @@
     <loc>http://localhost:1313/papers/luther/genuine9/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/impartial/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/impartial/impartial1/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/impartial/impartial2/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/impartial/impartial3/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/impartial/impartial4/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/impartial/impartial5/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry10/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -465,7 +483,5 @@
     <loc>http://localhost:1313/about/letter/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/papers/impartial/</loc>
   </url>
 </urlset>
