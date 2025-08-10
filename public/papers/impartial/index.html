@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Impartial Examiner | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+    <script src="/js/main.js"></script>
+</head>
+<body>
+  <div class="flex-box">
+    <div class="flex1">
+      <div class="sidebar">
+        <header>
+          <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Anti-Federalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/mason/" class="">George Mason</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">John DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/impartial/" class="active">Impartial Examiner</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+
+              <li>
+                <a href="/speeches/melancton/" class="">Melancton Smith</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/contemporary/" class="">Contemporary Research</a>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+        </header>
+        <footer>
+          <button id="dark-toggle"
+                  data-light="/images/lantern-light.png"
+                  data-dark="/images/lantern-dark.png">
+            <span id="dark-toggle-icon"></span>
+          </button>
+          <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.20</em></p>
+
+        </footer>
+      </div>
+    </div>
+    <div class="flex2">
+      <main>
+        
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Anti-Federalist Papers</a>
+
+  / <span>Impartial Examiner</span>
+</nav>
+
+  <h1 id="impartial-examiner">Impartial Examiner</h1>
+<h3 id="impartial-examiner-was-the-pseudonym-used-by-an-anti-federalist-writer-who-published-a-series-of-essays-in-the-virginia-independent-chronicle-the-authors-identity-remains-uncertain-though-some-scholars-have-suggested-possible-connections-to-virginia-political-circles">Impartial Examiner was the pseudonym used by an Anti-Federalist writer who published a series of essays in the Virginia Independent Chronicle. The author&rsquo;s identity remains uncertain, though some scholars have suggested possible connections to Virginia political circles.</h3>
+<h3 id="impartial-examiners-essays-criticized-the-proposed-constitutions-structure-and-potential-for-abuse-of-power-the-writer-focused-on-concerns-about-federal-overreach-and-the-need-for-explicit-protections-of-individual-rights">Impartial Examiner&rsquo;s essays criticized the proposed Constitution&rsquo;s structure and potential for abuse of power. The writer focused on concerns about federal overreach and the need for explicit protections of individual rights.</h3>
+
+
+  
+  
+    <section class="paper-block">
+      <h4><a href="/papers/impartial/impartial1/">Impartial Examiner I</a></h4>
+      <section class="summaryp">Warns that the Constitution&rsquo;s supremacy clause would destroy state sovereignty and create a dangerously powerful federal government without protecting individual rights.</section>
+    </section>
+  
+    <section class="paper-block">
+      <h4><a href="/papers/impartial/impartial2/">Impartial Examiner II</a></h4>
+      <section class="summaryp">Argues that the Constitution&rsquo;s taxation powers would create interstate conflicts while its excise, military, and judicial provisions would destroy traditional liberties.</section>
+    </section>
+  
+    <section class="paper-block">
+      <h4><a href="/papers/impartial/impartial3/">Impartial Examiner III</a></h4>
+      <section class="summaryp">Concludes that the Constitution lacks individual rights protections and would create unlimited federal power that could destroy American liberty.</section>
+    </section>
+  
+    <section class="paper-block">
+      <h4><a href="/papers/impartial/impartial4/">Impartial Examiner IV</a></h4>
+      <section class="summaryp">Argues that the executive veto power appropriate for British monarchy is incompatible with American republican principles of equal liberty.</section>
+    </section>
+  
+    <section class="paper-block">
+      <h4><a href="/papers/impartial/impartial5/">Impartial Examiner V</a></h4>
+      <section class="summaryp">Examines whether constitutional change is necessary, noting agreement on strengthening federal commerce and taxation powers but disagreement over whether the proposed system sacrifices too much liberty.</section>
+    </section>
+  
+
+      </main>
+    </div>
+  </div>
+</body>
+</html>

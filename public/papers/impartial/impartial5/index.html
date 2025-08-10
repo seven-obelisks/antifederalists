@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Impartial Examiner V | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+    <script src="/js/main.js"></script>
+</head>
+<body>
+  <div class="flex-box">
+    <div class="flex1">
+      <div class="sidebar">
+        <header>
+          <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Anti-Federalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">An Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/mason/" class="">George Mason</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">John DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/impartial/" class="active">Impartial Examiner</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+
+              <li>
+                <a href="/speeches/melancton/" class="">Melancton Smith</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/contemporary/" class="">Contemporary Research</a>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+        </header>
+        <footer>
+          <button id="dark-toggle"
+                  data-light="/images/lantern-light.png"
+                  data-dark="/images/lantern-dark.png">
+            <span id="dark-toggle-icon"></span>
+          </button>
+          <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.20</em></p>
+
+        </footer>
+      </div>
+    </div>
+    <div class="flex2">
+      <main>
+        
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Anti-Federalist Papers</a>
+    / <a href="/papers/impartial/">Impartial Examiner</a>
+
+  / <span>Impartial Examiner V</span>
+</nav>
+
+  <h3 class="page-h3">Impartial Examiner V</h3>
+</div>
+<div class="page-white">
+  <h5 id="june-18-1788">June 18 1788</h5>
+<p>When a change, so momentous in it&rsquo;s nature, as that of new modelling a plan of government, becomes the object of any people&rsquo;s meditation, every citizen, whose mind is duly impressed with a regard for the welfare of his country, will consider himself under an indispensible obligation to make some such enquiries, as the following.—Whence flows the necessity of a change?—Does it proceed from certain vicious properties, which reside in the old system and form the essential parts of it?—Or will such a measure become eligible, because evils have arisen from the feeble texture of the plan, or a loose exercise of government, which could not well be avoided?—What are the evils complained of? and what will be their correspondent remedies?—Are the evils radical, and not be removed but by a general reform throughout the constitution?—Or do they result from a defect in some particular branch only? and may an adequate remedy be effected by introducing a new regulation merely as to that branch?</p>
+<p>If investigations like these are seriously and dispassionately pursued, and it should be found that the present confederation of the American states contains vicious properties, which are inherent, fundamental, and tending to produce a general corruption, the necessity of a change must then be manifest. This discovery will lead to another enquiry; and that is—Do such properties pervade the whole system and contaminate all the parts of it? If so—then a thorough change will appear to be expedient, and it may be necessary to new model the system.</p>
+<p>If, on the other hand, evils are found existing, which proceed, not so much from any internal corrupt qualities, as from the feeble texture of any parts of the system, or a laxity in the exercise of it&rsquo;s powers, it should seem adviseable to make alterations so far as to add a due degree of strength to the weak parts, and thereby insure efficacy in the government.</p>
+<p>Should it appear, after a proper enquiry into the nature of the evils, that they are radical, and strike at the vital principles of the constitution—then to apply a correspondent remedy, an institution, which would produce a general reform, might with great propriety be deemed requisite.</p>
+<p>If the defects are of a trivial nature, and subsist merely in some particular department or branch of the system—then amendments in the defective branch, tending to give energy where it had hitherto been wanting, would be amply sufficient for removing the evils and forming a competent remedy.</p>
+<p>In order to discover how far the present system is vicious, or inadequate to the purposes of this great confederated society, for which it was established, a retrospect of the original design of the confederacy itself may afford no small degree of assistance.—Let it be recollected, then, that the primary object was to form a perfect union. This is manifested by the very &ldquo;stile of the confederacy.&quot;—That it was intended to promote justice equally between all the states cannot be doubted; because it is an institution, calculated to unite a number of independent republics under a firm league of amity, and to provide that contributions of every kind, which had been, or might be, necessary towards supporting their general government, should be furnished in due proportions—whilst it was stipulated that a mutual intercourse and reciprocal privileges and immunities should subsist between the citizens of all the several states. Again, to ensure domestic tranquility must have been another important object with the framers of this confederation: for union, harmony and justice cannot fail to promote tranquility; and whenever a contract is formed for the purpose of procuring the three first, it follows, as a regular consequence, that the other should partake of the intention.—This great association is expressly declared to be entered into between the states &ldquo;for their common defence, the security of their liberties, and their mutual and general welfare, binding themselves to assist each other against all force offered to, or attacks made upon, them, or any of them, on account of religion, sovereignty, trade, or any other pretence whatever.&rdquo;</p>
+<p>The objects herein recited do certainly form the chief design of the present confederation; and the same are declared to be the great ends of the proposed plan of government. So far then do they agree. A subject of much contention, however, and with which the minds of different citizens are variously agitated, has arose.</p>
+<p>It has been said that some of these advantages, and of high import too, cannot be obtained under the present system. It is the opinion of some citizens that the constitution proposed to us will secure all these objects and form a complete remedy for every evil now subsisting; whilst it is asserted by others that amendments might be introduced in the former, which would be competent to every good purpose, and promote some of very great consequence, that might be endangered by an adoption of the latter. Thus it is inferred that this system extends too far—and, like many human institutions, flits by a rapid progress from one extreme to another.</p>
+<p>Those, who cannot approve of this plan, have very strong objections to it, because they apprehend that no security for their liberties will remain after it&rsquo;s adoption: and although some of the ends proposed might be obtained thereby; yet they think the sacrifice will be too great for the benefit to be received. To enjoy a competent degree of liberty they consider as the greatest of human blessings—for the loss of which no acquisitions whatsoever can compensate. They esteem this (and deservedly too) as the soul of all political happiness.</p>
+<p>It seems to be agreed on all sides that in the present system of union the Congress are not invested with sufficient powers for regulating commerce, and procuring the requisite contributions for all expences, that may be incurred for the common defence or general welfare. Hence arise the principal defects;—and it is presumed that the evils resulting from these weak branches in the foederal government might be adequately remedied by making due amendments merely therein.</p>
+<p>It is thought by some that the powers of making and enforcing the observance of treaties are not ample enough at present. If so—cannot these be enlarged so as to answer every desirable purpose of that branch in the foederal institution? Thus, while many citizens cannot think that the confederation is fundamentally vicious, but that all the evils now complained of do rather proceed from a weakness in some of its parts, they apprehend no necessity for an innovation further than strengthening those parts. If such measures were effectually established, they conceive that all the great ends of the general government might be promoted.—No contention, therefore, subsists about supporting a union, but only concerning the mode; and as well those, who disapprove of the proposed plan, as those, who approve of it, consider the existence of a union as essential to their happiness.</p>
+
+  
+
+  </div>
+
+      </main>
+    </div>
+  </div>
+</body>
+</html>

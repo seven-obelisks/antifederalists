@@ -68,13 +68,13 @@ main {
 }
 
 .sidebar {
-  padding: 4rem 1.5rem 1.5rem 1.5rem;
   overflow-y: auto;
   height: 100%;
   display: flex;
   flex-direction: column;
   margin:0 auto;
   width:90%;
+  padding:1rem;
 }
 
 .flex2 {
@@ -97,7 +97,7 @@ nav {
 }
 
 .clean-menu li {
-  margin: 0.5rem 0;
+  margin: 0.1rem 0;
 }
 
 .clean-menu a,
@@ -142,7 +142,6 @@ nav {
   display: none;
   list-style: none;
   padding-left: 1rem;
-  margin: 0.25rem 0;
 }
 
 .submenu.open {
@@ -339,14 +338,15 @@ h4 a {
   color: #11133C;
 }
 
-h4 a:hover{
-  text-decoration: underline !important;
-}
-
 .research a{
   color:#11133C;
   font-weight: bold;
   font-size: 20px;
+  text-decoration: none;
+}
+
+.research a:hover{
+  color: #b31942;
 }
 
 /* ========== Lists ========== */
@@ -360,8 +360,7 @@ h4 a:hover{
 .research li{
   padding:0px;
   padding-bottom:25px;
-  margin-top:25px;
-  border-bottom: 1px solid #fff;
+  margin-top:10px;
 }
 
 .research li:last-child{

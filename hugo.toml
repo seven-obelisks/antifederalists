@@ -96,11 +96,18 @@ parent = 'papers'
 weight = 100
 
 [[menus.main]]
+identifier = "impartial"
+name = 'Impartial Examiner'
+pageRef = '/papers/impartial'
+parent = 'papers'
+weight = 110
+
+[[menus.main]]
 identifier = "others"
 name = 'Other Papers'
 pageRef = '/papers/others'
 parent = 'papers'
-weight = 110
+weight = 120
 
 [[menus.main]]
 name = 'Bill of Rights'

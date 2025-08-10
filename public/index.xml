@@ -2,976 +2,1011 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on The Anti-Federalist Library</title>
-    <link>http://localhost:64515/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on The Anti-Federalist Library</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:64515/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Centinel I</title>
-      <link>http://localhost:64515/papers/centinel/centinel1/</link>
+      <link>http://localhost:1313/papers/centinel/centinel1/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel1/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel1/</guid>
       <description>Warns that the Constitution threatens liberty by concentrating power, undermining state authority, enabling aristocratic rule, and lacking protections like a bill of rights and trial by jury in civil cases.</description>
     </item>
     <item>
       <title>John DeWitt I</title>
-      <link>http://localhost:64515/papers/dewitt/dewitt1/</link>
+      <link>http://localhost:1313/papers/dewitt/dewitt1/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/dewitt/dewitt1/</guid>
+      <guid>http://localhost:1313/papers/dewitt/dewitt1/</guid>
       <description>Urges citizens to cautiously and rationally examine the proposed Constitution before ratification, warning that its sweeping powers demand scrutiny, not blind acceptance based on reputation or promises of prosperity.</description>
     </item>
     <item>
       <title>John DeWitt II</title>
-      <link>http://localhost:64515/papers/dewitt/dewitt2/</link>
+      <link>http://localhost:1313/papers/dewitt/dewitt2/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/dewitt/dewitt2/</guid>
+      <guid>http://localhost:1313/papers/dewitt/dewitt2/</guid>
       <description>Advises citizens to reject the Constitution&amp;rsquo;s permanence and centralization unless they fully accept its vast powers, warning that true amendments will be nearly impossible and rights remain unprotected without a Bill of Rights.</description>
     </item>
     <item>
       <title>John DeWitt III</title>
-      <link>http://localhost:64515/papers/dewitt/dewitt3/</link>
+      <link>http://localhost:1313/papers/dewitt/dewitt3/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/dewitt/dewitt3/</guid>
+      <guid>http://localhost:1313/papers/dewitt/dewitt3/</guid>
       <description>Criticizes the proposed Constitution as a deceptive structure designed to empower an aristocratic elite, stripping true representation from the people and placing unchecked authority in the hands of distant, unaccountable officials.</description>
     </item>
     <item>
       <title>Agrippa I</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa1/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa1/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa1/</guid>
       <description>Argues the Constitution endangers liberty through inadequate representation, unchecked taxation, standing armies, and costly, remote government that undermines free industry and established local justice.</description>
     </item>
     <item>
       <title>Amendment I</title>
-      <link>http://localhost:64515/billofrights/amendment1/</link>
+      <link>http://localhost:1313/billofrights/amendment1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment1/</guid>
+      <guid>http://localhost:1313/billofrights/amendment1/</guid>
       <description>&lt;p&gt;Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Old Whig I</title>
-      <link>http://localhost:64515/papers/oldwhig/oldwhig1/</link>
+      <link>http://localhost:1313/papers/oldwhig/oldwhig1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/oldwhig/oldwhig1/</guid>
+      <guid>http://localhost:1313/papers/oldwhig/oldwhig1/</guid>
       <description>Expresses early support for a federal constitution but warns that the proposed system is effectively irreversible, risks silencing public dissent, and may entrench unaccountable power indefinitely.</description>
     </item>
     <item>
       <title>Federal Farmer I</title>
-      <link>http://localhost:64515/papers/farmer/farmer1/</link>
+      <link>http://localhost:1313/papers/farmer/farmer1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer1/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer1/</guid>
       <description>Raises concern that the proposed Constitution seeks to centralize authority under a consolidated national government, warns against hasty ratification, and argues that only a limited federal system—preserving state autonomy—can protect liberty and secure lasting stability.</description>
     </item>
     <item>
       <title>Genuine Information I</title>
-      <link>http://localhost:64515/papers/luther/genuine1/</link>
+      <link>http://localhost:1313/papers/luther/genuine1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine1/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine1/</guid>
       <description>Warns that the proposed Constitution concentrates power in the hands of a few large states, reducing the others to political subjugation.</description>
     </item>
     <item>
       <title>New York Ratifying Convention I</title>
-      <link>http://localhost:64515/speeches/melancton/melancton1/</link>
+      <link>http://localhost:1313/speeches/melancton/melancton1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/melancton/melancton1/</guid>
+      <guid>http://localhost:1313/speeches/melancton/melancton1/</guid>
       <description>Argues that true representation requires representatives chosen from small districts by local majorities, making the proposed 65 representatives for 3 million people inadequate and vulnerable to corruption.</description>
     </item>
     <item>
       <title>New York Ratifying Convention II</title>
-      <link>http://localhost:64515/speeches/melancton/melancton2/</link>
+      <link>http://localhost:1313/speeches/melancton/melancton2/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/melancton/melancton2/</guid>
+      <guid>http://localhost:1313/speeches/melancton/melancton2/</guid>
       <description>Fears that the Constitution&amp;rsquo;s small House would be dominated by wealthy elites who lack sympathy for common people, requiring more representatives from the middling class to secure liberty.</description>
     </item>
     <item>
       <title>The Scourge</title>
-      <link>http://localhost:64515/papers/others/scourge1/</link>
+      <link>http://localhost:1313/papers/others/scourge1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/others/scourge1/</guid>
+      <guid>http://localhost:1313/papers/others/scourge1/</guid>
       <description>The Scourge is a satirical Anti-Federalist essay published in the Carlisle Gazette condemning Federalist celebrations following Pennsylvania’s ratification of the Constitution. The author warns that unchecked national power will suppress liberty and mocks Federalist elites for abandoning republican principles.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention I</title>
-      <link>http://localhost:64515/speeches/henry/henry1/</link>
+      <link>http://localhost:1313/speeches/henry/henry1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry1/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry1/</guid>
       <description>Warns that the Constitution contains ambiguous language that could lead to dangerous interpretations and abuses of power.</description>
     </item>
     <item>
       <title>Agrippa II</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa2/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa2/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa2/</guid>
       <description>Defends Massachusetts’ stable self-government and civil order as proof that liberty fosters prosperity, warning against surrendering this successful system for a distant, rigid federal authority.</description>
     </item>
     <item>
       <title>Amendment II</title>
-      <link>http://localhost:64515/billofrights/amendment2/</link>
+      <link>http://localhost:1313/billofrights/amendment2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment2/</guid>
+      <guid>http://localhost:1313/billofrights/amendment2/</guid>
       <description>&lt;p&gt;A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Old Whig II</title>
-      <link>http://localhost:64515/papers/oldwhig/oldwhig2/</link>
+      <link>http://localhost:1313/papers/oldwhig/oldwhig2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/oldwhig/oldwhig2/</guid>
+      <guid>http://localhost:1313/papers/oldwhig/oldwhig2/</guid>
       <description>Examines James Wilson’s defense of the Constitution and rejects his claim that federal power is limited, arguing instead that the &amp;ldquo;necessary and proper&amp;rdquo; clause and supremacy clause grant Congress virtually unlimited authority without a bill of rights to restrain it.</description>
     </item>
     <item>
       <title>Centinel II</title>
-      <link>http://localhost:64515/papers/centinel/centinel2/</link>
+      <link>http://localhost:1313/papers/centinel/centinel2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel2/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel2/</guid>
       <description>Argues that the federal Senate&amp;rsquo;s long terms, lack of rotation, and shared executive power make it ripe for aristocratic control. Highlights that even Montesquieu warned such consolidation would extinguish freedom.</description>
     </item>
     <item>
       <title>Federal Farmer II</title>
-      <link>http://localhost:64515/papers/farmer/farmer2/</link>
+      <link>http://localhost:1313/papers/farmer/farmer2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer2/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer2/</guid>
       <description>Criticizes the Constitution for centralizing power without proper representation or local justice, warning it will lead to neglect, military enforcement, and the erosion of state authority and liberty.</description>
     </item>
     <item>
       <title>Genuine Information II</title>
-      <link>http://localhost:64515/papers/luther/genuine2/</link>
+      <link>http://localhost:1313/papers/luther/genuine2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine2/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine2/</guid>
       <description>Argues that inequality of representation favors powerful states, undermines federal equality, and threatens liberty by reducing smaller states to political dependence.</description>
     </item>
     <item>
       <title>One of the People</title>
-      <link>http://localhost:64515/papers/others/oneofthepeople/</link>
+      <link>http://localhost:1313/papers/others/oneofthepeople/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/others/oneofthepeople/</guid>
+      <guid>http://localhost:1313/papers/others/oneofthepeople/</guid>
       <description>One of the People is a scathing Anti-Federalist essay published in the Carlisle Gazette attacking Federalist manipulation of public events to advance their agenda. The author exposes their hypocrisy, warns of their authoritarian ambitions, and mocks their deceitful tactics in undermining republican values.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention II</title>
-      <link>http://localhost:64515/speeches/henry/henry2/</link>
+      <link>http://localhost:1313/speeches/henry/henry2/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry2/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry2/</guid>
       <description>Argues that legitimate government must be founded on the consent of the governed and not on the centralization of power.</description>
     </item>
     <item>
       <title>Agrippa III</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa3/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa3/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa3/</guid>
       <description>Defends the current state governments as prosperous and just, warns that the proposed Constitution will crush public credit and local trade, and urges amendments before risking national division.</description>
     </item>
     <item>
       <title>Amendment III</title>
-      <link>http://localhost:64515/billofrights/amendment3/</link>
+      <link>http://localhost:1313/billofrights/amendment3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment3/</guid>
+      <guid>http://localhost:1313/billofrights/amendment3/</guid>
       <description>&lt;p&gt;No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Old Whig III</title>
-      <link>http://localhost:64515/papers/oldwhig/oldwhig3/</link>
+      <link>http://localhost:1313/papers/oldwhig/oldwhig3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/oldwhig/oldwhig3/</guid>
+      <guid>http://localhost:1313/papers/oldwhig/oldwhig3/</guid>
       <description>Condemns the treaty and supremacy clauses for enabling the president and Senate to override state laws, warns of unchecked federal power without a bill of rights, and defends trial by jury as essential to preserving liberty from civil abuse and creeping despotism.</description>
     </item>
     <item>
       <title>Centinel III</title>
-      <link>http://localhost:64515/papers/centinel/centinel3/</link>
+      <link>http://localhost:1313/papers/centinel/centinel3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel3/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel3/</guid>
       <description>Argues that the Constitution was crafted by elites to establish a centralized, aristocratic government that overrides state authority and lacks accountability to the people.</description>
     </item>
     <item>
       <title>Federal Farmer III</title>
-      <link>http://localhost:64515/papers/farmer/farmer3/</link>
+      <link>http://localhost:1313/papers/farmer/farmer3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer3/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer3/</guid>
       <description>Critiques the Constitution’s structure as elitist and unbalanced, warning that limited representation, unchecked taxation, and federal control over elections, the militia, and the judiciary will erode state power and popular liberty.</description>
     </item>
     <item>
       <title>Genuine Information III</title>
-      <link>http://localhost:64515/papers/luther/genuine3/</link>
+      <link>http://localhost:1313/papers/luther/genuine3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine3/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine3/</guid>
       <description>Details the bitter debate over state representation, exposing how small states resisted unequal suffrage, rejected coercive compromises, and warned that the proposed system would erode federal equality and empower large states at the expense of liberty.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention III</title>
-      <link>http://localhost:64515/speeches/henry/henry3/</link>
+      <link>http://localhost:1313/speeches/henry/henry3/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry3/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry3/</guid>
       <description>Outlines the potential dangers of the proposed government, focusing on its ability to overpower states and infringe on individual rights.</description>
     </item>
     <item>
       <title>Agrippa IV</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa4/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa4/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa4/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa4/</guid>
       <description>Argues that large consolidated republics collapse into despotism, and warns that the proposed Constitution would erase local autonomy and impose one-size-fits-all laws on diverse states.</description>
     </item>
     <item>
       <title>Amendment IV</title>
-      <link>http://localhost:64515/billofrights/amendment4/</link>
+      <link>http://localhost:1313/billofrights/amendment4/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment4/</guid>
+      <guid>http://localhost:1313/billofrights/amendment4/</guid>
       <description>&lt;p&gt;The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Old Whig IV</title>
-      <link>http://localhost:64515/papers/oldwhig/oldwhig4/</link>
+      <link>http://localhost:1313/papers/oldwhig/oldwhig4/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/oldwhig/oldwhig4/</guid>
+      <guid>http://localhost:1313/papers/oldwhig/oldwhig4/</guid>
       <description>Argues that a single vast republic is unsustainable and warns that without a confederation model and a firm bill of rights, the proposed Constitution will dissolve state authority, endanger liberty, and drift toward monarchy and despotism.</description>
     </item>
     <item>
       <title>Centinel IV</title>
-      <link>http://localhost:64515/papers/centinel/centinel4/</link>
+      <link>http://localhost:1313/papers/centinel/centinel4/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel4/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel4/</guid>
       <description>Criticizes the Constitution for exploiting economic fears to establish an unchecked, centralized government that sacrifices liberty under the guise of reform.</description>
     </item>
     <item>
       <title>Federal Farmer IV</title>
-      <link>http://localhost:64515/papers/farmer/farmer4/</link>
+      <link>http://localhost:1313/papers/farmer/farmer4/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer4/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer4/</guid>
       <description>Warns that the Constitution grants vague and unchecked powers to the federal government, lacks essential rights protections, undermines jury trials, and enables a ruling elite to suppress liberty under the guise of law and treaty.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention IV</title>
-      <link>http://localhost:64515/speeches/henry/henry4/</link>
+      <link>http://localhost:1313/speeches/henry/henry4/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry4/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry4/</guid>
       <description>Stresses the need for amendments to the Constitution, particularly a Bill of Rights, to protect citizens from government overreach.</description>
     </item>
     <item>
       <title>Agrippa V</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa5/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa5/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa5/</guid>
       <description>Warns that the Constitution erases state sovereignty by empowering federal courts and laws to override local authority, risking tyranny, confusion, and the rise of a permanent standing army.</description>
     </item>
     <item>
       <title>Amendment V</title>
-      <link>http://localhost:64515/billofrights/amendment5/</link>
+      <link>http://localhost:1313/billofrights/amendment5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment5/</guid>
+      <guid>http://localhost:1313/billofrights/amendment5/</guid>
       <description>&lt;p&gt;No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Old Whig V</title>
-      <link>http://localhost:64515/papers/oldwhig/oldwhig5/</link>
+      <link>http://localhost:1313/papers/oldwhig/oldwhig5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/oldwhig/oldwhig5/</guid>
+      <guid>http://localhost:1313/papers/oldwhig/oldwhig5/</guid>
       <description>Warns that without a bill of rights, liberties like conscience, speech, and due process are left unprotected, and argues that the president’s vast powers verge on monarchy, risking a future descent into military tyranny.</description>
     </item>
     <item>
       <title>Centinel V</title>
-      <link>http://localhost:64515/papers/centinel/centinel5/</link>
+      <link>http://localhost:1313/papers/centinel/centinel5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel5/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel5/</guid>
       <description>Condemns the Constitution as a blueprint for a consolidated empire that would annihilate state sovereignty and usher in unchecked federal despotism through expansive taxation and legislative supremacy.</description>
     </item>
     <item>
       <title>Federal Farmer V</title>
-      <link>http://localhost:64515/papers/farmer/farmer5/</link>
+      <link>http://localhost:1313/papers/farmer/farmer5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer5/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer5/</guid>
       <description>Rejects blind adoption of the Constitution, warning that it centralizes power among elites, lacks true representation, invites class division, and should be revised by state conventions to protect liberty, property, and democratic stability.</description>
     </item>
     <item>
       <title>Genuine Information IV</title>
-      <link>http://localhost:64515/papers/luther/genuine4/</link>
+      <link>http://localhost:1313/papers/luther/genuine4/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine4/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine4/</guid>
       <description>Criticizes the proposed Constitution as a covert move toward national consolidation, arguing that it subverts true federalism, endangers state sovereignty, and imposes a centralized system too vast to preserve liberty.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention V</title>
-      <link>http://localhost:64515/speeches/henry/henry5/</link>
+      <link>http://localhost:1313/speeches/henry/henry5/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry5/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry5/</guid>
       <description>Argues that the process for creating new states from territories could lead to centralized federal control over more land and people.</description>
     </item>
     <item>
       <title>Agrippa VI</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa6/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa6/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa6/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa6/</guid>
       <description>Argues that the Constitution consolidates state powers under federal control, enabling unchecked regulation of trade and courts without a bill of rights, threatening local sovereignty and economic fairness.</description>
     </item>
     <item>
       <title>Amendment VI</title>
-      <link>http://localhost:64515/billofrights/amendment6/</link>
+      <link>http://localhost:1313/billofrights/amendment6/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment6/</guid>
+      <guid>http://localhost:1313/billofrights/amendment6/</guid>
       <description>&lt;p&gt;In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Old Whig VI</title>
-      <link>http://localhost:64515/papers/oldwhig/oldwhig6/</link>
+      <link>http://localhost:1313/papers/oldwhig/oldwhig6/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/oldwhig/oldwhig6/</guid>
+      <guid>http://localhost:1313/papers/oldwhig/oldwhig6/</guid>
       <description>Argues that granting Congress unlimited taxation power will strip states of revenue, reduce them to shadows, and risks the collapse of republican government into centralized despotism.</description>
     </item>
     <item>
       <title>Centinel VI</title>
-      <link>http://localhost:64515/papers/centinel/centinel6/</link>
+      <link>http://localhost:1313/papers/centinel/centinel6/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel6/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel6/</guid>
       <description>Warns that Americans, once defenders of liberty, are now surrendering it to a central power that exploits their hopes for prosperity and trust in rulers, ignoring history’s lesson that unchecked authority breeds tyranny.</description>
     </item>
     <item>
       <title>Federal Farmer VI</title>
-      <link>http://localhost:64515/papers/farmer/farmer6/</link>
+      <link>http://localhost:1313/papers/farmer/farmer6/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer6/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer6/</guid>
       <description>Outlines essential constitutional principles, critiques centralization and inadequate representation, and calls for well-defined amendments to preserve liberty, secure rights, and balance federal and state power in a lasting republican system.</description>
     </item>
     <item>
       <title>Genuine Information V</title>
-      <link>http://localhost:64515/papers/luther/genuine5/</link>
+      <link>http://localhost:1313/papers/luther/genuine5/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine5/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine5/</guid>
       <description>Condemns slave-based representation and unequal apportionment favoring large states, warns of disproportionate power and influence, and criticizes provisions that expose Congress to executive bribery and corruption.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention VI</title>
-      <link>http://localhost:64515/speeches/henry/henry6/</link>
+      <link>http://localhost:1313/speeches/henry/henry6/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry6/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry6/</guid>
       <description>Calls for stronger restraints on government to prevent corruption and protect individual freedoms.</description>
     </item>
     <item>
       <title>Agrippa VII</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa7/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa7/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa7/</guid>
       <description>Argues that the Constitution promotes unfair economic burdens, undermines local authority, and benefits some states over others, particularly through uneven trade regulation and taxation.</description>
     </item>
     <item>
       <title>Amendment VII</title>
-      <link>http://localhost:64515/billofrights/amendment7/</link>
+      <link>http://localhost:1313/billofrights/amendment7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment7/</guid>
+      <guid>http://localhost:1313/billofrights/amendment7/</guid>
       <description>&lt;p&gt;In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Old Whig VII</title>
-      <link>http://localhost:64515/papers/oldwhig/oldwhig7/</link>
+      <link>http://localhost:1313/papers/oldwhig/oldwhig7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/oldwhig/oldwhig7/</guid>
+      <guid>http://localhost:1313/papers/oldwhig/oldwhig7/</guid>
       <description>Rejects the claim that amendments are impossible, proposing that state conventions should suggest changes, call for a second Continental Convention, and only then decide on ratification—ensuring unity without surrendering public judgment.</description>
     </item>
     <item>
       <title>Centinel VII</title>
-      <link>http://localhost:64515/papers/centinel/centinel7/</link>
+      <link>http://localhost:1313/papers/centinel/centinel7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel7/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel7/</guid>
       <description>Denounces the Constitution as a power grab by domestic elites exploiting public distress, urging citizens to reject the scheme and defend their liberty through renewed convention and resistance if necessary.</description>
     </item>
     <item>
       <title>Federal Farmer VII</title>
-      <link>http://localhost:64515/papers/farmer/farmer7/</link>
+      <link>http://localhost:1313/papers/farmer/farmer7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer7/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer7/</guid>
       <description>Contends that true liberty relies on broad, balanced representation among all social classes, critiques the proposed House for being too small and elite-driven, and warns that such narrow design risks corruption, imbalance, and the erosion of public trust.</description>
     </item>
     <item>
       <title>Genuine Information VI</title>
-      <link>http://localhost:64515/papers/luther/genuine6/</link>
+      <link>http://localhost:1313/papers/luther/genuine6/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine6/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine6/</guid>
       <description>Warns that unchecked federal taxation, judicial overreach, and revenue powers—including stamp duties and excises—threaten state sovereignty, enable corruption, and concentrate dangerous authority in a distant national government.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention VII</title>
-      <link>http://localhost:64515/speeches/henry/henry7/</link>
+      <link>http://localhost:1313/speeches/henry/henry7/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry7/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry7/</guid>
       <description>Stresses the importance of a well-regulated militia, fearing that the proposed government would weaken state militias and empower a federal army.</description>
     </item>
     <item>
       <title>Agrippa VIII</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa8/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa8/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa8/</guid>
       <description>Claims that the Constitution threatens both civil liberty and state solvency by centralizing taxation and debt while ignoring natural bonds of union like commerce and mutual interest.</description>
     </item>
     <item>
       <title>Amendment VIII</title>
-      <link>http://localhost:64515/billofrights/amendment8/</link>
+      <link>http://localhost:1313/billofrights/amendment8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment8/</guid>
+      <guid>http://localhost:1313/billofrights/amendment8/</guid>
       <description>&lt;p&gt;Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Old Whig VIII</title>
-      <link>http://localhost:64515/papers/oldwhig/oldwhig8/</link>
+      <link>http://localhost:1313/papers/oldwhig/oldwhig8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/oldwhig/oldwhig8/</guid>
+      <guid>http://localhost:1313/papers/oldwhig/oldwhig8/</guid>
       <description>Urges that amendments be made before adopting the Constitution, warning that reliance on future rulers or the complex Article V process is naïve, and that once power is granted, it is nearly impossible to reclaim.</description>
     </item>
     <item>
       <title>Centinel VIII</title>
-      <link>http://localhost:64515/papers/centinel/centinel8/</link>
+      <link>http://localhost:1313/papers/centinel/centinel8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel8/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel8/</guid>
       <description>Portrays the Constitution as a gilded trap crafted by self-interested elites, designed to strip the people of liberty and secure unchecked control over property, commerce, and governance.</description>
     </item>
     <item>
       <title>Federal Farmer VIII</title>
-      <link>http://localhost:64515/papers/farmer/farmer8/</link>
+      <link>http://localhost:1313/papers/farmer/farmer8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer8/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer8/</guid>
       <description>Asserts that liberty in England arose from balanced, class-based representation, warns that the Constitution’s small, elite legislature mirrors Rome’s failed tribunes, and urges distributed state power to protect against creeping aristocracy and centralized abuse.</description>
     </item>
     <item>
       <title>Genuine Information VII</title>
-      <link>http://localhost:64515/papers/luther/genuine7/</link>
+      <link>http://localhost:1313/papers/luther/genuine7/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine7/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine7/</guid>
       <description>Condemns unlimited federal military power, centralized control of the militia, and the temporary protection of the slave trade, warning these measures endanger liberty, undermine state sovereignty, and mock the founding principles of justice and freedom.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention VIII</title>
-      <link>http://localhost:64515/speeches/henry/henry8/</link>
+      <link>http://localhost:1313/speeches/henry/henry8/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry8/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry8/</guid>
       <description>Emphasizes the need for officials to be held accountable to the people to prevent the abuse of power.</description>
     </item>
     <item>
       <title>Agrippa IX</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa9/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa9/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa9/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa9/</guid>
       <description>Warns that granting Congress unchecked control over trade, naturalization, and taxation risks moral decline, state inequality, and the loss of hard-won liberties.</description>
     </item>
     <item>
       <title>Amendment IX</title>
-      <link>http://localhost:64515/billofrights/amendment9/</link>
+      <link>http://localhost:1313/billofrights/amendment9/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment9/</guid>
+      <guid>http://localhost:1313/billofrights/amendment9/</guid>
       <description>&lt;p&gt;The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Centinel IX</title>
-      <link>http://localhost:64515/papers/centinel/centinel9/</link>
+      <link>http://localhost:1313/papers/centinel/centinel9/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel9/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel9/</guid>
       <description>Presents the Constitution as a calculated effort by entrenched elites to dismantle local freedoms through deception, manipulation, and a coordinated push for unchecked national power.</description>
     </item>
     <item>
       <title>Federal Farmer IX</title>
-      <link>http://localhost:64515/papers/farmer/farmer9/</link>
+      <link>http://localhost:1313/papers/farmer/farmer9/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer9/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer9/</guid>
       <description>Warns that a small, elite Congress invites corruption, fails to represent the broader populace, and risks shifting power from the many to the few through patronage, taxation abuse, and lack of meaningful constitutional safeguards.</description>
     </item>
     <item>
       <title>Genuine Information VIII</title>
-      <link>http://localhost:64515/papers/luther/genuine8/</link>
+      <link>http://localhost:1313/papers/luther/genuine8/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine8/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine8/</guid>
       <description>Condemns federal protection of the slave trade, habeas corpus suspension, and loss of state control over commerce and currency—warning these powers will oppress debtors, undermine liberty, and centralize economic authority.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention IX</title>
-      <link>http://localhost:64515/speeches/henry/henry9/</link>
+      <link>http://localhost:1313/speeches/henry/henry9/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry9/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry9/</guid>
       <description>Warns that the Constitution’s provisions could lead to a large standing army, posing a threat to liberty.</description>
     </item>
     <item>
       <title>Agrippa X</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa10/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa10/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa10/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa10/</guid>
       <description>Summarizes prior arguments to show that the proposed Constitution consolidates power, threatens liberty, burdens Massachusetts disproportionately, and should be replaced with limited amendments granting Congress narrowly defined trade and revenue powers.</description>
     </item>
     <item>
       <title>Amendment X</title>
-      <link>http://localhost:64515/billofrights/amendment10/</link>
+      <link>http://localhost:1313/billofrights/amendment10/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/billofrights/amendment10/</guid>
+      <guid>http://localhost:1313/billofrights/amendment10/</guid>
       <description>&lt;p&gt;The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Centinel X</title>
-      <link>http://localhost:64515/papers/centinel/centinel10/</link>
+      <link>http://localhost:1313/papers/centinel/centinel10/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel10/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel10/</guid>
       <description>Celebrates the revival of free press as the decisive force exposing elite deception and halting a silent coup, while mocking the conspirators’ desperate schemes and warning of their last resort—force.</description>
     </item>
     <item>
       <title>Federal Farmer X</title>
-      <link>http://localhost:64515/papers/farmer/farmer10/</link>
+      <link>http://localhost:1313/papers/farmer/farmer10/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer10/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer10/</guid>
       <description>Warns that the proposed Constitution strips the people and states of meaningful checks on federal power, enabling gradual elite consolidation through underrepresentation, unchecked taxation, military control, and systemic exclusion of democratic safeguards.</description>
     </item>
     <item>
       <title>Genuine Information IX</title>
-      <link>http://localhost:64515/papers/luther/genuine9/</link>
+      <link>http://localhost:1313/papers/luther/genuine9/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine9/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine9/</guid>
       <description>Warns that the presidency, as structured, concentrates excessive power—military, electoral, and appointive—enabling lifelong rule, fostering corruption, and rendering impeachment ineffective as a check.</description>
     </item>
     <item>
-      <title>Virginia Ratifying Convention X</title>
-      <link>http://localhost:64515/speeches/henry/henry10/</link>
+      <title>Impartial Examiner I</title>
+      <link>http://localhost:1313/papers/impartial/impartial1/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry10/</guid>
+      <guid>http://localhost:1313/papers/impartial/impartial1/</guid>
+      <description>Warns that the Constitution&amp;rsquo;s supremacy clause would destroy state sovereignty and create a dangerously powerful federal government without protecting individual rights.</description>
+    </item>
+    <item>
+      <title>Impartial Examiner II</title>
+      <link>http://localhost:1313/papers/impartial/impartial2/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/impartial/impartial2/</guid>
+      <description>Argues that the Constitution&amp;rsquo;s taxation powers would create interstate conflicts while its excise, military, and judicial provisions would destroy traditional liberties.</description>
+    </item>
+    <item>
+      <title>Impartial Examiner III</title>
+      <link>http://localhost:1313/papers/impartial/impartial3/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/impartial/impartial3/</guid>
+      <description>Concludes that the Constitution lacks individual rights protections and would create unlimited federal power that could destroy American liberty.</description>
+    </item>
+    <item>
+      <title>Impartial Examiner IV</title>
+      <link>http://localhost:1313/papers/impartial/impartial4/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/impartial/impartial4/</guid>
+      <description>Argues that the executive veto power appropriate for British monarchy is incompatible with American republican principles of equal liberty.</description>
+    </item>
+    <item>
+      <title>Impartial Examiner V</title>
+      <link>http://localhost:1313/papers/impartial/impartial5/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/impartial/impartial5/</guid>
+      <description>Examines whether constitutional change is necessary, noting agreement on strengthening federal commerce and taxation powers but disagreement over whether the proposed system sacrifices too much liberty.</description>
+    </item>
+    <item>
+      <title>Virginia Ratifying Convention X</title>
+      <link>http://localhost:1313/speeches/henry/henry10/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speeches/henry/henry10/</guid>
       <description>Reaffirms the necessity of state militias for defense and questions the Constitution’s allowance for a federal military monopoly.</description>
     </item>
     <item>
       <title>Agrippa XI</title>
-      <link>http://localhost:64515/papers/agrippa/agrippa11/</link>
+      <link>http://localhost:1313/papers/agrippa/agrippa11/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/agrippa/agrippa11/</guid>
+      <guid>http://localhost:1313/papers/agrippa/agrippa11/</guid>
       <description>Defends his limited federal plan against critics, warning that the proposed Constitution invites foreign influence, multiplies offices, favors elites, and undermines both domestic liberty and national respect.</description>
     </item>
     <item>
       <title>Centinel XI</title>
-      <link>http://localhost:64515/papers/centinel/centinel11/</link>
+      <link>http://localhost:1313/papers/centinel/centinel11/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel11/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel11/</guid>
       <description>Refutes panic-driven arguments for the Constitution—anarchy and disunion—as elite fabrications, insisting that even temporary chaos is preferable to permanent despotism, and accuses postal officials of suppressing dissent to blind the public.</description>
     </item>
     <item>
       <title>Centinel XII</title>
-      <link>http://localhost:64515/papers/centinel/centinel12/</link>
+      <link>http://localhost:1313/papers/centinel/centinel12/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel12/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel12/</guid>
       <description>Condemns the Constitution’s promoters as a deceptive faction silencing dissent and rushing ratification, branding them conspirators against liberty whose suppression of press and debate exposes their tyrannical intent.</description>
     </item>
     <item>
       <title>Centinel XII</title>
-      <link>http://localhost:64515/papers/centinel/centinel13/</link>
+      <link>http://localhost:1313/papers/centinel/centinel13/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel13/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel13/</guid>
       <description>Portrays the Constitution’s backers as a cunning, well-funded minority using press manipulation, deception, and patronage to mask despotism in patriotic language, urging citizens to organize, resist, and defend true republican liberty.</description>
     </item>
     <item>
       <title>Centinel XIV</title>
-      <link>http://localhost:64515/papers/centinel/centinel14/</link>
+      <link>http://localhost:1313/papers/centinel/centinel14/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel14/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel14/</guid>
       <description>Cites Luther Martin’s testimony to expose the Constitution as a deliberate plan to destroy state authority, centralize unchecked taxation and judicial power, and suppress dissent through postal censorship and coordinated propaganda.</description>
     </item>
     <item>
       <title>Centinel XV</title>
-      <link>http://localhost:64515/papers/centinel/centinel15/</link>
+      <link>http://localhost:1313/papers/centinel/centinel15/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel15/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel15/</guid>
       <description>Laments the loss of public skepticism toward government change and claims Massachusetts’ narrow ratification was driven by fear, misinformation, and elite pressure rather than genuine support for the Constitution.</description>
     </item>
     <item>
       <title>Centinel XVI</title>
-      <link>http://localhost:64515/papers/centinel/centinel16/</link>
+      <link>http://localhost:1313/papers/centinel/centinel16/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel16/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel16/</guid>
       <description>Claims the Constitution deliberately shields public defaulters from accountability by barring retroactive laws and omitting provisions to recover debts owed to the United States, enabling corruption and injustice between states.</description>
     </item>
     <item>
       <title>Centinel XVII</title>
-      <link>http://localhost:64515/papers/centinel/centinel17/</link>
+      <link>http://localhost:1313/papers/centinel/centinel17/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel17/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel17/</guid>
       <description>Accuses key Constitution framers of concealing public fraud and enriching themselves through unaccounted wartime funds, while using propaganda and postal suppression to silence critics and manipulate public opinion.</description>
     </item>
     <item>
       <title>Centinel XVIII</title>
-      <link>http://localhost:64515/papers/centinel/centinel18/</link>
+      <link>http://localhost:1313/papers/centinel/centinel18/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/centinel/centinel18/</guid>
+      <guid>http://localhost:1313/papers/centinel/centinel18/</guid>
       <description>Condemns the suppression of dissent, manipulation of postal communications, and spread of false unanimity to force constitutional ratification, asserting that true public sentiment in Pennsylvania—and likely elsewhere—is overwhelmingly opposed to the new system.</description>
     </item>
     <item>
       <title>Federal Farmer XI</title>
-      <link>http://localhost:64515/papers/farmer/farmer11/</link>
+      <link>http://localhost:1313/papers/farmer/farmer11/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer11/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer11/</guid>
       <description>Critiques the Senate’s structure and powers, warning that long terms, lack of recall, absence of rotation, and control over appointments and treaties could consolidate influence among disconnected elites and erode public accountability.</description>
     </item>
     <item>
       <title>Genuine Information X</title>
-      <link>http://localhost:64515/papers/luther/genuine10/</link>
+      <link>http://localhost:1313/papers/luther/genuine10/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/luther/genuine10/</guid>
+      <guid>http://localhost:1313/papers/luther/genuine10/</guid>
       <description>Warns that the proposed judiciary strips states and citizens of trial by jury, centralizes nearly all legal authority in distant federal courts, and brands any state resistance to federal overreach as treason—leaving the people powerless against national despotism.</description>
     </item>
     <item>
       <title>Objections to This Constitution of Government</title>
-      <link>http://localhost:64515/papers/mason/objections/</link>
+      <link>http://localhost:1313/papers/mason/objections/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/mason/objections/</guid>
+      <guid>http://localhost:1313/papers/mason/objections/</guid>
       <description>Fears that omitting a Bill of Rights and centralizing unchecked federal power would override state laws, criminalize dissent as treason, and destroy individual liberty.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XI</title>
-      <link>http://localhost:64515/speeches/henry/henry11/</link>
+      <link>http://localhost:1313/speeches/henry/henry11/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry11/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry11/</guid>
       <description>Expresses concern over the federal control of the District of Columbia and its potential to lead to unchecked power.</description>
     </item>
     <item>
       <title>Federal Farmer XII</title>
-      <link>http://localhost:64515/papers/farmer/farmer12/</link>
+      <link>http://localhost:1313/papers/farmer/farmer12/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer12/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer12/</guid>
       <description>Criticizes the Constitution’s vague election provisions, warning they permit manipulation through plurality voting, non-local candidates, and congressional control, and calls for fixed district elections with majority rule to preserve democratic representation.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XII</title>
-      <link>http://localhost:64515/speeches/henry/henry12/</link>
+      <link>http://localhost:1313/speeches/henry/henry12/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry12/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry12/</guid>
       <description>Argues strongly for the inclusion of a Bill of Rights to safeguard individual liberties and limit government power.</description>
     </item>
     <item>
       <title>Federal Farmer XIII</title>
-      <link>http://localhost:64515/papers/farmer/farmer13/</link>
+      <link>http://localhost:1313/papers/farmer/farmer13/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer13/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer13/</guid>
       <description>Critiques the Constitution’s appointment structure as a dangerous consolidation of power, calling for restrictions on legislators’ eligibility for office and proposing an independent executive council to ensure integrity and accountability in federal appointments.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XIII</title>
-      <link>http://localhost:64515/speeches/henry/henry13/</link>
+      <link>http://localhost:1313/speeches/henry/henry13/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry13/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry13/</guid>
       <description>Warns that the Constitution’s implied powers could lead to the expansion of federal authority, including issues like slavery.</description>
     </item>
     <item>
       <title>Federal Farmer XIV</title>
-      <link>http://localhost:64515/papers/farmer/farmer14/</link>
+      <link>http://localhost:1313/papers/farmer/farmer14/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer14/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer14/</guid>
       <description>Examines appointment powers and executive structure, favoring broader legislative and departmental checks while warning that indefinite presidential re-eligibility invites consolidation, corruption, and hereditary ambition.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XIV</title>
-      <link>http://localhost:64515/speeches/henry/henry14/</link>
+      <link>http://localhost:1313/speeches/henry/henry14/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry14/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry14/</guid>
       <description>Emphasizes the risks posed by the Constitution’s lack of explicit protections for habeas corpus and against ex post facto laws.</description>
     </item>
     <item>
       <title>Federal Farmer XV</title>
-      <link>http://localhost:64515/papers/farmer/farmer15/</link>
+      <link>http://localhost:1313/papers/farmer/farmer15/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer15/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer15/</guid>
       <description>Examines the proposed judiciary’s expansive powers, cautioning that it diminishes jury authority, permits judicial discretion over both law and fact, and risks entrenching arbitrary rule through loosely defined equity jurisdiction.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XV</title>
-      <link>http://localhost:64515/speeches/henry/henry15/</link>
+      <link>http://localhost:1313/speeches/henry/henry15/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry15/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry15/</guid>
       <description>Raises concerns about the burdens of both national and state debt under the new Constitution, warning of potential financial crises.</description>
     </item>
     <item>
       <title>Federal Farmer XVI</title>
-      <link>http://localhost:64515/papers/farmer/farmer16/</link>
+      <link>http://localhost:1313/papers/farmer/farmer16/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer16/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer16/</guid>
       <description>Stresses the necessity of explicitly enumerating individual rights in the Constitution—such as jury trials, freedom of the press, and protections against quartering soldiers—to prevent federal overreach and preserve liberty beyond vague general principles or inferred reservations.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XVI</title>
-      <link>http://localhost:64515/speeches/henry/henry16/</link>
+      <link>http://localhost:1313/speeches/henry/henry16/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry16/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry16/</guid>
       <description>Warns that the Constitution’s grant of treaty power to the federal government could lead to the subjugation of state interests.</description>
     </item>
     <item>
       <title>Federal Farmer XVII</title>
-      <link>http://localhost:64515/papers/farmer/farmer17/</link>
+      <link>http://localhost:1313/papers/farmer/farmer17/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer17/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer17/</guid>
       <description>Questions the necessity of granting sweeping federal taxation powers, warning that bypassing state governments threatens the balance of a true federal republic and risks consolidating authority in ways historically proven to erode liberty.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XVII</title>
-      <link>http://localhost:64515/speeches/henry/henry17/</link>
+      <link>http://localhost:1313/speeches/henry/henry17/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry17/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry17/</guid>
       <description>Argues that the ability to make treaties without adequate checks could undermine the sovereignty of the states.</description>
     </item>
     <item>
       <title>Federal Farmer XVIII</title>
-      <link>http://localhost:64515/papers/farmer/farmer18/</link>
+      <link>http://localhost:1313/papers/farmer/farmer18/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/farmer/farmer18/</guid>
+      <guid>http://localhost:1313/papers/farmer/farmer18/</guid>
       <description>Warns that expansive federal powers, especially over the military, judiciary, and federal districts, threaten to erode state authority and concentrate influence in an elite, unaccountable capital.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XVIII</title>
-      <link>http://localhost:64515/speeches/henry/henry18/</link>
+      <link>http://localhost:1313/speeches/henry/henry18/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry18/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry18/</guid>
       <description>Calls for stricter accountability of government officials to prevent the centralization of power and abuse of office.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XIX</title>
-      <link>http://localhost:64515/speeches/henry/henry19/</link>
+      <link>http://localhost:1313/speeches/henry/henry19/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry19/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry19/</guid>
       <description>Highlights the lack of protections for citizens against a potentially oppressive judiciary under the new Constitution.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XX</title>
-      <link>http://localhost:64515/speeches/henry/henry20/</link>
+      <link>http://localhost:1313/speeches/henry/henry20/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry20/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry20/</guid>
       <description>Expresses concern that federal courts would become supreme over state courts, eroding state authority and individual rights.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XXI</title>
-      <link>http://localhost:64515/speeches/henry/henry21/</link>
+      <link>http://localhost:1313/speeches/henry/henry21/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry21/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry21/</guid>
       <description>Stresses the importance of preserving trial by jury, fearing the Constitution&amp;rsquo;s provisions would undermine this right.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XXII</title>
-      <link>http://localhost:64515/speeches/henry/henry22/</link>
+      <link>http://localhost:1313/speeches/henry/henry22/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry22/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry22/</guid>
       <description>Argues that the enumeration of rights in the Constitution could be misinterpreted or insufficient to fully protect individual liberties.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XXIII</title>
-      <link>http://localhost:64515/speeches/henry/henry23/</link>
+      <link>http://localhost:1313/speeches/henry/henry23/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry23/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry23/</guid>
       <description>Emphasizes the need for clear reserved powers for states to ensure a balance of authority and prevent federal overreach.</description>
     </item>
     <item>
       <title>Virginia Ratifying Convention XIIV</title>
-      <link>http://localhost:64515/speeches/henry/henry24/</link>
+      <link>http://localhost:1313/speeches/henry/henry24/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/speeches/henry/henry24/</guid>
+      <guid>http://localhost:1313/speeches/henry/henry24/</guid>
       <description>Points out that many important rights were omitted from the Constitution&amp;rsquo;s enumeration and must be safeguarded through amendments.</description>
     </item>
     <item>
       <title>Brutus I</title>
-      <link>http://localhost:64515/papers/brutus/brutus1/</link>
+      <link>http://localhost:1313/papers/brutus/brutus1/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus1/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus1/</guid>
       <description>Warns that the Constitution will create a consolidated national government incompatible with liberty in a large, diverse republic.</description>
     </item>
     <item>
       <title>Brutus II</title>
-      <link>http://localhost:64515/papers/brutus/brutus2/</link>
+      <link>http://localhost:1313/papers/brutus/brutus2/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus2/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus2/</guid>
       <description>Argues that the Constitution dangerously omits a bill of rights, enabling federal overreach into life, liberty, and property without adequate protections.</description>
     </item>
     <item>
       <title>Brutus III</title>
-      <link>http://localhost:64515/papers/brutus/brutus3/</link>
+      <link>http://localhost:1313/papers/brutus/brutus3/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus3/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus3/</guid>
       <description>Criticizes the proposed House and Senate for lacking fair representation, disproportionately empowering elites and slaveholding states while excluding common citizens from meaningful influence.</description>
     </item>
     <item>
       <title>Brutus IV</title>
-      <link>http://localhost:64515/papers/brutus/brutus4/</link>
+      <link>http://localhost:1313/papers/brutus/brutus4/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus4/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus4/</guid>
       <description>Warns that the proposed government’s small and elite legislature cannot fairly represent the people, and that Congress’s control over elections endangers voting rights and enables gradual consolidation of power.</description>
     </item>
     <item>
       <title>Brutus IX</title>
-      <link>http://localhost:64515/papers/brutus/brutus9/</link>
+      <link>http://localhost:1313/papers/brutus/brutus9/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus9/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus9/</guid>
       <description>Argues that the Constitution must explicitly restrict the government’s power to maintain standing armies in peacetime, as historical precedent shows such forces are tools of oppression, not security.</description>
     </item>
     <item>
       <title>Brutus V</title>
-      <link>http://localhost:64515/papers/brutus/brutus5/</link>
+      <link>http://localhost:1313/papers/brutus/brutus5/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus5/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus5/</guid>
       <description>Argues that Congress’s vast power to tax and pass all necessary laws will lead to total consolidation, destroy state governments, and subject the people to unchecked federal control and endless revenue extraction.</description>
     </item>
     <item>
       <title>Brutus VI</title>
-      <link>http://localhost:64515/papers/brutus/brutus6/</link>
+      <link>http://localhost:1313/papers/brutus/brutus6/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus6/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus6/</guid>
       <description>Warns that Congress’s unchecked power to tax and legislate will gradually dissolve state governments, overwhelm private life with intrusive revenue systems, and destroy the balance needed for a federal union.</description>
     </item>
     <item>
       <title>Brutus VII</title>
-      <link>http://localhost:64515/papers/brutus/brutus7/</link>
+      <link>http://localhost:1313/papers/brutus/brutus7/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus7/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus7/</guid>
       <description>Argues that without limiting Congress’s taxing power, the federal government will overshadow the states, strip them of necessary revenue, and destroy the balance essential to a functional confederacy.</description>
     </item>
     <item>
       <title>Brutus VIII</title>
-      <link>http://localhost:64515/papers/brutus/brutus8/</link>
+      <link>http://localhost:1313/papers/brutus/brutus8/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus8/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus8/</guid>
       <description>Warns that unlimited federal powers to tax, borrow, and raise armies—especially in peacetime—invite crushing debt, standing militarism, and the destruction of liberty through centralized coercion.</description>
     </item>
     <item>
       <title>Brutus X</title>
-      <link>http://localhost:64515/papers/brutus/brutus10/</link>
+      <link>http://localhost:1313/papers/brutus/brutus10/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus10/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus10/</guid>
       <description>Warns that history proves standing armies often destroy republics from within, and argues that the Constitution should restrict such forces in peacetime to avoid tyranny masked as preparedness.</description>
     </item>
     <item>
       <title>Brutus XI</title>
-      <link>http://localhost:64515/papers/brutus/brutus11/</link>
+      <link>http://localhost:1313/papers/brutus/brutus11/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus11/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus11/</guid>
       <description>Warns that the federal judiciary, empowered to interpret the Constitution broadly and insulated from checks, will steadily expand its authority and erode state sovereignty through precedent and self-interest.</description>
     </item>
     <item>
       <title>Brutus XII</title>
-      <link>http://localhost:64515/papers/brutus/brutus12/</link>
+      <link>http://localhost:1313/papers/brutus/brutus12/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus12/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus12/</guid>
       <description>Warns that the federal judiciary will expand legislative and judicial power through broad interpretations of the Constitution, reducing state authority to insignificance by aligning national objectives with judicial precedent and fictional jurisdiction.</description>
     </item>
     <item>
       <title>Brutus XIII</title>
-      <link>http://localhost:64515/papers/brutus/brutus13/</link>
+      <link>http://localhost:1313/papers/brutus/brutus13/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus13/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus13/</guid>
       <description>Warns that allowing individuals to sue states under the federal judiciary violates state sovereignty, invites financial ruin through enforced debt judgments, and grants Congress unchecked power to execute rulings that could cripple state governments.</description>
     </item>
     <item>
       <title>Brutus XIV</title>
-      <link>http://localhost:64515/papers/brutus/brutus14/</link>
+      <link>http://localhost:1313/papers/brutus/brutus14/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus14/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus14/</guid>
       <description>Warns that the Supreme Court’s appellate power endangers jury trials, imposes excessive costs on average citizens, and grants judges unchecked authority over both law and fact.</description>
     </item>
     <item>
       <title>Brutus XV</title>
-      <link>http://localhost:64515/papers/brutus/brutus15/</link>
+      <link>http://localhost:1313/papers/brutus/brutus15/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus15/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus15/</guid>
       <description>Warns that the Supreme Court, independent and unchecked, will interpret the Constitution beyond the reach of the people or legislature, gradually expanding federal power and eroding state authority without accountability.</description>
     </item>
     <item>
       <title>Brutus XVI</title>
-      <link>http://localhost:64515/papers/brutus/brutus16/</link>
+      <link>http://localhost:1313/papers/brutus/brutus16/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/brutus/brutus16/</guid>
+      <guid>http://localhost:1313/papers/brutus/brutus16/</guid>
       <description>Warns that the Senate’s six-year terms, lack of rotation, and blend of legislative, executive, and judicial powers undermine accountability and republican principles, risking consolidation of elite authority beyond public control.</description>
     </item>
     <item>
       <title>Cato I</title>
-      <link>http://localhost:64515/papers/cato/cato1/</link>
+      <link>http://localhost:1313/papers/cato/cato1/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/cato/cato1/</guid>
+      <guid>http://localhost:1313/papers/cato/cato1/</guid>
       <description>Argues that the Constitution centralizes power by entangling the Senate and executive, enabling collusion, weakening accountability, and granting Congress broad authority over elections that could suppress voter access and representation.</description>
     </item>
     <item>
       <title>Cato II</title>
-      <link>http://localhost:64515/papers/cato/cato2/</link>
+      <link>http://localhost:1313/papers/cato/cato2/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/cato/cato2/</guid>
+      <guid>http://localhost:1313/papers/cato/cato2/</guid>
       <description>Condemns the Convention’s overreach and warns that the Constitution imposes centralized power without consent, threatening liberty and silencing public deliberation.</description>
     </item>
     <item>
       <title>Cato III</title>
-      <link>http://localhost:64515/papers/cato/cato3/</link>
+      <link>http://localhost:1313/papers/cato/cato3/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/cato/cato3/</guid>
+      <guid>http://localhost:1313/papers/cato/cato3/</guid>
       <description>Rejects the idea of a large consolidated republic, arguing that its vast size, regional differences, and reliance on force would erode liberty, overwhelm public trust, and favor distant elites over local interests.</description>
     </item>
     <item>
       <title>Cato IV</title>
-      <link>http://localhost:64515/papers/cato/cato4/</link>
+      <link>http://localhost:1313/papers/cato/cato4/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/cato/cato4/</guid>
+      <guid>http://localhost:1313/papers/cato/cato4/</guid>
       <description>Argues that the presidency holds dangerously monarchic powers—commanding the military, influencing legislation, and surrounded by courtiers—making it a threat to liberty and unlike any true republican office.</description>
     </item>
     <item>
       <title>Cato V</title>
-      <link>http://localhost:64515/papers/cato/cato5/</link>
+      <link>http://localhost:1313/papers/cato/cato5/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/cato/cato5/</guid>
+      <guid>http://localhost:1313/papers/cato/cato5/</guid>
       <description>Criticizes the Constitution for enabling Congress to manipulate elections and the Senate to evade accountability, arguing that such unchecked powers invite abuse, erode representation, and threaten civil liberty.</description>
     </item>
     <item>
       <title>Cato VI</title>
-      <link>http://localhost:64515/papers/cato/cato6/</link>
+      <link>http://localhost:1313/papers/cato/cato6/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/cato/cato6/</guid>
+      <guid>http://localhost:1313/papers/cato/cato6/</guid>
       <description>Condemns the unequal apportionment of representation and taxation, warns that unchecked federal taxation and aristocratic influence will crush the poor, and argues that secretive treaty powers endanger liberty and lack accountability.</description>
     </item>
     <item>
       <title>Cato VII</title>
-      <link>http://localhost:64515/papers/cato/cato7/</link>
+      <link>http://localhost:1313/papers/cato/cato7/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/papers/cato/cato7/</guid>
+      <guid>http://localhost:1313/papers/cato/cato7/</guid>
       <description>Rejects the apportionment clause for counting slaves and non-voters, argues federal taxes will ruin farmers and laborers, warns of aristocratic control in the Senate, and condemns treaty powers exercised without the House as threats to liberty.</description>
     </item>
     <item>
       <title>Article I</title>
-      <link>http://localhost:64515/constitution/article1/</link>
+      <link>http://localhost:1313/constitution/article1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/constitution/article1/</guid>
+      <guid>http://localhost:1313/constitution/article1/</guid>
       <description>All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives&amp;hellip;</description>
     </item>
     <item>
       <title>Article II</title>
-      <link>http://localhost:64515/constitution/article2/</link>
+      <link>http://localhost:1313/constitution/article2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/constitution/article2/</guid>
+      <guid>http://localhost:1313/constitution/article2/</guid>
       <description>The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows. Each State shall appoint&amp;hellip;</description>
     </item>
     <item>
       <title>Article III</title>
-      <link>http://localhost:64515/constitution/article3/</link>
+      <link>http://localhost:1313/constitution/article3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/constitution/article3/</guid>
+      <guid>http://localhost:1313/constitution/article3/</guid>
       <description>The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall&amp;hellip;</description>
     </item>
     <item>
       <title>Article IV</title>
-      <link>http://localhost:64515/constitution/article4/</link>
+      <link>http://localhost:1313/constitution/article4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/constitution/article4/</guid>
+      <guid>http://localhost:1313/constitution/article4/</guid>
       <description>Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof&amp;hellip;</description>
     </item>
     <item>
       <title>Article V</title>
-      <link>http://localhost:64515/constitution/article5/</link>
+      <link>http://localhost:1313/constitution/article5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/constitution/article5/</guid>
+      <guid>http://localhost:1313/constitution/article5/</guid>
       <description>The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments&amp;hellip;</description>
     </item>
     <item>
       <title>Article VI</title>
-      <link>http://localhost:64515/constitution/article6/</link>
+      <link>http://localhost:1313/constitution/article6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/constitution/article6/</guid>
+      <guid>http://localhost:1313/constitution/article6/</guid>
       <description>All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.  This Constitution, and the Laws of the United States which shall&amp;hellip;</description>
     </item>
     <item>
       <title>Article VII</title>
-      <link>http://localhost:64515/constitution/article7/</link>
+      <link>http://localhost:1313/constitution/article7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/constitution/article7/</guid>
+      <guid>http://localhost:1313/constitution/article7/</guid>
       <description>The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.  The Word, &amp;ldquo;the,&amp;rdquo; being interlined between the seventh and eighth Lines of the first Page, The Word &amp;ldquo;Thirty&amp;rdquo; being partly written&amp;hellip;</description>
     </item>
     <item>
       <title>Letter from the Editor</title>
-      <link>http://localhost:64515/about/letter/</link>
+      <link>http://localhost:1313/about/letter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64515/about/letter/</guid>
+      <guid>http://localhost:1313/about/letter/</guid>
       <description>A message from the site&amp;rsquo;s editor and custodian.</description>
     </item>
   </channel>
