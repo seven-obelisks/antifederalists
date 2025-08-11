@@ -117,20 +117,10 @@ parent = 'papers'
 weight = 130
 
 [[menus.main]]
-name = 'Bill of Rights'
-pageRef = '/billofrights'
-weight = 30
-
-[[menus.main]]
-name = 'Constitution'
-pageRef = '/constitution'
-weight = 40
-
-[[menus.main]]
 identifier = "speeches"
-name = "Speeches"
+name = "Anti-Federalist Speeches"
 pageRef = "/speeches"
-weight = 50
+weight = 30
 
 [[menus.main]]
 identifier = "about-speeches"
@@ -152,6 +142,16 @@ name = 'Melancton Smith'
 pageRef = '/speeches/melancton'
 parent = 'speeches'
 weight = 30
+
+[[menus.main]]
+name = 'Bill of Rights'
+pageRef = '/billofrights'
+weight = 40
+
+[[menus.main]]
+name = 'Constitution'
+pageRef = '/constitution'
+weight = 50
 
 [[menus.main]]
 name = 'Contemporary Research'
