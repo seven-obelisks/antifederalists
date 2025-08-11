@@ -146,6 +146,7 @@ nav {
 
 .submenu.open {
   display: block;
+  padding-top:5px
 }
 
 /* ========== Papers / Blocks ========== */
@@ -187,6 +188,11 @@ nav {
   margin-top: 0;
 }
 
+.highlighted-paper p{
+  padding-top: 0px;
+  margin-top: -10px;
+}
+
 /* Founder section inside blocks */
 
 .ff {
@@ -216,7 +222,7 @@ h1 {
   color: #fff;
   padding: 0;
   line-height: 36px;
-  font-size: 28px !important;
+  font-size: 32px !important;
   text-decoration: none;
 }
 

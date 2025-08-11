@@ -1,10 +1,10 @@
 ---
-title: 'An Old Whig'
+title: 'Old Whig'
 draft: false
 summary: 'An Old Whig argued that the proposed “House of Representatives” offered only the shadow of true representation—legislators unfamiliar with local needs would craft laws without proper information or accountability, eroding public confidence and allowing distant power to override the people’s will.'
 ---
 
-# An Old Whig
+# Old Whig
 
 ### An Old Whig was the pseudonym used by an anonymous Anti-Federalist writer during the U.S. Constitution ratification debates. The authorship is often attributed to John Dickinson, a Pennsylvania statesman.
 

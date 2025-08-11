@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Maryland Farmer III (Part 2) | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+    <script src="/js/main.js"></script>
+</head>
+<body>
+  <div class="flex-box">
+    <div class="flex1">
+      <div class="sidebar">
+        <header>
+          <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Anti-Federalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/mason/" class="">George Mason</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">John DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/impartial/" class="">Impartial Examiner</a>
+              </li>
+
+              <li>
+                <a href="/papers/maryland/" class="active">Maryland Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+
+              <li>
+                <a href="/speeches/melancton/" class="">Melancton Smith</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/contemporary/" class="">Contemporary Research</a>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+        </header>
+        <footer>
+          <button id="dark-toggle"
+                  data-light="/images/lantern-light.png"
+                  data-dark="/images/lantern-dark.png">
+            <span id="dark-toggle-icon"></span>
+          </button>
+          <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.20</em></p>
+
+        </footer>
+      </div>
+    </div>
+    <div class="flex2">
+      <main>
+        
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Anti-Federalist Papers</a>
+    / <a href="/papers/maryland/">Maryland Farmer</a>
+
+  / <span>Maryland Farmer III (Part 2)</span>
+</nav>
+
+  <h3 class="page-h3">Maryland Farmer III (Part 2)</h3>
+</div>
+<div class="page-white">
+  <h5 id="march-18-1788">March 18, 1788</h5>
+<p>America is a present divided into three classes or descriptions of men, and in a few years there will be but two.</p>
+<p>The first class comprehends all those men of fortune and reputation who stepped forward in the late revolution, from opposition to the administration, rather than the government of Great Britain: all those aristocrats whose pride disdains equal law; many men of very large fortune, who entertain real or imaginary fears for the security of property; those young men, who have sacrificed their time and their talents to public service, without any prospect of an adequate pecuniary of honorary reward; all your people of fashion and pleasure who are corrupted by the dissipation of the French, English, and American armies, and a love of European manners and luxury; the public creditors of the continent, whose interest has been heretofore sacrificed by their friends, in order to retain their services on this occasion; a large majority of the mercantile people, which is at present a very unformed and consequently dangerous interest; our old native merchants have been almost universally ruined by the receipt of their debts in paper during the war, and the payment in hard money of what they owed their British correspondents since peace; those who are not bankrupts, have generally retired and given place to a set of young men, who conducting themselves as rashly as ignorantly, have embarrassed their affairs and lay the blame on the government, and who are really unacquainted with the true mercantile interest of the country, which is perplexed from circumstances rather temporary than permanent. The foreign merchants are generally not to be trusted with influence in our government. They are most of them birds of passage, some perhaps British emissaries increasing and rejoicing in our political mistakes, and even those who have settled among us with an intention to fix themselves and their posterity of our soil, have brought with them more foreign prejudices than wealth. Time must elapse before the mercantile interest will be so organized as to govern themselves, much less others, with propriety. And lastly, to this class I suppose we may untimately add the tory interest with the exception of very many respectable characters, who reflect with a gratification mixed with disdain that those principles are now become fashionable for which they have been persecuted and hunted down and which, although by no means so formidable as is generally imagined, is still considerable. They are at present wavering; they are generally, though with very many exceptions, openly for the proposed but secretly against any America government. A burnt child dreads the fire. But should they see any moment for these five and twenty years to come. Ultimately should the administration promise stability to the new government, they may be counted on as the Janizaries of power, ready to efface all suspicion by the violence of their zeal.</p>
+<p>In general, all these various people would prefer a government as nearly copied after that of Great Britain as our circumstances will permit. Some would strain these circumstances; others still retain a deep rooted jealousy of the executive branch and strong republican prejudices as they are called. Finally, this class contains more aggregate wisdom and moral virtue than both the other two together. It commands nearly two-thirds of the property and almost one half of the numbers of America, and has at present become almost irresistible from the name of the truly great and amiable man who, it has been said, is disposed to patronize it and from the influence which it has over the second class. This class us nearly at the height of their power; they must decline of moderate or another revolution will ensue, for the opinion of America is becoming daily more unfavorable to those radical changes which high-toned government requires. A conflict country. May the Guardian Angel of America prevent both!</p>
+<p>The second class is composed of those descriptions of men who are certainly more numerous with us than in any other part of the globe. First, those men who are so wise as to discover that their ancestors and indeed all the rest of mankind were and are fools. We have a vast over proportion of these great men who, when you tell them that from the earliest period at which mankind devoted their attention to social happiness, it has been their uniform judgment that at government over governments cannot exist, that is two governments operating on the same individual; they assume the smile of confidence and tell you of two people traveling the same road, of a perfect and precise division of the duties of the individual. Still however, the political apothegm is as the old proverb: that no man can serve two masters, and whoever will run their noddles against old proverbs will be sure to break them, however hard they may be. If they broke only their own, all would be right; but it is very horrible to reflect that all our numskulls must be cracked in concert. Second, the trimmers who from sympathetic indecision are always untied with, and when not regularly employed, always fight under the banners of these great men. These people are forever at market and when parties are nearly equally divided, they get very well paid for their services. Thirdly, the indolent, that is almost every second man of independent fortune you meet with in America; these are quite easy and can live under any government. If men can be said to live who scarcely breathe; and if breathing was attended with any bodily exertion, would give up their small portion of life in despair. These men do not swim with the stream as the trimmers do, but are dragged like mud on the bottom. As they have no other weight than their fat flesh, they are hardly worth mentioning when we speak of the sentiments and opinions of America. As this second class never can include any of the yeomanry of the union, who never affect superior wisdom and can have no interest but the public good, it can be only said to exist at the birth of government, and as soon as the first and third classes become more decided in their views, this will divide with each and dissipate like a mist, or sink down into what are called moderate men, and become the tools and instruments of others. These people are prevented by a cloud from having any view; and if they are not virtuous, they at least preserve the appearance which in this world amounts to the same thing.</p>
+<p>At the head of the third class appear the old rigid republicans, who although few in number, are still formidable. Reverence will follow these men in spite of detraction, as long as wisdom and virtue are esteemed among mankind. They are joined by the true democrats, who are in general fanatics and enthusiasts, and some few sensible, charming madmen. A decided majority of the yeomanry of America will, for a length of years, be ready to support these two descriptions of men; but as this last class is forced to act as a residuary legatee, and receive all the trash and filth. It is in some measure disgraced and its influence weakened, by, thirdly, the free-booters and plunderers, who infest all countries and our perhaps as little as any other whatever; these men have that natural antipathy to any kind or sort of government that a rogue has to a halter. In number they are few indeed; such characters are the offspring of dissipation and want, and there is not that country in the world where so much real property is shared so equally among so few citizens, or where property is as easily acquired by fair means, very few indeed will resort to foul. Lastly, by the poor mob, infoelix pecus! [unhappy cattle] They are property of whoever will feed them and take care of them. Let them be spared! Let the burden of taxation sit lightly on their shoulders. But alas! This is not their fate. It is here that the proposed government will press where it should scarcely be felt: Oves bis mulget in hora, et succus pecori et lac subducitur agnis.</p>
+<p>If ever a direct tax is laid by the general government it must, if not from necessity, at least from propriety, be laid on polls. It is the only one I believe to be practicable; there ought then to be some security that they avoid direct taxation where not absolutely indispensable, and some better security than the opinion of Aristides.</p>
+<p>In this class may be counted men of the greatest mental powers and of as sublime virtue as any in America. They at present command nearly one-third of the property and above half the numbers of the United States, and in either event they must continue to increase in influence by great desertions from both the other classes. If the government is adopted, this class will be increased by the numerous, discontented and disappointed, and from the natural jealousy, which Englishmen and their descendents always retain of their government and governors. If the government is not adopted, theirs will be the prevalent opinion. The object of this class either is or will be purely federal: a union of independent states, not a government of individuals. And should the proposed federal plan fail from the obstinacy of those who will listen to no conditional amendments, although such as they cannot disapprove; or should it ultimately in its execution upon a fair trial disappoint the wishes and expectations of our country then a union purely federal is what the reasonable and dispassionate patriots of America must bend their views to. My countrymen, preserve your jealousy, reject suspicion; it is the fiend that destroys public and private happiness. I know some weak, but very few if any wicked men in public confidence, and learn this most difficult and necessary lesson: that on the preservation of parties, public liberty depends. Whenever men are unanimous on great public questions, whenever there is but one party, freedom ceases and despotism commences. The object of a free and wise people should be so to balance parties, that from the weakness of all you may be governed by the moderation of the combined judgments of the whole, not tyrannized ever by the blind passions of a few individuals.</p>
+
+  
+
+  </div>
+
+      </main>
+    </div>
+  </div>
+</body>
+</html>

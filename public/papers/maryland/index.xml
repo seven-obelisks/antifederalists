@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maryland Farmer on The Anti-Federalist Library</title>
+    <link>http://localhost:1313/papers/maryland/</link>
+    <description>Recent content in Maryland Farmer on The Anti-Federalist Library</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/papers/maryland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maryland Farmer I</title>
+      <link>http://localhost:1313/papers/maryland/maryland1/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland1/</guid>
+      <description>Refutes the claim that bills of rights are royal grants by citing the English Bill of Rights of 1688, arguing it was created by convention as a declaration of inherent natural rights, and warns that without explicit protections, Americans will be defenseless against federal power.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer III (Part 1)</title>
+      <link>http://localhost:1313/papers/maryland/maryland2/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland2/</guid>
+      <description>Argues that the proposed Constitution creates a national rather than federal government, warns it will not prevent foreign corruption but may lead to civil war and despotism like other large empires.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer III (Part 2)</title>
+      <link>http://localhost:1313/papers/maryland/maryland3/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland3/</guid>
+      <description>Divides America into three classes: wealthy aristocrats and creditors favoring British-style government, indecisive moderates and trimmers, and rigid republicans with yeomanry, warning that without balanced parties despotism will replace freedom.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer V</title>
+      <link>http://localhost:1313/papers/maryland/maryland4/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland4/</guid>
+      <description>Argues that representation-based government inevitably fails through corruption and instability, claiming that only fixed social orders can provide stable governance, and warns that America&amp;rsquo;s experiment will likely collapse like England&amp;rsquo;s Commonwealth.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer VI</title>
+      <link>http://localhost:1313/papers/maryland/maryland5/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland5/</guid>
+      <description>Advocates for Swiss-style direct democracy over representative government, arguing that the Swiss cantons prove ordinary citizens can govern themselves effectively while avoiding the corruption and instability plaguing representative systems like England&amp;rsquo;s.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer VIa</title>
+      <link>http://localhost:1313/papers/maryland/maryland6/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland6/</guid>
+      <description>Refutes Aristides&amp;rsquo; claim that state and federal courts share concurrent jurisdiction, arguing that federal courts must have exclusive authority over constitutional cases to prevent chaos and absurd scenarios like state judges declaring federal laws void.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer VII</title>
+      <link>http://localhost:1313/papers/maryland/maryland7/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland7/</guid>
+      <description>Argues that religious tyranny stems from corrupt civil government, using Roman and Gothic examples to prove that civil and religious liberty are inseparably linked.</description>
+    </item>
+  </channel>
+</rss>

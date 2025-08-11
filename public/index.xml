@@ -72,6 +72,55 @@
       <description>Warns that the proposed Constitution concentrates power in the hands of a few large states, reducing the others to political subjugation.</description>
     </item>
     <item>
+      <title>Maryland Farmer I</title>
+      <link>http://localhost:1313/papers/maryland/maryland1/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland1/</guid>
+      <description>Refutes the claim that bills of rights are royal grants by citing the English Bill of Rights of 1688, arguing it was created by convention as a declaration of inherent natural rights, and warns that without explicit protections, Americans will be defenseless against federal power.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer III (Part 1)</title>
+      <link>http://localhost:1313/papers/maryland/maryland2/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland2/</guid>
+      <description>Argues that the proposed Constitution creates a national rather than federal government, warns it will not prevent foreign corruption but may lead to civil war and despotism like other large empires.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer III (Part 2)</title>
+      <link>http://localhost:1313/papers/maryland/maryland3/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland3/</guid>
+      <description>Divides America into three classes: wealthy aristocrats and creditors favoring British-style government, indecisive moderates and trimmers, and rigid republicans with yeomanry, warning that without balanced parties despotism will replace freedom.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer V</title>
+      <link>http://localhost:1313/papers/maryland/maryland4/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland4/</guid>
+      <description>Argues that representation-based government inevitably fails through corruption and instability, claiming that only fixed social orders can provide stable governance, and warns that America&amp;rsquo;s experiment will likely collapse like England&amp;rsquo;s Commonwealth.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer VI</title>
+      <link>http://localhost:1313/papers/maryland/maryland5/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland5/</guid>
+      <description>Advocates for Swiss-style direct democracy over representative government, arguing that the Swiss cantons prove ordinary citizens can govern themselves effectively while avoiding the corruption and instability plaguing representative systems like England&amp;rsquo;s.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer VIa</title>
+      <link>http://localhost:1313/papers/maryland/maryland6/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland6/</guid>
+      <description>Refutes Aristides&amp;rsquo; claim that state and federal courts share concurrent jurisdiction, arguing that federal courts must have exclusive authority over constitutional cases to prevent chaos and absurd scenarios like state judges declaring federal laws void.</description>
+    </item>
+    <item>
+      <title>Maryland Farmer VII</title>
+      <link>http://localhost:1313/papers/maryland/maryland7/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/maryland/maryland7/</guid>
+      <description>Argues that religious tyranny stems from corrupt civil government, using Roman and Gothic examples to prove that civil and religious liberty are inseparably linked.</description>
+    </item>
+    <item>
       <title>New York Ratifying Convention I</title>
       <link>http://localhost:1313/speeches/melancton/melancton1/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
@@ -520,35 +569,35 @@
       <description>Warns that the presidency, as structured, concentrates excessive power—military, electoral, and appointive—enabling lifelong rule, fostering corruption, and rendering impeachment ineffective as a check.</description>
     </item>
     <item>
-      <title>The Impartial Examiner I</title>
+      <title>Impartial Examiner I</title>
       <link>http://localhost:1313/papers/impartial/impartial1/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/impartial/impartial1/</guid>
       <description>Warns that the Constitution&amp;rsquo;s supremacy clause would destroy state sovereignty and create a dangerously powerful federal government without protecting individual rights.</description>
     </item>
     <item>
-      <title>The Impartial Examiner II</title>
+      <title>Impartial Examiner II</title>
       <link>http://localhost:1313/papers/impartial/impartial2/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/impartial/impartial2/</guid>
       <description>Argues that the Constitution&amp;rsquo;s taxation powers would create interstate conflicts while its excise, military, and judicial provisions would destroy traditional liberties.</description>
     </item>
     <item>
-      <title>The Impartial Examiner III</title>
+      <title>Impartial Examiner III</title>
       <link>http://localhost:1313/papers/impartial/impartial3/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/impartial/impartial3/</guid>
       <description>Concludes that the Constitution lacks individual rights protections and would create unlimited federal power that could destroy American liberty.</description>
     </item>
     <item>
-      <title>The Impartial Examiner IV</title>
+      <title>Impartial Examiner IV</title>
       <link>http://localhost:1313/papers/impartial/impartial4/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/impartial/impartial4/</guid>
       <description>Argues that the executive veto power appropriate for British monarchy is incompatible with American republican principles of equal liberty.</description>
     </item>
     <item>
-      <title>The Impartial Examiner V</title>
+      <title>Impartial Examiner V</title>
       <link>http://localhost:1313/papers/impartial/impartial5/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/impartial/impartial5/</guid>

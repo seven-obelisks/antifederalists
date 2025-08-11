@@ -4,7 +4,7 @@ draft: false
 summary: The Impartial Examiner warned that the Constitution's supremacy clause would obliterate state sovereignty by making federal law supreme over all state constitutions and laws, while the absence of explicit rights protections would leave citizens defenseless against federal tyranny.
 ---
 
-# The Impartial Examiner
+# Impartial Examiner
 
 ### The Impartial Examiner was the pseudonym used by an Anti-Federalist writer who published a series of essays in the Virginia Independent Chronicle. The author's identity remains uncertain, though some scholars have suggested possible connections to Virginia political circles.
 

@@ -40,74 +40,81 @@ parent = 'papers'
 weight = 20
 
 [[menus.main]]
-identifier = "oldwhig"
-name = 'An Old Whig'
-pageRef = '/papers/oldwhig'
-parent = 'papers'
-weight = 30
-
-[[menus.main]]
 identifier = "brutus"
 name = 'Brutus'
 pageRef = '/papers/brutus'
 parent = 'papers'
-weight = 40
+weight = 30
 
 [[menus.main]]
 identifier = "cato"
 name = 'Cato'
 pageRef = '/papers/cato'
 parent = 'papers'
-weight = 50
+weight = 40
 
 [[menus.main]]
 identifier = "centinel"
 name = 'Centinel'
 pageRef = '/papers/centinel'
 parent = 'papers'
-weight = 60
+weight = 50
 
 [[menus.main]]
 identifier = "farmer"
 name = 'Federal Farmer'
 pageRef = '/papers/farmer'
 parent = 'papers'
-weight = 70
+weight = 60
 
 [[menus.main]]
 identifier = "mason"
 name = 'George Mason'
 pageRef = '/papers/mason'
 parent = 'papers'
-weight = 80
+weight = 70
 
 [[menus.main]]
 identifier = "dewitt"
 name = 'John DeWitt'
 pageRef = '/papers/dewitt'
 parent = 'papers'
-weight = 90
+weight = 80
 
 [[menus.main]]
 identifier = "luther"
 name = 'Luther Martin'
 pageRef = '/papers/luther'
 parent = 'papers'
-weight = 100
+weight = 90
 
 [[menus.main]]
 identifier = "impartial"
 name = 'Impartial Examiner'
 pageRef = '/papers/impartial'
 parent = 'papers'
+weight = 100
+
+[[menus.main]]
+identifier = "maryland"
+name = 'Maryland Farmer'
+pageRef = '/papers/maryland'
+parent = 'papers'
 weight = 110
+
+[[menus.main]]
+identifier = "oldwhig"
+name = 'Old Whig'
+pageRef = '/papers/oldwhig'
+parent = 'papers'
+weight = 120
 
 [[menus.main]]
 identifier = "others"
 name = 'Other Papers'
 pageRef = '/papers/others'
 parent = 'papers'
-weight = 120
+weight = 130
 
 [[menus.main]]
 name = 'Bill of Rights'

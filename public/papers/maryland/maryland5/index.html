@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+<title>Maryland Farmer VI | The Anti-Federalist Library</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("hamburger-button");
+    const nav = document.getElementById("main-nav");
+    if (button && nav) {
+      button.addEventListener("click", function () {
+        nav.classList.toggle("open");
+      });
+    }
+  });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+
+
+    <script src="/js/main.js"></script>
+</head>
+<body>
+  <div class="flex-box">
+    <div class="flex1">
+      <div class="sidebar">
+        <header>
+          <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">The Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Anti-Federalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/mason/" class="">George Mason</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">John DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/impartial/" class="">Impartial Examiner</a>
+              </li>
+
+              <li>
+                <a href="/papers/maryland/" class="active">Maryland Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+
+              <li>
+                <a href="/speeches/melancton/" class="">Melancton Smith</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/contemporary/" class="">Contemporary Research</a>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+  </ul>
+</nav>
+
+
+        </header>
+        <footer>
+          <button id="dark-toggle"
+                  data-light="/images/lantern-light.png"
+                  data-dark="/images/lantern-dark.png">
+            <span id="dark-toggle-icon"></span>
+          </button>
+          <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+<br>    
+<em>Version 0.20</em></p>
+
+        </footer>
+      </div>
+    </div>
+    <div class="flex2">
+      <main>
+        
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Anti-Federalist Papers</a>
+    / <a href="/papers/maryland/">Maryland Farmer</a>
+
+  / <span>Maryland Farmer VI</span>
+</nav>
+
+  <h3 class="page-h3">Maryland Farmer VI</h3>
+</div>
+<div class="page-white">
+  <h5 id="march-28-1788">March 28, 1788</h5>
+<p>(Continued from our last.)</p>
+<p>After every consideration I can give this subject, I am satisfied, that government founded on representation, indispensibly requires, at least an executive for life, whose person must be sacred from impeachment, and only his ostensible ministers responsible—A senate for life, the vacancies to be filled up and the number occasionally encreased but under a limitation, by the executive—the hand that holds the balance must have the power of adding weight and influence to the lightest scale, and of frequently removing turbulent men into an higher and inoffensive situation:—I am inclined to think that an important portion of American opinion leans that way at this moment—My fear is, that our general government may ultimate in an hereditary authority—if not despotism—to avoid the former, great attention should be paid to the important office of Vice-President—at present but little understood:—A Vice-President to succeed on a vacancy prevents those evils which have ruined Poland and all the northern kingdoms —thus we see the King of the Romans has secured Germany from every evil of elective monarchy, and had the golden bull prevented one of the family or kindred of the reigning Emperor from filling the office of the King of the Romans, this part of the Germanic constitution would have been perfect, and the house of Austria would never have been enabled to usurp the imperial crown as a patrimony and desolate Europe with her ambitious views; she would have continued in that beggarly condition from which Rodolph of Hapsburg raised it —The American constitution is much better guarded but not by any means completely so.</p>
+<p>If this is the best we can hope for—if this is the best reward we can expect for the sons of America slain, and the distresses we shall long continue to feel—is it not incumbent on us to examine minutely all its consequences?—Let us view government by representation in its favorite form—The constitution of England—its uncommon success and length of duration there, has drawn on it very unmerited encomiums from the enlightened Genevan[,] Delolme—the only great political writer who does not seem to hold representation in contempt,—indeed the viewing it through this favorable medium has always animated our hopes, and led many sensible Americans to imagine, this old and universal experiment, to be peculiar to that isle—In pursuing my inquiry into the principles and effects of the British government, I shall first grant that it is a rational system, founded on solid, safe principles—and one of the best governments for the higher ranks of mankind in the world—but then I must insist that it was hardly a government at all, until it became simplified by the introduction and regular formation of the effective administration of responsible ministers, on its present system—which we cannot date higher up, than the appointment of Lord Strafford and others by Charles 1st.[5]—Moreover I do not know how far the system of bribery introduced by Sir Robert Walpole, and the influence of the numerous body of public creditors, are not now absolutely necessary to its present stability —and after all, I am not satisfied how such a simplification as would produce a responsibility, can be effected in a government, complicated by so many subordinate and powerful corporations as the American States will be —and yet responsibility must be attained and an easy and certain mode adopted, of changing measures and men without commotion, or liberty will be lost in the attempt—I am confused and bewildered when I arrive at this point of reflection, and despotism meets me at every turn.—There are but two modes of governing mankind, by just and equal law, enforced impartially on all ranks of society, or by the sword:—If such laws cannot be obtained, or the attainment is attended with too much difficulty, the sword will supply their place; et inter arma leges silent. When arms command the laws are disobeyed. Shall we have patience, with the disorders of our complicated machine? As Alexander dissolved the gordian knot with the sword —so I fear a standing army will simplify the governments of America —I have said that the government of England afforded firm protection of property—it certainly does so, comparatively speaking—yet the history of its frequent revolutions, will discover that even property is insecure there. During the civil wars, in which the Stuarts involved this nation, two-thirds of the property of the kingdom changed masters; and in those between Lancaster and York, and before the firm establishment of the line of Tuder, almost all the old families perished and their property became dissipated:—And yet its protection of property is its favorable side; turn your eyes to the lower order of citizens, and they are pressed into the earth by taxation and imposition—very rarely will industry enable the husbandman to rear a family—where the sons of agriculture are so poorly rewarded, government must be ulcerated to the heart—the miserable poor who pursue the dictates of nature and religion, in that connection which is destined to sweeten the bitter draught of life, are commonly handed from constable to constable, until their unfortunate birth compels some parish to own them.—The people of England have always and forever will emigrate —The people of England never repair to arms to repel foreign invasion —and they never will unless compelled—to conquer England, it would only seem necessary from past example, to escape their floating defences and land on the island; passing by former invasions and conquests. As late as the year 1745, Prince Charles Edward, at the head of an undisciplined rabble, belonging to some Highland clans attached to his family, marched undisturbed, through the most populous counties into the heart of the kingdom, and the capital containing 200,000 fighting men trembled for its safety at the approach of an unexperienced boy, followed by 4 or 5000 half armed peasants— scarcely a man in the kingdom shouldered a musquet until the danger disappeared, and government owed its safety to the protection of foreign mercenaries, or rather the weakness and irresolution of the assailant— The fact is, the people will never fight (if they can help it) for representatives, taxes and rags.</p>
+<p>Let us now contrast this scene with one, where the people personally exercise the powers of government—The three small democratic Cantons of Uri, Schuitz and Underwald, broke the chains of their former servitude, and laid the foundation of the Swiss confederacy—they effected the revolution, and in conjunction with the other democratic Cantons and their democratic allies the Orisons, have supported the grand fabric of Helvetic liberty to this day. Every Swiss farmer is by birth a legislator, and he becomes a voluntary soldier to defend his power and his property; their fathers have been so before them for near 500 years, without revolution, and almost without commotion—they have been the secure spectators of the constant and universal destruction of the human species, which the usurpations of the few have ever created, and must I fear forever perpetuate:—Whilst all Europe were butchering each other for the love of God, and defending the usurpations of the clergy, under the masque of religion, the malignant evil crept into this sacred asylum of liberty; (but where the government resides in the body of the people, they can never be corrupted by the artifice or the wealth of the few) they soon banished the daemon of discord, and Protestant and Papist sat down under the peaceful shade of the same tree, whilst in every surrounding State and kingdom, the son was dragging the father, and brothers, their brothers, to the scaffold, under the sanction of those distinctions:—Thus these happy Helvetians have in peace and security beheld all the rest of Europe become a common slaughterhouse.—A free Swiss acquires from his infancy, a knowledge of the fundamental laws of his country, and the leading principles of their national policy are handed down by tradition from father to son—the first of these is never to trust power to representatives, or a national government. A free Swiss pays no taxes, on the contrary he receives taxes; every male of 16 years, shares near ten shillings sterling annually, which the rich and powerful surrounding monarchies pay for the friendship of these manly farmers. Whenever their societies become too large, as government belongs to the citizens and the citizens are the property of no government, they divide amicably, and each separate part pursues the simple form, recommended by their ancestors and become venerable, by the glorious and happy experience of ages of prosperity—Their frugal establishments are chiefly supported by the pay which the officers of government receive for the services they render individuals. With a country the most unfriendly to industry in the world, they have become in a series of years, passed in uninterrupted but moderate labor, frugality, peace and happiness, the richest nation under the sun. I have seen a computation, by which it appeared, that the interest of the money they have before hand, and that which is due them from the rich nations of Europe, would support themselves and their posterity forever, without farther exertion; and this whilst every other government is actually as much or more in debt than it is worth.</p>
+<p>An intelligent author has remarked, that passing from a democratic to an aristocratic Canton of Swisserland, you quit the society of men to contemplate the regular labor of brutes; they are compelled indeed in the aristocratic Cantons to be extremely moderate in their government, and to lay few or no taxes, or they would drive their subjects into the neighboring free States —as it is, they are well cloathed, well fed and taken good care of— The same author remarks, that the line which separates all Swisserland, from the countries around (where men like cattle are the property of their proud Lords and kept chained to the soil) is the line of division between light and darkness—between happiness and horror.</p>
+<p>The love of the Switzers for their country is altogether romantic and surpasses the bounds of credibility—those memorable relations authenticated by the common consent of all historians, of their beating on all occasions the flower of the Austrian and French troops (who have invaded them) with numbers so unequal and trifling as scarce to exceed their enemies out-guards; the instances of hundreds of citizens devoting their lives for the safety of their country; of their frequently disdaining life and refusing quarter when overpowered by numbers, have astonished and terrified the neighbouring powers, and seem incomprehensible to a people dispirited by taxes, overloaded with debts and disgusted with government. I cannot omit a striking characteristic, authenticated by Coxe and others, whose authority will not be questioned; they relate that there is a rustic tune familiar in the mountains of Swisserland—it is called the Rantz des vacques—it consists of a few simple notes of native wild melody. The French and Dutch governments have been compelled to forbid under very severe penalties, the playing this woodland music, to those Swiss troops, which they hire for a limited time; the well-known notes revive instantly all the fond images, which were impressed on their youthful bosoms, their friends, their parents, their relations and their beloved country, rush into their imaginations in a full tide of affection—no persuasion can detain them, they desert home in regiments, or if retained by force, they pine away in the deepest melancholy —no instance has yet occurred of Swiss troops serving in any part of Europe, who have not returned, with the diligence and anxiety of affectionate children, on the first appearance of danger to their parent country:—The same amor-patriae, the same divine love of their country, universally pervades the bosom of every citizen, who in right of his birth, legislates for himself: —Grosley relates that he saw in Rome a poor fellow (who had travelled through great part of Europe and Asia afoot) declaiming to a crowd with the most passionate zeal, in praise of his own country, boasting of her happiness and prefering San Marino to all the world besides—This democratic republic, is a little bee-hive of free citizens, who have made a delicious garden Of the top of a bleak barren mountain, situated in the midst of the finest and most fruitful plains of Italy, which tyranny has depopulated around them.—Look into the human breast—We love that power, which we exercise ourselves, but we detest that which others exercise over us, be they Representatives, Lords, or Kings; and to this source we may trace the abuse, which the Americans bestow on their country and their governments.</p>
+<p>But we are told that Swisserland, should be no example for us— I am very sorry for it—they are the only, the only part of the human species that sustain the dignity of character, belonging to the divine resemblance we bear,—they are few in number it is said— This is not true—they are more numerous than we are—They cover a small spot of territory—this is also not true—they possess a large tract of country in the very heart of Europe—but this is not all—The Helvetic confederacy, including the three leagues of the Orisons comprehends one hundred perhaps two hundred, independent governments and States—nor is there any reason from their history or present state to doubt, that the same plan of confederation might not be extended with as lasting and happy effects to one thousand independent governments—But it is also said they are a poor, frugal people—As to their poverty that is likewise untrue—they have great sums of money before hand and owe not a six-pence—they indeed are a wise and consequently a frugal people—though they still have great estates and even luxury among them too—But should we despise their poverty or their frugality? We who are so many millions worse than nothing? But still we are told we must not take example from them—we must take example from Holland and Germany —They had better at once tell us, that we must desert the worship of God and follow that of the devil.</p>
+<p>From the first dawn of light, that broke in upon my reason, I became devoted to governments of simplicity and equal right—The names of heroes, whose blood has bedewed the altars of freedom, vibrate like the shock of electricity, on my frame; and when I read the story of Brutus and of Cassius, the most noble and the last of the Romans, tears of admiration gush from my eyes.—Under these impressions which only the grave can erase, I feel unspeakable horror at every step, which removes power and rights, at a greater distance from the body of the people, to whom they belong, and confines them to the hands of the few. I have proposed to myself this question: If representatives cannot govern the people—If they abuse the power entrusted to them, shall they devolve this power on a still smaller number, who must be more liable to corruption from the encrease of temptation? Or should they restore it into the hands of the people, from whom they received it? who alone are incorruptible, because the wealth of the few can never bribe the many, against the duty they owe to themselves. If I am told that the people are incapable of governing themselves—I shall answer that they have never been tried in America, except among the native Indians, who are free and happy, and who prove that self-government is the growth of our soil—And I also answer that they are more fit for self-government, than they are at present for any of the safe and solid governments, founded on representation.—When I see all these principles established by the example of the Swiss, who have remained under the simplest of all forms of government for near five hundred years, in uninterrupted tranquility and happiness—whilst every other invention of genius, devise of art, or imposition offeree, has been torn up by the roots, with every aggravated circumstance of horror—I can no longer doubt —All the mists of theory and speculation vanish before an experiment like this.</p>
+<p>The greatest human discernment, ever concentrated in the mind of one man, was the portion of the celebrated Nicholas Machiavelli—a name loaded with abuse by tyrants, flatterers and the mushrooms of science, because he told the truth; because he was a republican and the friend of mankind in times of usurpation; or because, they have never read or do not understand his works. After every inquiry which the most unbounded information and reflection, with a long experience in high public office afforded, Machiavelli, delivers his deliberate opinion in favour of the body of the people, as the only safe depository of liberty and power—He prefers it to the aristocracy and the Prince; but he does not disgrace the inquiry by mentioning representation. If this was the opinion of Machiavelli, a citizen of Florence, where a numerous populace confined and crowded within the walls of a city, formed the most turbulent republic, that ever disgraced the cause of freedom by cruelty and anarchy—How much more favourably must his decision apply to the yeomanry of America—Landholders and consequently the most independent of mankind, mild by nature, moderate by manners, and persevering in every honest pursuit: —Surely if ever men were worthy of being entrusted with their own rights, the freeholders of America are—Make them then and their posterity legislators by birth—I mean not the lowest populace—I mean that class of citizens to whom this country belongs:—Numbers unqualified by property, should have their influence—they should be protected— they might preserve the right of election—But they who hold the property of the soil, are alone entitled to govern it:—To effect this there would need but little change in the present forms—They might all stand— But the laws which pass the legislature before they become binding, should be referred to the different counties and cities—printed reasons drawn by committees, might if necessary, accompany each, together with an annual estimate of public wants and a detail of the expenditures of the former sums granted. Let these laws then be submitted to the free deliberation of the freeholders of the counties and cities—the numbers of the yeas and nays be taken on each by the presiding magistrate, and transmitted to the executive, who may then upon comparing the returns from the several counties and corporations, declare what laws are the will of the people. On the appearance of any sudden danger the two houses or indeed a majority of one house, might invest the Executive with that authority, exigency might require for the safety of the republic, until remedy should be provided by law.</p>
+<p>The number of representatives might be decreased and an expence saved— this would at one blow destroy all legislative speculations—the influence of demagogues, or oligarchic juntos must then cease—The assemblage of the freeholders, separate in different counties would prevent disturbance—As no new law could be made in them, little confusion could ensue—After some years, or even immediately if confined to future cases —the celebrated law of Geneva might be introduced, and no freeholder admitted to the assembly until he had paid his father&rsquo;s debts. Sumptuary laws, permitting the use, but prohibiting the abuse of wealth, might be interposed to guard the public manners.—The Governor and two members of the senate might constitute a council of censors, to punish offenders against the sumptuary laws and the laws of morality, by a removal from office, and even disfranchisement, if necessary, with an appeal to the people of the county where the offender resided, in the latter case, and to the people of the State in the former.—Seminaries of useful learning, with professorships of political and domestic economy might be established in every county, discarding the philosophy of the moon and skies, we might descend to teach our citizens what is useful in this world—the principles of free government, illustrated by the history of mankind—the sciences of morality, agriculture, commerce, the management of farms and household affairs—The light would then penetrate, where mental darkness now reigns.—Do these things and in a very few years, the people instead of abusing, would wade up to their knees in blood, to defend their governments.</p>
+<p>For some years past this has been the darling object of my life—to which all my views have tended—And I now think that nothing intermediate would be lasting or worthy the pursuit—Whenever I fairly lose sight of this—As soon as I turn my back forever on these dear illusions, which will be as soon as the proposed foederal government is adopted—I shall turn all my wishes to that social state, whither that government will lead us, and I both hope and expect that with those amendments and guards, which it seems to be the general disposition to provide—it will gradually maturate in a safe and reasonable government.—Until that adoption I speak to my fellow citizens in the words of the proverb—Do not that by others, which you can do yourselves.</p>
+
+  
+
+  </div>
+
+      </main>
+    </div>
+  </div>
+</body>
+</html>
