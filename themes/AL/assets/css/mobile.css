@@ -53,8 +53,10 @@
     flex-wrap: nowrap;
   }
 
-  header h1,
-  .flex1 h1,
+  .flex1 h1{
+    font-size:26px !important;
+  }
+
   .flex2 h1 {
     font-size: 1.75rem;
     line-height: 2.2rem;
@@ -62,7 +64,6 @@
   }
 
   .header-top h1 {
-    font-size: 1.2rem;
     margin: 0;
   }
 
