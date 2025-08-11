@@ -222,8 +222,9 @@ h1 {
   color: #fff;
   padding: 0;
   line-height: 36px;
-  font-size: 32px;
+  font-size: 28px;
   text-decoration: none;
+  margin-top: -10px;
 }
 
 .flex2 h1 {

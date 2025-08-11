@@ -1,6 +1,6 @@
 baseURL = 'https://antifederalists.org'
 languageCode = 'en-us'
-title = 'The Anti-Federalist Library'
+title = 'Anti-Federalist Library'
 theme = 'AL'
 summary = 600
 
