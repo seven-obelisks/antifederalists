@@ -84,6 +84,15 @@ main {
   padding-bottom: 2rem;
 }
 
+#xlogo{
+  max-width: 15px;
+}
+
+#xlink{
+  padding:0;
+  font-size: 15px;
+}
+
 /* ========== Navigation Menu ========== */
 nav {
   margin-top: 3rem;
@@ -175,7 +184,6 @@ nav {
   line-height: 1.8rem;
 }
 
-/* Optional tighter layout for Bill of Rights */
 .paper-block.amendment {
   padding: 1.25rem 1.5rem;
 }
@@ -192,8 +200,6 @@ nav {
   padding-top: 0px;
   margin-top: -10px;
 }
-
-/* Founder section inside blocks */
 
 .ff {
   display: block;
@@ -355,6 +361,8 @@ h4 a {
 .research a:hover{
   color: #b31942;
 }
+
+
 
 /* ========== Lists ========== */
 
