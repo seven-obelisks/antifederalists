@@ -562,6 +562,11 @@ body.dark nav.breadcrumbs{
   margin:0;
 }
 
+#results a{
+  color:#11133C;
+  font-weight: bold;
+}
+
 #header-search-box{
   width:100%;
   display: inline-flex;
