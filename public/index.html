@@ -43,6 +43,8 @@
 
 
 <script src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
+
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const searchBox = document.getElementById("page-search-box");
@@ -51,12 +53,22 @@ document.addEventListener("DOMContentLoaded", function () {
   const loading = document.getElementById("loading");
   const MIN_LOAD_TIME = 2000;
 
+  if (!searchBox || !resultsList || !form || !loading) {
+    console.warn("Search elements not found in DOM. Search will not work.");
+    return;
+  }
+
+  const params = new URLSearchParams(window.location.search);
+  const queryParam = params.get("q") || "";
+  searchBox.value = queryParam;
+
   let store = [];
 
-  fetch("/index.json")
+  fetch("\/index.json")
     .then(res => res.json())
     .then(data => {
       store = data;
+      if (queryParam) runSearch(queryParam);
     })
     .catch(() => {
       resultsList.innerHTML = "<li>Search unavailable.</li>";
@@ -72,26 +84,36 @@ document.addEventListener("DOMContentLoaded", function () {
     window.history.replaceState({}, "", newUrl);
   });
 
+  function normalize(str) {
+    return str ? str.replace(/[\n\r]/g, " ").replace(/&[a-z]+;/gi, "").toLowerCase() : "";
+  }
+
   function runSearch(query) {
     resultsList.innerHTML = "";
     loading.style.display = "block";
     const startTime = Date.now();
-    const lowerQuery = query.toLowerCase();
+    const lowerQuery = normalize(query);
 
     const results = store.filter(item =>
-      item.title.toLowerCase().includes(lowerQuery) ||
-      item.summary.toLowerCase().includes(lowerQuery) ||
-      item.content.toLowerCase().includes(lowerQuery)
+      normalize(item.title).includes(lowerQuery) ||
+      normalize(item.summary).includes(lowerQuery) ||
+      normalize(item.content).includes(lowerQuery)
     );
 
     const renderResults = () => {
-      results.forEach(item => {
-        const snippet = extractSnippet(item, query, 100);
-        const li = document.createElement("li");
-        li.innerHTML = `<a href="${item.url}">${item.title}</a><p>${snippet}</p>`;
-        resultsList.appendChild(li);
-      });
-      if (results.length === 0) resultsList.innerHTML = "<li>No results found.</li>";
+      if (results.length === 0) {
+        resultsList.innerHTML = "<li>No results found.</li>";
+      } else {
+        const seen = new Set(); 
+        results.forEach(item => {
+          if (seen.has(item.url)) return;
+          seen.add(item.url);
+          const snippet = extractSnippet(item, query, 100);
+          const li = document.createElement("li");
+          li.innerHTML = `<a href="${item.url}">${item.title}</a><p>${snippet}</p>`;
+          resultsList.appendChild(li);
+        });
+      }
       loading.style.display = "none";
     };
 
@@ -101,25 +123,24 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function extractSnippet(item, query, contextLength) {
-    const lowerQuery = query.toLowerCase();
+    const lowerQuery = normalize(query);
     let text = "";
 
-    if (item.content.toLowerCase().includes(lowerQuery)) text = item.content;
-    else if (item.summary.toLowerCase().includes(lowerQuery)) text = item.summary;
-    else if (item.title.toLowerCase().includes(lowerQuery)) text = item.title;
+    if (normalize(item.content).includes(lowerQuery)) text = item.content;
+    else if (normalize(item.summary).includes(lowerQuery)) text = item.summary;
+    else if (normalize(item.title).includes(lowerQuery)) text = item.title;
     else return "";
 
-    const lowerText = text.toLowerCase();
+    const lowerText = normalize(text);
     const index = lowerText.indexOf(lowerQuery);
     const start = Math.max(0, index - contextLength);
-    const end = Math.min(text.length, index.length + query.length + contextLength);
+    const end = Math.min(text.length, index + query.length + contextLength);
     const snippet = text.substring(start, end);
     const highlighted = snippet.replace(new RegExp(`(${query})`, 'gi'), '<strong>$1</strong>');
     return (start > 0 ? "…" : "") + highlighted + (end < text.length ? "…" : "");
   }
 });
 </script>
-
 
 
 <script>
@@ -344,8 +365,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
       <div class="highlighted-paper">
-        <h3><a href="http://localhost:1313/papers/centinel/centinel12/">Centinel XII</a></h3>
-        <p>Condemns the Constitution’s promoters as a deceptive faction silencing dissent and rushing ratification, branding them conspirators against liberty whose suppression of press and debate exposes their tyrannical intent.</p>
+        <h3><a href="http://localhost:1313/papers/agrippa/agrippa2/">Agrippa II</a></h3>
+        <p>Defends Massachusetts’ stable self-government and civil order as proof that liberty fosters prosperity, warning against surrendering this successful system for a distant, rigid federal authority.</p>
       </div>
     
   </section>
