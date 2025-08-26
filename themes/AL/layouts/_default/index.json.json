@@ -1,6 +1,21 @@
 {{- $.Scratch.Set "index" (slice) -}}
-{{- range first 5 .Site.RegularPages -}}
-  <!-- Debug: {{ .Title }} -->
-  {{- $.Scratch.Add "index" (dict "title" .Title "url" .RelPermalink) -}}
+{{- range .Site.Pages -}}
+  {{- if ne .Kind "home" -}}
+    {{- $title := .Title | default "NO TITLE" -}}
+    {{- $summary := .Summary | default "" -}}
+    {{- $content := .Plain | default "" -}}
+    {{- $url := .RelPermalink | default "" -}}
+    
+    {{- if and $title $url -}}
+      {{- $.Scratch.Add "index" (dict
+          "title" $title
+          "summary" $summary
+          "content" $content
+          "url" $url
+          "kind" .Kind
+          "contentLength" (len $content)
+      ) -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
