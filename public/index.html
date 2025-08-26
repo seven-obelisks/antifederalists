@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let store = [];
 
-  fetch("\/index.json")
+  fetch("http:\/\/localhost:1313\/index.json")
     .then(res => res.json())
     .then(data => {
       store = data;
@@ -365,8 +365,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
       <div class="highlighted-paper">
-        <h3><a href="http://localhost:1313/papers/agrippa/agrippa2/">Agrippa II</a></h3>
-        <p>Defends Massachusetts’ stable self-government and civil order as proof that liberty fosters prosperity, warning against surrendering this successful system for a distant, rigid federal authority.</p>
+        <h3><a href="http://localhost:1313/papers/impartial/impartial3/">Impartial Examiner III</a></h3>
+        <p>Concludes that the Constitution lacks individual rights protections and would create unlimited federal power that could destroy American liberty.</p>
       </div>
     
   </section>
