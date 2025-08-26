@@ -21,12 +21,28 @@
 
 <title>Brutus VIII | Anti-Federalist Library</title>
 
+<script>
+  
+  try {
+    if (localStorage.getItem("theme") === "dark") {
+      document.body.classList.add("dark");
+    }
+  } catch(e) {
+    
+  }
+</script>
+
+
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="/css/quotes.css">
   <link rel="stylesheet" href="/css/mobile.css">
 
 
   <script src="/js/main.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
+
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
@@ -40,33 +56,79 @@
   });
 </script>
 
+
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  const toggle = document.getElementById("dark-toggle");
-  const icon = document.getElementById("dark-toggle-icon");
-  const savedMode = localStorage.getItem("theme");
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggle = document.getElementById("dark-toggle");
+    const icon = document.getElementById("dark-toggle-icon");
+    const savedMode = localStorage.getItem("theme");
 
-  const lightIcon = toggle.dataset.light;
-  const darkIcon = toggle.dataset.dark;
+    const lightIcon = toggle.dataset.light;
+    const darkIcon = toggle.dataset.dark;
 
-  const applyTheme = (isDark) => {
-    document.body.classList.toggle("dark", isDark);
-    icon.innerHTML = isDark
-      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
-      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
-  };
+    const applyTheme = (isDark) => {
+      document.body.classList.toggle("dark", isDark);
+      icon.innerHTML = isDark
+        ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+        : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+    };
 
-  const initialDark = savedMode === "dark";
-  applyTheme(initialDark);
+    const initialDark = savedMode === "dark";
+    applyTheme(initialDark);
 
-  toggle.addEventListener("click", () => {
-    const isDark = document.body.classList.toggle("dark");
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-    applyTheme(isDark);
+    toggle.addEventListener("click", () => {
+      const isDark = document.body.classList.toggle("dark");
+      localStorage.setItem("theme", isDark ? "dark" : "light");
+      applyTheme(isDark);
+    });
   });
-});
 </script>
 
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  let idx = null;
+  let store = [];
+
+  fetch("/index.json")
+    .then(res => res.json())
+    .then(data => {
+      store = data;
+
+      idx = lunr(function () {
+        this.ref("url");
+        this.field("title");
+        this.field("summary");
+        this.field("content");
+
+        data.forEach(doc => this.add(doc));
+      });
+    });
+
+  const searchBox = document.getElementById("search-box");
+  const resultsList = document.getElementById("results");
+
+  if (searchBox && resultsList) {
+    searchBox.addEventListener("input", function () {
+      const query = this.value.trim();
+      resultsList.innerHTML = "";
+
+      if (!idx || query.length < 2) return;
+
+      const results = idx.search(query);
+
+      results.forEach(r => {
+        const item = store.find(d => d.url === r.ref);
+        if (item) {
+          const li = document.createElement("li");
+          li.innerHTML = `<a href="${item.url}">${item.title}</a>`;
+          resultsList.appendChild(li);
+        }
+      });
+    });
+  }
+});
+</script>
 
 
     <script src="/js/main.js"></script>
@@ -81,6 +143,18 @@ document.addEventListener("DOMContentLoaded", function () {
 <h1><a href="/">Anti-Federalist Library</a></h1>
 <button id="hamburger-button" aria-label="Toggle Menu">☰</button>
 </div>
+<form action="/search/" method="get" id="header-search">
+  <input
+    id="header-search-box"
+    name="q"
+    type="text"
+    placeholder="Search the library..."
+    required
+  >
+  <br>
+  <div class="button-shell"><button type="submit" class="search-button">Search</button></div>
+</form>
+
 
 <nav id="main-nav">
   <ul class="clean-menu">

@@ -167,3 +167,6 @@ weight = 70
 [module.hugoVersion]
 extended = false
 min = '0.146.0'
+
+[outputs]
+home = ["HTML", "JSON"]
