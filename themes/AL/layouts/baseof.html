@@ -2,11 +2,6 @@
 <html lang="{{ .Site.Language.LanguageCode }}" dir="{{ or .Site.Language.LanguageDirection `ltr` }}">
 <head>
   {{ partial "head.html" . }}
-
-  {{- $js := resources.Get "js/main.js" }}
-  {{- if $js }}
-    <script src="{{ $js.RelPermalink }}"></script>
-  {{- end }}
 </head>
 <body>
   <div class="flex-box">

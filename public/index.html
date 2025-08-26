@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let store = [];
 
-  fetch("http:\/\/localhost:1313\/index.json")
+  fetch("/index.json")
     .then(res => res.json())
     .then(data => {
       store = data;
@@ -184,7 +184,6 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-    <script src="/js/main.js"></script>
 </head>
 <body>
   <div class="flex-box">
@@ -204,7 +203,6 @@ document.addEventListener("DOMContentLoaded", function () {
     placeholder="Search the library..."
     required
   >
-  <br>
   <div class="button-shell">
     <button type="submit" class="search-button">Search</button>
   </div>
@@ -365,8 +363,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
       <div class="highlighted-paper">
-        <h3><a href="http://localhost:1313/papers/impartial/impartial3/">Impartial Examiner III</a></h3>
-        <p>Concludes that the Constitution lacks individual rights protections and would create unlimited federal power that could destroy American liberty.</p>
+        <h3><a href="http://localhost:1313/papers/farmer/farmer8/">Federal Farmer VIII</a></h3>
+        <p>Asserts that liberty in England arose from balanced, class-based representation, warns that the Constitution’s small, elite legislature mirrors Rome’s failed tribunes, and urges distributed state power to protect against creeping aristocracy and centralized abuse.</p>
       </div>
     
   </section>
