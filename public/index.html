@@ -43,6 +43,83 @@
 
 
 <script src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const searchBox = document.getElementById("page-search-box");
+  const resultsList = document.getElementById("results");
+  const form = document.getElementById("page-search-form");
+  const loading = document.getElementById("loading");
+  const MIN_LOAD_TIME = 2000;
+
+  let store = [];
+
+  fetch("/index.json")
+    .then(res => res.json())
+    .then(data => {
+      store = data;
+    })
+    .catch(() => {
+      resultsList.innerHTML = "<li>Search unavailable.</li>";
+    });
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    const q = searchBox.value.trim();
+    if (!q) return;
+    runSearch(q);
+    const newUrl = new URL(window.location.href);
+    newUrl.searchParams.set("q", q);
+    window.history.replaceState({}, "", newUrl);
+  });
+
+  function runSearch(query) {
+    resultsList.innerHTML = "";
+    loading.style.display = "block";
+    const startTime = Date.now();
+    const lowerQuery = query.toLowerCase();
+
+    const results = store.filter(item =>
+      item.title.toLowerCase().includes(lowerQuery) ||
+      item.summary.toLowerCase().includes(lowerQuery) ||
+      item.content.toLowerCase().includes(lowerQuery)
+    );
+
+    const renderResults = () => {
+      results.forEach(item => {
+        const snippet = extractSnippet(item, query, 100);
+        const li = document.createElement("li");
+        li.innerHTML = `<a href="${item.url}">${item.title}</a><p>${snippet}</p>`;
+        resultsList.appendChild(li);
+      });
+      if (results.length === 0) resultsList.innerHTML = "<li>No results found.</li>";
+      loading.style.display = "none";
+    };
+
+    const elapsed = Date.now() - startTime;
+    const delay = Math.max(MIN_LOAD_TIME - elapsed, 0);
+    setTimeout(renderResults, delay);
+  }
+
+  function extractSnippet(item, query, contextLength) {
+    const lowerQuery = query.toLowerCase();
+    let text = "";
+
+    if (item.content.toLowerCase().includes(lowerQuery)) text = item.content;
+    else if (item.summary.toLowerCase().includes(lowerQuery)) text = item.summary;
+    else if (item.title.toLowerCase().includes(lowerQuery)) text = item.title;
+    else return "";
+
+    const lowerText = text.toLowerCase();
+    const index = lowerText.indexOf(lowerQuery);
+    const start = Math.max(0, index - contextLength);
+    const end = Math.min(text.length, index.length + query.length + contextLength);
+    const snippet = text.substring(start, end);
+    const highlighted = snippet.replace(new RegExp(`(${query})`, 'gi'), '<strong>$1</strong>');
+    return (start > 0 ? "…" : "") + highlighted + (end < text.length ? "…" : "");
+  }
+});
+</script>
+
 
 
 <script>
@@ -267,8 +344,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
       <div class="highlighted-paper">
-        <h3><a href="http://localhost:1313/papers/luther/genuine3/">Genuine Information III</a></h3>
-        <p>Details the bitter debate over state representation, exposing how small states resisted unequal suffrage, rejected coercive compromises, and warned that the proposed system would erode federal equality and empower large states at the expense of liberty.</p>
+        <h3><a href="http://localhost:1313/papers/centinel/centinel12/">Centinel XII</a></h3>
+        <p>Condemns the Constitution’s promoters as a deceptive faction silencing dissent and rushing ratification, branding them conspirators against liberty whose suppression of press and debate exposes their tyrannical intent.</p>
       </div>
     
   </section>

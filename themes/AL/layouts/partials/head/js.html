@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let store = [];
 
-  fetch("/index.json")
+  fetch("/index.json") // must be absolute path for deployed site
     .then(res => res.json())
     .then(data => {
       store = data;
@@ -66,7 +66,10 @@ document.addEventListener("DOMContentLoaded", function () {
       if (results.length === 0) {
         resultsList.innerHTML = "<li>No results found.</li>";
       } else {
+        const seen = new Set(); // prevent duplicates
         results.forEach(item => {
+          if (seen.has(item.url)) return;
+          seen.add(item.url);
           const snippet = extractSnippet(item, query, 100);
           const li = document.createElement("li");
           li.innerHTML = `<a href="${item.url}">${item.title}</a><p>${snippet}</p>`;
