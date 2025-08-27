@@ -2,10 +2,8 @@
 {{- if $js }}
   <script src="{{ $js.RelPermalink }}"></script>
 {{- end }}
-
 <!-- LUNR SEARCH LIBRARY -->
 <script src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
-
 <!-- SEARCH LOGIC -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -14,18 +12,14 @@ document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("page-search-form");
   const loading = document.getElementById("loading");
   const MIN_LOAD_TIME = 2000;
-
   if (!searchBox || !resultsList || !form || !loading) {
     console.warn("Search elements not found in DOM. Search will not work.");
     return;
   }
-
   const params = new URLSearchParams(window.location.search);
   const queryParam = params.get("q") || "";
   searchBox.value = queryParam;
-
   let store = [];
-
   fetch("/index.json")
     .then(res => res.json())
     .then(data => {
@@ -35,7 +29,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .catch(() => {
       resultsList.innerHTML = "<li>Search unavailable.</li>";
     });
-
   form.addEventListener("submit", function (e) {
     e.preventDefault();
     const q = searchBox.value.trim();
@@ -45,23 +38,19 @@ document.addEventListener("DOMContentLoaded", function () {
     newUrl.searchParams.set("q", q);
     window.history.replaceState({}, "", newUrl);
   });
-
   function normalize(str) {
     return str ? str.replace(/[\n\r]/g, " ").replace(/&[a-z]+;/gi, "").toLowerCase() : "";
   }
-
   function runSearch(query) {
     resultsList.innerHTML = "";
     loading.style.display = "block";
     const startTime = Date.now();
     const lowerQuery = normalize(query);
-
     const results = store.filter(item =>
       normalize(item.title).includes(lowerQuery) ||
       normalize(item.summary).includes(lowerQuery) ||
       normalize(item.content).includes(lowerQuery)
     );
-
     const renderResults = () => {
       if (results.length === 0) {
         resultsList.innerHTML = "<li>No results found.</li>";
@@ -70,40 +59,71 @@ document.addEventListener("DOMContentLoaded", function () {
         results.forEach(item => {
           if (seen.has(item.url)) return;
           seen.add(item.url);
-          const snippet = extractSnippet(item, query, 100);
+          
+          // Find all instances of the search term
+          const snippets = extractAllSnippets(item, query, 80);
+          
           const li = document.createElement("li");
-          li.innerHTML = `<a href="${item.url}">${item.title}</a><p>${snippet}</p>`;
+          li.innerHTML = `
+            <a href="${item.url}">${item.title}</a>
+            <div class="snippet-container">
+              ${snippets.map(snippet => `<p class="search-snippet">${snippet}</p>`).join('')}
+            </div>
+            <small class="match-count">${snippets.length} match${snippets.length !== 1 ? 'es' : ''} found</small>
+          `;
           resultsList.appendChild(li);
         });
       }
       loading.style.display = "none";
     };
-
     const elapsed = Date.now() - startTime;
     const delay = Math.max(MIN_LOAD_TIME - elapsed, 0);
     setTimeout(renderResults, delay);
   }
-
-  function extractSnippet(item, query, contextLength) {
+  function extractAllSnippets(item, query, contextLength) {
     const lowerQuery = normalize(query);
     let text = "";
-
+    
+    // Determine which field contains the match
     if (normalize(item.content).includes(lowerQuery)) text = item.content;
     else if (normalize(item.summary).includes(lowerQuery)) text = item.summary;
     else if (normalize(item.title).includes(lowerQuery)) text = item.title;
-    else return "";
+    else return ["No preview available"];
 
-    const lowerText = normalize(text);
-    const index = lowerText.indexOf(lowerQuery);
-    const start = Math.max(0, index - contextLength);
-    const end = Math.min(text.length, index + query.length + contextLength);
-    const snippet = text.substring(start, end);
-    const highlighted = snippet.replace(new RegExp(`(${query})`, 'gi'), '<strong>$1</strong>');
-    return (start > 0 ? "…" : "") + highlighted + (end < text.length ? "…" : "");
+    // Work with normalized text for both search and extraction
+    const normalizedText = normalize(text);
+    const snippets = [];
+    let searchStart = 0;
+    
+    // Find all instances of the search term in normalized text
+    while (true) {
+      const index = normalizedText.indexOf(lowerQuery, searchStart);
+      if (index === -1) break;
+      
+      const start = Math.max(0, index - contextLength);
+      const end = Math.min(normalizedText.length, index + lowerQuery.length + contextLength);
+      let snippet = normalizedText.substring(start, end);
+      
+      // Highlight the search term
+      const escapedQuery = lowerQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const highlightRegex = new RegExp(`(${escapedQuery})`, 'gi');
+      snippet = snippet.replace(highlightRegex, '<strong>$1</strong>');
+      
+      // Add ellipsis if needed
+      const prefix = start > 0 ? "…" : "";
+      const suffix = end < normalizedText.length ? "…" : "";
+      
+      snippets.push(prefix + snippet + suffix);
+      searchStart = index + lowerQuery.length;
+      
+      // Limit to max 5 snippets per document
+      if (snippets.length >= 5) break;
+    }
+    
+    return snippets.length > 0 ? snippets : ["Match found"];
   }
 });
 </script>
-
 <!-- HAMBURGER MENU -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -116,27 +136,22 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 </script>
-
 <!-- DARK MODE -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const toggle = document.getElementById("dark-toggle");
   const icon = document.getElementById("dark-toggle-icon");
   const savedMode = localStorage.getItem("theme");
-
   const lightIcon = toggle.dataset.light;
   const darkIcon = toggle.dataset.dark;
-
   const applyTheme = (isDark) => {
     document.body.classList.toggle("dark", isDark);
     icon.innerHTML = isDark
       ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
       : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
   };
-
   const initialDark = savedMode === "dark";
   applyTheme(initialDark);
-
   toggle.addEventListener("click", () => {
     const isDark = document.body.classList.toggle("dark");
     localStorage.setItem("theme", isDark ? "dark" : "light");

@@ -9,4 +9,4 @@ draft: false
 
 Those with questions or comments can reach out via antifederalistlibrary [@] gmail.com.
 
-*Version 0.32*
+*Version 0.33*
