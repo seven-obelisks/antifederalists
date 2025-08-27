@@ -127,30 +127,31 @@ document.addEventListener("DOMContentLoaded", function () {
     else if (normalize(item.title).includes(lowerQuery)) text = item.title;
     else return ["No preview available"];
 
-    const lowerText = normalize(text);
+    
+    const normalizedText = normalize(text);
     const snippets = [];
     let searchStart = 0;
     
     
     while (true) {
-      const index = lowerText.indexOf(lowerQuery, searchStart);
+      const index = normalizedText.indexOf(lowerQuery, searchStart);
       if (index === -1) break;
       
       const start = Math.max(0, index - contextLength);
-      const end = Math.min(text.length, index + query.length + contextLength);
-      let snippet = text.substring(start, end);
+      const end = Math.min(normalizedText.length, index + lowerQuery.length + contextLength);
+      let snippet = normalizedText.substring(start, end);
       
       
-      const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const escapedQuery = lowerQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       const highlightRegex = new RegExp(`(${escapedQuery})`, 'gi');
       snippet = snippet.replace(highlightRegex, '<strong>$1</strong>');
       
       
       const prefix = start > 0 ? "…" : "";
-      const suffix = end < text.length ? "…" : "";
+      const suffix = end < normalizedText.length ? "…" : "";
       
       snippets.push(prefix + snippet + suffix);
-      searchStart = index + query.length;
+      searchStart = index + lowerQuery.length;
       
       
       if (snippets.length >= 5) break;
@@ -324,6 +325,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
       <li class="">
           <a href="/about/" class="">About the Library</a>
+      </li>
+
+      <li class="">
+          <a href="/blog/" class="">Blog</a>
       </li>
   </ul>
 </nav>

@@ -163,6 +163,11 @@ name = 'About the Library'
 pageRef = '/about'
 weight = 70
 
+[[menus.main]]
+name = 'Blog'
+pageRef = '/blog'
+weight = 80
+
 [module]
 [module.hugoVersion]
 extended = false
