@@ -1,4 +1,4 @@
-@media (max-width: 1200px) {
+@media (max-width: 1000px) {
 
   /* ========== Base Layout & Typography ========== */
   html, body {
@@ -29,7 +29,6 @@
   }
 
   .flex1 .sidebar {
-    padding: 1rem;
     overflow-y: visible;
     height: auto;
   }
@@ -39,7 +38,7 @@
   }
 
   .flex2 {
-    padding: 1.5rem 1rem;
+    padding: 0rem 1rem;
     width: 100%;
     box-sizing: border-box;
   }
@@ -51,6 +50,7 @@
   /* ========== Header ========== */
   .header-top {
     flex-wrap: nowrap;
+    padding:0;
   }
 
   .flex2 h1 {
@@ -60,8 +60,8 @@
   }
 
   body .header-top h1 a {
-    font-size: 22px !important;
-    line-height: 30px !important;
+    font-size: 24px !important;
+    line-height: 32px !important;
   }
 
   body .header-top h1{
@@ -81,10 +81,14 @@
     border: none;
     font-size: 2rem;
     margin-left: auto;
-    padding: 1rem;
+    padding:0;
     cursor: pointer;
-    color: #fff;
+    color: #11133C;
     z-index: 1000;
+  }
+
+  body.dark  #hamburger-button{
+    color:#fff;
   }
 
   #main-nav {
@@ -113,31 +117,26 @@
   }
   
   h2 {
-    font-size: 1.25rem;
     line-height: 1.8rem;
   }
 
-  h3,
+  .flex2 h3{
+    font-size:30px;
+    line-height:38px;
+  }
+
   h4,
   h5 {
-    font-size: 1.1rem;
+    font-size: 24px;
   }
 
   /* ========== Papers ========== */
   .paper-block {
     padding: 1.5rem 1rem;
     margin: 1.5rem 0;
-    border-radius: 16px;
-  }
-
-  .paper-block h1,
-  .paper-block h2,
-  .paper-block h3 {
-    font-size: 1.25rem;
   }
 
   .paper-block p {
-    font-size: 0.95rem;
     line-height: 1.5rem;
   }
 
@@ -168,7 +167,11 @@
   .clean-menu button.menu-toggle {
     font-size: 1rem;
     line-height: 1.6rem;
-    padding: 0.4rem 0.5rem;
+  }
+
+  .clean-menu li{
+    margin:0;
+    padding:0;
   }
 
   nav{
@@ -188,8 +191,9 @@
     margin-top:0px;
   }
 
-  .homequote{
-    border-radius:25px;
+  .homeimg{
+    min-height:750px;
+    background-position: center;
   }
 
 }

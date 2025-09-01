@@ -22,4 +22,4 @@ This library is an effort to preserve the Anti-Federalist perspectives that shap
 I invite you to join me in critically examining the intentions and perspectives of these founding fathers who were instrumental in protecting future citizens against tyranny.
 
 Yours Truly,<br>
-*JR*
+The Editor

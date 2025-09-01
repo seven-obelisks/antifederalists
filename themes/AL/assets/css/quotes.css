@@ -1,14 +1,13 @@
 .quote, .homequote{
     border:2px solid #fff;
     padding: .5rem 2rem 1rem 2rem;
-    border-radius: 25px;
     background-color: #fff;
     margin:50px 0px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
 .quote h2{
-    font-family: "Crimson Text", serif;
+    font-family: "Host Grotesk", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 30px;
@@ -33,8 +32,7 @@
     border: 0px solid #fff;
     background-image: url('/images/liberty.jpg');
     background-size: cover;
-    height: 550px;
-    border-radius: 25px 25px 50px 50px;
+    min-height: 600px;
     display: flex;
     flex-direction: column; 
     justify-content: flex-end;
@@ -44,7 +42,6 @@
 }
 
 .homequote {
-    border-radius: 0px 0px 25px 25px;
     margin-bottom: 0 !important;
 }
 
@@ -52,7 +49,7 @@
 
 .signatory {
     display: block;
-    font-family: "Crimson Text";
+    font-family: "Host Grotesk", sans-serif;
 }
 
 .signatory h3 {
@@ -95,7 +92,6 @@
     border: 0px solid #ddd;
     padding: .5rem 2rem 2rem 2rem;
     margin-top: 25px;
-    border-radius: 25px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
@@ -115,7 +111,7 @@
 }
 
 .highlighted-paper p {
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 0;
 }
 
