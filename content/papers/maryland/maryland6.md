@@ -1,4 +1,5 @@
 ---
+weight: 6
 title: Maryland Farmer VIa
 summary: Refutes Aristides' claim that state and federal courts share concurrent jurisdiction, arguing that federal courts must have exclusive authority over constitutional cases to prevent chaos and absurd scenarios like state judges declaring federal laws void.
 ---

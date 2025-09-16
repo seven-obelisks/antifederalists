@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 4
 title: Maryland Farmer V
 summary: Argues that representation-based government inevitably fails through corruption and instability, claiming that only fixed social orders can provide stable governance, and warns that America's experiment will likely collapse like England's Commonwealth.
 ---
