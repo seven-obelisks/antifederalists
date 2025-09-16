@@ -1,7 +1,7 @@
 ---
 weight: 12
 title: Philadelphiensis
-summary: TEST
+summary: Philadelphiensis argued that the proposed Constitution was a conspiracy by wealthy elites to establish an aristocratic tyranny, and the new federal government would destroy republican principles and enslave the American people under the rule of a corrupt upper class.
 ---
 
 # Philadelphiensis
