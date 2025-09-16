@@ -1,6 +1,6 @@
 ---
-title: "Agrippa VII"
-date: 2025-01-25
+weight: 7
+title: Agrippa VII
 summary: Argues that the Constitution promotes unfair economic burdens, undermines local authority, and benefits some states over others, particularly through uneven trade regulation and taxation.
 ---
 

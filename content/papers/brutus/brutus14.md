@@ -1,6 +1,6 @@
 ---
-title: "Brutus XIV"
-date: 2025-01-01
+weight: 14
+title: Brutus XIV
 summary: Warns that the Supreme Court’s appellate power endangers jury trials, imposes excessive costs on average citizens, and grants judges unchecked authority over both law and fact.
 ---
 

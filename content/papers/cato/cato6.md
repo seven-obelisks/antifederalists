@@ -1,6 +1,6 @@
 ---
-title: "Cato VI"
-date: 2025-01-01
+weight: 6
+title: Cato VI
 summary: Condemns the unequal apportionment of representation and taxation, warns that unchecked federal taxation and aristocratic influence will crush the poor, and argues that secretive treaty powers endanger liberty and lack accountability.
 ---
 

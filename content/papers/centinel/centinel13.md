@@ -1,6 +1,6 @@
 ---
-title: "Centinel XII"
-date: 2025-01-21
+weight: 13
+title: Centinel XII
 summary: Portrays the Constitution’s backers as a cunning, well-funded minority using press manipulation, deception, and patronage to mask despotism in patriotic language, urging citizens to organize, resist, and defend true republican liberty.
 ---
 

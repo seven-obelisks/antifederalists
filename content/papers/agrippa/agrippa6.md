@@ -1,6 +1,6 @@
 ---
-title: "Agrippa VI"
-date: 2025-01-26
+weight: 6
+title: Agrippa VI
 summary: Argues that the Constitution consolidates state powers under federal control, enabling unchecked regulation of trade and courts without a bill of rights, threatening local sovereignty and economic fairness.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Brutus XIII"
-date: 2025-01-01
+weight: 13
+title: Brutus XIII
 summary: Warns that allowing individuals to sue states under the federal judiciary violates state sovereignty, invites financial ruin through enforced debt judgments, and grants Congress unchecked power to execute rulings that could cripple state governments.
 ---
 

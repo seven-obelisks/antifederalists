@@ -1,6 +1,6 @@
 ---
-title: "Agrippa XI"
-date: 2025-01-21
+weight: 11
+title: Agrippa XI
 summary: Defends his limited federal plan against critics, warning that the proposed Constitution invites foreign influence, multiplies offices, favors elites, and undermines both domestic liberty and national respect.
 ---
 

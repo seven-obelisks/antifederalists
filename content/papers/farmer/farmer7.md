@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer VII"
-date: 2025-01-25
+weight: 7
+title: Federal Farmer VII
 summary: Contends that true liberty relies on broad, balanced representation among all social classes, critiques the proposed House for being too small and elite-driven, and warns that such narrow design risks corruption, imbalance, and the erosion of public trust.
 ---
 

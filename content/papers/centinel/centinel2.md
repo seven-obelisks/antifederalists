@@ -1,6 +1,6 @@
 ---
-title: "Centinel II"
-date: 2025-01-30
+weight: 2
+title: Centinel II
 summary: Argues that the federal Senate's long terms, lack of rotation, and shared executive power make it ripe for aristocratic control. Highlights that even Montesquieu warned such consolidation would extinguish freedom.
 ---
 

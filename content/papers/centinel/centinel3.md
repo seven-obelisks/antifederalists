@@ -1,6 +1,6 @@
 ---
-title: "Centinel III"
-date: 2025-01-29
+weight: 3
+title: Centinel III
 summary: Argues that the Constitution was crafted by elites to establish a centralized, aristocratic government that overrides state authority and lacks accountability to the people.
 ---
 

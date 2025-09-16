@@ -1,6 +1,6 @@
 ---
-title: "Centinel V"
-date: 2025-01-27
+weight: 5
+title: Centinel V
 summary: Condemns the Constitution as a blueprint for a consolidated empire that would annihilate state sovereignty and usher in unchecked federal despotism through expansive taxation and legislative supremacy.
 ---
 

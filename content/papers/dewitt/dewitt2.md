@@ -1,6 +1,6 @@
 ---
-title: "John DeWitt II"
-date: 2025-02-26
+weight: 2
+title: John DeWitt II
 summary: Advises citizens to reject the Constitution's permanence and centralization unless they fully accept its vast powers, warning that true amendments will be nearly impossible and rights remain unprotected without a Bill of Rights.
 ---
 

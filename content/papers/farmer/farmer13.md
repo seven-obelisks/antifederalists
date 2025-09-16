@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer XIII"
-date: 2025-01-19
+weight: 13
+title: Federal Farmer XIII
 summary: Critiques the Constitution’s appointment structure as a dangerous consolidation of power, calling for restrictions on legislators’ eligibility for office and proposing an independent executive council to ensure integrity and accountability in federal appointments.
 ---
 

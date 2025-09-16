@@ -1,6 +1,6 @@
 ---
-title: "Impartial Examiner I"
-date: 2025-01-22
+weight: 1
+title: Impartial Examiner I
 summary: Warns that the Constitution's supremacy clause would destroy state sovereignty and create a dangerously powerful federal government without protecting individual rights.
 ---
 

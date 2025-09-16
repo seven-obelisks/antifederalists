@@ -1,6 +1,6 @@
 ---
-title: "Impartial Examiner II"
-date: 2025-01-22
+weight: 2
+title: Impartial Examiner II
 summary: Argues that the Constitution's taxation powers would create interstate conflicts while its excise, military, and judicial provisions would destroy traditional liberties.
 ---
 

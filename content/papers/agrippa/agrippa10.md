@@ -1,6 +1,6 @@
 ---
-title: "Agrippa X"
-date: 2025-01-22
+weight: 10
+title: Agrippa X
 summary: Summarizes prior arguments to show that the proposed Constitution consolidates power, threatens liberty, burdens Massachusetts disproportionately, and should be replaced with limited amendments granting Congress narrowly defined trade and revenue powers.
 ---
 

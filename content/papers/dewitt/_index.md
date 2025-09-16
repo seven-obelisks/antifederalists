@@ -1,7 +1,7 @@
 ---
-title: 'John DeWitt'
-draft: false
-summary: 'John DeWitt protested that, under the “general welfare” clause, Congress could grant trade monopolies, create new crimes, impose severe punishments, and extend its reach at will—leaving state legislatures powerless to protect their reserved powers and citizens vulnerable to arbitrary federal legislation.'
+weight: 5
+title: John DeWitt
+summary: John DeWitt protested that, under the “general welfare” clause, Congress could grant trade monopolies, create new crimes, impose severe punishments, and extend its reach at will—leaving state legislatures powerless to protect their reserved powers and citizens vulnerable to arbitrary federal legislation.
 ---
 
 # John DeWitt

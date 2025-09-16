@@ -1,10 +1,10 @@
 ---
-title: "One of the People"
-date: 2025-01-30
+weight: 1
+title: One of the People
 summary: One of the People is a scathing Anti-Federalist essay published in the Carlisle Gazette attacking Federalist manipulation of public events to advance their agenda. The author exposes their hypocrisy, warns of their authoritarian ambitions, and mocks their deceitful tactics in undermining republican values.
 ---
 
-##### 9 January 1788
+##### January 9, 1788
 
 An old man, who pretends to be an impartial spectator, has taken upon him to furnish the public with a state of the facts, respecting what he calls “the riot on Wednesday the 26th of December last; as also of the burning the effigies of two of the most distinguished characters in the state.” The vein of misrepresentation and falsehood that runs through this production renders its legitimacy very dubious. From its complexion and features it appears to be the brat of some attorney, who durst not father it himself; therefore procured the old sage to act as sponsor. However, as his respectableness has pledged himself for the truth of what is there represented, I shall consider him as the parent, and treat him accordingly.
 

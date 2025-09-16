@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer XIV"
-date: 2025-01-18
+weight: 14
+title: Federal Farmer XIV
 summary: Examines appointment powers and executive structure, favoring broader legislative and departmental checks while warning that indefinite presidential re-eligibility invites consolidation, corruption, and hereditary ambition.
 ---
 

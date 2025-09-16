@@ -1,6 +1,6 @@
 ---
-title: "Brutus I"
-date: 2025-01-01
+weight: 1
+title: Brutus I
 summary: Warns that the Constitution will create a consolidated national government incompatible with liberty in a large, diverse republic.
 ---
 

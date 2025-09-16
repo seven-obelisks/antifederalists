@@ -1,6 +1,6 @@
 ---
-title: "Centinel XII"
-date: 2025-01-21
+weight: 12
+title: Centinel XII
 summary: Condemns the Constitution’s promoters as a deceptive faction silencing dissent and rushing ratification, branding them conspirators against liberty whose suppression of press and debate exposes their tyrannical intent.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Brutus XI"
-date: 2025-01-01
+weight: 11
+title: Brutus XI
 summary: Warns that the federal judiciary, empowered to interpret the Constitution broadly and insulated from checks, will steadily expand its authority and erode state sovereignty through precedent and self-interest.
 ---
 

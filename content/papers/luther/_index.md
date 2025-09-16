@@ -1,6 +1,6 @@
 ---
-title: 'Luther Martin'
-draft: false
+weight: 9
+title: Luther Martin
 summary: Luther Martin decried the Constitution’s silence on press liberty, civil jury trials, and standing-army limits; objected to barring ex post facto relief only for those laws; and warned that postponing any ban on the slave trade for twenty-five years would weaken national defense and perpetuate moral and political peril.
 ---
 

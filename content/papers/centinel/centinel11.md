@@ -1,6 +1,6 @@
 ---
-title: "Centinel XI"
-date: 2025-01-21
+weight: 11
+title: Centinel XI
 summary: Refutes panic-driven arguments for the Constitution—anarchy and disunion—as elite fabrications, insisting that even temporary chaos is preferable to permanent despotism, and accuses postal officials of suppressing dissent to blind the public.
 ---
 

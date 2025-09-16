@@ -1,6 +1,6 @@
 ---
-title: "Brutus IX"
-date: 2025-01-01
+weight: 9
+title: Brutus IX
 summary: Argues that the Constitution must explicitly restrict the government’s power to maintain standing armies in peacetime, as historical precedent shows such forces are tools of oppression, not security.
 ---
 

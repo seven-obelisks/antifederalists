@@ -1,6 +1,6 @@
 ---
-title: "An Old Whig V"
-date: 2025-01-27
+weight: 5
+title: An Old Whig V
 summary: Warns that without a bill of rights, liberties like conscience, speech, and due process are left unprotected, and argues that the president’s vast powers verge on monarchy, risking a future descent into military tyranny.
 ---
 

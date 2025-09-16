@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer V"
-date: 2025-01-27
+weight: 5
+title: Federal Farmer V
 summary: Rejects blind adoption of the Constitution, warning that it centralizes power among elites, lacks true representation, invites class division, and should be revised by state conventions to protect liberty, property, and democratic stability.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer VIII"
-date: 2025-01-24
+weight: 8
+title: Federal Farmer VIII
 summary: Asserts that liberty in England arose from balanced, class-based representation, warns that the Constitution’s small, elite legislature mirrors Rome’s failed tribunes, and urges distributed state power to protect against creeping aristocracy and centralized abuse.
 ---
 

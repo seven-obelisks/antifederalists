@@ -1,7 +1,7 @@
 ---
-title: 'Old Whig'
-draft: false
-summary: 'An Old Whig argued that the proposed “House of Representatives” offered only the shadow of true representation—legislators unfamiliar with local needs would craft laws without proper information or accountability, eroding public confidence and allowing distant power to override the people’s will.'
+weight: 11
+title: Old Whig
+summary: An Old Whig argued that the proposed “House of Representatives” offered only the shadow of true representation—legislators unfamiliar with local needs would craft laws without proper information or accountability, eroding public confidence and allowing distant power to override the people’s will.
 ---
 
 # Old Whig

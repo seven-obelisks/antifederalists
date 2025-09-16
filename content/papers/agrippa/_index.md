@@ -1,7 +1,7 @@
 ---
-title: 'Agrippa'
-summary: 'Agrippa warned that making federal laws paramount over state constitutions would render state declarations of rights meaningless, strip citizens of common‐law protections, and concentrate authority so heavily at the center that local self-government and individual liberties would vanish without an explicit bill of rights.'
-draft: false
+weight: 1
+title: Agrippa
+summary: Agrippa warned that making federal laws paramount over state constitutions would render state declarations of rights meaningless, strip citizens of common‐law protections, and concentrate authority so heavily at the center that local self-government and individual liberties would vanish without an explicit bill of rights.
 ---
 
 # Agrippa

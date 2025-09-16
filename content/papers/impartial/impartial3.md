@@ -1,6 +1,6 @@
 ---
-title: "Impartial Examiner III"
-date: 2025-01-22
+weight: 3
+title: Impartial Examiner III
 summary: Concludes that the Constitution lacks individual rights protections and would create unlimited federal power that could destroy American liberty.
 ---
 

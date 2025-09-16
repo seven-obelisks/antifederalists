@@ -1,6 +1,6 @@
 ---
-title: "An Old Whig VIII"
-date: 2025-01-24
+weight: 8
+title: An Old Whig VIII
 summary: Urges that amendments be made before adopting the Constitution, warning that reliance on future rulers or the complex Article V process is naïve, and that once power is granted, it is nearly impossible to reclaim.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Cato III"
-date: 2025-01-01
+weight: 3
+title: Cato III
 summary: Rejects the idea of a large consolidated republic, arguing that its vast size, regional differences, and reliance on force would erode liberty, overwhelm public trust, and favor distant elites over local interests.
 ---
 

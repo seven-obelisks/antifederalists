@@ -1,6 +1,6 @@
 ---
-title: "Centinel I"
-date: 2025-02-27
+weight: 1
+title: Centinel I
 summary: Warns that the Constitution threatens liberty by concentrating power, undermining state authority, enabling aristocratic rule, and lacking protections like a bill of rights and trial by jury in civil cases.
 ---
 

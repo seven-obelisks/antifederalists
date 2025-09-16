@@ -2,17 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/agrippa/agrippa1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa10/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/agrippa11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/philadelphiensis9/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/philadelphiensis1/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/philadelphiensis2/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/philadelphiensis3/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/philadelphiensis4/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/philadelphiensis5/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/philadelphiensis6/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/philadelphiensis7/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/philadelphiensis/philadelphiensis8/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post1/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
@@ -31,12 +83,6 @@
   </url><url>
     <loc>http://localhost:1313/papers/dewitt/dewitt3/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/agrippa/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa1/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/billofrights/amendment1/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
@@ -110,9 +156,6 @@
     <loc>http://localhost:1313/speeches/henry/henry1/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa2/</loc>
-    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/billofrights/amendment2/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -134,9 +177,6 @@
     <loc>http://localhost:1313/speeches/henry/henry2/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa3/</loc>
-    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/billofrights/amendment3/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -155,9 +195,6 @@
     <loc>http://localhost:1313/speeches/henry/henry3/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa4/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/billofrights/amendment4/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -172,9 +209,6 @@
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry4/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa5/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/billofrights/amendment5/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
@@ -194,9 +228,6 @@
     <loc>http://localhost:1313/speeches/henry/henry5/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa6/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/billofrights/amendment6/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -214,9 +245,6 @@
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry6/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa7/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/billofrights/amendment7/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
@@ -236,9 +264,6 @@
     <loc>http://localhost:1313/speeches/henry/henry7/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa8/</loc>
-    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/billofrights/amendment8/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -257,9 +282,6 @@
     <loc>http://localhost:1313/speeches/henry/henry8/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa9/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/billofrights/amendment9/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -274,9 +296,6 @@
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry9/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa10/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/billofrights/amendment10/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
@@ -310,9 +329,6 @@
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry10/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/agrippa/agrippa11/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/papers/centinel/centinel11/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
@@ -489,6 +505,8 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/papers/agrippa/</loc>
   </url><url>
     <loc>http://localhost:1313/constitution/article1/</loc>
   </url><url>

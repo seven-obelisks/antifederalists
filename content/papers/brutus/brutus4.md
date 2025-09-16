@@ -1,6 +1,6 @@
 ---
-title: "Brutus IV"
-date: 2025-01-01
+weight: 4
+title: Brutus IV
 summary: Warns that the proposed government’s small and elite legislature cannot fairly represent the people, and that Congress’s control over elections endangers voting rights and enables gradual consolidation of power.
 ---
 

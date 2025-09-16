@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information VIII"
-date: 2025-01-23
+weight: 8
+title: Genuine Information VIII
 summary: Condemns federal protection of the slave trade, habeas corpus suspension, and loss of state control over commerce and currency—warning these powers will oppress debtors, undermine liberty, and centralize economic authority.
 ---
 

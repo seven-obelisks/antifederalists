@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer VI"
-date: 2025-01-26
+weight: 6
+title: Federal Farmer VI
 summary: Outlines essential constitutional principles, critiques centralization and inadequate representation, and calls for well-defined amendments to preserve liberty, secure rights, and balance federal and state power in a lasting republican system.
 ---
 

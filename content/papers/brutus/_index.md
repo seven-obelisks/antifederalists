@@ -1,7 +1,7 @@
 ---
-title: 'Brutus'
-summary: 'Brutus cautioned that vesting broad judicial power in distant federal courts would absorb state judiciaries, eliminate jury trials, and brand any state challenge to overreach as treason—effectively muzzling resistance and paving the way for unchecked national despotism.'
-draft: false
+weight: 2
+title: Brutus
+summary: Brutus cautioned that vesting broad judicial power in distant federal courts would absorb state judiciaries, eliminate jury trials, and brand any state challenge to overreach as treason—effectively muzzling resistance and paving the way for unchecked national despotism.
 ---
 
 # Brutus

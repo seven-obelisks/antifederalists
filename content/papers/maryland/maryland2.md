@@ -1,6 +1,6 @@
 ---
-title: "Maryland Farmer III (Part 1)"
-date: 2025-01-31
+weight: 2
+title: Maryland Farmer III (Part 1)
 summary: Argues that the proposed Constitution creates a national rather than federal government, warns it will not prevent foreign corruption but may lead to civil war and despotism like other large empires.
 ---
 

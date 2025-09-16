@@ -1,6 +1,6 @@
 ---
-title: 'Maryland Farmer III (Part 2)'
-date: 2025-01-31
+weight: 3
+title: Maryland Farmer III (Part 2)
 summary: 'Divides America into three classes: wealthy aristocrats and creditors favoring British-style government, indecisive moderates and trimmers, and rigid republicans with yeomanry, warning that without balanced parties despotism will replace freedom.'
 ---
 

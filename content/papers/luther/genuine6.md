@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information VI"
-date: 2025-01-25
+weight: 6
+title: Genuine Information VI
 summary: Warns that unchecked federal taxation, judicial overreach, and revenue powers—including stamp duties and excises—threaten state sovereignty, enable corruption, and concentrate dangerous authority in a distant national government.
 ---
 

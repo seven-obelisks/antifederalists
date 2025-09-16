@@ -1,6 +1,6 @@
 ---
-title: "An Old Whig VI"
-date: 2025-01-26
+weight: 6
+title: An Old Whig VI
 summary: Argues that granting Congress unlimited taxation power will strip states of revenue, reduce them to shadows, and risks the collapse of republican government into centralized despotism.
 ---
 

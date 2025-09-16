@@ -1,6 +1,6 @@
 ---
-title: "Agrippa I"
-date: 2025-01-31
+weight: 1
+title: Agrippa I
 summary: Argues the Constitution endangers liberty through inadequate representation, unchecked taxation, standing armies, and costly, remote government that undermines free industry and established local justice.
 ---
 

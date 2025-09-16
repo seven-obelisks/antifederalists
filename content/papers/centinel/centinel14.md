@@ -1,6 +1,6 @@
 ---
-title: "Centinel XIV"
-date: 2025-01-21
+weight: 14
+title: Centinel XIV
 summary: Cites Luther Martin’s testimony to expose the Constitution as a deliberate plan to destroy state authority, centralize unchecked taxation and judicial power, and suppress dissent through postal censorship and coordinated propaganda.
 ---
 

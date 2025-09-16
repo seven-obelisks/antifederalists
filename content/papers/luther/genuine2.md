@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information II"
-date: 2025-01-30
+weight: 2
+title: Genuine Information II
 summary: Argues that inequality of representation favors powerful states, undermines federal equality, and threatens liberty by reducing smaller states to political dependence.
 ---
 

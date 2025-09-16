@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information V"
-date: 2025-01-26
+weight: 5
+title: Genuine Information V
 summary: Condemns slave-based representation and unequal apportionment favoring large states, warns of disproportionate power and influence, and criticizes provisions that expose Congress to executive bribery and corruption.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information IX"
-date: 2025-01-22
+weight: 9
+title: Genuine Information IX
 summary: Warns that the presidency, as structured, concentrates excessive power—military, electoral, and appointive—enabling lifelong rule, fostering corruption, and rendering impeachment ineffective as a check.
 ---
 

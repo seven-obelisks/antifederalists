@@ -1,6 +1,6 @@
 ---
-title: "Brutus VI"
-date: 2025-01-01
+weight: 6
+title: Brutus VI
 summary: Warns that Congress’s unchecked power to tax and legislate will gradually dissolve state governments, overwhelm private life with intrusive revenue systems, and destroy the balance needed for a federal union.
 ---
 

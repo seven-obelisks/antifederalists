@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6534G8TWP');
+</script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+
+<title>Philadelphiensis X | Anti-Federalist Library</title>
+
+<script>
+  
+  try {
+    if (localStorage.getItem("theme") === "dark") {
+      document.body.classList.add("dark");
+    }
+  } catch(e) {
+    
+  }
+</script>
+
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/quotes.css">
+  <link rel="stylesheet" href="/css/mobile.css">
+
+
+  <script src="/js/main.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const searchBox = document.getElementById("page-search-box");
+  const resultsList = document.getElementById("results");
+  const form = document.getElementById("page-search-form");
+  const loading = document.getElementById("loading");
+  const MIN_LOAD_TIME = 2000;
+  if (!searchBox || !resultsList || !form || !loading) {
+    console.warn("Search elements not found in DOM. Search will not work.");
+    return;
+  }
+  const params = new URLSearchParams(window.location.search);
+  const queryParam = params.get("q") || "";
+  searchBox.value = queryParam;
+  let store = [];
+  fetch("/index.json")
+    .then(res => res.json())
+    .then(data => {
+      store = data;
+      if (queryParam) runSearch(queryParam);
+    })
+    .catch(() => {
+      resultsList.innerHTML = "<li>Search unavailable.</li>";
+    });
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    const q = searchBox.value.trim();
+    if (!q) return;
+    runSearch(q);
+    const newUrl = new URL(window.location.href);
+    newUrl.searchParams.set("q", q);
+    window.history.replaceState({}, "", newUrl);
+  });
+  function normalize(str) {
+    return str ? str.replace(/[\n\r]/g, " ").replace(/&[a-z]+;/gi, "").toLowerCase() : "";
+  }
+  function runSearch(query) {
+    resultsList.innerHTML = "";
+    loading.style.display = "block";
+    const startTime = Date.now();
+    const lowerQuery = normalize(query);
+    const results = store.filter(item =>
+      normalize(item.title).includes(lowerQuery) ||
+      normalize(item.summary).includes(lowerQuery) ||
+      normalize(item.content).includes(lowerQuery)
+    );
+    const renderResults = () => {
+      if (results.length === 0) {
+        resultsList.innerHTML = "<li>No results found.</li>";
+      } else {
+        const seen = new Set(); 
+        results.forEach(item => {
+          if (seen.has(item.url)) return;
+          seen.add(item.url);
+          
+          
+          const snippets = extractAllSnippets(item, query, 80);
+          
+          const li = document.createElement("li");
+          li.innerHTML = `
+            <a href="${item.url}">${item.title}</a>
+            <div class="snippet-container">
+              ${snippets.map(snippet => `<p class="search-snippet">${snippet}</p>`).join('')}
+            </div>
+            <small class="match-count">${snippets.length} match${snippets.length !== 1 ? 'es' : ''} found</small>
+          `;
+          resultsList.appendChild(li);
+        });
+      }
+      loading.style.display = "none";
+    };
+    const elapsed = Date.now() - startTime;
+    const delay = Math.max(MIN_LOAD_TIME - elapsed, 0);
+    setTimeout(renderResults, delay);
+  }
+  function extractAllSnippets(item, query, contextLength) {
+    const lowerQuery = normalize(query);
+    let text = "";
+    
+    
+    if (normalize(item.content).includes(lowerQuery)) text = item.content;
+    else if (normalize(item.summary).includes(lowerQuery)) text = item.summary;
+    else if (normalize(item.title).includes(lowerQuery)) text = item.title;
+    else return ["No preview available"];
+
+    
+    const normalizedText = normalize(text);
+    const snippets = [];
+    let searchStart = 0;
+    
+    
+    while (true) {
+      const index = normalizedText.indexOf(lowerQuery, searchStart);
+      if (index === -1) break;
+      
+      const start = Math.max(0, index - contextLength);
+      const end = Math.min(normalizedText.length, index + lowerQuery.length + contextLength);
+      let snippet = normalizedText.substring(start, end);
+      
+      
+      const escapedQuery = lowerQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const highlightRegex = new RegExp(`(${escapedQuery})`, 'gi');
+      snippet = snippet.replace(highlightRegex, '<strong>$1</strong>');
+      
+      
+      const prefix = start > 0 ? "…" : "";
+      const suffix = end < normalizedText.length ? "…" : "";
+      
+      snippets.push(prefix + snippet + suffix);
+      searchStart = index + lowerQuery.length;
+      
+      
+      if (snippets.length >= 5) break;
+    }
+    
+    return snippets.length > 0 ? snippets : ["Match found"];
+  }
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const button = document.getElementById("hamburger-button");
+  const nav = document.getElementById("main-nav");
+  if (button && nav) {
+    button.addEventListener("click", function () {
+      nav.classList.toggle("open");
+    });
+  }
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("dark-toggle");
+  const icon = document.getElementById("dark-toggle-icon");
+  const savedMode = localStorage.getItem("theme");
+  const lightIcon = toggle.dataset.light;
+  const darkIcon = toggle.dataset.dark;
+  const applyTheme = (isDark) => {
+    document.body.classList.toggle("dark", isDark);
+    icon.innerHTML = isDark
+      ? `<img src="${lightIcon}" alt="Light Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Light Mode</span>`
+      : `<img src="${darkIcon}" alt="Dark Mode" width="20" style="vertical-align:middle;"><span style="position:relative; top:2px; margin-left:10px;">Dark Mode</span>`;
+  };
+  const initialDark = savedMode === "dark";
+  applyTheme(initialDark);
+  toggle.addEventListener("click", () => {
+    const isDark = document.body.classList.toggle("dark");
+    localStorage.setItem("theme", isDark ? "dark" : "light");
+    applyTheme(isDark);
+  });
+});
+</script>
+
+</head>
+<body>
+  <div class="flex-box">
+    <div class="flex1">
+      <div class="sidebar">
+        <header>
+          <div class="header-top">
+<a href="/"><img class="logo" src="/images/alogo.png"></a>
+<h1><a href="/">Anti-Federalist Library</a></h1>
+<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
+</div>
+<form action="/search/" method="get" id="header-search">
+  <input
+    id="header-search-box"
+    name="q"
+    type="text"
+    placeholder="Search the library..."
+    required
+  >
+  <div class="button-shell">
+    <button type="submit" class="search-button">Search</button>
+  </div>
+</form>
+
+
+<nav id="main-nav">
+  <ul class="clean-menu">
+
+      <li class="">
+          <a href="/" class="">Home</a>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle open active"
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Anti-Federalist Papers
+          </button>
+          <ul class="submenu open">
+
+              <li>
+                <a href="/papers/" class="">About the Papers</a>
+              </li>
+
+              <li>
+                <a href="/papers/agrippa/" class="">Agrippa</a>
+              </li>
+
+              <li>
+                <a href="/papers/brutus/" class="">Brutus</a>
+              </li>
+
+              <li>
+                <a href="/papers/cato/" class="">Cato</a>
+              </li>
+
+              <li>
+                <a href="/papers/centinel/" class="">Centinel</a>
+              </li>
+
+              <li>
+                <a href="/papers/farmer/" class="">Federal Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/mason/" class="">George Mason</a>
+              </li>
+
+              <li>
+                <a href="/papers/dewitt/" class="">John DeWitt</a>
+              </li>
+
+              <li>
+                <a href="/papers/luther/" class="">Luther Martin</a>
+              </li>
+
+              <li>
+                <a href="/papers/impartial/" class="">Impartial Examiner</a>
+              </li>
+
+              <li>
+                <a href="/papers/maryland/" class="">Maryland Farmer</a>
+              </li>
+
+              <li>
+                <a href="/papers/oldwhig/" class="">Old Whig</a>
+              </li>
+
+              <li>
+                <a href="/papers/philadelphiensis/" class="active">Philadelphiensis</a>
+              </li>
+
+              <li>
+                <a href="/papers/others/" class="">Other Papers</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="has-children">
+          <button class="menu-toggle "
+                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+            <span class="arrow">▸</span> Anti-Federalist Speeches
+          </button>
+          <ul class="submenu ">
+
+              <li>
+                <a href="/speeches/" class="">About the Speeches</a>
+              </li>
+
+              <li>
+                <a href="/speeches/melancton/" class="">Melancton Smith</a>
+              </li>
+
+              <li>
+                <a href="/speeches/henry/" class="">Patrick Henry</a>
+              </li>
+          </ul>
+      </li>
+
+      <li class="">
+          <a href="/billofrights/" class="">Bill of Rights</a>
+      </li>
+
+      <li class="">
+          <a href="/constitution/" class="">Constitution</a>
+      </li>
+
+      <li class="">
+          <a href="/contemporary/" class="">Contemporary Research</a>
+      </li>
+
+      <li class="">
+          <a href="/about/" class="">About the Library</a>
+      </li>
+
+      <li class="">
+          <a href="/blog/" class="">Blog</a>
+      </li>
+  </ul>
+</nav>
+
+
+        </header>
+        <footer>
+            <button id="dark-toggle"
+                  data-light="/images/lantern-light.png"
+                  data-dark="/images/lantern-dark.png">
+            <span id="dark-toggle-icon"></span>
+          </button>
+          <p><a href="/">The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> </p>
+<a href="https://x.com/AntifedLibrary" id="xlink" target="_blank"><img src="/images/logo-white.png" id="xlogo"></a>
+
+        </footer>
+      </div>
+    </div>
+    <div class="flex2">
+      <main>
+        
+<div class="page-title">
+  <nav class="breadcrumbs">
+  <a href="/">Home</a>
+    / <a href="/papers/">Anti-Federalist Papers</a>
+    / <a href="/papers/philadelphiensis/">Philadelphiensis</a>
+
+  / <span>Philadelphiensis X</span>
+</nav>
+
+  <h3 class="page-h3">Philadelphiensis X</h3>
+</div>
+<div class="page-white">
+  <h5 id="february-20-1788">February 20, 1788</h5>
+<p>The President-­‐general, who is to be our king after this government is established, is vested with powers exceeding those of the most despotic monarch we know of in modern times. What a handsome return have these men made to the people of America for their confidence! Through the misconduct of these bold conspirators we have lost the most glorious opportunity that any country ever had to establish a free system of government. America under one purely democratical, would be rendered the happiest and most powerful nation in the universe; but under the proposed one, composed of anelective king and a standing army, officered by his sycophants, the starvelings of the Cincinnati, and an aristocratical Congress of the well-­‐born, an iota of happiness, freedom or national strength cannot exist. What a pitiful figure will these ungrateful men make in history; who, for the hopes of obtaining some lucrative employment, or of receiving a little more homage from the rest of their fellow creatures, framed a system of oppression that must involve in its consequences the misery of their own offspring?There is but one rational way remaining to prevent themselves from being eyewitnesses of a dreadful scene, and that is for them to cease immediately everyoperation that respects the establishing of this plan of government; and then all parties will join heartily in calling another federal convention, and the peace of the country will be preserved.</p>
+<p>One of the members of the virtuous minority of the convention of Massachusetts openly declared in that assembly, that pushing on this accursed system would produce a civil war: the freemen of New-­‐England, the best soldiers on the continent, have had their eyes opened, and begin to see through the conspiracy; that sacred palladium of liberty, the freedom of the press, has dispelled the cloud, and cleared their understandings. In that state, through the influence of the tyrants of Boston, very little information has reached the people; the press, generally speaking, was devoted to the well-­‐born and their tools; yet out of near 400 members, of which that convention consisted, only a majority of 19 could be procured, notwithstanding every possible method of overawing, threatening and bribing was practised.</p>
+<p>I conceive that carrying it by so small a majority, is little better than a rejection; infact it may prove worse, for the breach is only widened so much the more by it, and truly it was wide enough before. The freemen of Massachusetts will never cowardly surrender their sacred rights and liberties into the hands of one man, or any body of men whatever. They know what freedom is, and they will support it at the risque of their lives and fortunes. Their courage, fortitude, and atchievments in the late war have rendered their character, as friends to liberty, immortal.</p>
+<p>The amendments proposed by the president will be another source of mischief; the people cannot be so ignorant as to be deceived by so pitiful a manœuvre. Here is apositive acknowledgement made by one of its advocates, who hopes to be appointedthe little king if not the big one, that it is objectionable; and his amendments are introduced as a blind; the weighty ones are untouched: not a whimper of the extraordinary powers of the President-­‐general, the standing army, the liberty of thepress, &amp;c. No, no! if these glorious parts be lopped off, what would become of the monarchy-­‐men? And respecting internal taxation, is not his amendment a disgrace to himself, and an insult to the understanding of the people? Mr. Hancock knows, or ought to know at least, that the liberties of the citizens of America are not to be trifled with: his schemes are too flimsey not to be seen through.</p>
+<p>The allegiance of freemen to government will ever be a consequence of protection; the Congress of America withdrew their allegiance from the king of Great-­‐Britain whenhe changed his protection into acts of cruelty; and on the same account the citizens of these United States will not chearfully bear allegiance to the new government; which, instead of protecting them in their sacred rights and privileges, will be a system oftyranny and oppression. The unlimited powers of the new Congress in respect totaxation, are abundantly sufficient to alarm the people. While the state assemblies retained the right of internal taxation, the country farmers could not be burdened beyond their abilities; these men being the true representatives of the people, would never attempt to levy an oppressive tax; their own feelings and interests being congenial with those of their constituents, their consent must be withheld when ameasure was proposed subversive of public good.</p>
+<p>That the new Congress will not be the immediate representatives of the people, that their number is too small, their powers too great, their accountability to the people not properly secured, and above all the executive dangerously placed in the hands ofone man, who is really a king, have been fully illustrated by many able writers, and ably proved in the conventions of this state and Massachusetts by worthy patriots whose names will be revered as long as time shall remain. Upon the whole, my fellow citizens,if the great characters, who are said to advocate this system of government, wish to act consistently, the greatest proof they can give of their love for their country, is to join therest of their fellow citizens in endeavouring to call another federal convention.</p>
+
+  
+
+  </div>
+
+      </main>
+    </div>
+  </div>
+</body>
+</html>

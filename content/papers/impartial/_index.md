@@ -1,4 +1,5 @@
 ---
+weight: 8
 title: Impartial Examiner
 draft: false
 summary: The Impartial Examiner warned that the Constitution's supremacy clause would obliterate state sovereignty by making federal law supreme over all state constitutions and laws, while the absence of explicit rights protections would leave citizens defenseless against federal tyranny.

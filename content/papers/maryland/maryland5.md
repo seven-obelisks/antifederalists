@@ -1,6 +1,5 @@
 ---
-title: "Maryland Farmer VI"
-date: 2025-01-31
+title: Maryland Farmer VI
 summary: Advocates for Swiss-style direct democracy over representative government, arguing that the Swiss cantons prove ordinary citizens can govern themselves effectively while avoiding the corruption and instability plaguing representative systems like England's.
 ---
 

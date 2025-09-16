@@ -1,6 +1,6 @@
 ---
-title: "Agrippa IX"
-date: 2025-01-23
+weight: 9
+title: Agrippa IX
 summary: Warns that granting Congress unchecked control over trade, naturalization, and taxation risks moral decline, state inequality, and the loss of hard-won liberties.
 ---
 

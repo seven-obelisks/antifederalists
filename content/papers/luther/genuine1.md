@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information I"
-date: 2025-01-31
+weight: 1
+title: Genuine Information I
 summary: Warns that the proposed Constitution concentrates power in the hands of a few large states, reducing the others to political subjugation.
 ---
 

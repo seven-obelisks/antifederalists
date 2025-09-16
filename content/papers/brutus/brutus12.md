@@ -1,6 +1,6 @@
 ---
-title: "Brutus XII"
-date: 2025-01-01
+weight: 12
+title: Brutus XII
 summary: Warns that the federal judiciary will expand legislative and judicial power through broad interpretations of the Constitution, reducing state authority to insignificance by aligning national objectives with judicial precedent and fictional jurisdiction.
 ---
 

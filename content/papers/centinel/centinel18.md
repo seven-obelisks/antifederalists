@@ -1,6 +1,6 @@
 ---
-title: "Centinel XVIII"
-date: 2025-01-21
+weight: 18
+title: Centinel XVIII
 summary: Condemns the suppression of dissent, manipulation of postal communications, and spread of false unanimity to force constitutional ratification, asserting that true public sentiment in Pennsylvania—and likely elsewhere—is overwhelmingly opposed to the new system.
 ---
 

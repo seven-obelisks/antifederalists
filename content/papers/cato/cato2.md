@@ -1,6 +1,6 @@
 ---
-title: "Cato II"
-date: 2025-01-01
+weight: 2
+title: Cato II
 summary: Condemns the Convention’s overreach and warns that the Constitution imposes centralized power without consent, threatening liberty and silencing public deliberation.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information X"
-date: 2025-01-21
+weight: 10
+title: Genuine Information X
 summary: Warns that the proposed judiciary strips states and citizens of trial by jury, centralizes nearly all legal authority in distant federal courts, and brands any state resistance to federal overreach as treason—leaving the people powerless against national despotism.
 ---
 

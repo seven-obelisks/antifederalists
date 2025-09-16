@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer XVI"
-date: 2025-01-16
+weight: 16
+title: Federal Farmer XVI
 summary: Stresses the necessity of explicitly enumerating individual rights in the Constitution—such as jury trials, freedom of the press, and protections against quartering soldiers—to prevent federal overreach and preserve liberty beyond vague general principles or inferred reservations.
 ---
 

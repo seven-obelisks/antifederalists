@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information III"
-date: 2025-01-29
+weight: 3
+title: Genuine Information III
 summary: Details the bitter debate over state representation, exposing how small states resisted unequal suffrage, rejected coercive compromises, and warned that the proposed system would erode federal equality and empower large states at the expense of liberty.
 ---
 

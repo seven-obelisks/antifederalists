@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer XVIII"
-date: 2025-01-14
+weight: 18
+title: Federal Farmer XVIII
 summary: Warns that expansive federal powers, especially over the military, judiciary, and federal districts, threaten to erode state authority and concentrate influence in an elite, unaccountable capital.
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 'Federal Farmer'
-draft: false
-summary: 'The Federal Farmer condemned the lack of a constitutional council for the President and the creation of a Vice-President solely to preside over the Senate, warning these defects would blur the lines between executive and legislative branches and concentrate appointment powers in an unaccountable few.'
+weight: 6
+title: Federal Farmer
+summary: The Federal Farmer condemned the lack of a constitutional council for the President and the creation of a Vice-President solely to preside over the Senate, warning these defects would blur the lines between executive and legislative branches and concentrate appointment powers in an unaccountable few.
 ---
 
 # Federal Farmer

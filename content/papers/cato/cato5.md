@@ -1,6 +1,6 @@
 ---
-title: "Cato V"
-date: 2025-01-01
+weight: 5
+title: Cato V
 summary: Criticizes the Constitution for enabling Congress to manipulate elections and the Senate to evade accountability, arguing that such unchecked powers invite abuse, erode representation, and threaten civil liberty.
 ---
 

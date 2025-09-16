@@ -1,6 +1,6 @@
 ---
-title: "An Old Whig IV"
-date: 2025-01-28
+weight: 4
+title: An Old Whig IV
 summary: Argues that a single vast republic is unsustainable and warns that without a confederation model and a firm bill of rights, the proposed Constitution will dissolve state authority, endanger liberty, and drift toward monarchy and despotism.
 ---
 

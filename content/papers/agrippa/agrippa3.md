@@ -1,6 +1,6 @@
 ---
-title: "Agrippa III"
-date: 2025-01-29
+weight: 3
+title: Agrippa III
 summary: Defends the current state governments as prosperous and just, warns that the proposed Constitution will crush public credit and local trade, and urges amendments before risking national division.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Maryland Farmer I"
-date: 2025-01-31
+weight: 1
+title: Maryland Farmer I
 summary: Refutes the claim that bills of rights are royal grants by citing the English Bill of Rights of 1688, arguing it was created by convention as a declaration of inherent natural rights, and warns that without explicit protections, Americans will be defenseless against federal power.
 ---
 

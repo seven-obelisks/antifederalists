@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer II"
-date: 2025-01-30
+weight: 2
+title: Federal Farmer II
 summary: Criticizes the Constitution for centralizing power without proper representation or local justice, warning it will lead to neglect, military enforcement, and the erosion of state authority and liberty.
 ---
 

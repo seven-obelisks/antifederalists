@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information VII"
-date: 2025-01-24
+weight: 7
+title: Genuine Information VII
 summary: Condemns unlimited federal military power, centralized control of the militia, and the temporary protection of the slave trade, warning these measures endanger liberty, undermine state sovereignty, and mock the founding principles of justice and freedom.
 ---
 

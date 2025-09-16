@@ -1,6 +1,6 @@
 ---
-title: "Brutus III"
-date: 2025-01-01
+weight: 3
+title: Brutus III
 summary: Criticizes the proposed House and Senate for lacking fair representation, disproportionately empowering elites and slaveholding states while excluding common citizens from meaningful influence.
 ---
 

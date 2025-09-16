@@ -1,6 +1,6 @@
 ---
-title: "John DeWitt III"
-date: 2025-02-25
+weight: 3
+title: John DeWitt III
 summary: Criticizes the proposed Constitution as a deceptive structure designed to empower an aristocratic elite, stripping true representation from the people and placing unchecked authority in the hands of distant, unaccountable officials.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Cato IV"
-date: 2025-01-01
+weight: 4
+title: Cato IV
 summary: Argues that the presidency holds dangerously monarchic powers—commanding the military, influencing legislation, and surrounded by courtiers—making it a threat to liberty and unlike any true republican office.
 ---
 

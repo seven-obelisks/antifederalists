@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer XVII"
-date: 2025-01-15
+weight: 17
+title: Federal Farmer XVII
 summary: Questions the necessity of granting sweeping federal taxation powers, warning that bypassing state governments threatens the balance of a true federal republic and risks consolidating authority in ways historically proven to erode liberty.
 ---
 

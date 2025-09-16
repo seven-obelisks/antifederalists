@@ -1,6 +1,6 @@
 ---
-title: "Agrippa V"
-date: 2025-01-27
+weight: 5
+title: Agrippa V
 summary: Warns that the Constitution erases state sovereignty by empowering federal courts and laws to override local authority, risking tyranny, confusion, and the rise of a permanent standing army.
 ---
 

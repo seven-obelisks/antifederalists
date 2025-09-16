@@ -1,6 +1,6 @@
 ---
-title: "The Scourge"
-date: 2025-01-31
+weight: 2
+title: The Scourge
 summary: The Scourge is a satirical Anti-Federalist essay published in the Carlisle Gazette condemning Federalist celebrations following Pennsylvania’s ratification of the Constitution. The author warns that unchecked national power will suppress liberty and mocks Federalist elites for abandoning republican principles.
 ---
 

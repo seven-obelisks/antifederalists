@@ -1,6 +1,6 @@
 ---
-title: "Objections to This Constitution of Government"
-date: 2025-01-21
+weight: 1
+title: Objections to This Constitution of Government
 summary: Fears that omitting a Bill of Rights and centralizing unchecked federal power would override state laws, criminalize dissent as treason, and destroy individual liberty.  
 ---
 

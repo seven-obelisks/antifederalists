@@ -1,6 +1,6 @@
 ---
-title: "Brutus V"
-date: 2025-01-01
+weight: 5
+title: Brutus V
 summary: Argues that Congress’s vast power to tax and pass all necessary laws will lead to total consolidation, destroy state governments, and subject the people to unchecked federal control and endless revenue extraction.
 ---
 

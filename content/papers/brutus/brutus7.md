@@ -1,6 +1,6 @@
 ---
-title: "Brutus VII"
-date: 2025-01-01
+weight: 7
+title: Brutus VII
 summary: Argues that without limiting Congress’s taxing power, the federal government will overshadow the states, strip them of necessary revenue, and destroy the balance essential to a functional confederacy.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "An Old Whig VII"
-date: 2025-01-25
+weight: 7
+title: An Old Whig VII
 summary: Rejects the claim that amendments are impossible, proposing that state conventions should suggest changes, call for a second Continental Convention, and only then decide on ratification—ensuring unity without surrendering public judgment.
 ---
 

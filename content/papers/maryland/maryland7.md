@@ -1,6 +1,5 @@
 ---
-title: "Maryland Farmer VII"
-date: 2025-01-31
+title: Maryland Farmer VII
 summary: Argues that religious tyranny stems from corrupt civil government, using Roman and Gothic examples to prove that civil and religious liberty are inseparably linked.
 ---
 

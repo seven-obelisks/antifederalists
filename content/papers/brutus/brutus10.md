@@ -1,6 +1,6 @@
 ---
-title: "Brutus X"
-date: 2025-01-01
+weight: 10
+title: Brutus X
 summary: Warns that history proves standing armies often destroy republics from within, and argues that the Constitution should restrict such forces in peacetime to avoid tyranny masked as preparedness.
 ---
 

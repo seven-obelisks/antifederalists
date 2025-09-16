@@ -1,6 +1,6 @@
 ---
-title: "An Old Whig I"
-date: 2025-01-31
+weight: 1
+title: An Old Whig I
 summary: Expresses early support for a federal constitution but warns that the proposed system is effectively irreversible, risks silencing public dissent, and may entrench unaccountable power indefinitely.
 ---
 

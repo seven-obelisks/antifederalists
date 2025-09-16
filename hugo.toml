@@ -110,11 +110,18 @@ parent = 'papers'
 weight = 120
 
 [[menus.main]]
+identifier = "philadelphiensis"
+name = 'Philadelphiensis'
+pageRef = '/papers/philadelphiensis'
+parent = 'papers'
+weight = 130
+
+[[menus.main]]
 identifier = "others"
 name = 'Other Papers'
 pageRef = '/papers/others'
 parent = 'papers'
-weight = 130
+weight = 140
 
 [[menus.main]]
 identifier = "speeches"

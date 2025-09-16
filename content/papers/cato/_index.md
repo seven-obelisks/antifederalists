@@ -1,7 +1,7 @@
 ---
-title: 'Cato'
-summary: 'Cato criticized the Senate’s sweeping authorities—altering money bills, originating appropriations, appointing ambassadors and judges, making treaties, and trying impeachments—combined with lifelong tenure and constant session, as destroying any balance of power and enabling systematic usurpation of both state rights and individual freedoms.'
-draft: false
+weight: 3
+title: Cato
+summary: Cato criticized the Senate’s sweeping authorities—altering money bills, originating appropriations, appointing ambassadors and judges, making treaties, and trying impeachments—combined with lifelong tenure and constant session, as destroying any balance of power and enabling systematic usurpation of both state rights and individual freedoms.
 ---
 
 # Cato

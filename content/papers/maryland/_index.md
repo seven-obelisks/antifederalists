@@ -1,6 +1,6 @@
 ---
+weight: 10
 title: Maryland Farmer
-draft: false
 summary: A Maryland Farmer warned that the proposed Constitution would create a consolidated national government that would devour state sovereignty and subject citizens to tyrannical rule by a distant aristocratic elite.
 ---
 

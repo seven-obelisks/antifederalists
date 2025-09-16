@@ -1,6 +1,6 @@
 ---
-title: "Centinel VII"
-date: 2025-01-25
+weight: 7
+title: Centinel VII
 summary: Denounces the Constitution as a power grab by domestic elites exploiting public distress, urging citizens to reject the scheme and defend their liberty through renewed convention and resistance if necessary.
 ---
 

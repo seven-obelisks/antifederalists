@@ -1,6 +1,6 @@
 ---
-title: "Centinel VIII"
-date: 2025-01-24
+weight: 8
+title: Centinel VIII
 summary: Portrays the Constitution as a gilded trap crafted by self-interested elites, designed to strip the people of liberty and secure unchecked control over property, commerce, and governance.
 ---
 

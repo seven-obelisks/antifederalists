@@ -1,6 +1,6 @@
 ---
-title: "Brutus VIII"
-date: 2025-01-01
+weight: 8
+title: Brutus VIII
 summary: Warns that unlimited federal powers to tax, borrow, and raise armies—especially in peacetime—invite crushing debt, standing militarism, and the destruction of liberty through centralized coercion.
 ---
 

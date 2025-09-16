@@ -1,6 +1,6 @@
 ---
-title: "Centinel XVII"
-date: 2025-01-21
+weight: 17
+title: Centinel XVII
 summary: Accuses key Constitution framers of concealing public fraud and enriching themselves through unaccounted wartime funds, while using propaganda and postal suppression to silence critics and manipulate public opinion.
 
 ---

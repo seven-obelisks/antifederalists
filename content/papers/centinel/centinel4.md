@@ -1,6 +1,6 @@
 ---
-title: "Centinel IV"
-date: 2025-01-28
+weight: 4
+title: Centinel IV
 summary: Criticizes the Constitution for exploiting economic fears to establish an unchecked, centralized government that sacrifices liberty under the guise of reform.
 ---
 

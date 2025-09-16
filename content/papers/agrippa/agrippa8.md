@@ -1,6 +1,6 @@
 ---
-title: "Agrippa VIII"
-date: 2025-01-24
+weight: 8
+title: Agrippa VIII
 summary: Claims that the Constitution threatens both civil liberty and state solvency by centralizing taxation and debt while ignoring natural bonds of union like commerce and mutual interest.
 ---
 

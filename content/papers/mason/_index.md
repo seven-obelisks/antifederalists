@@ -1,6 +1,6 @@
 ---
-title: 'George Mason'
-draft: false
+weight: 7
+title: George Mason
 summary: George Mason was a key Anti-Federalist delegate from Virginia who refused to sign the U.S. Constitution, arguing it lacked sufficient protections for individual rights and granted excessive power to the federal government.
 ---
 

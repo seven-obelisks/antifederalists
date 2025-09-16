@@ -1,6 +1,6 @@
 ---
-title: "Impartial Examiner IV"
-date: 2025-01-22
+weight: 4
+title: Impartial Examiner IV
 summary: Argues that the executive veto power appropriate for British monarchy is incompatible with American republican principles of equal liberty.
 ---
 

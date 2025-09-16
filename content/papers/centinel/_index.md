@@ -1,7 +1,7 @@
 ---
-title: 'Centinel'
-draft: false
-summary: 'Centinel argued that the new federal judiciary was designed to dwarf state courts, making justice as costly, intricate, and unattainable for ordinary citizens as it was in England, thereby empowering the wealthy to oppress—and ultimately ruin—the poor.'
+weight: 4
+title: Centinel
+summary: Centinel argued that the new federal judiciary was designed to dwarf state courts, making justice as costly, intricate, and unattainable for ordinary citizens as it was in England, thereby empowering the wealthy to oppress—and ultimately ruin—the poor.
 ---
 
 # Centinel

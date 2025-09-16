@@ -1,6 +1,6 @@
 ---
-title: "An Old Whig III"
-date: 2025-01-29
+weight: 3
+title: An Old Whig III
 summary: Condemns the treaty and supremacy clauses for enabling the president and Senate to override state laws, warns of unchecked federal power without a bill of rights, and defends trial by jury as essential to preserving liberty from civil abuse and creeping despotism.
 ---
 

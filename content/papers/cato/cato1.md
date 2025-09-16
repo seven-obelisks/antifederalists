@@ -1,6 +1,6 @@
 ---
-title: "Cato I"
-date: 2025-01-01
+weight: 1
+title: Cato I
 summary: Argues that the Constitution centralizes power by entangling the Senate and executive, enabling collusion, weakening accountability, and granting Congress broad authority over elections that could suppress voter access and representation.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Brutus II"
-date: 2025-01-01
+weight: 1
+title: Brutus II
 summary: Argues that the Constitution dangerously omits a bill of rights, enabling federal overreach into life, liberty, and property without adequate protections.
 ---
 

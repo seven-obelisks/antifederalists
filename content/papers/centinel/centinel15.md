@@ -1,6 +1,6 @@
 ---
-title: "Centinel XV"
-date: 2025-01-21
+weight: 15
+title: Centinel XV
 summary: Laments the loss of public skepticism toward government change and claims Massachusetts’ narrow ratification was driven by fear, misinformation, and elite pressure rather than genuine support for the Constitution.
 ---
 

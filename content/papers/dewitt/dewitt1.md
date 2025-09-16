@@ -1,6 +1,6 @@
 ---
-title: "John DeWitt I"
-date: 2025-02-27
+weight: 1
+title: John DeWitt I
 summary: Urges citizens to cautiously and rationally examine the proposed Constitution before ratification, warning that its sweeping powers demand scrutiny, not blind acceptance based on reputation or promises of prosperity.
 ---
 

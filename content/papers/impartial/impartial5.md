@@ -1,6 +1,6 @@
 ---
-title: "Impartial Examiner V"
-date: 2025-01-22
+weight: 5
+title: Impartial Examiner V
 summary: Examines whether constitutional change is necessary, noting agreement on strengthening federal commerce and taxation powers but disagreement over whether the proposed system sacrifices too much liberty.
 ---
 

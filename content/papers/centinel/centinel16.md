@@ -1,6 +1,6 @@
 ---
-title: "Centinel XVI"
-date: 2025-01-21
+weight: 16
+title: Centinel XV
 summary: Claims the Constitution deliberately shields public defaulters from accountability by barring retroactive laws and omitting provisions to recover debts owed to the United States, enabling corruption and injustice between states.
 ---
 

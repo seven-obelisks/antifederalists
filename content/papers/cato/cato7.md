@@ -1,6 +1,6 @@
 ---
-title: "Cato VII"
-date: 2025-01-01
+weight: 7
+title: Cato VII
 summary: Rejects the apportionment clause for counting slaves and non-voters, argues federal taxes will ruin farmers and laborers, warns of aristocratic control in the Senate, and condemns treaty powers exercised without the House as threats to liberty.
 ---
 

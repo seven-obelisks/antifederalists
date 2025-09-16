@@ -1,6 +1,6 @@
 ---
-title: "Agrippa IV"
-date: 2025-01-28
+weight: 4
+title: Agrippa IV
 summary: Argues that large consolidated republics collapse into despotism, and warns that the proposed Constitution would erase local autonomy and impose one-size-fits-all laws on diverse states.
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Federal Farmer III"
-date: 2025-01-29
+weight: 3
+title: Federal Farmer III
 summary: Critiques the Constitution’s structure as elitist and unbalanced, warning that limited representation, unchecked taxation, and federal control over elections, the militia, and the judiciary will erode state power and popular liberty.
 ---
 

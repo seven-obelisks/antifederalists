@@ -1,6 +1,6 @@
 ---
-title: "Genuine Information IV"
-date: 2025-01-27
+weight: 4
+title: Genuine Information IV
 summary: Criticizes the proposed Constitution as a covert move toward national consolidation, arguing that it subverts true federalism, endangers state sovereignty, and imposes a centralized system too vast to preserve liberty.
 ---
 

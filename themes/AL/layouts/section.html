@@ -2,7 +2,7 @@
   {{ partial "breadcrumbs.html" . }}
   {{ .Content }}
 
-  {{ $sorted := sort .Pages "LinkTitle" "asc" }}
+  {{ $sorted := sort .Pages "Weight" "asc" }}
   {{ range $sorted }}
     <section class="paper-block">
       <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>

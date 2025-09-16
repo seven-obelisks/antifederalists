@@ -1,6 +1,6 @@
 ---
-title: "Agrippa II"
-date: 2025-01-30
+weight: 2
+title: Agrippa II
 summary: Defends Massachusetts’ stable self-government and civil order as proof that liberty fosters prosperity, warning against surrendering this successful system for a distant, rigid federal authority.
 ---
 

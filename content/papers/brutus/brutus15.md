@@ -1,6 +1,6 @@
 ---
-title: "Brutus XV"
-date: 2025-01-01
+weight: 15
+title: Brutus XV
 summary: Warns that the Supreme Court, independent and unchecked, will interpret the Constitution beyond the reach of the people or legislature, gradually expanding federal power and eroding state authority without accountability.
 ---
 

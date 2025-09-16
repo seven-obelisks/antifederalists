@@ -1,0 +1,21 @@
+---
+weight: 12
+title: Philadelphiensis XII
+summary: Defends his essays as necessary warnings against tyranny, challenging critics to refute his proof that the President would be an absolute monarch more dangerous than any in history, and calls for another convention to prevent civil war.
+---
+
+##### April 9, 1788
+
+###### My Fellow Citizens, 
+
+The essays under the signature of Philadelphiensis are represented as without argument, and their prime object is said to be to involve this devoted country in a civil war. But time, the discoverer of future events, will certainly shew that the calling another Federal Convention is the only rational way to prevent it. Heaven grant that these eyes may never behold that dreadful scene. The writer of these essays was actuated by the purest motives, namely, to defend the liberty and advance the happiness of his fellow-citizens. These he conceived insecure, or rather destroyed, if the proposed constitution should be established, and hence he laboured to procure another Convention. The expediency of this measure was demonstrated by illustrating the principal defects in the proposed system;–defects did I say–the expression is too soft–the ruin that must follow its adoption.
+
+If pointing out the unlimited powers of the new Congress over the lives and property of their fellow-citizens, which may and certainly would be abused, be not an argument against it, there remains no fixed determinate idea to be annexed to the term argument; indeed, on such principles right and wrong, freedom and slavery have no essential difference, and the human mind is a mere chaos.
+
+Some feeble attempts have been made by the advocates of this system of tyranny, to answer the objections made to the smallness of the number of representatives and senators, and the improper powers delegated to them; but, as far as I recollect, no one has been found bold enough to stand forth in defence of that dangerous and uncontrouled officer, the President-General, or more properly, our new KING.
+
+A few pieces under the signature of An American Citizen were published immediately after the Constitution broke the shell, and the hydra made its way from the dark conclave into the open light; in the first number of which the writer, in touching on the President, endeavoured to conceal his immense powers, by representing the King of Great Britain as possessed of many hereditary prerogatives, rights and powers that he was not possessed of; that is, he shews what he is not, but neglects to shew what he really is; but so flimsey a palliative could scarce escape the censure of the most ignorant advocate for such an officer; and since we hear of no further attempts to prove the necessity of a King being set over the freemen of America.
+
+The writer of these essays has clearly proven, that the president is a King to all intents and purposes, and at the same time one of the most dangerous kind too–an elective King, the commander in chief of a standing army, &c.; and to these add, that he has a negative over the proceedings of both branches of the legislature: and to complete his uncontrouled sway, he is neither restrained nor assisted by a privy council, which is a novelty in government. I challenge the politicians of the whole continent to find in any period of history a monarch more absolute.
+
+Who is so base as not to burn with resentment against the conspirators, who have dared to establish such a tyrant over his life, his liberty and property? Is the flame of sacred liberty so entirely extinguished in the American breast as not to be kindled again? No; you mistaken despots, do not let such a preposterous thought madden you into perseverance, lest your persons fall sacrifices to the just resentment of an injured country. Stop at once, and join the rest of your fellow-citizens. Let another Convention be immediately called, and let a system of government fitted to the pure principles of the Revolution, be framed. Then a general amnesty among all ranks and degrees of your fellow-citizens must succeed, and America become the seat of liberty, peace, friendship and happiness; and her government have ample energy and respectability among the nations of the earth; yea, she will thereby be rendered the great arbiter of the world.
