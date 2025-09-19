@@ -28,7 +28,6 @@
 }
 
 .homeimg {
-    max-width: 900px;
     border: 0px solid #fff;
     background-image: url('/images/liberty.jpg');
     background-size: cover;

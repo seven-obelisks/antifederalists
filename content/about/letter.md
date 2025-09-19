@@ -2,6 +2,8 @@
 title: 'Letter from the Editor'
 draft: false
 summary: A message from the site's custodian.
+tags:
+- meta
 ---
 
 ###### Fellow Citizen,

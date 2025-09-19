@@ -6,6 +6,7 @@ summary = 600
 
 [params]
   randomContentFolder = "papers"
+  description = "The Anti-Federalist Library is an online library dedicated to preserving the spirit, learnings, and wisdom of the 18th century political movement that shaped the United States Constitution and its original Bill of Rights."
 
 [markup]
   [markup.goldmark]

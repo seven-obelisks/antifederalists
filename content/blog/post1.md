@@ -3,7 +3,10 @@ title: "Site-wide search is live! What's next?"
 draft: false
 author: "JR"
 date: 2025-08-26
-summary: A brief update regarding the launch of version 0.34 of the Anti-Federalist Library, which introduces a search bar and blog to the site, and details about future updates to the site's content. 
+summary: A brief update regarding the launch of version 0.34 of the Anti-Federalist Library, which introduces a search bar and blog to the site, and details about future updates to the site's content.
+tags:
+- site update
+- meta
 ---
 
 ##### August 26, 2025

@@ -1,7 +1,10 @@
 {{ define "main" }}
-  <h3>{{ .Title }}</h3>
+<div class="tags">
+  {{ partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
     <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
   {{ end }}
+  </div>
 {{ end }}
