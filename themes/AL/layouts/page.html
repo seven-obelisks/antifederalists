@@ -5,6 +5,25 @@
 </div>
 <div class="page-white">
   {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+<div class="next-prev">
+  {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
+
+  <div class="prev">
+  {{ with $pages.Prev . }}
+    <a href="{{ .RelPermalink }}">🞀 Previous</a>
+  {{ end }}
   </div>
+
+  <div class="next">
+  {{ with $pages.Next . }}
+    <a href="{{ .RelPermalink }}">Next 🞂</a>
+  {{ end }}
+  </div>
+</div>
+
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+</div>
+
 {{ end }}

@@ -216,6 +216,19 @@ nav {
   width:max-content;
 }
 
+.next-prev{
+  display:flex;
+  margin-top:50px;
+}
+
+.next, .prev{
+  width:50%;
+}
+
+.next{
+  text-align: right;
+}
+
 /* ========== Headings ========== */
 h1 {
   font-size: 60px;
