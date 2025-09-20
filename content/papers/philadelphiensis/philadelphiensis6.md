@@ -4,13 +4,13 @@ title: Philadelphiensis VI
 summary: Argues that America's strength depends on freedom, warning that the Constitution will destroy liberty and make the nation weak, contradicting claims it will distress Britain since despotic governments cannot create true national power.
 ---
 
+##### December 26, 1787
+
 >*“Distress’d Columbia, must thou lie so low?*
 >
 >*Must all thy conquests, glories, triumphs, spoils*
 >
 >*End in thine own disgrace?”*
-
-##### December 26, 1787
 
 ###### My Fellow-Citizens, 
 
