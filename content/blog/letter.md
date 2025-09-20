@@ -1,10 +1,14 @@
 ---
 title: 'Letter from the Editor'
 draft: false
+author: JR
+date: 2025-05-01
 summary: A message from the site's custodian.
 tags:
 - meta
 ---
+
+##### May 01, 2025
 
 ###### Fellow Citizen,
 
