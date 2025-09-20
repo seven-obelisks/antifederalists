@@ -219,6 +219,7 @@ nav {
 .next-prev{
   display:flex;
   margin-top:50px;
+  font-family: "Host Grotesk", sans-serif;
 }
 
 .next, .prev{
@@ -341,10 +342,10 @@ h6{
 /* ========== Paragraph Styles ========== */
 .flex2 p,
 .paper-block p {
-  line-height: 28px;
-  font-size: 20px;
+  line-height: 30px;
+  font-size: 18px;
   font-family: "Roboto", sans-serif;
-  margin-bottom: 1rem;
+  margin-bottom: 2.5rem;
 }
 
 .summaryp {
