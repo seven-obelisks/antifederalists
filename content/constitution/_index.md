@@ -1,6 +1,5 @@
 ---
-title: 'Constitution'
-draft: false
+title: Constitution
 ---
 
 # Constitution of the United States

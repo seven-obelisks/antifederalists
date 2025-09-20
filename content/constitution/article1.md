@@ -1,7 +1,8 @@
 ---
-title: 'Article I'
-draft: false
+title: Article I
 summary: All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives...
+tags:
+- constitution
 ---
 
 ## Section 1

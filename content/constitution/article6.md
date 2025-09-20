@@ -1,7 +1,8 @@
 ---
-title: 'Article VI'
-draft: false
+title: Article VI
 summary: All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.  This Constitution, and the Laws of the United States which shall...
+tags:
+- constitution
 ---
 
 All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.

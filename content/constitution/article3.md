@@ -1,7 +1,8 @@
 ---
-title: 'Article III'
-draft: false
+title: Article III
 summary: The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall...
+tags:
+- constitution
 ---
 
 ## Section 1

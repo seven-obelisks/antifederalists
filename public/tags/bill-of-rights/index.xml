@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bill of Rights on Anti-Federalist Library</title>
+    <link>http://localhost:1313/tags/bill-of-rights/</link>
+    <description>Recent content in Bill of Rights on Anti-Federalist Library</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/bill-of-rights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amendment I</title>
+      <link>http://localhost:1313/billofrights/amendment1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment1/</guid>
+      <description>&lt;p&gt;Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amendment II</title>
+      <link>http://localhost:1313/billofrights/amendment2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment2/</guid>
+      <description>&lt;p&gt;A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amendment III</title>
+      <link>http://localhost:1313/billofrights/amendment3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment3/</guid>
+      <description>&lt;p&gt;No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amendment IV</title>
+      <link>http://localhost:1313/billofrights/amendment4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment4/</guid>
+      <description>&lt;p&gt;The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amendment IX</title>
+      <link>http://localhost:1313/billofrights/amendment9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment9/</guid>
+      <description>&lt;p&gt;The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amendment V</title>
+      <link>http://localhost:1313/billofrights/amendment5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment5/</guid>
+      <description>&lt;p&gt;No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amendment VI</title>
+      <link>http://localhost:1313/billofrights/amendment6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment6/</guid>
+      <description>&lt;p&gt;In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amendment VII</title>
+      <link>http://localhost:1313/billofrights/amendment7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment7/</guid>
+      <description>&lt;p&gt;In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amendment VIII</title>
+      <link>http://localhost:1313/billofrights/amendment8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment8/</guid>
+      <description>&lt;p&gt;Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amendment X</title>
+      <link>http://localhost:1313/billofrights/amendment10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/billofrights/amendment10/</guid>
+      <description>&lt;p&gt;The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

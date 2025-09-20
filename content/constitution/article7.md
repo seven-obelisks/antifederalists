@@ -1,7 +1,8 @@
 ---
-title: 'Article VII'
-draft: false
+title: Article VII
 summary: The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.  The Word, "the," being interlined between the seventh and eighth Lines of the first Page, The Word "Thirty" being partly written...
+tags:
+- constitution
 ---
 
 The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.

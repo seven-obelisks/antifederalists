@@ -282,13 +282,7 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/billofrights/amendment1/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/speeches/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/billofrights/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/melancton/</loc>
@@ -306,56 +300,29 @@
     <loc>http://localhost:1313/speeches/henry/henry1/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/billofrights/amendment2/</loc>
-    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry2/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/billofrights/amendment3/</loc>
-    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry3/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/billofrights/amendment4/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry4/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/billofrights/amendment5/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry5/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/billofrights/amendment6/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry6/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/billofrights/amendment7/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry7/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/billofrights/amendment8/</loc>
-    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry8/</loc>
     <lastmod>2025-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/billofrights/amendment9/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/speeches/henry/henry9/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/billofrights/amendment10/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speeches/henry/henry10/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
@@ -404,6 +371,26 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/billofrights/amendment1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/billofrights/amendment2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/billofrights/amendment3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/billofrights/amendment4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/billofrights/amendment9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/billofrights/amendment5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/billofrights/amendment6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/billofrights/amendment7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/billofrights/amendment8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/billofrights/amendment10/</loc>
+  </url><url>
     <loc>http://localhost:1313/papers/</loc>
   </url><url>
     <loc>http://localhost:1313/constitution/article1/</loc>
@@ -420,9 +407,15 @@
   </url><url>
     <loc>http://localhost:1313/constitution/article7/</loc>
   </url><url>
+    <loc>http://localhost:1313/billofrights/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/bill-of-rights/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/constitution/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/constitution/</loc>
   </url><url>
     <loc>http://localhost:1313/contemporary/</loc>
   </url><url>
