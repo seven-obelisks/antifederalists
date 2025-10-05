@@ -38,20 +38,16 @@ We do not collect sensitive personal data.
 
 ### Cookies and Advertising
 
-**Use of Cookies**
 Our Site uses cookies and similar technologies to improve functionality, analyze traffic, and personalize content. Cookies are small data files stored on your device by your browser.
 
 You can control or delete cookies through your browser settings.
 
-**Google AdSense and DoubleClick DART Cookie**
 We use Google AdSense to display ads on our Site. Google uses cookies, including the DART cookie, to serve ads based on users’ visits to this Site and other sites on the Internet.
 
 - Google’s use of the DART cookie enables it to serve ads to users based on their visit to antifederalists.org and other sites.  
-- Users may opt out of personalized advertising by visiting:  
-  [https://adssettings.google.com/](https://adssettings.google.com/)  
+- Users may opt out of personalized advertising by visiting: [https://adssettings.google.com/](https://adssettings.google.com/)  
 
-For more information on how Google uses data in advertising, visit:  
-[https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
+For more information on how Google uses data in advertising, visit: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
 
 ### How We Use Information
 
