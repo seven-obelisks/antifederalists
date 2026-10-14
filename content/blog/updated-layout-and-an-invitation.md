@@ -3,7 +3,7 @@ title: An Updated Layout and an Invitation to Participate
 draft: false
 author: The Editor
 date: 2026-10-14
-summary: Announcing the launch of our new and improved site layout rolled out in version 0.5, and some notes about the future of the project.
+summary: Announcing the launch of our new and improved site layout rolled out in version 0.5 and an invitation to submit feedback to the project.
 tags:
 - site update
 - meta
