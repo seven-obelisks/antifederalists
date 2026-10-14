@@ -15,7 +15,9 @@
     </div>
   </header>
 
-  {{- with sort .Pages "Weight" "asc" }}
+  {{- $isBlog := eq .Section "blog" }}
+  {{- $pages := cond $isBlog .Pages.ByDate.Reverse (sort .Pages "Weight" "asc") }}
+  {{- with $pages }}
   <ol class="entry-list">
     {{- range . }}
     <li class="entry">
@@ -23,6 +25,8 @@
       {{- if .IsSection }}
         {{- $count := len .RegularPages }}
       <span class="entry-count">{{ $count }} {{ cond (eq $count 1) (index $noun 0) (index $noun 1) }}</span>
+      {{- else if and $isBlog (not .Date.IsZero) }}
+      <time class="entry-count" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
       {{- end }}
       {{- with .Summary | plainify | htmlUnescape | strings.TrimSpace }}
       <p class="entry-summary">{{ . }}</p>
