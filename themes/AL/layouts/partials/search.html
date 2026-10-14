@@ -1,12 +1,17 @@
-<form action="/search/" method="get" id="header-search">
-  <input
-    id="header-search-box"
-    name="q"
-    type="text"
-    placeholder="Search the library..."
-    required
-  >
-  <div class="button-shell">
-    <button type="submit" class="search-button">Search</button>
-  </div>
+{{- /*
+  Search form that submits to the search page.
+
+  @context {string} id     Unique prefix for the input id.
+  @context {string} class  Extra class for placement styling.
+*/ -}}
+{{- $id := .id | default "site-search" }}
+<form action="{{ "/search/" | relURL }}" method="get" class="search-form {{ .class }}" role="search">
+  <label for="{{ $id }}-box" class="visually-hidden">Search the library</label>
+  <input id="{{ $id }}-box" name="q" type="search" placeholder="Search the library" required>
+  <button type="submit" class="search-submit" aria-label="Search">
+    <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <circle cx="11" cy="11" r="6.5" />
+      <path d="M16 16l4.5 4.5" />
+    </svg>
+  </button>
 </form>

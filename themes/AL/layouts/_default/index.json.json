@@ -1,21 +1,24 @@
-{{- $.Scratch.Set "index" (slice) -}}
-{{- range .Site.Pages -}}
-  {{- if ne .Kind "home" -}}
-    {{- $title := .Title | default "NO TITLE" -}}
-    {{- $summary := .Summary | default "" -}}
-    {{- $content := .Plain | default "" -}}
-    {{- $url := .RelPermalink | default "" -}}
-    
-    {{- if and $title $url -}}
-      {{- $.Scratch.Add "index" (dict
-          "title" $title
-          "summary" $summary
-          "content" $content
-          "url" $url
-          "kind" .Kind
-          "contentLength" (len $content)
-      ) -}}
+{{- /*
+  Search index. One entry per searchable page.
+  Keys are short to keep the file small:
+    t = title, u = URL, s = parent section title, c = plain text content
+*/ -}}
+{{- $index := slice -}}
+{{- range site.Pages -}}
+  {{- if and (in (slice "page" "section") .Kind) (ne .Type "search") .RelPermalink -}}
+    {{- $content := .Plain | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+    {{- $section := "" -}}
+    {{- with .Parent -}}
+      {{- if not .IsHome -}}
+        {{- $section = .Title -}}
+      {{- end -}}
     {{- end -}}
+    {{- $index = $index | append (dict
+        "t" (.Title | default .LinkTitle | htmlUnescape)
+        "u" .RelPermalink
+        "s" $section
+        "c" $content
+    ) -}}
   {{- end -}}
 {{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+{{- $index | jsonify -}}

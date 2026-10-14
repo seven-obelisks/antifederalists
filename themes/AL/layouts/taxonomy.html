@@ -1,7 +1,23 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
-  {{ end }}
+<div class="list-layout">
+  <header class="section-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{- with .Content }}
+    <div class="section-intro">{{ . }}</div>
+    {{- end }}
+  </header>
+
+  {{- with .Pages }}
+  <ul class="entry-list">
+    {{- range . }}
+    <li class="entry">
+      <h2 class="entry-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{- $count := len .Pages }}
+      <span class="entry-count">{{ $count }} {{ cond (eq $count 1) "page" "pages" }}</span>
+    </li>
+    {{- end }}
+  </ul>
+  {{- end }}
+</div>
 {{ end }}

@@ -1,83 +1,64 @@
+{{- /*
+  Library panel: every menu group shown at once, opened by the Library button.
+
+  @context {page}   page    The current page.
+  @context {string} menuID  The menu identifier.
+
+  Rules:
+  - Each top-level item with children becomes a group. Its heading links to
+    the parent page. A child pointing to the same URL as its parent (an
+    "About" entry) is folded into that heading.
+  - Top-level items without children are listed together under "More".
+    The home link is left out; the logo links home.
+  - A link is current (aria-current) on its exact page, and marked
+    "is-current" when the page is inside it.
+*/ -}}
 {{- $page := .page }}
-{{- $menuID := .menuID }}
+{{- $path := $page.RelPermalink }}
 
-{{- /* Dynamically exclude highlighting for subpages */ -}}
-{{- $isExcludedPapers := and (hasPrefix $page.RelPermalink "/papers/") (ne $page.RelPermalink "/papers/") }}
-{{- $isExcludedSpeeches := and (hasPrefix $page.RelPermalink "/speeches/") (ne $page.RelPermalink "/speeches/") }}
+{{- with index site.Menus .menuID }}
+<div id="library-panel" class="library-panel">
+  <div class="library-inner">
+    {{ partial "search.html" (dict "id" "panel-search" "class" "panel-search") }}
 
-{{- with index site.Menus $menuID }}
-<nav id="main-nav">
-  <ul class="clean-menu">
-    {{- range . }}
-      {{- $skipHighlight := false }}
-
-      {{- if or (eq .Identifier "papers") (eq .Identifier "about-papers") }}
-        {{- if $isExcludedPapers }}
-          {{- $skipHighlight = true }}
-        {{- end }}
-      {{- end }}
-
-      {{- if or (eq .Identifier "speeches") (eq .Identifier "about-speeches") }}
-        {{- if $isExcludedSpeeches }}
-          {{- $skipHighlight = true }}
-        {{- end }}
-      {{- end }}
-
-      {{- $isActive := false }}
-      {{- if not $skipHighlight }}
-        {{- $isActive = or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) (eq .URL $page.RelPermalink) }}
-      {{- end }}
-
-      {{- $hasActiveChild := false }}
-      {{- with .Children }}
-        {{- range . }}
-          {{- $childIsActive := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) (eq .URL $page.RelPermalink) }}
-
-          {{- if and (eq .Identifier "about-papers") $isExcludedPapers }}
-            {{- $childIsActive = false }}
-          {{- end }}
-
-          {{- if and (eq .Identifier "about-speeches") $isExcludedSpeeches }}
-            {{- $childIsActive = false }}
-          {{- end }}
-
-          {{- if $childIsActive }}
-            {{- $hasActiveChild = true }}
-          {{- end }}
-        {{- end }}
-      {{- end }}
-
-      <li class="{{ if .Children }}has-children{{ end }}">
-        {{- if .Children }}
-          <button class="menu-toggle {{ if or $isActive $hasActiveChild }}open active{{ end }}"
-                  onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
-            <span class="arrow">▸</span> {{ .Name }}
-          </button>
-        {{- else }}
-          <a href="{{ .URL }}" class="{{ if $isActive }}active{{ end }}">{{ .Name }}</a>
-        {{- end }}
-
-        {{- with .Children }}
-          <ul class="submenu {{ if or $isActive $hasActiveChild }}open{{ end }}">
-            {{- range . }}
-              {{- $childIsActive := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) (eq .URL $page.RelPermalink) }}
-
-              {{- if and (eq .Identifier "about-papers") $isExcludedPapers }}
-                {{- $childIsActive = false }}
-              {{- end }}
-
-              {{- if and (eq .Identifier "about-speeches") $isExcludedSpeeches }}
-                {{- $childIsActive = false }}
-              {{- end }}
-
-              <li>
-                <a href="{{ .URL }}" class="{{ if $childIsActive }}active{{ end }}">{{ .Name }}</a>
-              </li>
+    <nav class="library-grid" aria-label="Library">
+      {{- range . }}
+        {{- if .HasChildren }}
+          {{- $parentURL := .URL }}
+          {{- $children := slice }}
+          {{- range .Children }}
+            {{- if ne .URL $parentURL }}
+              {{- $children = $children | append . }}
             {{- end }}
-          </ul>
+          {{- end }}
+      <section class="library-group{{ if gt (len $children) 6 }} is-wide{{ end }}">
+        <h2 class="library-heading">
+          <a href="{{ $parentURL }}"{{ if eq $path $parentURL }} aria-current="page"{{ end }}>{{ .Name }}</a>
+        </h2>
+        <ul class="library-list">
+          {{- range $children }}
+          <li>
+            <a href="{{ .URL }}"{{ if hasPrefix $path .URL }} class="is-current"{{ end }}{{ if eq $path .URL }} aria-current="page"{{ end }}>{{ .Name }}</a>
+          </li>
+          {{- end }}
+        </ul>
+      </section>
         {{- end }}
-      </li>
-    {{- end }}
-  </ul>
-</nav>
+      {{- end }}
+
+      <section class="library-group">
+        <h2 class="library-heading">More</h2>
+        <ul class="library-list">
+          {{- range . }}
+            {{- if and (not .HasChildren) (ne .URL "/") }}
+          <li>
+            <a href="{{ .URL }}"{{ if hasPrefix $path .URL }} class="is-current"{{ end }}{{ if eq $path .URL }} aria-current="page"{{ end }}>{{ .Name }}</a>
+          </li>
+            {{- end }}
+          {{- end }}
+        </ul>
+      </section>
+    </nav>
+  </div>
+</div>
 {{- end }}

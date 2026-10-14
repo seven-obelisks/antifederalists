@@ -1,5 +1,5 @@
 baseURL = 'https://antifederalists.org'
-languageCode = 'en-us'
+locale = 'en-US'
 title = 'Anti-Federalist Library'
 theme = 'AL'
 summary = 600
@@ -179,7 +179,7 @@ weight = 80
 [module]
 [module.hugoVersion]
 extended = false
-min = '0.146.0'
+min = '0.158.0'
 
 [outputs]
 home = ["HTML", "JSON"]

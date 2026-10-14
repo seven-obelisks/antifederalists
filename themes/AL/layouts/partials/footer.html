@@ -1,3 +1,31 @@
-<p><a href="/"><strong>The Anti-Federalist Library</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a></strong><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-<br><a href="/about/privacypolicy/">Privacy Policy</a></p>
-<a href="https://x.com/AntifedLibrary" id="xlink" target="_blank"><img src="/images/logo-white.png" id="xlogo"></a>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <a class="brand" href="{{ "/" | relURL }}">
+        <img class="brand-logo" src="{{ "images/alogo.png" | relURL }}" alt="" width="32" height="36">
+        <span class="brand-name">{{ site.Title }}</span>
+      </a>
+      <p>{{ site.Params.description }}</p>
+    </div>
+
+    <nav class="footer-links" aria-label="Footer">
+      <ul>
+        <li><a href="{{ "/about/" | relURL }}">About the Library</a></li>
+        <li><a href="{{ "/about/privacypolicy/" | relURL }}">Privacy Policy</a></li>
+        <li>
+          <a class="footer-x" href="https://x.com/AntifedLibrary" target="_blank" rel="noopener noreferrer">
+            <img src="{{ "images/logo-white.png" | relURL }}" alt="" width="14" height="14">
+            <span>@AntifedLibrary on X</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <p class="footer-license">
+      The Anti-Federalist Library is marked
+      <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="license noopener noreferrer" target="_blank">CC0 1.0</a>
+      <img class="cc-icon" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons" width="14" height="14">
+      <img class="cc-icon" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="CC0 Public Domain Dedication" width="14" height="14">
+    </p>
+  </div>
+</footer>

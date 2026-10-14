@@ -1,12 +1,35 @@
 {{ define "main" }}
-  {{ partial "breadcrumbs.html" . }}
-  {{ .Content }}
+{{- /* Noun used for the item count of each subsection, by top-level section. */ -}}
+{{- $nouns := dict "papers" (slice "essay" "essays") "speeches" (slice "speech" "speeches") }}
+{{- $noun := index $nouns .Section | default (slice "text" "texts") }}
 
-  {{ $sorted := sort .Pages "Weight" "asc" }}
-  {{ range $sorted }}
-    <section class="paper-block">
-      <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
-      <section class="summaryp">{{ .Summary | truncate 750 }}</section>
-    </section>
-  {{ end }}
+<div class="list-layout">
+  <header class="section-header">
+    {{ partial "breadcrumbs.html" . }}
+    {{- /* Most section intros include their own H1. Add one only when missing. */ -}}
+    {{- if not (findRE `<h1[\s>]` .Content 1) }}
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{- end }}
+    <div class="section-intro">
+      {{ .Content }}
+    </div>
+  </header>
+
+  {{- with sort .Pages "Weight" "asc" }}
+  <ol class="entry-list">
+    {{- range . }}
+    <li class="entry">
+      <h2 class="entry-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{- if .IsSection }}
+        {{- $count := len .RegularPages }}
+      <span class="entry-count">{{ $count }} {{ cond (eq $count 1) (index $noun 0) (index $noun 1) }}</span>
+      {{- end }}
+      {{- with .Summary | plainify | htmlUnescape | strings.TrimSpace }}
+      <p class="entry-summary">{{ . }}</p>
+      {{- end }}
+    </li>
+    {{- end }}
+  </ol>
+  {{- end }}
+</div>
 {{ end }}

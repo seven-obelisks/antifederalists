@@ -1,7 +1,32 @@
-<div class="header-top">
-<a href="/"><img class="logo" src="/images/alogo.png"></a>
-<h1><a href="/">{{ site.Title }}</a></h1>
-<button id="hamburger-button" aria-label="Toggle Menu">☰</button>
-</div>
-{{ partial "search.html" . }}
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="{{ "/" | relURL }}">
+      <img class="brand-logo" src="{{ "images/alogo.png" | relURL }}" alt="" width="32" height="36">
+      <span class="brand-name">{{ site.Title }}</span>
+    </a>
+
+    <div class="header-actions">
+      <button id="library-button" class="library-button" type="button"
+              aria-expanded="false" aria-controls="library-panel">
+        <svg class="icon icon-menu" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M4 7h16M4 12h16M4 17h16" />
+        </svg>
+        <span class="library-label">Library</span>
+        <svg class="icon icon-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M6 9l6 6 6-6" />
+        </svg>
+      </button>
+
+      {{ partial "search.html" (dict "id" "header-search" "class" "header-search") }}
+
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false"
+              data-light="{{ "images/lantern-light.png" | relURL }}"
+              data-dark="{{ "images/lantern-dark.png" | relURL }}">
+        <img id="theme-toggle-img" src="{{ "images/lantern-dark.png" | relURL }}" alt="" width="10" height="22">
+        <span id="theme-toggle-label" class="visually-hidden">Switch to dark mode</span>
+      </button>
+    </div>
+  </div>
+
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</header>

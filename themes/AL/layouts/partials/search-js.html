@@ -1,0 +1,8 @@
+{{- /* Loaded by baseof.html on the search page only. */ -}}
+{{- with resources.Get "js/search.js" }}
+  {{- $js := . | minify | fingerprint }}
+  <script id="search-script"
+          src="{{ $js.RelPermalink }}"
+          integrity="{{ $js.Data.Integrity }}"
+          data-index="{{ "index.json" | relURL }}"></script>
+{{- end }}

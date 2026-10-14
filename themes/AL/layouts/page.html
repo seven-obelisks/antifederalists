@@ -1,29 +1,56 @@
 {{ define "main" }}
-<div class="page-title">
-  {{ partial "breadcrumbs.html" . }}
-  <h1 class="page-h1">{{ .Title }}</h1>
-</div>
-<div class="page-white">
-  {{ .Content }}
+{{- $section := .CurrentSection }}
+{{- $series := $section.RegularPages.ByWeight }}
+{{- $hasSeries := and (not $section.IsHome) (gt (len $series) 1) }}
+{{- $isDocument := in (slice "papers" "speeches") .Section }}
 
-<div class="next-prev">
-  {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
+<div class="page-layout{{ if $hasSeries }} has-series{{ end }}">
+  <header class="page-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="page-title">{{ .Title }}</h1>
+  </header>
 
-  <div class="prev">
-  {{ with $pages.Prev . }}
-    <a href="{{ .RelPermalink }}">&#x25c0; Previous</a>
-  {{ end }}
-  </div>
+  <article class="prose{{ if $isDocument }} is-document{{ end }}">
+    {{ .Content }}
+  </article>
 
-  <div class="next">
-  {{ with $pages.Next . }}
-    <a href="{{ .RelPermalink }}">Next &#x25b6;</a>
-  {{ end }}
-  </div>
-</div>
+  {{- /* Pages in this section ordered by weight. Hugo's Next returns the
+         preceding item in a list, so the list is reversed to read forward. */ -}}
+  {{- $ordered := $series.Reverse }}
+  {{- $prev := $ordered.Prev . }}
+  {{- $next := $ordered.Next . }}
+  {{- if or $prev $next }}
+  <nav class="pager" aria-label="Previous and next">
+    {{- with $prev }}
+    <a class="pager-link prev" href="{{ .RelPermalink }}" rel="prev">
+      <span class="pager-label">Previous</span>
+      <span class="pager-title">{{ .LinkTitle }}</span>
+    </a>
+    {{- end }}
+    {{- with $next }}
+    <a class="pager-link next" href="{{ .RelPermalink }}" rel="next">
+      <span class="pager-label">Next</span>
+      <span class="pager-title">{{ .LinkTitle }}</span>
+    </a>
+    {{- end }}
+  </nav>
+  {{- end }}
 
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
+  {{- if $hasSeries }}
+  <aside class="series" aria-labelledby="series-heading">
+    <h2 id="series-heading" class="series-heading">
+      <a href="{{ $section.RelPermalink }}">{{ $section.Title }}</a>
+    </h2>
+    <ol class="series-list{{ if gt (len $series) 12 }} is-long{{ end }}">
+      {{- range $series }}
+      <li>
+        <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}>{{ .LinkTitle }}</a>
+      </li>
+      {{- end }}
+    </ol>
+  </aside>
+  {{- end }}
 </div>
-
 {{ end }}

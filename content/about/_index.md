@@ -9,4 +9,4 @@ draft: false
 
 ### Those with questions or comments can reach out by sending an email to **antifederalistlibrary@gmail.com**.
 
-*Version 0.42*
+*Version 0.5*

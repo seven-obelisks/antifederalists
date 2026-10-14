@@ -1,13 +1,4 @@
-{{- $main := resources.Get "css/main.css" }}
-{{- $quotes := resources.Get "css/quotes.css" }}
-{{- $mobile := resources.Get "css/mobile.css" }}
-
-{{- if $main }}
-  <link rel="stylesheet" href="{{ $main.RelPermalink }}">
-{{- end }}
-{{- if $quotes }}
-  <link rel="stylesheet" href="{{ $quotes.RelPermalink }}">
-{{- end }}
-{{- if $mobile }}
-  <link rel="stylesheet" href="{{ $mobile.RelPermalink }}">
+{{- with resources.Get "css/main.css" }}
+  {{- $css := . | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{- end }}

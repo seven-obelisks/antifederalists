@@ -1,6 +1,51 @@
+{{- $description := "" -}}
+{{- if .IsHome -}}
+  {{- $description = site.Params.description -}}
+{{- else -}}
+  {{- with .Description -}}
+    {{- $description = . -}}
+  {{- else -}}
+    {{- $description = .Summary | plainify | htmlUnescape | strings.TrimSpace | truncate 160 -}}
+  {{- end -}}
+  {{- if not $description -}}
+    {{- $description = site.Params.description -}}
+  {{- end -}}
+{{- end -}}
+{{- $title := cond .IsHome site.Title (printf "%s | %s" .Title site.Title) -}}
+{{- $ogImage := (site.Params.ogImage | default "images/FlagDuo.png") | absURL -}}
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<script>
+  /* Runs before first paint. Marks JavaScript as available and applies the
+     saved theme, or the system theme when nothing has been saved. */
+  (function () {
+    var root = document.documentElement;
+    root.classList.add("js");
+    var saved = null;
+    try { saved = localStorage.getItem("theme"); } catch (e) {}
+    var dark = saved ? saved === "dark"
+      : !!(window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+    if (dark) root.classList.add("dark");
+  })();
+</script>
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Open Graph and Twitter card metadata -->
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ cond .IsHome site.Title .Title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ cond .IsPage "article" "website" }}">
+<meta property="og:image" content="{{ $ogImage }}">
+<meta property="og:locale" content="{{ replace site.Language.Locale "-" "_" }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@AntifedLibrary">
+<meta name="twitter:title" content="{{ cond .IsHome site.Title .Title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $ogImage }}">
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B6534G8TWP"></script>
@@ -8,35 +53,14 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-B6534G8TWP');
 </script>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9740298386008842"
      crossorigin="anonymous"></script>
 
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-
-
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-
-
-
-<script>
-  // Immediately apply saved dark mode to reduce load delay
-  try {
-    if (localStorage.getItem("theme") === "dark") {
-      document.body.classList.add("dark");
-    }
-  } catch(e) {
-    // fail silently if localStorage is blocked
-  }
-</script>
+<link href="https://fonts.googleapis.com/css2?family=Host+Grotesk:wght@400..700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
 {{ partialCached "head/css.html" . }}
-{{ partialCached "head/js.html" . }}
-
-

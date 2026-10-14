@@ -1,25 +1,97 @@
 {{ define "main" }}
-  <section class="home-block">
+<div class="home">
+  <section class="home-hero">
     {{ .Content }}
-    
-    <div class="featured"><h2>Featured Paper</h2></div>
-
-    {{ $folder := .Site.GetPage "section" .Site.Params.randomContentFolder }} 
-    {{ $pages := .Site.Pages }}
-
-    {{ $papers := where $pages "Section" .Site.Params.randomContentFolder }}
-    {{ $papers := where $papers "File.BaseFileName" "!=" "_index" }} 
-
-    {{ $shuffledPapers := shuffle $papers }}
-    {{ $randomPaper := index $shuffledPapers 0 }}
-
-    {{ if $randomPaper }}
-      <div class="highlighted-paper">
-        <h3><a href="{{ $randomPaper.Permalink }}">{{ $randomPaper.Title }}</a></h3>
-        <p>{{ $randomPaper.Summary }}</p>
-      </div>
-    {{ else }}
-      <p>No papers found to feature.</p>
-    {{ end }}
   </section>
+
+  {{- /* Units for item counts, by section. */ -}}
+  {{- $nouns := dict
+      "papers" (slice "essay" "essays")
+      "speeches" (slice "speech" "speeches")
+      "billofrights" (slice "amendment" "amendments")
+      "constitution" (slice "article" "articles")
+  }}
+  {{- /* Top-level sections listed under "Founding documents". */ -}}
+  {{- $documents := site.Params.homeDocuments | default (slice "billofrights" "constitution") }}
+
+  <section class="home-section" aria-labelledby="browse-heading">
+    <h2 id="browse-heading" class="home-heading">Browse the library</h2>
+
+    <div class="browse-grid">
+      {{- $groups := slice }}
+      {{- range site.Menus.main }}
+        {{- if .HasChildren }}
+          {{- $groups = $groups | append . }}
+        {{- end }}
+      {{- end }}
+
+      {{- range $i, $group := $groups }}
+        {{- $parentURL := $group.URL }}
+        {{- $children := slice }}
+        {{- range $group.Children }}
+          {{- if and (ne .URL $parentURL) .Page }}
+            {{- $children = $children | append . }}
+          {{- end }}
+        {{- end }}
+      <div class="browse-group{{ if eq $i 0 }} is-primary{{ end }}">
+        <h3 class="browse-heading"><a href="{{ $parentURL }}">{{ $group.Name }}</a></h3>
+        <ul class="browse-list{{ if gt (len $children) 6 }} is-wide{{ end }}">
+          {{- range $children }}
+            {{- $count := len .Page.RegularPages }}
+            {{- $noun := index $nouns .Page.Section | default (slice "text" "texts") }}
+          <li>
+            <a href="{{ .URL }}">
+              <span>{{ .Name }}</span>
+              <span class="browse-count">{{ $count }} {{ cond (eq $count 1) (index $noun 0) (index $noun 1) }}</span>
+            </a>
+          </li>
+          {{- end }}
+        </ul>
+      </div>
+      {{- end }}
+
+      <div class="browse-group">
+        <h3 class="browse-heading">Founding documents</h3>
+        <ul class="browse-list">
+          {{- range $documents }}
+            {{- with site.GetPage (printf "/%s" .) }}
+              {{- $count := len .RegularPages }}
+              {{- $noun := index $nouns .Section | default (slice "text" "texts") }}
+          <li>
+            <a href="{{ .RelPermalink }}">
+              <span>{{ .LinkTitle }}</span>
+              <span class="browse-count">{{ $count }} {{ cond (eq $count 1) (index $noun 0) (index $noun 1) }}</span>
+            </a>
+          </li>
+            {{- end }}
+          {{- end }}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  {{- /* All papers in the configured folder, excluding section index pages. */ -}}
+  {{- $papers := where site.RegularPages "Section" site.Params.randomContentFolder }}
+  {{- if $papers }}
+    {{- /* Build-time pick. Shown when JavaScript is off; replaced on each visit otherwise. */ -}}
+    {{- $pick := index (shuffle $papers) 0 }}
+  <section class="home-section featured" aria-labelledby="featured-heading">
+    <h2 id="featured-heading" class="featured-label">Featured paper</h2>
+    <div class="featured-paper" id="featured-paper">
+      <h3 class="featured-title"><a href="{{ $pick.RelPermalink }}">{{ $pick.Title }}</a></h3>
+      <p class="featured-summary">{{ $pick.Summary | plainify | htmlUnescape }}</p>
+    </div>
+
+    {{- $data := slice }}
+    {{- range $papers }}
+      {{- $data = $data | append (dict
+          "title" .Title
+          "url" .RelPermalink
+          "summary" (.Summary | plainify | htmlUnescape | strings.TrimSpace)
+      ) }}
+    {{- end }}
+    <script type="application/json" id="featured-paper-data">{{ $data | jsonify | safeJS }}</script>
+  </section>
+  {{- end }}
+</div>
 {{ end }}

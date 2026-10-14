@@ -1,19 +1,25 @@
 {{ define "main" }}
-<div class="page-white search-results">
-  <h1>Search Results</h1>
+<div class="list-layout search-layout">
+  <header class="section-header">
+    <h1 class="page-title">Search</h1>
+  </header>
 
-  <form id="page-search-form">
+  <form id="page-search-form" class="page-search" role="search" action="{{ "/search/" | relURL }}" method="get">
+    <label for="page-search-box" class="visually-hidden">Search the library</label>
     <input
       id="page-search-box"
       name="q"
-      type="text"
-      placeholder="Type to search…"
+      type="search"
+      placeholder="Search papers, speeches and founding documents"
+      autocomplete="off"
       autofocus
     >
-    <button type="submit" class="search-button-inside">Search</button>
+    <button type="submit" class="button">Search</button>
   </form>
 
-  <div id="loading" style="display:none;">⏳ Searching the library...</div>
-  <div class="results-list"><ul id="results"></ul></div>
+  <p class="search-help">Results contain every word you enter. Put a phrase in quotes to match it exactly.</p>
+
+  <div id="search-status" class="search-status" role="status" aria-live="polite"></div>
+  <ul id="results" class="results-list"></ul>
 </div>
 {{ end }}

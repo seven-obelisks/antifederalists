@@ -1,0 +1,10 @@
+# Hugo build output (Cloudflare Pages builds this on deploy)
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Editor and OS files
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
