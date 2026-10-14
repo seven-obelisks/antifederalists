@@ -4,7 +4,7 @@ title: Impartial Examiner V
 summary: Examines whether constitutional change is necessary, noting agreement on strengthening federal commerce and taxation powers but disagreement over whether the proposed system sacrifices too much liberty.
 ---
 
-##### June 18 1788
+##### June 18, 1788
 
 When a change, so momentous in it's nature, as that of new modelling a plan of government, becomes the object of any people's meditation, every citizen, whose mind is duly impressed with a regard for the welfare of his country, will consider himself under an indispensible obligation to make some such enquiries, as the following.—Whence flows the necessity of a change?—Does it proceed from certain vicious properties, which reside in the old system and form the essential parts of it?—Or will such a measure become eligible, because evils have arisen from the feeble texture of the plan, or a loose exercise of government, which could not well be avoided?—What are the evils complained of? and what will be their correspondent remedies?—Are the evils radical, and not be removed but by a general reform throughout the constitution?—Or do they result from a defect in some particular branch only? and may an adequate remedy be effected by introducing a new regulation merely as to that branch?
 

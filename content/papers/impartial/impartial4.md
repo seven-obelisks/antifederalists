@@ -4,7 +4,7 @@ title: Impartial Examiner IV
 summary: Argues that the executive veto power appropriate for British monarchy is incompatible with American republican principles of equal liberty.
 ---
 
-##### June 11 1788
+##### June 11, 1788
 
 In monarchy, where the established maxim is, that the king should be respected as a great and transcendent personage, who knows no equal—who in his royal political capacity can commit no wrong—to whom no evil can be ascribed—in whom exists the height of perfection—who is supreme above all, and accountable to no earthly being, it is consistent with such a maxim, that the prince should form a constituent branch of the legislature, and that his power of rejecting whatever has been passed by the other branches should be distinct, and co-extensive with that of either of those branches in rejecting what has been proposed and consented to by the other. It is necessary that the fundamental laws of the realm should ascribe to the king those high and eminent attributes—that he should possess in himself the sovereignty of the nation; and that the regal dignity should distinguish him, as superior to all his subjects, and in his political character endowed with certain inherent qualities, which cannot be supposed to reside in any other individual within the kingdom: otherwise, that constitutional independence, which the laws meant peculiarly to establish in his person, would not be preserved. To this end the king of England is invested with the sole executive authority, and a branch of legislative jurisdiction so far as to pass his negative on all proceedings of the other two branches, or to confirm them by his assent.
 
