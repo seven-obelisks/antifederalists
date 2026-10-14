@@ -153,7 +153,7 @@ weight = 30
 
 [[menus.main]]
 name = 'Bill of Rights'
-pageRef = '/billofrights'
+pageRef = '/bill-of-rights'
 weight = 40
 
 [[menus.main]]
@@ -162,19 +162,24 @@ pageRef = '/constitution'
 weight = 50
 
 [[menus.main]]
+name = 'Articles of Confederation'
+pageRef = '/articles-of-confederation'
+weight = 60
+
+[[menus.main]]
 name = 'Contemporary Research'
 pageRef = '/contemporary'
-weight = 60
+weight = 70
 
 [[menus.main]]
 name = 'About the Library'
 pageRef = '/about'
-weight = 70
+weight = 80
 
 [[menus.main]]
 name = 'Blog'
 pageRef = '/blog'
-weight = 80
+weight = 90
 
 [module]
 [module.hugoVersion]
