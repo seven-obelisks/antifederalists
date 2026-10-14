@@ -4,7 +4,7 @@ title: Impartial Examiner I
 summary: Warns that the Constitution's supremacy clause would destroy state sovereignty and create a dangerously powerful federal government without protecting individual rights.
 ---
 
-##### February 20 1788
+##### February 20, 1788
 
 ###### Countrymen and Fellow-Citizens,
 

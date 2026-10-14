@@ -4,7 +4,7 @@ title: Impartial Examiner III
 summary: Concludes that the Constitution lacks individual rights protections and would create unlimited federal power that could destroy American liberty.
 ---
 
-##### March 5 1788
+##### March 5, 1788
 
 ###### (Continued from our last)
 
