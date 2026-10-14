@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 8
 title: Maryland Farmer VII
 summary: Argues that religious tyranny stems from corrupt civil government, using Roman and Gothic examples to prove that civil and religious liberty are inseparably linked.
 ---

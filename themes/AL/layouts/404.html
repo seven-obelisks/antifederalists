@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="list-layout search-layout">
+  <header class="section-header">
+    <h1 class="page-title">Page not found</h1>
+    <div class="section-intro">
+      <p>The page you requested does not exist. It may have been moved or renamed. Search the library or start from one of the sections below.</p>
+    </div>
+  </header>
+
+  <form action="{{ "/search/" | relURL }}" method="get" class="page-search" role="search">
+    <label for="not-found-search-box" class="visually-hidden">Search the library</label>
+    <input id="not-found-search-box" name="q" type="search" placeholder="Search the library" required>
+    <button type="submit" class="button">Search</button>
+  </form>
+
+  <ul class="entry-list">
+    <li class="entry"><h2 class="entry-title"><a href="{{ "/" | relURL }}">Home</a></h2></li>
+    {{- range site.Menus.main }}
+      {{- if ne .URL "/" }}
+    <li class="entry"><h2 class="entry-title"><a href="{{ .URL }}">{{ .Name }}</a></h2></li>
+      {{- end }}
+    {{- end }}
+  </ul>
+</div>
+{{ end }}

@@ -1,4 +1,3 @@
 baseURL = 'https://antifederalists.org'
-languageCode = 'en-US'
+locale = 'en-US'
 title = 'AL'
-

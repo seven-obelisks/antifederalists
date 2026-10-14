@@ -1,7 +1,12 @@
 <!-- layouts/shortcodes/homeimg.html -->
-<div class="homeimg">
-    <div class="homequote">
-        <h2>"Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, <u>give me liberty or give me death!</u>"</h2>
-        <p>Patrick Henry, <em>Second Virginia Convention</em></p>
-    </div>
-</div>
+<figure class="hero-figure">
+  <img src="{{ "images/liberty.jpg" | relURL }}"
+       alt="Engraving of Patrick Henry addressing the Second Virginia Convention"
+       width="1489" height="1030">
+  <figcaption class="hero-quote">
+    <blockquote>
+      <p>&ldquo;Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, <strong>give me liberty or give me death!</strong>&rdquo;</p>
+    </blockquote>
+    <p class="hero-cite">Patrick Henry, <cite>Second Virginia Convention</cite>, 1775</p>
+  </figcaption>
+</figure>
