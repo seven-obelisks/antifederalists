@@ -1,7 +1,7 @@
 ---
 title: 'Letter from the Editor'
 draft: false
-author: JR
+author: The Editor
 date: 2025-05-01
 summary: A message from the site's custodian.
 tags:
@@ -10,7 +10,7 @@ tags:
 
 ##### May 01, 2025
 
-###### Fellow Citizen,
+###### Readers,
 
 Our founding fathers were complicated men, a truth evident from any reading of the United States Constitution.
 
